@@ -15,13 +15,14 @@ unk_threshold = 0
 # train_data = read_conllu('../data/shipibo.conllu')
 train_data = read_conllu('../data/shipibo.conllu', sep = True)
 
-dev_data = read_conllu('../data/shipibo_valid.conllu')
-test_data = read_conllu('../data/shipibo_test.conllu')
-label_data = read_conllu('../data/shipibo_all.conllu')
+dev_data = read_conllu('../data/shipibo_valid.conllu', char = True)
+test_data = read_conllu('../data/shipibo_test.conllu', char = True)
+label_data = read_conllu('../data/shipibo_all.conllu', char = True)
 
 
 word_dictionary = make_word_dictionary(train_data, unk_threshold = unk_threshold)
-label_dictionary = make_label_dictionary(label_data)
+label_dictionary, label_freq = make_label_dictionary(label_data)
+# print(label_freq)
 
 model = LSTMClassifier(word_dictionary=word_dictionary,
                        label_dictionary=label_dictionary,

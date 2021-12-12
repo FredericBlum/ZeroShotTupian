@@ -3,7 +3,7 @@ from conllu import parse
 import torch
 from more_itertools import windowed
 
-def read_conllu(path, sep = False):
+def read_conllu(path, sep = False, char = False):
     data = []
     with open(path) as file:
         doc = file.read()
@@ -12,17 +12,40 @@ def read_conllu(path, sep = False):
         for line in doc:
             for tok in line:
                 if tok['upos'] != "_":
-                    char_list = []
 
-                    for char in tok['form']:
-                        if sep == True:
-                            char = char.replace("-", "")
-                            char_list.append(char)
-                        else:
-                            char_list.append(char)
+                    if char == True:
+                        char_list = []
 
-                    data.append((char_list, tok['upos']))
+                        for char in tok['form']:
+                            if sep == True:
+                                char = char.replace("-", "")
+                                char_list.append(char)
+                            else:
+                                char_list.append(char)
+
+                        data.append((char_list, tok['upos']))
+                    else:
+                        data.append(tok)
+                        
                     # print(char_list, tok['upos'])
+    return data
+
+def read_conllu_utt(path):
+    data = []
+    with open(path) as file:
+        doc = file.read()
+        doc = parse(doc)
+
+        for line in doc:
+            utterance = []
+            for tok in line:
+                if tok['upos'] != "_":
+                    utterance.append(tok['form'])
+
+            utt_str = " ".join(utterance)
+            data.append(utt_str)
+    print(data)
+
     return data
 
 
@@ -73,6 +96,23 @@ def make_label_dictionary(data) -> Dict[str, int]:
         if label not in label_to_ix:
             label_to_ix[label] = len(label_to_ix)
     return label_to_ix
+
+def make_label_dictionary(data) -> Dict[str, int]:
+    '''
+    Make a dictionary of labels.
+    :param data: List of (sentence, label) tuples
+    :return: A dictionary of string keys and index values
+    '''
+    label_to_ix = {}
+    label_freq = {}
+    for _, label in data:
+        if label not in label_to_ix:
+            label_to_ix[label] = len(label_to_ix)
+            label_freq[label] = 1
+        else:
+            label_freq[label] += 1
+
+    return label_to_ix, label_freq
 
 
 def make_label_vector(label, label_to_ix):
