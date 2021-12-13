@@ -118,7 +118,7 @@ def make_label_dictionary(data) -> Dict[str, int]:
 def make_label_vector(label, label_to_ix):
     device = 'cuda'
 
-    cuda_tens = torch-tensor([label_to_ix[label]], device=device)
+    cuda_tens = torch.tensor([label_to_ix[label]], device=device)
     cuda_tens_long = cuda_tens.long()
 
     return cuda_tens_long
