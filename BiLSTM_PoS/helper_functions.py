@@ -139,4 +139,4 @@ def make_onehot_vectors(sentence, word_to_ix, max_ngrams: int = 1):
                 else:
                     onehot_vectors.append(word_to_ix["UNK"] if "UNK" in word_to_ix else 0)
 
-    return torch.tensor(onehot_vectors, device = device).unsqueeze(0)
+    return torch.tensor(onehot_vectors).unsqueeze(0)
