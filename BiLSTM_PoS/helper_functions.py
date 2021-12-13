@@ -25,7 +25,7 @@ def read_conllu(path, sep = False, char = False):
 
                         data.append((char_list, tok['upos']))
                     else:
-                        data.append(tok)
+                        data.append(tok['form'], tok['upos'])
                         
                     # print(char_list, tok['upos'])
     return data
@@ -139,4 +139,4 @@ def make_onehot_vectors(sentence, word_to_ix, max_ngrams: int = 1):
                 else:
                     onehot_vectors.append(word_to_ix["UNK"] if "UNK" in word_to_ix else 0)
 
-    return torch.tensor(onehot_vectors).unsqueeze(0)
+    return torch.tensor(onehot_vectors, device = device).unsqueeze(0)

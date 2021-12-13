@@ -5,6 +5,13 @@ from lstm_model import LSTMClassifier
 
 torch.manual_seed(1)
 
+if torch.cuda.is_available():
+    device = torch.device('cuda')
+else:
+    device = torch.device('cpu')
+print('Device: {}'.format(device))
+
+
 # All hyperparameters
 hidden_size = 1024
 learning_rate = 0.002
@@ -29,6 +36,8 @@ model = LSTMClassifier(word_dictionary=word_dictionary,
                        embedding_size=hidden_size,
                        rnn_hidden_size=hidden_size,
                        )
+
+model.to(device)
 
 import trainer
 
