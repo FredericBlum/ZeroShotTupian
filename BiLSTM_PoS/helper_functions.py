@@ -116,11 +116,12 @@ def make_label_dictionary(data) -> Dict[str, int]:
 
 
 def make_label_vector(label, label_to_ix):
-    return torch.LongTensor([label_to_ix[label]], device = 'cuda')
+    device = 'cuda'
+    return torch.LongTensor([label_to_ix[label]], device=device)
 
 
 def make_onehot_vectors(sentence, word_to_ix, max_ngrams: int = 1):
-
+    device = 'cuda'
     onehot_vectors = []
 
     # go over all n-gram sizes (including 1)
@@ -139,4 +140,4 @@ def make_onehot_vectors(sentence, word_to_ix, max_ngrams: int = 1):
                 else:
                     onehot_vectors.append(word_to_ix["UNK"] if "UNK" in word_to_ix else 0)
 
-    return torch.tensor(onehot_vectors).unsqueeze(0)
+    return torch.tensor(onehot_vectors, devive=device).unsqueeze(0)
