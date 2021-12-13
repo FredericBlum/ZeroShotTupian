@@ -1,7 +1,6 @@
 import torch
 import torch.nn.functional as F
-import sklearn.metrics.classification_report as CR
-
+from sklearn.metrics import classification_report
 from helper_functions import make_onehot_vectors, make_label_vector
 
 
@@ -93,6 +92,6 @@ class LSTMClassifier(torch.nn.Module):  # inherits from nn.Module!
             accuracy = tp / (tp + fp)
             av_val_loss = val_loss / val_items
             # labels argument to define subset of labels I want to check
-            f1_matrix = CR(test_labels, pred_labels)
+            f1_matrix = classification_report(test_labels, pred_labels)
 
             return accuracy, av_val_loss, f1_matrix
