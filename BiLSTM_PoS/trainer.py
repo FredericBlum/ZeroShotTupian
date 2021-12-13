@@ -1,5 +1,5 @@
 import torch.optim as optim
-import torch.randperm as randperm
+import torch
 from torch.utils.data import DataLoader
 import copy
 
@@ -27,7 +27,7 @@ def train(model,
 
         loss_in_epoch: int = 0
 
-        permutation = randperm(training_data.size()[0])
+        permutation = torch.randperm(training_data.size()[0])
 
         data_shuffle = DataLoader(training_data, shuffle = True)
         print(training_data)
