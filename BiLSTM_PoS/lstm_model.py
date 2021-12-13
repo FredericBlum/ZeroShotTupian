@@ -68,6 +68,9 @@ class LSTMClassifier(torch.nn.Module):  # inherits from nn.Module!
         val_loss: int = 0
         val_items = len(test_data)
 
+        test_labels = []
+        pred_labels = []
+
         with torch.no_grad():
 
             # go through all test data points
@@ -83,8 +86,12 @@ class LSTMClassifier(torch.nn.Module):  # inherits from nn.Module!
                 else:
                     fp += 1
 
+                test_labels.append(self.label_dictionary[label])
+                pred_labels.append(torch.argmax(log_probs).item())
+
             accuracy = tp / (tp + fp)
             av_val_loss = val_loss / val_items
-            # print(val_loss, av_val_loss)
+            # labels argument to define subset of labels I want to check
+            sklearn.metrics.confusion_matrix(test_labels, pred_labels)
 
             return accuracy, av_val_loss

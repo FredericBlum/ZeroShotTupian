@@ -58,8 +58,9 @@ def train(model,
 
     best_epoch = max(epoch_accs, key = epoch_accs.get)
 
-    test_accuracy, av_val_loss = best_model.evaluate(test_data)
+    test_accuracy, av_val_loss, f1_matrix = best_model.evaluate(test_data)
     print(f"\n - Training complete.\nBest validation accuracy was observed at epoch {best_epoch}")
     print(f"the final model accuracy is: {test_accuracy}")
+    print(f1_matrix)
 
     return test_accuracy
