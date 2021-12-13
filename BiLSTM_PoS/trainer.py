@@ -27,7 +27,7 @@ def train(model,
 
         data_shuffle = DataLoader(training_data, shuffle = True)
 
-        for instance, label in training_data:
+        for instance, label in data_shuffle:
             # Step 4a. Remember that PyTorch accumulates gradients.
             # We need to clear them out before each instance
             model.zero_grad()
