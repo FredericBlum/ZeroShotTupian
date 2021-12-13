@@ -116,7 +116,7 @@ def make_label_dictionary(data) -> Dict[str, int]:
 
 
 def make_label_vector(label, label_to_ix):
-    return torch.LongTensor([label_to_ix[label]])
+    return torch.LongTensor([label_to_ix[label]], device = 'cuda')
 
 
 def make_onehot_vectors(sentence, word_to_ix, max_ngrams: int = 1):
