@@ -47,7 +47,7 @@ def train(model,
 
             loss_in_epoch += loss
     
-        accuracy, av_val_loss = model.evaluate(dev_data)
+        accuracy, av_val_loss, f1_matrix = model.evaluate(dev_data)
         epoch_accs[epoch] = accuracy
 
         if accuracy > best_accuracy:
