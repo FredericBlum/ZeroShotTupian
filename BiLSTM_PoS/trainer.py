@@ -13,6 +13,7 @@ def train(model,
 
     # define optimizer
     optimizer = optim.SGD(model.parameters(), lr=learning_rate)
+    batch_size = 16
 
     training_items = len(training_data)
     epoch_accs = dict()
@@ -25,7 +26,12 @@ def train(model,
 
         loss_in_epoch: int = 0
 
+        permutation = torch.randperm(training_data.size()[0])
+
         data_shuffle = DataLoader(training_data, shuffle = True)
+        print(training_data)
+        print(permutation)
+        print(data_shuffle)
 
         for instance, label in data_shuffle:
             # Step 4a. Remember that PyTorch accumulates gradients.
