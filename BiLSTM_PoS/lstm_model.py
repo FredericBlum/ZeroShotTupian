@@ -36,7 +36,6 @@ class LSTMClassifier(torch.nn.Module):  # inherits from nn.Module!
     def forward(self, sentence):
         # ist one-hot encoding nötig?
         one_hot_sentence = make_onehot_vectors(sentence, self.word_dictionary)
-        one_hot_sentence = one_hot_sentence.to(device)
         embedded = self.word_embeddings(one_hot_sentence)
         #print(embedded)
 
