@@ -13,9 +13,9 @@ print('Device: {}'.format(device))
 
 
 # All hyperparameters
-hidden_size = 1024
+hidden_size = 512
 learning_rate = 0.002
-max_epochs = 20
+max_epochs = 25
 unk_threshold = 0
 
 # prepare data
@@ -47,3 +47,4 @@ trainer.train(model=model,
               learning_rate=learning_rate,
               max_epochs=max_epochs,
               )
+print(label_dictionary)
