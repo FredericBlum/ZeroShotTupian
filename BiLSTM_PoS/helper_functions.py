@@ -125,7 +125,7 @@ def make_label_vector(label, label_to_ix):
 
 
 def make_onehot_vectors(sentence, word_to_ix, max_ngrams: int = 1):
-    device = 'cuda'
+    device = 'cuda:0'
     onehot_vectors = []
 
     # go over all n-gram sizes (including 1)
