@@ -15,7 +15,7 @@ print('Device: {}'.format(device))
 # All hyperparameters
 hidden_size = 512
 learning_rate = 0.002
-max_epochs = 25
+max_epochs = 30
 unk_threshold = 0
 
 # prepare data
