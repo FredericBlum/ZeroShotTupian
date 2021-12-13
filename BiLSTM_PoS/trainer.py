@@ -1,4 +1,5 @@
 import torch.optim as optim
+import torch.randperm as randperm
 from torch.utils.data import DataLoader
 import copy
 
@@ -26,14 +27,14 @@ def train(model,
 
         loss_in_epoch: int = 0
 
-        permutation = torch.randperm(training_data.size()[0])
+        permutation = randperm(training_data.size()[0])
 
         data_shuffle = DataLoader(training_data, shuffle = True)
         print(training_data)
         print(permutation)
         print(data_shuffle)
 
-        for instance, label in data_shuffle:
+        for instance, label in permutation:
             # Step 4a. Remember that PyTorch accumulates gradients.
             # We need to clear them out before each instance
             model.zero_grad()
