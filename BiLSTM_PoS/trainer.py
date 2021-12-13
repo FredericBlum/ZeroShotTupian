@@ -26,11 +26,11 @@ def train(model,
 
         loss_in_epoch: int = 0
 
-        data_shuffle = DataLoader(training_data, shuffle = True)
-        print(training_data)
-        print(data_shuffle)
+        # implement shuffle of some kind
+        #data_shuffle = DataLoader(training_data, shuffle = True)
 
-        for instance, label in data_shuffle:
+
+        for instance, label in training_data:
             # Step 4a. Remember that PyTorch accumulates gradients.
             # We need to clear them out before each instance
             model.zero_grad()
