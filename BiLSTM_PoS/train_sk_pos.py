@@ -20,7 +20,7 @@ unk_threshold = 0
 
 # prepare data
 # train_data = read_conllu('../data/shipibo.conllu')
-train_data = read_conllu('../data/shipibo.conllu', sep = True)
+train_data = read_conllu('../data/shipibo.conllu', sep = True, char = True)
 
 dev_data = read_conllu('../data/shipibo_valid.conllu', char = True)
 test_data = read_conllu('../data/shipibo_test.conllu', char = True)

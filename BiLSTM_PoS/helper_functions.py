@@ -25,7 +25,7 @@ def read_conllu(path, sep = False, char = False):
 
                         data.append((char_list, tok['upos']))
                     else:
-                        data.append(tok['form'], tok['upos'])
+                        data.append((tok['form'], tok['upos']))
                         
                     # print(char_list, tok['upos'])
     return data
