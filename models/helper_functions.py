@@ -3,7 +3,8 @@ from conllu import parse
 import torch
 from more_itertools import windowed
 
-def read_conllu(path, sep = False, char = False):
+
+def read_conllu(path, sep: bool = True, char: bool = False):
     data = []
     with open(path) as file:
         doc = file.read()
@@ -12,23 +13,41 @@ def read_conllu(path, sep = False, char = False):
         for line in doc:
             for tok in line:
                 if tok['upos'] != "_":
+                    if sep == False:
+                        tok['form'] = tok['form'].replace("-", "")
 
                     if char == True:
                         char_list = []
 
                         for char in tok['form']:
-                            if sep == True:
-                                char = char.replace("-", "")
-                                char_list.append(char)
-                            else:
-                                char_list.append(char)
+                            char_list.append(char)
 
                         data.append((char_list, tok['upos']))
                     else:
                         data.append((tok['form'], tok['upos']))
-                        
-                    # print(char_list, tok['upos'])
+
     return data
+
+def create_sk_text(path_in, path_out, sep: bool = True):
+    data = []
+    with open(path_in) as file:
+        doc = file.read()
+        doc = parse(doc)
+
+        for line in doc:                           
+            utterance = []
+            
+            for tok in line:
+                if tok['upos'] != "_":
+                    if sep == False:
+                        tok['form'] = tok['form'].replace("-", "")
+                    combined = tok['form'] + " " + tok['upos']
+                    utterance.append(combined)
+            utt_str = "\n".join(utterance)
+            data.append(utt_str)
+    data = "\n\n".join(data)
+    with open(f'{path_out}', 'w') as f:
+        f.write(data)
 
 def read_conllu_utt(path):
     data = []

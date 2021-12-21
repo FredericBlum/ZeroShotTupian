@@ -20,10 +20,10 @@ unk_threshold = 0
 
 # prepare data
 # train_data = read_conllu('../data/shipibo.conllu')
-train_data = read_conllu('../data/shipibo.conllu', char = True)
-dev_data = read_conllu('../data/shipibo_valid.conllu', char = True)
-test_data = read_conllu('../data/shipibo_test.conllu', char = True)
-label_data = read_conllu('../data/shipibo_all.conllu', char = True)
+train_data = read_conllu('../data/shipibo.conllu', char = True, sep = False)
+dev_data = read_conllu('../data/shipibo_dev.conllu', char = True, sep = False)
+test_data = read_conllu('../data/shipibo_test.conllu', char = True, sep = False,)
+label_data = read_conllu('../data/shipibo_all.conllu', char = True, sep = False)
 
 
 word_dictionary = make_word_dictionary(train_data, unk_threshold = unk_threshold)
@@ -47,4 +47,4 @@ trainer.train(model=model,
               learning_rate=learning_rate,
               max_epochs=max_epochs,
               )
-print(label_dictionary)
+#print(label_dictionary)
