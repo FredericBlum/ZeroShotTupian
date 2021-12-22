@@ -69,7 +69,7 @@ trainer.train('resources/taggers/example-upos',
 
 # visualize
 plotter = Plotter()
-plotter.plot_training_curves('loss.txt')
+plotter.plot_training_curves('resources/taggers/example-upos/loss.tsv')
 #plotter.plot_weights('weights.txt')
 
 
