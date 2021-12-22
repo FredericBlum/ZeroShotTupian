@@ -1,12 +1,10 @@
 from flair.data import Sentence
 from flair.data import Corpus
 from flair.datasets import ColumnCorpus
-from flair.embeddings import FlairEmbeddings, TransformerWordEmbeddings
+from flair.embeddings import FlairEmbeddings, TransformerWordEmbeddings, StackedEmbeddings
 from flair.models import SequenceTagger
 from flair.trainers import ModelTrainer
 from flair.visual.training_curves import Plotter
-
-from flair.datasets import UD_ENGLISH
 
 from helper_functions import create_sk_text
 
@@ -32,6 +30,9 @@ label_type = 'upos'
 
 # print(corpus)
 # print(corpus.train[1].to_tagged_string('upos'))
+
+
+word_sk_embeddings = FlairEmbeddings('resources/taggers/language_model/best-lm.pt')
 
 # word embeddings
 bert_embedding = TransformerWordEmbeddings('bert-base-multilingual-uncased')
@@ -68,33 +69,13 @@ trainer.train('resources/taggers/example-upos',
 
 # visualize
 plotter = Plotter()
-plotter.plot_training_curves('loss.tsv')
+plotter.plot_training_curves('loss.txt')
 #plotter.plot_weights('weights.txt')
 
 
 ##########################
-# To-Do: fine-tune embeddings
-
-""" # use first and last subtoken for each word
-embeddings = TransformerWordEmbeddings('bert-base-uncased', fine_tune=True, layers='-1')
-embeddings.embed(sentence)
-print(sentence[0].embedding)
-# using top most layer for fine-tuning, thats why "-1"
-# fine-tune in training tourine!
-# fine tune word embeddings
-
-from flair.embeddings import StackedEmbeddings
-
-# now create the StackedEmbedding object that combines all embeddings
-stacked_embeddings = StackedEmbeddings(
-    embeddings=[flair_forward_embedding, flair_backward_embedding, bert_embedding])
-
-
-# train gensim for word embedding
-
-# convert fasttext to gensim
-import gensim
-
-word_vectors = gensim.models.KeyedVectors.load_word2vec_format('/path/to/fasttext/embeddings.txt', binary=False)
-word_vectors.save('/path/to/converted')
- """
+#### To-Do: 
+##########################
+# train own embeddings; how do I evaluate them?
+# test dependency parser
+# test zero-shot training
