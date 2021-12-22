@@ -1,7 +1,7 @@
 from flair.data import Sentence
 from flair.data import Corpus
 from flair.datasets import ColumnCorpus
-from flair.embeddings import FlairEmbeddings, TransformerWordEmbeddings
+from flair.embeddings import FlairEmbeddings, StackedEmbeddings, TransformerWordEmbeddings
 from flair.models import SequenceTagger
 from flair.trainers import ModelTrainer
 from flair.visual.training_curves import Plotter
@@ -45,7 +45,7 @@ flair_embedding_backward = FlairEmbeddings('multi-backward')
 embeddings = StackedEmbeddings(embeddings=[bert_embedding, flair_embedding_forward, flair_embedding_backward])
 
 # 5. initialize sequence tagger
-tagger = SequenceTagger(hidden_size=256,
+tagger = SequenceTagger(hidden_size=1024,
                         embeddings=embeddings,
                         tag_dictionary=upos_dictionary,
                         tag_type=label_type,
@@ -60,11 +60,11 @@ trainer = ModelTrainer(tagger, corpus)
 
 # 7. start training
 trainer.train('resources/taggers/example-upos',
-                #write_weights = True,
-                use_final_model_for_eval = True, # necessary because .pt writing is damaged
-                learning_rate=0.1,
-                mini_batch_size=8,
-                max_epochs=20)
+                write_weights = True,
+               param_selection_mode = True, # necessary because .pt writing is damaged
+                learning_rate=0.05,
+                mini_batch_size=4,
+                max_epochs=25)
 
 # visualize
 plotter = Plotter()
