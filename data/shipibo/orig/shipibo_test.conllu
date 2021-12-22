@@ -1,0 +1,898 @@
+# newdoc_id = flashcards_36.xml
+# sent_id = flashcards_36.xml-0
+# text = Moa akashorai riki ea
+# es_text = Estoy entusiasmado.
+1	Moa	_	ADV	ADV	_	2	advmod	_	_
+2-3	ati-kas-yora-ai	_	_	_	_	_	_	_	_
+2	ati-kas	_	VERB	VERB	_	5	nsubj	_	_
+3	-yora-ai	_	PART	CLPL	Clitic=Lfcl	2	Lfcl	_	_
+4	riki	_	VERB	VERB	_	5	cop	_	_
+5-6	ea-a	_	_	_	_	_	_	_	_
+5	ea	_	PRON	PRON	_	0	root	_	_
+6	-a	_	PART	CLNOM	Clitic=Nomcl	5	case	_	_
+
+# newdoc_id = flashcards_36.xml
+# sent_id = flashcards_36.xml-1
+# text = Ninkayamai riki ea
+# es_text = Soy terco.
+1	ninkati-yama-ai	_	VERB	VERB	_	3	nsubj	_	_
+2	riki	_	VERB	VERB	_	3	cop	_	_
+3-4	ea-a	_	_	_	_	_	_	_	_
+3	ea	_	PRON	PRON	_	0	root	_	_
+4	-a	_	PART	CLNOM	Clitic=Nomcl	3	case	_	_
+
+# newdoc_id = flashcards_36.xml
+# sent_id = flashcards_36.xml-2
+# text = Moa atires riki ea
+# es_text = Estoy preparado.
+1	Moa	_	ADV	ADV	_	2	advmod	_	_
+2-3	ati-ti-res	_	_	_	_	_	_	_	_
+2	ati-ti	_	VERB	VERB	_	5	nsubj	_	_
+3	-res	_	PART	CLPL	Clitic=Lfcl	2	Lfcl	_	_
+4	riki	_	VERB	VERB	_	5	cop	_	_
+5-6	ea-a	_	_	_	_	_	_	_	_
+5	ea	_	PRON	PRON	_	0	root	_	_
+6	-a	_	PART	CLNOM	Clitic=Nomcl	5	case	_	_
+
+# newdoc_id = flashcards_36.xml
+# sent_id = flashcards_36.xml-3
+# text = Toya riki ea
+# es_text = Estoy embarazada.
+1	Toya	_	ADJ	ADJ	_	3	nsubj	_	_
+2	riki	_	VERB	VERB	_	3	cop	_	_
+3-4	ea-a	_	_	_	_	_	_	_	_
+3	ea	_	PRON	PRON	_	0	root	_	_
+4	-a	_	PART	CLNOM	Clitic=Nomcl	3	case	_	_
+
+# newdoc_id = flashcards_36.xml
+# sent_id = flashcards_36.xml-5
+# text = Osani riki ea
+# es_text = Estoy vacilante.
+1	osanti-i	_	VERB	VERB	_	0	root	_	_
+2	riki	_	AUX	AUX	_	1	aux	_	_
+3-4	ea-a	_	_	_	_	_	_	_	_
+3	ea	_	PRON	PRON	_	1	nsubj	_	_
+4	-a	_	PART	CLNOM	Clitic=Nomcl	3	case	_	_
+
+# newdoc_id = flashcards_36.xml
+# sent_id = flashcards_36.xml-0
+# text = Moa akashorai riki ea
+# es_text = Estoy entusiasmado.
+1	riki	_	VERB	VERB	_	2	cop	_	_
+2-3	ea-a	_	_	_	_	_	_	_	_
+2	ea	_	PRON	PRON	_	0	root	_	_
+3	-a	_	PART	CLNOM	Clitic=Nomcl	2	case	_	_
+
+# newdoc_id = flashcards_36.xml
+# sent_id = flashcards_36.xml-7
+# text = Taebicho riki ea
+# es_text = Estoy descalzo.
+1-2	Tae-bicho	_	_	_	_	_	_	_	_
+1	Tae	_	NOUN	NOUN	_	4	nsubj	_	_
+2	-bicho	_	PART	CLPL	Clitic=Lfcl	1	Lfcl	_	_
+3	riki	_	VERB	VERB	_	4	cop	_	_
+4-5	ea-a	_	_	_	_	_	_	_	_
+4	ea	_	PRON	PRON	_	0	root	_	_
+5	-a	_	PART	CLNOM	Clitic=Nomcl	4	case	_	_
+
+# newdoc_id = flashcards_36.xml
+# sent_id = flashcards_36.xml-8
+# text = Autista riki ea
+# es_text = Soy autista.
+1	Autista	_	ADJ	ADJ	_	3	nsubj	_	_
+2	riki	_	VERB	VERB	_	3	cop	_	_
+3-4	ea-a	_	_	_	_	_	_	_	_
+3	ea	_	PRON	PRON	_	0	root	_	_
+4	-a	_	PART	CLNOM	Clitic=Nomcl	3	case	_	_
+
+# newdoc_id = transcripcion4_16_1.xml
+# sent_id = transcripcion4_16_1.xml-0
+# text = Nato escuela iki non papabaon noa axona .
+# es_text = Esta es la escuela que nos han hecho nuestros padres.
+1	Nato	_	ADJ	ADJ	_	2	amod	_	_
+2	escuela	_	NOUN	NOUN	_	10	nsubj	_	_
+3	iki	_	VERB	VERB	_	10	cop	_	_
+4-5	noa-n	_	_	_	_	_	_	_	_
+4	noa	_	PRON	PRON	_	6	nmod	_	_
+5	-n	_	PART	CLNOM	Clitic=Nomcl	4	case	_	_
+6-7	papa-baon	_	_	_	_	_	_	_	_
+6	papa	_	NOUN	NOUN	_	10	nmod	_	_
+7	-baon	_	PART	CLNOM	Clitic=Nomcl	6	case	_	_
+8-9	noa-a	_	_	_	_	_	_	_	_
+8	noa	_	PRON	PRON	_	10	iobj	_	_
+9	-a	_	PART	CLNOM	Clitic=Nomcl	8	case	_	_
+10	ati-xon-a	_	VERB	VERB	_	0	root	_	_
+11	.	_	PUNCT	PUNCT	_	10	punct	_	_
+
+# newdoc_id = flashcards_12.xml
+# sent_id = flashcards_12.xml-0
+# text = Apendicitisya riki ea
+# es_text = Tengo apendicitis.
+1-2	Apendicitis-ya	_	_	_	_	_	_	_	_
+1	Apendicitis	_	NOUN	NOUN	_	3	obl	_	_
+2	-ya	_	PART	CLNOM	Clitic=Nomcl	1	case	_	_
+3	riki	_	VERB	VERB	_	0	root	_	_
+4-5	ea-a	_	_	_	_	_	_	_	_
+4	ea	_	PRON	PRON	_	3	nsubj	_	_
+5	-a	_	PART	CLNOM	Clitic=Nomcl	4	case	_	_
+
+# newdoc_id = flashcards_12.xml
+# sent_id = flashcards_12.xml-1
+# text = Reshoya riki ea
+# es_text = Tengo mocos.
+1-2	Resho-ya	_	_	_	_	_	_	_	_
+1	Resho	_	NOUN	NOUN	_	3	obl	_	_
+2	-ya	_	PART	CLNOM	Clitic=Nomcl	1	case	_	_
+3	riki	_	VERB	VERB	_	0	root	_	_
+4-5	ea-a	_	_	_	_	_	_	_	_
+4	ea	_	PRON	PRON	_	3	nsubj	_	_
+5	-a	_	PART	CLNOM	Clitic=Nomcl	4	case	_	_
+
+# newdoc_id = flashcards_12.xml
+# sent_id = flashcards_12.xml-2
+# text = ¿ Min jan ointi saweai ?
+# es_text = ¿Usás anteojos?
+1	¿	_	PUNCT	PUNCT	_	7	punct	_	_
+2-3	mia-n	_	_	_	_	_	_	_	_
+2	mia	_	PRON	PRON	_	7	nsubj	_	_
+3	-n	_	PART	CLNOM	Clitic=Nomcl	2	case	_	_
+4-5	ja-n	_	_	_	_	_	_	_	_
+4	ja	_	PRON	PRON	_	6	det	_	_
+5	-n	_	PART	CLNOM	Clitic=Nomcl	4	case	_	_
+6	ointi	_	NOUN	NOUN	_	7	obj	_	_
+7	saweti-ai	_	VERB	VERB	_	0	root	_	_
+8	?	_	PUNCT	PUNCT	_	7	punct	_	_
+
+# newdoc_id = flashcards_12.xml
+# sent_id = flashcards_12.xml-3
+# text = ¿ Mia yoyo ikasai ?
+# es_text = ¿Querés hablar?
+1	¿	_	PUNCT	PUNCT	_	5	punct	_	_
+2-3	mia-a	_	_	_	_	_	_	_	_
+2	mia	_	PRON	PRON	_	5	nsubj	_	_
+3	-a	_	PART	CLNOM	Clitic=Nomcl	2	case	_	_
+4	yoyo	_	INTJ	INTJ	_	5	compound	_	_
+5	iki-kas-ai	_	VERB	VERB	_	0	root	_	_
+6	?	_	PUNCT	PUNCT	_	5	punct	_	_
+
+# newdoc_id = flashcards_12.xml
+# sent_id = flashcards_12.xml-4
+# text = ¿ Min yoyo akasai ?
+# es_text = ¿Querés leer?
+1	¿	_	PUNCT	PUNCT	_	5	punct	_	_
+2-3	mia-n	_	_	_	_	_	_	_	_
+2	mia	_	PRON	PRON	_	5	nsubj	_	_
+3	-n	_	PART	CLNOM	Clitic=Nomcl	2	case	_	_
+4	yoyo	_	INTJ	INTJ	_	5	compound	_	_
+5	ati-kas-ai	_	VERB	VERB	_	0	root	_	_
+6	?	_	PUNCT	PUNCT	_	5	punct	_	_
+
+# newdoc_id = flashcards_12.xml
+# sent_id = flashcards_12.xml-7
+# text = ¿ Mia yonaya iki ?
+# es_text = ¿Tienes fiebre?
+1	¿	_	PUNCT	PUNCT	_	6	punct	_	_
+2-3	mia-a	_	_	_	_	_	_	_	_
+2	mia	_	PRON	PRON	_	6	nsubj	_	_
+3	-a	_	PART	CLNOM	Clitic=Nomcl	2	case	_	_
+4-5	yona-ya	_	_	_	_	_	_	_	_
+4	yona	_	NOUN	NOUN	_	6	obl	_	_
+5	-ya	_	PART	CLNOM	Clitic=Nomcl	4	case	_	_
+6	iki	_	VERB	VERB	_	0	root	_	_
+7	?	_	PUNCT	PUNCT	_	6	punct	_	_
+
+# newdoc_id = flashcards_12.xml
+# sent_id = flashcards_12.xml-8
+# text = ¿ Mia facebookya iki ?
+# es_text = ¿Tienes Facebook?
+1	¿	_	PUNCT	PUNCT	_	6	punct	_	_
+2-3	mia-a	_	_	_	_	_	_	_	_
+2	mia	_	PRON	PRON	_	6	nsubj	_	_
+3	-a	_	PART	CLNOM	Clitic=Nomcl	2	case	_	_
+4-5	facebook-ya	_	_	_	_	_	_	_	_
+4	facebook	_	NOUN	NOUN	_	6	obl	_	_
+5	-ya	_	PART	CLNOM	Clitic=Nomcl	4	case	_	_
+6	iki	_	VERB	VERB	_	0	root	_	_
+7	?	_	PUNCT	PUNCT	_	6	punct	_	_
+
+# newdoc_id = flashcards_12.xml
+# sent_id = flashcards_12.xml-9
+# text = Min jakon ati maxkata
+# es_text = Necesitas arreglarlo.
+1-2	mia-n	_	_	_	_	_	_	_	_
+1	mia	_	PRON	PRON	_	5	nsubj	_	_
+2	-n	_	PART	CLNOM	Clitic=Nomcl	1	case	_	_
+3	jakon	_	ADV	ADV	_	4	advmod	_	_
+4	ati-ti	_	VERB	VERB	_	5	xcomp	_	_
+5	maxkati-a	_	VERB	VERB	_	0	root	_	_
+
+# newdoc_id = transcripcion4_33_2.xml
+# sent_id = transcripcion4_33_2.xml-2
+# text = Eripanon ¡ papa ! Miara jakonbires maestro iki .
+# es_text = Ay, papá, ¡qué buen maestro eres tú!
+1-2	eri-panon	_	_	_	_	_	_	_	_
+1	eri	_	INTJ	INTJ	_	4	discourse	_	_
+2	-panon	_	PART	CLPL	Clitic=Lfcl	1	Lfcl	_	_
+3	¡	_	PUNCT	PUNCT	_	4	punct	_	_
+4	papa	_	NOUN	NOUN	_	0	root	_	_
+5	!	_	PUNCT	PUNCT	_	4	punct	_	_
+
+# newdoc_id = transcripcion4_33_2.xml
+# sent_id = transcripcion4_33_2.xml-2-a
+# text = Eripanon ¡ papa ! Miara jakonbires maestro iki .
+# es_text = Ay, papá, ¡qué buen maestro eres tú!
+1-3	mia-a-ra	_	_	_	_	_	_	_	_
+1	mia	_	PRON	PRON	_	4	nsubj	_	_
+2	-a	_	PART	CLNOM	Clitic=Nomcl	1	case	_	_
+3	-ra	_	PART	CL2P	Clitic=Spcl	4	aux:val	_	_
+4-5	jakon-bires	_	_	_	_	_	_	_	_
+4	jakon	_	ADJ	ADJ	_	6	amod	_	_
+5	-bires	_	PART	CLPL	Clitic=Lfcl	4	Lfcl	_	_
+6	maestro	_	NOUN	NOUN	_	0	root	_	_
+7	iki	_	VERB	VERB	_	4	cop	_	_
+8	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+# newdoc_id = transcripcion5_41.xml
+# sent_id = transcripcion5_41.xml-1
+# text = ¿ Jaweatiki non nakai , jawékiakin ?
+# es_text = ¿Para qué masticamos el alimento?
+1	¿	_	PUNCT	PUNCT	_	6	punct	_	_
+2-3	jaweati-ki	_	_	_	_	_	_	_	_
+2	jaweati	_	ADV	PINT	PronType=Int	6	obl	_	_
+3	-ki	_	PART	CL2P	Clitic=Spcl	6	aux:val	_	_
+4-5	noa-n	_	_	_	_	_	_	_	_
+4	noa	_	PRON	PRON	_	6	nsubj	_	_
+5	-n	_	PART	CLNOM	Clitic=Nomcl	4	case	_	_
+6	nakati-ai	_	VERB	VERB	_	0	root	_	_
+7	,	_	PUNCT	PUNCT	_	6	punct	_	_
+8	jawékiati-kin	_	VERB	VERB	_	6	advcl	_	_
+9	?	_	PUNCT	PUNCT	_	6	punct	_	_
+
+# newdoc_id = flashcards_9.xml
+# sent_id = flashcards_9.xml-0
+# text = Yoyo akasira ea iwanke
+# es_text = Quería leerlos.
+1	Yoyo	_	INTJ	INTJ	_	2	compound	_	_
+2-3	ati-kas-i-ra	_	_	_	_	_	_	_	_
+2	ati-kas-i	_	VERB	VERB	_	0	root	_	_
+3	-ra	_	PART	CL2P	Clitic=Spcl	2	aux:val	_	_
+4	ea-a	_	PRON	PRON	_	2	nsubj	_	_
+5	iti-wan-ke	_	VERB_AUX	VERB_AUX	_	2	aux	_	_
+
+# newdoc_id = flashcards_9.xml
+# sent_id = flashcards_9.xml-1
+# text = ¿ Jawetirin min iwe ?
+# es_text = ¿Cuánto pesas?
+1	¿	_	PUNCT	PUNCT	_	6	punct	_	_
+2-3	Jaweti-rin	_	_	_	_	_	_	_	_
+2	Jaweti	_	PINT	PINT	PronType=Int	6	nsubj	_	_
+3	-rin	_	PART	CL2P	Clitic=Spcl	6	cop	_	_
+4-5	mia-n	_	_	_	_	_	_	_	_
+4	mia	_	PRON	PRON	_	6	nmod	_	_
+5	-n	_	PART	CLNOM	Clitic=Nomcl	4	case	_	_
+6	iwe	_	NOUN	NOUN	_	0	root	_	_
+7	?	_	PUNCT	PUNCT	_	6	punct	_	_
+
+# newdoc_id = flashcards_9.xml
+# sent_id = flashcards_9.xml-2
+# text = ¿ Mia atunya iki ?
+# es_text = ¿Tienen atún?
+1	¿	_	PUNCT	PUNCT	_	6	punct	_	_
+2-3	mia-a	_	_	_	_	_	_	_	_
+2	mia	_	PRON	PRON	_	6	nsubj	_	_
+3	-a	_	PART	CLNOM	Clitic=Nomcl	2	case	_	_
+4-5	atun-ya	_	_	_	_	_	_	_	_
+4	atun	_	NOUN	NOUN	_	6	obl	_	_
+5	-ya	_	PART	CLNOM	Clitic=Nomcl	4	case	_	_
+6	iki	_	VERB	VERB	_	0	root	_	_
+7	?	_	PUNCT	PUNCT	_	6	punct	_	_
+
+# newdoc_id = flashcards_9.xml
+# sent_id = flashcards_9.xml-3
+# text = ¿ Mia sereya iki ?
+# es_text = ¿Tienes tiempo?
+1	¿	_	PUNCT	PUNCT	_	6	punct	_	_
+2-3	mia-a	_	_	_	_	_	_	_	_
+2	mia	_	PRON	PRON	_	6	nsubj	_	_
+3	-a	_	PART	CLNOM	Clitic=Nomcl	2	case	_	_
+4-5	sere-ya	_	_	_	_	_	_	_	_
+4	sere	_	NOUN	NOUN	_	6	obl	_	_
+5	-ya	_	PART	CLNOM	Clitic=Nomcl	4	case	_	_
+6	iki	_	VERB	VERB	_	0	root	_	_
+7	?	_	PUNCT	PUNCT	_	6	punct	_	_
+
+# newdoc_id = transcripcion5_62.xml
+# sent_id = transcripcion5_62.xml-3
+# text = Jaa ainbo betan Huayna Cápac jaátian wanoa iki .
+# es_text = Se casó Huayna Cápac con Pacha y así llegó a ser el rey de los Shyris.
+1	Ja	_	DET	DET	_	2	det	_	_
+2	ainbo	_	NOUN	NOUN	_	7	obl	_	_
+3	betan	_	ADP	POSTP	AdpType=Post	2	case	_	_
+4	Huayna	_	PROPN	PROPN	_	5	compound	_	_
+5	Cápac	_	PROPN	PROPN	_	7	nsubj	_	_
+6	jatian	_	ADV	ADV	_	7	advmod	_	_
+7	wanoti-a	_	VERB	VERB	_	0	root	_	_
+8	iki	_	AUX	AUX	_	7	aux	_	_
+9	.	_	PUNCT	PUNCT	_	7	punct	_	_
+
+# newdoc_id = transcripcion5_62.xml
+# sent_id = transcripcion5_62.xml-4
+# text = Jaskatax jaa rabé joni raeanana iki .
+# es_text = Hubo paz entre los dos pueblos.
+1	Jaskatax	_	CCONJ	CONJ	_	5	cc	_	_
+2	ja	_	DET	DET	_	4	det	_	_
+3	rabé	_	NUM	NUM	_	4	nummod	_	_
+4	joni	_	NOUN	NOUN	_	5	nsubj	_	_
+5	raeti-anan-a	_	VERB	VERB	_	0	root	_	_
+6	iki	_	AUX	AUX	_	5	aux	_	_
+7	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+# newdoc_id = TrasncripcionLea-parte3_2_1.xml
+# sent_id = TrasncripcionLea-parte3_2_1.xml-1
+# text = ¿ Jaweskarainki bachiai ?
+# es_text = ¿Dónde pone sus huevos?
+1	¿	_	PUNCT	PUNCT	_	4	punct	_	_
+2-3	jaweskarain-ki	_	_	_	_	_	_	_	_
+2	jaweskarain	_	PRON	PINT	PronType=Int	4	obj	_	_
+3	-ki	_	PART	CL2P	Clitic=Spcl	4	aux:val	_	_
+4	bachiati-ai	_	VERB	VERB	_	0	root	_	_
+5	?	_	PUNCT	PUNCT	_	4	punct	_	_
+
+# newdoc_id = transcripcion7_48.xml
+# sent_id = transcripcion7_48.xml-1
+# text = Jatian jawen bene kaa iki .
+# es_text = Y el hombre se fue.
+1	Jatian	_	CCONJ	CONJ	_	4	cc	_	_
+2	jawen	_	DET	DET	_	3	det	_	_
+3	bene	_	NOUN	NOUN	_	4	nsubj	_	_
+4	kati-a	_	VERB	VERB	_	0	root	_	_
+5	iki	_	AUX	AUX	_	4	aux	_	_
+6	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+# newdoc_id = transcripcion7_48.xml
+# sent_id = transcripcion7_48.xml-3
+# text = Ja bakeki ishton ania iki .
+# es_text = Muy pronto el niño creció milagrosamente (hasta ser adulto).
+1	Ja	_	DET	DET	_	2	det	_	_
+2-3	báke-ki	_	_	_	_	_	_	_	_
+2	báke	_	NOUN	NOUN	_	5	nsubj	_	_
+3	-ki	_	PART	CL2P	Clitic=Spcl	5	aux:val	_	_
+4	ishton	_	ADV	ADV	_	5	advmod	_	_
+5	aniati-a	_	VERB	VERB	_	0	root	_	_
+6	iki	_	AUX	AUX	_	5	aux	_	_
+7	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+# newdoc_id = transcripcion7_48.xml
+# sent_id = transcripcion7_48.xml-4
+# text = Moa aniketian , jakiribi ja ainbo toota iki .
+# es_text = Después, la mujer quedó encita otra vez.
+1	Moa	_	ADV	ADV	_	2	advmod	_	_
+2	aniti-ketian	_	VERB	VERB	_	7	advcl	_	_
+3	,	_	PUNCT	PUNCT	_	2	punct	_	_
+4	jakiribi	_	CCONJ	CONJ	_	7	cc	_	_
+5	ja	_	DET	DET	_	6	det	_	_
+6	ainbo	_	NOUN	NOUN	_	7	nsubj	_	_
+7	tooti-a	_	VERB	VERB	_	0	root	_	_
+8	iki	_	AUX	AUX	_	7	aux	_	_
+9	.	_	PUNCT	PUNCT	_	7	punct	_	_
+
+# newdoc_id = flashcards_28.xml
+# sent_id = flashcards_28.xml-5
+# text = ¿ Min ea noia ?
+# es_text = ¿Me amas?
+1	¿	_	PUNCT	PUNCT	_	6	punct	_	_
+2-3	mia-n	_	_	_	_	_	_	_	_
+2	mia	_	PRON	PRON	_	6	nsubj	_	_
+3	-n	_	PART	CLNOM	Clitic=Nomcl	2	case	_	_
+4-5	ea-a	_	_	_	_	_	_	_	_
+4	ea	_	PRON	PRON	_	6	obj	_	_
+5	-a	_	PART	CLNOM	Clitic=Nomcl	4	case	_	_
+6	noiti-a	_	VERB	VERB	_	0	root	_	_
+7	?	_	PUNCT	PUNCT	_	6	punct	_	_
+
+# newdoc_id = flashcards_28.xml
+# sent_id = flashcards_28.xml-7
+# text = ¿ Nonki mia onana ?
+# es_text = ¿Te conocemos?
+1	¿	_	PUNCT	PUNCT	_	6	punct	_	_
+2-4	noa-n-ki	_	_	_	_	_	_	_	_
+2	noa	_	PRON	PRON	_	6	nsubj	_	_
+3	-n	_	PART	CLNOM	Clitic=Nomcl	2	case	_	_
+4	-ki	_	PART	CL2P	Clitic=Spcl	6	aux:val	_	_
+5	mia-a	_	PRON	PRON	_	6	obj	_	_
+6	onánti-a	_	VERB	VERB	_	0	root	_	_
+7	?	_	PUNCT	PUNCT	_	6	punct	_	_
+
+# newdoc_id = flashcards_28.xml
+# sent_id = flashcards_28.xml-8
+# text = ¿ En mia akinti atipana ?
+# es_text = ¿Puedo ayudarte?
+1	¿	_	PUNCT	PUNCT	_	6	punct	_	_
+2-3	ea-n	_	_	_	_	_	_	_	_
+2	ea	_	PRON	PRON	_	6	nsubj	_	_
+3	-n	_	PART	CLNOM	Clitic=Nomcl	2	case	_	_
+4-5	mia-a	_	_	_	_	_	_	_	_
+4	mia	_	PRON	PRON	_	6	obj	_	_
+5	-a	_	PART	CLNOM	Clitic=Nomcl	4	case	_	_
+6	akinti-ti	_	VERB	VERB	_	0	root	_	_
+7	atipanti-a	_	AUX	AUX	_	6	aux	_	_
+8	?	_	PUNCT	PUNCT	_	6	punct	_	_
+
+# newdoc_id = flashcards_28.xml
+# sent_id = flashcards_28.xml-9
+# text = Oxa riki mia
+# es_text = Estás dormido.
+1	oxati-a	_	VERB	VERB	_	0	root	_	_
+2	riki	_	VERB	VERB	_	1	aux	_	_
+3-4	mia-a	_	_	_	_	_	_	_	_
+3	mia	_	PRON	PRON	_	1	nsubj	_	_
+4	-a	_	PART	CLNOM	Clitic=Nomcl	3	case	_	_
+
+# newdoc_id = Lea_Transcripcion2_parte3_4_2.xml
+# sent_id = Lea_Transcripcion2_parte3_4_2.xml-0
+# text = Jaskáaxonki ainbaonki wiso ino retea iki .
+# es_text = De esa forma la mujer mató a un yana-puma.
+1-2	jaskaaxon-ki	_	_	_	_	_	_	_	_
+1	jaskaaxon	_	CCONJ	CONJ	_	8	cc	_	_
+2	-ki	_	PART	CL2P	Clitic=Spcl	8	aux:val	_	_
+3-5	ainbo-n-ki	_	_	_	_	_	_	_	_
+3	ainbo	_	NOUN	NOUN	_	8	nsubj	_	_
+4	-n	_	PART	CLNOM	Clitic=Nomcl	3	case	_	_
+5	-ki	_	PART	CL2P	Clitic=Spcl	8	aux:val	_	_
+6	wiso	_	ADJ	ADJ	_	7	amod	_	_
+7	ino	_	NOUN	NOUN	_	8	obj	_	_
+8	reteti-a	_	VERB	VERB	_	0	root	_	_
+9	iki	_	AUX	AUX	_	8	aux	_	_
+10	.	_	PUNCT	PUNCT	_	8	punct	_	_
+
+# newdoc_id = Lea_Transcripcion2_parte3_4_2.xml
+# sent_id = Lea_Transcripcion2_parte3_4_2.xml-2
+# text = ¿ Tsoabo ikáki yoiai nato kointonin ?
+# es_text = ¿De qué trata este cuento?
+1	¿	_	PUNCT	PUNCT	_	6	punct	_	_
+2-3	tsoa-a-bo	_	_	_	_	_	_	_	_
+2	tsoa	_	PRON	PINT	PronType=Int	6	obj	_	_
+3	-a-bo	_	PART	CLNOM	Clitic=Nomcl	2	case	_	_
+4-5	iki-a-ki	_	_	_	_	_	_	_	_
+4	iki-a	_	VERB	VERB	_	2	amod	_	_
+5	-ki	_	PART	CL2P	Clitic=Spcl	6	aux:val	_	_
+6	yoiti-ai	_	VERB	VERB	_	0	root	_	_
+7	nato	_	DET	DET	_	8	det	_	_
+8-9	kointo-nin	_	_	_	_	_	_	_	_
+8	kointo	_	NOUN	NOUN	_	6	nsubj	_	_
+9	-nin	_	PART	CLNOM	Clitic=Nomcl	8	case	_	_
+10	?	_	PUNCT	PUNCT	_	6	punct	_	_
+
+# newdoc_id = flashcards_29.xml
+# sent_id = flashcards_29.xml-4
+# text = Min ati atipana
+# es_text = Puedes hacerlo.
+1-2	mia-n	_	_	_	_	_	_	_	_
+1	mia	_	PRON	PRON	_	3	nsubj	_	_
+2	-n	_	PART	CLNOM	Clitic=Nomcl	1	case	_	_
+3	ati-ti	_	VERB	VERB	_	0	root	_	_
+4	atipanti-a	_	AUX	AUX	_	3	aux	_	_
+
+# newdoc_id = flashcards_29.xml
+# sent_id = flashcards_29.xml-5
+# text = ¡ Min ati atipana !
+# es_text = ¡Puedes hacerlo!
+1	¡	_	PUNCT	PUNCT	_	4	punct	_	_
+2-3	mia-n	_	_	_	_	_	_	_	_
+2	mia	_	PRON	PRON	_	4	nsubj	_	_
+3	-n	_	PART	CLNOM	Clitic=Nomcl	2	case	_	_
+4	ati-ti	_	VERB	VERB	_	0	root	_	_
+5	atipanti-a	_	AUX	AUX	_	4	aux	_	_
+6	!	_	PUNCT	PUNCT	_	4	punct	_	_
+
+# newdoc_id = flashcards_29.xml
+# sent_id = flashcards_29.xml-6
+# text = Kikin onan riki mia
+# es_text = Eres ingenioso.
+1	Kikin	_	ADV	ADV	_	2	advmod	_	_
+2	onan	_	ADJ	ADJ	_	4	nsubj	_	_
+3	riki	_	VERB	VERB	_	4	cop	_	_
+4-5	mia-a	_	_	_	_	_	_	_	_
+4	mia	_	PRON	PRON	_	0	root	_	_
+5	-a	_	PART	CLNOM	Clitic=Nomcl	4	case	_	_
+
+# newdoc_id = flashcards_29.xml
+# sent_id = flashcards_29.xml-7
+# text = ¡ Yatankana riki noa !
+# es_text = ¡Estamos atrapados!
+1	¡	_	PUNCT	PUNCT	_	2	punct	_	_
+2	Yatanti-kan-a	_	VERB	VERB	_	0	root	_	_
+3	riki	_	AUX	AUX	_	2	aux	_	_
+4-5	noa-a	_	_	_	_	_	_	_	_
+4	noa	_	PRON	PRON	_	2	nsubj	_	_
+5	-a	_	PART	CLNOM	Clitic=Nomcl	4	case	_	_
+6	!	_	PUNCT	PUNCT	_	2	punct	_	_
+
+# newdoc_id = flashcards_29.xml
+# sent_id = flashcards_29.xml-8
+# text = Jakonax jai riki noa
+# es_text = Estamos enamorados.
+1	jakonti-ax	_	VERB	VERB	_	2	advcl	_	_
+2	jati-i	_	VERB	VERB	_	0	root	_	_
+3	riki	_	AUX	AUX	_	2	aux	_	_
+4	noa-a	_	PRON	PRON	_	2	nsubj	_	_
+
+# newdoc_id = flashcards_29.xml
+# sent_id = flashcards_29.xml-9
+# text = Ransai riki noa
+# es_text = Estamos bailando.
+1	Ransati-i	_	VERB	VERB	_	0	root	_	_
+2	riki	_	AUX	AUX	_	1	aux	_	_
+3-4	noa-a	_	_	_	_	_	_	_	_
+3	noa	_	PRON	PRON	_	1	nsubj	_	_
+4	-a	_	PART	CLNOM	Clitic=Nomcl	3	case	_	_
+
+# newdoc_id = Lea_Transcripcion2_parte1_5_1.xml
+# sent_id = Lea_Transcripcion2_parte1_5_1.xml-0
+# text = ¿ awakanki jawe piá iki ?
+# es_text = ¿Qué comía la sachavaca mientras caminaba?
+1	¿	_	PUNCT	PUNCT	_	6	punct	_	_
+2-4	awá-kan-ki	_	_	_	_	_	_	_	_
+2	awá	_	NOUN	NOUN	_	6	nsubj	_	_
+3	-kan	_	PART	CLNOM	Clitic=Nomcl	2	case	_	_
+4	-ki	_	PART	CL2P	Clitic=Spcl	6	aux:val	_	_
+5	jawe	_	PRON	PINT	PronType=Int	6	obj	_	_
+6	piti-a	_	VERB	VERB	_	0	root	_	_
+7	iki	_	AUX	AUX	_	6	aux	_	_
+8	?	_	PUNCT	PUNCT	_	6	punct	_	_
+
+# newdoc_id = Lea_Transcripcion2_parte1_5_1.xml
+# sent_id = Lea_Transcripcion2_parte1_5_1.xml-1
+# text = ¿ Jawekeskatinki ino naman paketa iki ?
+# es_text = ¿Por qué el tigre cayó abajo?
+1	¿	_	PUNCT	PUNCT	_	6	punct	_	_
+2-3	jawekeskati-ki	_	_	_	_	_	_	_	_
+2	jawekeskati	_	ADV	PINT	PronType=Int	6	advmod	_	_
+3	-ki	_	PART	CL2P	Clitic=Spcl	6	aux:val	_	_
+4	ino	_	NOUN	NOUN	_	6	nsubj	_	_
+5	naman	_	ADV	ADV	_	6	advmod	_	_
+6	pakéti-a	_	VERB	VERB	_	0	root	_	_
+7	iki	_	AUX	AUX	_	6	aux	_	_
+8	?	_	PUNCT	PUNCT	_	6	punct	_	_
+
+# newdoc_id = Lea_Transcripcion2_parte1_5_1.xml
+# sent_id = Lea_Transcripcion2_parte1_5_1.xml-2
+# text = ¿ Tsoaki yoiai nato kointonin ?
+# es_text = ¿De qué trata este cuento?
+1	¿	_	PUNCT	PUNCT	_	5	punct	_	_
+2-4	tsoa-a-ki	_	_	_	_	_	_	_	_
+2	tsoa	_	PRON	PINT	PronType=Int	5	obj	_	_
+3	-a	_	PART	CLNOM	Clitic=Nomcl	2	case	_	_
+4	-ki	_	PART	CL2P	Clitic=Spcl	5	aux:val	_	_
+5	yoiti-ai	_	VERB	VERB	_	0	root	_	_
+6	nato	_	ADJ	ADJ	_	7	amod	_	_
+7	kointo-nin	_	NOUN	NOUN	_	5	nsubj	_	_
+8	?	_	PUNCT	PUNCT	_	5	punct	_	_
+
+# newdoc_id = Lea_Transcripcion2_parte1_5_1.xml
+# sent_id = Lea_Transcripcion2_parte1_5_1.xml-3
+# text = ¿ Tsoa ikáki yoiai nato koinonin ?
+# es_text = ¿De quién habla el cuento?
+1	¿	_	PUNCT	PUNCT	_	6	punct	_	_
+2-3	tsoa-a	_	_	_	_	_	_	_	_
+2	tsoa	_	PRON	PINT	PronType=Int	6	obj	_	_
+3	-a	_	PART	CLNOM	Clitic=Nomcl	2	case	_	_
+4-5	iki-a-ki	_	_	_	_	_	_	_	_
+4	iki-a	_	VERB	VERB	_	2	amod	_	_
+5	-ki	_	PART	CL2P	Clitic=Spcl	6	aux:val	_	_
+6	yoiti-ai	_	VERB	VERB	_	0	root	_	_
+7	nato	_	ADJ	ADJ	_	8	amod	_	_
+8-9	kointo-nin	_	_	_	_	_	_	_	_
+8	kointo	_	NOUN	NOUN	_	6	nsubj	_	_
+9	-nin	_	PART	CLNOM	Clitic=Nomcl	8	case	_	_
+10	?	_	PUNCT	PUNCT	_	6	punct	_	_
+
+# newdoc_id = Lea_Transcripcion2_parte1_5_1.xml
+# sent_id = Lea_Transcripcion2_parte1_5_1.xml-4
+# text = ¿ Jawekeskáaxonki amen onana iki ?
+# es_text = ¿Cómo reconoció que era ronsoco?
+1	¿	_	PUNCT	PUNCT	_	5	punct	_	_
+2-3	jawekeskaxon-ki	_	_	_	_	_	_	_	_
+2	jawekeskaxon	_	ADV	PINT	PronType=Int	5	advmod	_	_
+3	-ki	_	PART	CL2P	Clitic=Spcl	5	aux:val	_	_
+4	amen	_	NOUN	NOUN	_	5	obj	_	_
+5	onánti-a	_	VERB	VERB	_	0	root	_	_
+6	iki	_	AUX	AUX	_	5	aux	_	_
+7	?	_	PUNCT	PUNCT	_	5	punct	_	_
+
+# newdoc_id = transcripcion5_34.xml
+# sent_id = transcripcion5_34.xml-1
+# text = Pei 30 iká bewá jakiribi mawawe .
+# es_text = Repasa la canción de las páginas 29 y 30.
+1	Pei	_	NOUN	NOUN	_	3	obl	_	_
+2	30	_	NUM	NUM	_	1	nummod	_	_
+3	iki-a	_	VERB	VERB	_	4	amod	_	_
+4	bewá	_	NOUN	NOUN	_	6	obj	_	_
+5	jakiribi	_	ADV	ADV	_	6	advmod	_	_
+6	máwati-we	_	VERB	VERB	_	0	root	_	_
+7	.	_	PUNCT	PUNCT	_	6	punct	_	_
+
+# newdoc_id = transcripcion5_34.xml
+# sent_id = transcripcion5_34.xml-3
+# text = Jakon jawékiatibo
+# es_text = Buenos alimentos
+1	Jakon	_	ADJ	ADJ	_	2	amod	_	_
+2	jawékiati-ti-bo	_	VERB	VERB	_	0	root	_	_
+
+# newdoc_id = transcripcion5_107.xml
+# sent_id = transcripcion5_107.xml-0
+# text = Cristóbal Colón iká iki jawékioma joni .
+# es_text = Pero Cristóbal Colón era un hombre muy pobre.
+1	Cristóbal	_	PROPN	PROPN	_	7	nsubj	_	_
+2	Colón	_	PROPN	PROPN	_	1	compound	_	_
+3	iki-a	_	VERB	VERB	_	7	cop	_	_
+4	iki	_	AUX	AUX	_	3	aux	_	_
+5-6	jawéki-oma	_	_	_	_	_	_	_	_
+5	jawéki	_	NOUN	NOUN	_	7	nmod	_	_
+6	-oma	_	PART	CLNOM	Clitic=Nomcl	5	case	_	_
+7	joni	_	NOUN	NOUN	_	0	root	_	_
+8	.	_	PUNCT	PUNCT	_	7	punct	_	_
+
+# newdoc_id = transcripcion5_107.xml
+# sent_id = transcripcion5_107.xml-2
+# text = Jan vapor maroti atipanyamake , jan kati .
+# es_text = No podía comprar una carabela en que viajar.
+1-2	ja-n	_	_	_	_	_	_	_	_
+1	ja	_	PRON	PRON	_	5	nsubj	_	_
+2	-n	_	PART	CLNOM	Clitic=Nomcl	1	case	_	_
+3	vapor	_	NOUN	NOUN	_	4	obj	_	_
+4	maroti-ti	_	VERB	VERB	_	5	obj	_	_
+5	atipanti-yama-ke	_	VERB	VERB	_	0	root	_	_
+6	,	_	PUNCT	PUNCT	_	5	punct	_	_
+7-8	ja-n	_	_	_	_	_	_	_	_
+7	ja	_	PRON	PRON	_	9	nsubj	_	_
+8	-n	_	PART	CLNOM	Clitic=Nomcl	7	case	_	_
+9	kati-ti	_	VERB	VERB	_	5	obl	_	_
+10	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+# newdoc_id = transcripcion4_27_1.xml
+# sent_id = transcripcion4_27_1.xml-1
+# text = Yamé jo ikai , jain joni iketian .
+# es_text = Ladra de noche si alguien se acerca a nuestra casa.
+1	Yamé	_	ADV	ADV	_	3	advmod	_	_
+2	jo	_	INTJ	INTJ	_	3	compound	_	_
+3	iki-ai	_	VERB	VERB	_	0	root	_	_
+4	,	_	PUNCT	PUNCT	_	3	punct	_	_
+5	jain	_	ADV	ADV	_	7	advmod	_	_
+6	joni	_	NOUN	NOUN	_	7	nsubj	_	_
+7	iki-ketian	_	VERB	VERB	_	3	advcl	_	_
+8	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# newdoc_id = transcripcion4_27_1.xml
+# sent_id = transcripcion4_27_1.xml-3
+# text = Nato bewá onanwe .
+# es_text = Aprende esta canción.
+1	Nato	_	DET	DET	_	2	det	_	_
+2	bewá	_	NOUN	NOUN	_	3	nsubj	_	_
+3	onánti-we	_	VERB	VERB	_	0	root	_	_
+4	.	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# newdoc_id = transcripcion4_27_1.xml
+# sent_id = transcripcion4_27_1.xml-4
+# text = Ochíti bake
+# es_text = Los perritos
+1	Ochíti	_	NOUN	NOUN	_	0	root	_	_
+2	bake	_	NOUN	NOUN	_	1	compound	_	_
+
+# newdoc_id = flashcards_41.xml
+# sent_id = flashcards_41.xml-7
+# text = Eara vinoya iki
+# es_text = Tengo vino.
+1-3	ea-a-ra	_	_	_	_	_	_	_	_
+1	ea	_	PRON	PRON	_	0	root	_	_
+2	-a	_	PART	CLNOM	Clitic=Nomcl	1	case	_	_
+3	-ra	_	PART	CL2P	Clitic=Spcl	1	aux:val	_	_
+4-5	vino-ya	_	_	_	_	_	_	_	_
+4	vino	_	NOUN	NOUN	_	1	nsubj	_	_
+5	-ya	_	PART	CLNOM	Clitic=Nomcl	4	case	_	_
+6	iki	_	VERB	VERB	_	1	cop	_	_
+
+# newdoc_id = flashcards_41.xml
+# sent_id = flashcards_41.xml-9
+# text = Enra mia nokoke
+# es_text = Te encontré.
+1-3	ea-n-ra	_	_	_	_	_	_	_	_
+1	ea	_	PRON	PRON	_	6	nsubj	_	_
+2	-n	_	PART	CLNOM	Clitic=Nomcl	1	case	_	_
+3	-ra	_	PART	CL2P	Clitic=Spcl	6	aux:val	_	_
+4-5	mia-a	_	_	_	_	_	_	_	_
+4	mia	_	PRON	PRON	_	6	obj	_	_
+5	-a	_	PART	CLNOM	Clitic=Nomcl	4	case	_	_
+6	nokóti-ke	_	VERB	VERB	_	0	root	_	_
+
+# newdoc_id = transcripcion4_33_1.xml
+# sent_id = transcripcion4_33_1.xml-0
+# text = ¿ Minki beyamabiresa ?
+# es_text = ¿No has traido ni el uno ni el otro?
+1	¿	_	PUNCT	PUNCT	_	5	punct	_	_
+2-4	mia-n-ki	_	_	_	_	_	_	_	_
+2	mia	_	PRON	PRON	_	5	nsubj	_	_
+3	-n	_	PART	CLNOM	Clitic=Nomcl	2	case	_	_
+4	-ki	_	PART	CL2P	Clitic=Spcl	5	aux:val	_	_
+5-6	beti-yama-bires-a	_	_	_	_	_	_	_	_
+5	beti-yama	_	VERB	VERB	_	0	root	_	_
+6	-bires-a	_	PART	CLPL	Clitic=Lfcl	5	Lfcl	_	_
+7	?	_	PUNCT	PUNCT	_	5	punct	_	_
+
+# newdoc_id = transcripcion4_33_1.xml
+# sent_id = transcripcion4_33_1.xml-1
+# text = Bueno , rama awé maitakin nato pei amichaa bixon .
+# es_text = Entonces hazte una gorrita de estas hojas grandes.
+1	Bueno	_	INTJ	INTJ	_	4	discourse	_	_
+2	,	_	PUNCT	PUNCT	_	1	punct	_	_
+3	rama	_	ADV	ADV	_	4	advmod	_	_
+4	ati-we	_	VERB	VERB	_	0	root	_	_
+5	maitiati-kin	_	VERB	VERB	_	4	advcl	_	_
+6	nato	_	ADJ	ADJ	_	7	amod	_	_
+7	pei	_	NOUN	NOUN	_	10	obj	_	_
+8-9	ani-chaa	_	_	_	_	_	_	_	_
+8	ani	_	ADJ	ADJ	_	7	amod	_	_
+9	-chaa	_	PART	CLPL	Clitic=Lfcl	8	Lfcl	_	_
+10	biti-xon	_	VERB	VERB	_	4	advcl	_	_
+11	.	_	PUNCT	PUNCT	_	4	punct	_	_
+
+# newdoc_id = transcripcion4_33_1.xml
+# sent_id = transcripcion4_33_1.xml-2
+# text = Iráke ¡ papa !
+# es_text = Gracias, papá.
+1	Iráke	_	INTJ	INTJ	_	3	discourse	_	_
+2	¡	_	PUNCT	PUNCT	_	3	punct	_	_
+3	papa	_	NOUN	NOUN	_	0	root	_	_
+4	!	_	PUNCT	PUNCT	_	3	punct	_	_
+
+# newdoc_id = transcripcion4_33_1.xml
+# sent_id = transcripcion4_33_1.xml-3
+# text = Moára ea keenyamai .
+# es_text = Pero ya no las necesito.
+1-2	moa-ra	_	_	_	_	_	_	_	_
+1	moa	_	ADV	ADV	_	5	advmod	_	_
+2	-ra	_	PART	CL2P	Clitic=Spcl	5	aux:val	_	_
+3-4	ea-a	_	_	_	_	_	_	_	_
+3	ea	_	PRON	PRON	_	5	nsubj	_	_
+4	-a	_	PART	CLNOM	Clitic=Nomcl	3	case	_	_
+5	keenti-yama-ai	_	VERB	VERB	_	0	root	_	_
+6	.	_	PUNCT	PUNCT	_	5	punct	_	_
+
+# newdoc_id = transcripcion4_33_1.xml
+# sent_id = transcripcion4_33_1.xml-4
+# text = Barira naí koiman bepoke .
+# es_text = El sol está detrás de una nube grande.
+1-2	bari-ra	_	_	_	_	_	_	_	_
+1	bari	_	NOUN	NOUN	_	6	obj	_	_
+2	-ra	_	PART	CL2P	Clitic=Spcl	6	aux:val	_	_
+3	naí	_	NOUN	NOUN	_	4	compound	_	_
+4-5	koin-man	_	_	_	_	_	_	_	_
+4	koin	_	NOUN	NOUN	_	6	nsubj	_	_
+5	-man	_	PART	CLNOM	Clitic=Nomcl	4	case	_	_
+6	bepoti-ke	_	VERB	VERB	_	0	root	_	_
+7	.	_	PUNCT	PUNCT	_	6	punct	_	_
+
+# newdoc_id = Parte3_3_3.xml
+# sent_id = Parte3_3_3.xml-0
+# text = ¿ Jawen rayosanki jaweaka iki ?
+# es_text = ¿En qué lo convirtió el yerno al Inca?
+1	¿	_	PUNCT	PUNCT	_	5	punct	_	_
+2	Jawen	_	DET	DET	_	3	det	_	_
+3-4	rayos-an-ki	_	_	_	_	_	_	_	_
+3	rayos-an	_	NOUN	NOUN	_	5	iobj	_	_
+4	-ki	_	PART	CL2P	Clitic=Spcl	5	aux:val	_	_
+5	jaweati-a	_	VERB	VERB	_	0	root	_	_
+6	iki	_	AUX	AUX	_	5	aux	_	_
+7	?	_	PUNCT	PUNCT	_	5	punct	_	_
+
+# newdoc_id = flashcards_8.xml
+# sent_id = flashcards_8.xml-0
+# text = ¿ Min natobo onana ?
+# es_text = ¿Reconoces estas?
+1	¿	_	PUNCT	PUNCT	_	5	punct	_	_
+2-3	mia-n	_	_	_	_	_	_	_	_
+2	mia	_	PRON	PRON	_	5	nsubj	_	_
+3	-n	_	PART	CLNOM	Clitic=Nomcl	2	case	_	_
+4	nato-bo	_	PRON	PRON	_	5	obj	_	_
+5	onánti-a	_	VERB	VERB	_	0	root	_	_
+6	?	_	PUNCT	PUNCT	_	5	punct	_	_
+
+# newdoc_id = flashcards_8.xml
+# sent_id = flashcards_8.xml-1
+# text = ¿ Min kexeti onana ?
+# es_text = ¿Sabes coser?
+1	¿	_	PUNCT	PUNCT	_	5	punct	_	_
+2-3	mia-n	_	_	_	_	_	_	_	_
+2	mia	_	PRON	PRON	_	5	nsubj	_	_
+3	-n	_	PART	CLNOM	Clitic=Nomcl	2	case	_	_
+4	kexeti-ti	_	VERB	VERB	_	5	xcomp	_	_
+5	onánti-a	_	VERB	VERB	_	0	root	_	_
+6	?	_	PUNCT	PUNCT	_	5	punct	_	_
+
+# newdoc_id = flashcards_8.xml
+# sent_id = flashcards_8.xml-2
+# text = ¿ Mia ebe kai ?
+# es_text = ¿Me acompañarás?
+1	¿	_	PUNCT	PUNCT	_	5	punct	_	_
+2-3	mia-a	_	_	_	_	_	_	_	_
+2	mia	_	PRON	PRON	_	5	nsubj	_	_
+3	-a	_	PART	CLNOM	Clitic=Nomcl	2	case	_	_
+4	Ea-be	_	PRON	PRON	_	5	obl	_	_
+5	kati-ai	_	VERB	VERB	_	0	root	_	_
+6	?	_	PUNCT	PUNCT	_	5	punct	_	_
+
+# newdoc_id = flashcards_8.xml
+# sent_id = flashcards_8.xml-3
+# text = ¿ Min noa chibankasai ?
+# es_text = ¿Quieres acompañarnos?
+1	¿	_	PUNCT	PUNCT	_	6	punct	_	_
+2-3	mia-n	_	_	_	_	_	_	_	_
+2	mia	_	PRON	PRON	_	6	nsubj	_	_
+3	-n	_	PART	CLNOM	Clitic=Nomcl	2	case	_	_
+4-5	noa-a	_	_	_	_	_	_	_	_
+4	noa	_	PRON	PRON	_	6	obj	_	_
+5	-a	_	PART	CLNOM	Clitic=Nomcl	4	case	_	_
+6	chibanti-kas-ai	_	VERB	VERB	_	0	root	_	_
+7	?	_	PUNCT	PUNCT	_	6	punct	_	_
+
+# newdoc_id = Lea_Transcripcion2_parte1_3_1.xml
+# sent_id = Lea_Transcripcion2_parte1_3_1.xml-2
+# text = Jaskáxonki awakan ronon ewa bakeranon tesaa iki .
+# es_text = Como la sachavaca tenía más fuerza, destrozó a la boa.
+1-2	jaskáxon-ki	_	_	_	_	_	_	_	_
+1	jaskáxon	_	CCONJ	CONJ	_	9	cc	_	_
+2	-ki	_	PART	CL2P	Clitic=Spcl	9	aux:val	_	_
+3-4	awa-kan	_	_	_	_	_	_	_	_
+3	awa	_	NOUN	NOUN	_	9	nsubj	_	_
+4	-kan	_	PART	CLNOM	Clitic=Nomcl	3	case	_	_
+5-6	rono-n	_	_	_	_	_	_	_	_
+5	rono	_	NOUN	NOUN	_	7	nmod	_	_
+6	-n	_	PART	CLNOM	Clitic=Nomcl	5	case	_	_
+7	ewa	_	NOUN	NOUN	_	8	compound	_	_
+8	bakeranon	_	NOUN	NOUN	_	9	obj	_	_
+9	tésati-a	_	VERB	VERB	_	0	root	_	_
+10	iki	_	AUX	AUX	_	9	aux	_	_
+11	.	_	PUNCT	PUNCT	_	9	punct	_	_
+
+# newdoc_id = Lea_Transcripcion2_parte1_3_1.xml
+# sent_id = Lea_Transcripcion2_parte1_3_1.xml-3
+# text = " Piti benabatanon " , ikainiki kakátiai .
+# es_text = "Voy a traer algo para comer", y luego se iba.
+1	"	_	PUNCT	PUNCT	_	3	punct	_	_
+2	Piti	_	NOUN	NOUN	_	3	ccomp	_	_
+3	benabatanon	_	VERB	VERB	_	6	parataxis	_	_
+4	"	_	PUNCT	PUNCT	_	3	punct	_	_
+5	,	_	PUNCT	PUNCT	_	3	punct	_	_
+6-8	iki-a-ain-ki	_	_	_	_	_	_	_	_
+6	iki-a	_	VERB	VERB	_	9	conj	_	_
+7	-ain	_	PART	CLNOM	Clitic=Nomcl	6	case	_	_
+8	-ki	_	PART	CL2P	Clitic=Spcl	9	aux:val	_	_
+9	kati-kati-ai	_	VERB	VERB	_	0	root	_	_
+10	.	_	PUNCT	PUNCT	_	9	punct	_	_
+
+# newdoc_id = Parte3_2_3.xml
+# sent_id = Parte3_2_3.xml-0
+# text = Jonin ino paráni
+# es_text = El tigre que fue engañado por un hombre
+1-2	joni-n	_	_	_	_	_	_	_	_
+1	joni	_	NOUN	NOUN	_	4	nsubj	_	_
+2	-n	_	PART	CLNOM	Clitic=Nomcl	1	case	_	_
+3	ino	_	NOUN	NOUN	_	4	obj	_	_
+4	paranti-ni	_	VERB	VERB	_	0	root	_	_
+
+# newdoc_id = transcripcion5_25.xml
+# sent_id = transcripcion5_25.xml-1
+# text = Panchanra banaa iki jawetiishokores waxmen .
+# es_text = Paca ha sembrado algunas plantas de algodón.
+1-3	Pancha-n-ra	_	_	_	_	_	_	_	_
+1	Pancha	_	PROPN	PROPN	_	4	nsubj	_	_
+2	-n	_	PART	CLNOM	Clitic=Nomcl	1	case	_	_
+3	-ra	_	PART	CL2P	Clitic=Spcl	4	aux:val	_	_
+4	banati-a	_	VERB	VERB	_	0	root	_	_
+5	iki	_	AUX	AUX	_	4	aux	_	_
+6-8	jawetii-shoko-res	_	_	_	_	_	_	_	_
+6	jawetii	_	ADJ	ADJ	_	9	amod	_	_
+7	-shoko	_	PART	CLPL	Clitic=Lfcl	6	Lfcl	_	_
+8	-res	_	PART	CLPL	Clitic=Lfcl	6	Lfcl	_	_
+9	waxmen	_	NOUN	NOUN	_	4	obj	_	_
+10	.	_	PUNCT	PUNCT	_	4	punct	_	_
