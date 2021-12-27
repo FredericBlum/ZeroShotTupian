@@ -59,11 +59,15 @@ def read_conllu_utt(path):
             utterance = []
             for tok in line:
                 if tok['upos'] != "_":
+                    tok['form'] = tok['form'].replace("-", "")
+
                     utterance.append(tok['form'])
 
             utt_str = " ".join(utterance)
             data.append(utt_str)
-    print(data)
+
+    data = "\n".join(data)
+    #print(data)
 
     return data
 
