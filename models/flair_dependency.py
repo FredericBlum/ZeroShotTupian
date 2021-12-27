@@ -1,15 +1,20 @@
+from flair.models import SequenceTagger
 from flair.datasets.conllu import CoNLLUCorpus
 from flair.embeddings import FlairEmbeddings, TransformerWordEmbeddings, StackedEmbeddings
+from flair.models import DependencyParser
+from flair.trainers import ModelTrainer
 
-import flair.models as fl
+
+# from flair.visual.tree_printer import tree_printer
 
 corpus = CoNLLUCorpus(data_folder = '../data/shipibo/orig',
                     train_file = 'train.conllu',
                     test_file = 'test.conllu',
                     dev_file = 'valid.conllu')
 
+#sentence.metadata
 
-dependency_dictionary = corpus.make_label_dictionary(label_type='head')
+dependency_dictionary = corpus.make_label_dictionary(label_type='deprel')
 label_type = 'dependency'
 
 # word embeddings
@@ -20,13 +25,12 @@ bert_embedding = TransformerWordEmbeddings('bert-base-multilingual-uncased')
 flair_embedding_forward = FlairEmbeddings('multi-forward')
 flair_embedding_backward = FlairEmbeddings('multi-backward')
 
-
 embeddings = StackedEmbeddings(embeddings=[bert_embedding, flair_embedding_forward, flair_embedding_backward])
 
 # 5. initialize sequence tagger
-tagger = fl.DependencyParser(lstm_hidden_size = 512,
-                        embeddings=embeddings,
-                        tag_dictionary=dependency_dictionary,
+tagger = DependencyParser(lstm_hidden_size = 512,
+                        token_embeddings=embeddings,
+                        relations_dictionary=dependency_dictionary,
                         tag_type=label_type)
 
 # 6. initialize trainer
@@ -38,7 +42,12 @@ trainer.train('resources/taggers/example-dependency',
                 use_final_model_for_eval = True, # necessary because .pt writing is damaged
                 learning_rate=0.1,
                 mini_batch_size=8,
-                max_epochs=20)
+                max_epochs=20,
+                gold_label_dictionary_for_eval = )
+
+sentence = Sentence('Nato escuelankoxon non onanai , jakon bake inoxon , non nete cuídannoxon')
+dep_parser_model: DependencyParser = DependencyParser.load('resources/taggers/example-dependency/best_model.pt')
+dep_parser_model.predict(sentence, print_tree=True)
 
 # visualize
 plotter = Plotter()

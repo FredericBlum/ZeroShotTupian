@@ -35,8 +35,8 @@ label_type = 'upos'
 word_sk_embeddings = FlairEmbeddings('resources/taggers/language_model/best-lm.pt')
 
 # word embeddings
-bert_embedding = TransformerWordEmbeddings('bert-base-multilingual-uncased')
-# alternatives: xlm-roberta-large, xlm-roberta-base
+bert_embedding = TransformerWordEmbeddings('xlm-roberta-base')
+# alternatives: xlm-roberta-large, 
 
 # character embeddings
 flair_embedding_forward = FlairEmbeddings('multi-forward')
@@ -71,11 +71,3 @@ trainer.train('resources/taggers/example-upos',
 plotter = Plotter()
 plotter.plot_training_curves('resources/taggers/example-upos/loss.tsv')
 #plotter.plot_weights('weights.txt')
-
-
-##########################
-#### To-Do: 
-##########################
-# train own embeddings; how do I evaluate them?
-# test dependency parser
-# test zero-shot training

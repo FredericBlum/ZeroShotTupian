@@ -1,0 +1,705 @@
+token gold_tag gold_arc predicted_tag predicted_arc
+Nato  None <unk> 2
+escuela-nkoxon  None <unk> 4
+escuela  None <unk> 7
+-nkoxon  None <unk> 10
+noa-n  None <unk> 11
+noa  None <unk> 11
+-n  None <unk> 12
+onanti-ai  None <unk> 12
+,  None <unk> 12
+jakon  None <unk> 12
+bake  None <unk> 12
+iki-noxon  None <unk> 13
+,  None <unk> 14
+noa-n  None <unk> 16
+noa  None <unk> 17
+-n  None <unk> 18
+nete  None <unk> 19
+cuidanti-noxon  None <unk> 19
+.  None <unk> 0
+
+noa-n  None <unk> 2
+noa  None <unk> 4
+-n  None <unk> 6
+escuela-ra  None <unk> 8
+escuela  None <unk> 8
+-ra  None <unk> 9
+noa-n  None <unk> 10
+noa  None <unk> 10
+-n  None <unk> 11
+jáwetianbi  None <unk> 12
+manishti-ma-ti-ma  None <unk> 13
+manishti-ma-ti  None <unk> 14
+-ma  None <unk> 15
+iki  None <unk> 15
+.  None <unk> 0
+
+wasnon-bo  None <unk> 0
+soati-non  None <unk> 3
+ati-kan-we  None <unk> 4
+.  None <unk> 0
+
+kati-xon-ki  None <unk> 0
+kati-xon  None <unk> 3
+-ki  None <unk> 4
+ati-a  None <unk> 5
+iki  None <unk> 6
+rikanti-kin  None <unk> 7
+.  None <unk> 0
+
+jakon-shoko  None <unk> 0
+jakon  None <unk> 3
+-shoko  None <unk> 4
+ainbo  None <unk> 5
+boo  None <unk> 6
+nenké  None <unk> 7
+.  None <unk> 0
+
+ea-n-ra  None <unk> 0
+ea  None <unk> 3
+-n  None <unk> 4
+-ra  None <unk> 5
+jato  None <unk> 6
+ointi-yama-ai  None <unk> 0
+
+ea-a-ra  None <unk> 0
+ea  None <unk> 3
+-a  None <unk> 4
+-ra  None <unk> 5
+mai-n  None <unk> 6
+mai  None <unk> 8
+-n  None <unk> 8
+kati-kas-ai  None <unk> 0
+
+¿  None <unk> 2
+mia-a  None <unk> 3
+mia  None <unk> 4
+-a  None <unk> 5
+arroz-ya  None <unk> 6
+arroz  None <unk> 7
+-ya  None <unk> 8
+iki  None <unk> 9
+?  None <unk> 0
+
+Jaskarainoax-ki  None <unk> 0
+Jaskarainoax  None <unk> 3
+-ki  None <unk> 4
+mawáti-ti  None <unk> 5
+pikoti-a  None <unk> 6
+iki  None <unk> 7
+.  None <unk> 0
+
+noa-n  None <unk> 2
+noa  None <unk> 3
+-n  None <unk> 5
+chío-shoko-bo  None <unk> 6
+chío  None <unk> 7
+-shoko-bo  None <unk> 8
+noa-n  None <unk> 9
+noa  None <unk> 10
+-n  None <unk> 11
+ointi-ai  None <unk> 11
+.  None <unk> 0
+
+noa-n  None <unk> 2
+noa  None <unk> 3
+-n  None <unk> 5
+anibo  None <unk> 6
+noa-n  None <unk> 6
+noa  None <unk> 7
+-n  None <unk> 9
+jawéki  None <unk> 9
+ati-kin-ai  None <unk> 10
+.  None <unk> 0
+
+Jainxon  None <unk> 2
+noa-n  None <unk> 4
+noa  None <unk> 6
+-n  None <unk> 7
+yoxan-shoko-bo  None <unk> 8
+yoxan  None <unk> 9
+-shoko-bo  None <unk> 9
+noa-n  None <unk> 10
+noa  None <unk> 11
+-n  None <unk> 12
+jawéki  None <unk> 13
+akinti-ti  None <unk> 13
+iki  None <unk> 14
+.  None <unk> 0
+
+¿  None <unk> 2
+Jawe  None <unk> 3
+yoiti-i  None <unk> 4
+iki-a-rin  None <unk> 5
+iki-a  None <unk> 6
+-rin  None <unk> 7
+nato  None <unk> 8
+kointo  None <unk> 9
+?  None <unk> 0
+
+¿  None <unk> 2
+Moa  None <unk> 3
+basi  None <unk> 5
+iiti-kin-ki  None <unk> 6
+iiti-kin  None <unk> 7
+-ki  None <unk> 8
+,  None <unk> 8
+jawerano  None <unk> 9
+bakeranon  None <unk> 11
+raanti-kan-a  None <unk> 11
+iki  None <unk> 12
+?  None <unk> 0
+
+Jaskara  None <unk> 2
+iki-ketian  None <unk> 3
+,  None <unk> 5
+yantan  None <unk> 6
+bari  None <unk> 6
+jikiti-ama-painon  None <unk> 7
+jikiti-ama  None <unk> 9
+-painon  None <unk> 9
+riki  None <unk> 10
+.  None <unk> 0
+
+Iamarake  None <unk> 0
+.  None <unk> 0
+
+Aa  None <unk> 0
+¡  None <unk> 3
+papa  None <unk> 4
+!  None <unk> 0
+
+ati-yora-kin-ra  None <unk> 0
+ati  None <unk> 3
+-yora-kin  None <unk> 4
+-ra  None <unk> 5
+ea-a  None <unk> 6
+xoiti-ke  None <unk> 7
+.  None <unk> 0
+
+Jainoax  None <unk> 2
+jati-riba-ke  None <unk> 3
+jati  None <unk> 5
+-riba-ke  None <unk> 7
+ja-n  None <unk> 7
+ja  None <unk> 8
+-n  None <unk> 9
+noa-n  None <unk> 10
+noa  None <unk> 11
+-n  None <unk> 12
+yora  None <unk> 12
+koshiati-ti  None <unk> 13
+.  None <unk> 0
+
+ja-a-bo  None <unk> 2
+ja  None <unk> 3
+-a-bo  None <unk> 6
+iki  None <unk> 6
+,  None <unk> 7
+nami  None <unk> 8
+,  None <unk> 9
+yapa  None <unk> 9
+,  None <unk> 11
+poroto  None <unk> 12
+,  None <unk> 13
+tama  None <unk> 13
+.  None <unk> 0
+
+¿  None <unk> 0
+jawekeská-rin  None <unk> 3
+jawekeská  None <unk> 4
+-rin  None <unk> 5
+jawen  None <unk> 6
+pei  None <unk> 7
+?  None <unk> 0
+
+Ja-a  None <unk> 2
+Ja  None <unk> 3
+-a  None <unk> 6
+pei  None <unk> 7
+keskáati-kin  None <unk> 7
+mia-n  None <unk> 8
+mia  None <unk> 8
+-n  None <unk> 9
+cuaderno-nin  None <unk> 11
+cuaderno  None <unk> 12
+-nin  None <unk> 13
+ati-we  None <unk> 13
+.  None <unk> 0
+
+Jawen  None <unk> 0
+jane-bo  None <unk> 3
+wishati-we  None <unk> 4
+.  None <unk> 0
+
+¿  None <unk> 2
+tsoa-a-ki  None <unk> 3
+tsoa  None <unk> 5
+-a  None <unk> 7
+-ki  None <unk> 8
+inka-n  None <unk> 8
+inka  None <unk> 9
+-n  None <unk> 10
+chii  None <unk> 11
+biti-ti  None <unk> 12
+yonoti-kan-a  None <unk> 12
+iki  None <unk> 13
+?  None <unk> 0
+
+Awá  None <unk> 0
+betan  None <unk> 3
+chosko  None <unk> 4
+bakeranon  None <unk> 5
+iki-ni  None <unk> 0
+
+Jatian  None <unk> 2
+28  None <unk> 4
+de  None <unk> 7
+julio  None <unk> 8
+de  None <unk> 8
+1821  None <unk> 9
+iki-ketian  None <unk> 9
+,  None <unk> 10
+San  None <unk> 11
+Martin-man  None <unk> 12
+Martin  None <unk> 13
+-man  None <unk> 14
+yoiti-a  None <unk> 14
+iki  None <unk> 15
+:  None <unk> 0
+
+Perú  None <unk> 0
+vivanti-kan-we  None <unk> 3
+.  None <unk> 0
+
+¿  None <unk> 2
+mia-a  None <unk> 3
+mia  None <unk> 5
+-a  None <unk> 6
+japones-nin  None <unk> 6
+japones  None <unk> 7
+-nin  None <unk> 9
+yoyo  None <unk> 9
+iki-ai  None <unk> 10
+?  None <unk> 0
+
+¿  None <unk> 2
+mia-a  None <unk> 3
+mia  None <unk> 5
+-a  None <unk> 6
+suajuali-nin  None <unk> 6
+suajuali  None <unk> 7
+-nin  None <unk> 9
+yoyo  None <unk> 9
+iki-ai  None <unk> 10
+?  None <unk> 0
+
+¿  None <unk> 2
+mia-a  None <unk> 3
+mia  None <unk> 6
+-a  None <unk> 7
+nawa-n  None <unk> 8
+nawa  None <unk> 8
+-n  None <unk> 9
+joi-n  None <unk> 9
+joi  None <unk> 11
+-n  None <unk> 12
+yoyo  None <unk> 12
+iki-ai  None <unk> 13
+?  None <unk> 0
+
+¿  None <unk> 2
+francés-nin  None <unk> 3
+francés  None <unk> 4
+-nin  None <unk> 5
+mia-a  None <unk> 6
+yoyo  None <unk> 7
+iki-ai  None <unk> 8
+?  None <unk> 0
+
+Ikaxbi  None <unk> 0
+payari  None <unk> 0
+riki  None <unk> 4
+joxo  None <unk> 5
+.  None <unk> 0
+
+Jawen  None <unk> 0
+jana  None <unk> 3
+riki  None <unk> 4
+xakiti  None <unk> 5
+keská  None <unk> 6
+.  None <unk> 0
+
+Ja  None <unk> 0
+riki  None <unk> 3
+pia-n  None <unk> 4
+pia  None <unk> 5
+-n  None <unk> 6
+tsakati-ti  None <unk> 7
+.  None <unk> 0
+
+ikaxbi-ra  None <unk> 0
+ikaxbi  None <unk> 3
+-ra  None <unk> 4
+ja  None <unk> 5
+maxko  None <unk> 6
+iki  None <unk> 7
+.  None <unk> 0
+
+wame-tio  None <unk> 0
+ani-ma  None <unk> 0
+ani  None <unk> 4
+-ma  None <unk> 5
+.  None <unk> 0
+
+¿  None <unk> 2
+jawe-n-ki  None <unk> 3
+jawe-n  None <unk> 4
+-ki  None <unk> 5
+payari  None <unk> 6
+yomerati-ti  None <unk> 7
+iki  None <unk> 8
+?  None <unk> 0
+
+Jainxon  None <unk> 2
+ea-n  None <unk> 3
+ea  None <unk> 4
+-n  None <unk> 5
+jakon  None <unk> 6
+chopa  None <unk> 7
+sáweti-a  None <unk> 8
+iki  None <unk> 9
+.  None <unk> 0
+
+Jainoax  None <unk> 2
+ea-a  None <unk> 3
+ea  None <unk> 5
+-a  None <unk> 6
+boéxeketi-a  None <unk> 7
+iki  None <unk> 8
+nokon  None <unk> 9
+boéxeti-n-bi  None <unk> 10
+boéxeti  None <unk> 11
+-n  None <unk> 12
+-bi  None <unk> 12
+.  None <unk> 0
+
+Jainxon  None <unk> 2
+nokon  None <unk> 3
+mentsis  None <unk> 4
+ea-n  None <unk> 5
+ea  None <unk> 6
+-n  None <unk> 7
+ta-weati-a  None <unk> 8
+iki  None <unk> 9
+.  None <unk> 0
+
+Yamékiri  None <unk> 2
+ea-n  None <unk> 3
+ea  None <unk> 5
+-n  None <unk> 6
+potóti-kin-shaman  None <unk> 6
+potóti-kin  None <unk> 7
+-shaman  None <unk> 9
+xéati-a  None <unk> 9
+iki  None <unk> 10
+.  None <unk> 0
+
+ea-a  None <unk> 2
+ea  None <unk> 3
+-a  None <unk> 8
+mánokoxoti-a  None <unk> 9
+iki  None <unk> 12
+,  None <unk> 12
+cepillo-nin  None <unk> 13
+cepillo  None <unk> 13
+-nin  None <unk> 13
+;  None <unk> 13
+nokon  None <unk> 13
+xeta  None <unk> 14
+chokati-i  None <unk> 14
+,  None <unk> 15
+ompax  None <unk> 17
+bexnan-man  None <unk> 18
+bexnan  None <unk> 19
+-man  None <unk> 19
+.  None <unk> 0
+
+mia-n  None <unk> 2
+mia  None <unk> 3
+-n  None <unk> 5
+cuaderno-nin  None <unk> 6
+cuaderno  None <unk> 6
+-nin  None <unk> 7
+jawen  None <unk> 9
+jane-bo  None <unk> 9
+ati-we  None <unk> 10
+.  None <unk> 0
+
+¿  None <unk> 0
+Jawerano-rin  None <unk> 3
+Jawerano  None <unk> 4
+-rin  None <unk> 5
+Norte  None <unk> 6
+América  None <unk> 7
+?  None <unk> 0
+
+¿  None <unk> 2
+Jawerato  None <unk> 3
+aninasi-n-rin  None <unk> 4
+aninasi  None <unk> 5
+-n  None <unk> 6
+-rin  None <unk> 7
+Perú  None <unk> 8
+?  None <unk> 0
+
+¿  None <unk> 2
+Jawerato  None <unk> 3
+ponté-ki  None <unk> 5
+ponté  None <unk> 6
+-ki  None <unk> 7
+kati-ti  None <unk> 7
+iki  None <unk> 8
+,  None <unk> 10
+Asia-in  None <unk> 10
+kati-i  None <unk> 11
+?  None <unk> 0
+
+jati-ra-ke  None <unk> 2
+jati  None <unk> 3
+-ra-ke  None <unk> 5
+avión-shoko-bo  None <unk> 6
+avión  None <unk> 7
+-shoko-bo  None <unk> 8
+,  None <unk> 9
+jene-n  None <unk> 10
+jene  None <unk> 11
+-n  None <unk> 12
+pakéti-ai  None <unk> 12
+.  None <unk> 0
+
+¿  None <unk> 2
+mia-a  None <unk> 3
+mia  None <unk> 5
+-a  None <unk> 6
+iti-kon-i  None <unk> 6
+iti  None <unk> 7
+-kon-i  None <unk> 9
+yoyo  None <unk> 9
+iki-ai  None <unk> 10
+?  None <unk> 0
+
+noa-n  None <unk> 0
+noa  None <unk> 3
+-n  None <unk> 4
+yoyo  None <unk> 5
+ati-ti  None <unk> 6
+atipanti-a  None <unk> 0
+
+¿  None <unk> 2
+ea-n  None <unk> 3
+ea  None <unk> 4
+-n  None <unk> 5
+jain  None <unk> 6
+iti-ti  None <unk> 7
+atipanti-a  None <unk> 8
+?  None <unk> 0
+
+¡  None <unk> 2
+Ja  None <unk> 3
+pekao  None <unk> 4
+ea-a  None <unk> 5
+ea  None <unk> 6
+-a  None <unk> 7
+kenati-we  None <unk> 8
+!  None <unk> 0
+
+mia-n  None <unk> 0
+mia  None <unk> 3
+-n  None <unk> 4
+osanti-i  None <unk> 5
+riki  None <unk> 6
+noa-a  None <unk> 7
+noa  None <unk> 8
+-a  None <unk> 0
+
+jatian-ki  None <unk> 2
+jatian  None <unk> 3
+-ki  None <unk> 11
+yoiti-a  None <unk> 12
+iki  None <unk> 12
+:  None <unk> 13
+"  None <unk> 14
+Nato  None <unk> 14
+bimi  None <unk> 14
+kokoti-i  None <unk> 14
+joti-ax-a  None <unk> 14
+joti-ax  None <unk> 14
+-a  None <unk> 15
+ea-a  None <unk> 15
+ea  None <unk> 16
+-a  None <unk> 17
+iiti-ai  None <unk> 18
+,  None <unk> 20
+"  None <unk> 21
+ati-kin  None <unk> 21
+.  None <unk> 0
+
+Jaskatax  None <unk> 2
+ino  None <unk> 4
+neeti-shoko-kas-a-bi  None <unk> 8
+neeti  None <unk> 9
+-shoko-kas-a  None <unk> 10
+-bi  None <unk> 10
+iti-ti-koma  None <unk> 10
+iti-ti  None <unk> 11
+-koma  None <unk> 11
+iki-a  None <unk> 12
+iki  None <unk> 13
+,  None <unk> 13
+ja  None <unk> 15
+jiwi  None <unk> 16
+sibá  None <unk> 17
+iki-ax  None <unk> 17
+.  None <unk> 0
+
+Jakon  None <unk> 0
+jaweki  None <unk> 3
+bánati-ai  None <unk> 4
+.  None <unk> 0
+
+Atsa  None <unk> 0
+taxo  None <unk> 3
+bánati-ai  None <unk> 4
+.  None <unk> 0
+
+Xeki  None <unk> 0
+bero  None <unk> 3
+bánati-ai  None <unk> 4
+.  None <unk> 0
+
+Kari  None <unk> 0
+tapon  None <unk> 3
+bánati-ai  None <unk> 4
+.  None <unk> 0
+
+Maxó  None <unk> 0
+bakeranon  None <unk> 3
+betan  None <unk> 4
+jawen  None <unk> 5
+tita  None <unk> 6
+iki-ni  None <unk> 0
+
+Jaskatax  None <unk> 2
+,  None <unk> 3
+ja  None <unk> 6
+maxó  None <unk> 7
+bakeranon  None <unk> 8
+kati-a  None <unk> 9
+iki  None <unk> 9
+,  None <unk> 10
+chonka  None <unk> 11
+pichika  None <unk> 12
+joni-a  None <unk> 13
+joni  None <unk> 13
+-a  None <unk> 14
+.  None <unk> 0
+
+Moa  None <unk> 2
+kawánti-ketian  None <unk> 3
+jawen  None <unk> 6
+tita-n  None <unk> 6
+tita  None <unk> 7
+-n  None <unk> 8
+mana  None <unk> 9
+mánati-a  None <unk> 9
+iki  None <unk> 11
+,  None <unk> 12
+yantanti-paket-aitian  None <unk> 12
+.  None <unk> 0
+
+néte-tiibi  None <unk> 2
+noa-n  None <unk> 3
+noa  None <unk> 5
+-n  None <unk> 6
+xeati-ti  None <unk> 7
+iki  None <unk> 8
+,  None <unk> 8
+westíora  None <unk> 10
+litro  None <unk> 11
+inonbires  None <unk> 12
+,  None <unk> 13
+ompax  None <unk> 13
+.  None <unk> 0
+
+noa-n  None <unk> 2
+noa  None <unk> 3
+-n  None <unk> 5
+xeati-ti  None <unk> 6
+iki  None <unk> 6
+jakon  None <unk> 7
+ompax-bicho  None <unk> 9
+ompax  None <unk> 10
+-bicho  None <unk> 10
+.  None <unk> 0
+
+Jaskatax  None <unk> 2
+ja  None <unk> 3
+Inca-n  None <unk> 5
+Inca  None <unk> 6
+-n  None <unk> 7
+xeni-n  None <unk> 7
+xeni  None <unk> 8
+-n  None <unk> 10
+sikíti-a  None <unk> 10
+iki  None <unk> 11
+.  None <unk> 0
+
+Jaskáaxon  None <unk> 2
+incaati-kin  None <unk> 3
+janeti-kan-a  None <unk> 4
+iki  None <unk> 5
+,  None <unk> 6
+ja  None <unk> 7
+Manco  None <unk> 8
+Cápac  None <unk> 9
+.  None <unk> 0
+
+¿  None <unk> 0
+mia-a  None <unk> 3
+mia  None <unk> 4
+-a  None <unk> 5
+ranx  None <unk> 6
+iki-ai  None <unk> 7
+?  None <unk> 0
+
+Neteti-ax  None <unk> 0
+yoyo  None <unk> 3
+iki-we  None <unk> 0
+
+jati-ribi  None <unk> 2
+jati  None <unk> 3
+-ribi  None <unk> 5
+yapa-bo-ra  None <unk> 6
+yapa-bo  None <unk> 7
+-ra  None <unk> 7
+iki-ai  None <unk> 9
+make-ki  None <unk> 10
+raketi-ti  None <unk> 10
+.  None <unk> 0
+
+¿  None <unk> 2
+Jawe  None <unk> 3
+kopi-ki  None <unk> 5
+kopi  None <unk> 6
+-ki  None <unk> 6
+jawen  None <unk> 7
+xeta  None <unk> 9
+kensho  None <unk> 9
+iki  None <unk> 10
+?  None <unk> 0
+
+Apoo  None <unk> 0
+.  None <unk> 0
+

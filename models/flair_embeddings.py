@@ -5,8 +5,8 @@ from helper_functions import make_word_dictionary, read_conllu_utt
 
 
 
-dictionary: Dictionary = make_word_dictionary(train_text)
-
+#dictionary: Dictionary = make_word_dictionary(train_text)
+# make_word_dictionary
 # are you training a forward or backward LM?
 is_forward_lm = True
 
@@ -18,7 +18,7 @@ dictionary: Dictionary = Dictionary.load('chars')
 corpus = TextCorpus('../data/shipibo/embeddings',
                     dictionary,
                     #is_forward_lm,
-                    character_level=False)
+                    character_level=True)
 
 
 # instantiate your language model, set hidden size and number of layers

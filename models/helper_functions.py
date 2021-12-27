@@ -41,7 +41,7 @@ def create_sk_text(path_in, path_out, sep: bool = True):
                 if tok['upos'] != "_":
                     if sep == False:
                         tok['form'] = tok['form'].replace("-", "")
-                    combined = tok['form'] + " " + tok['upos']
+                    combined = tok['form'] + " " + tok['upos'] + " " + tok['deprel']
                     utterance.append(combined)
             utt_str = "\n".join(utterance)
             data.append(utt_str)
@@ -136,35 +136,3 @@ def make_label_dictionary(data) -> Dict[str, int]:
             label_freq[label] += 1
 
     return label_to_ix, label_freq
-
-
-def make_label_vector(label, label_to_ix):
-    device = 'cuda'
-
-    cuda_tens = torch.tensor([label_to_ix[label]], device=device)
-    cuda_tens_long = cuda_tens.long()
-
-    return cuda_tens_long
-
-
-def make_onehot_vectors(sentence, word_to_ix, max_ngrams: int = 1):
-    device = 'cuda'
-    onehot_vectors = []
-
-    # go over all n-gram sizes (including 1)
-    for ngram_size in range(1, max_ngrams + 1):
-
-        # move a window over the text
-        for ngram in windowed(sentence, ngram_size):
-            if None not in ngram:
-
-                # make ngram string
-                ngram_word = " ".join(ngram)
-
-                # look up ngram index in dictionary
-                if ngram_word in word_to_ix:
-                    onehot_vectors.append(word_to_ix[ngram_word])
-                else:
-                    onehot_vectors.append(word_to_ix["UNK"] if "UNK" in word_to_ix else 0)
-
-    return torch.tensor(onehot_vectors, device=device).unsqueeze(0)
