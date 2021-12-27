@@ -1,7 +1,11 @@
 from flair.data import Sentence
 from flair.data import Corpus
 from flair.datasets import ColumnCorpus
+<<<<<<< HEAD
 from flair.embeddings import FlairEmbeddings, TransformerWordEmbeddings, StackedEmbeddings
+=======
+from flair.embeddings import FlairEmbeddings, StackedEmbeddings, TransformerWordEmbeddings
+>>>>>>> e988642 (param setting pos)
 from flair.models import SequenceTagger
 from flair.trainers import ModelTrainer
 from flair.visual.training_curves import Plotter
@@ -46,7 +50,7 @@ flair_embedding_backward = FlairEmbeddings('multi-backward')
 embeddings = StackedEmbeddings(embeddings=[bert_embedding, flair_embedding_forward, flair_embedding_backward])
 
 # 5. initialize sequence tagger
-tagger = SequenceTagger(hidden_size=256,
+tagger = SequenceTagger(hidden_size=1024,
                         embeddings=embeddings,
                         tag_dictionary=upos_dictionary,
                         tag_type=label_type,
@@ -61,13 +65,41 @@ trainer = ModelTrainer(tagger, corpus)
 
 # 7. start training
 trainer.train('resources/taggers/example-upos',
-                #write_weights = True,
-                use_final_model_for_eval = True, # necessary because .pt writing is damaged
-                learning_rate=0.1,
-                mini_batch_size=8,
-                max_epochs=20)
+                write_weights = True,
+               param_selection_mode = True, # necessary because .pt writing is damaged
+                learning_rate=0.05,
+                mini_batch_size=4,
+                max_epochs=25)
 
 # visualize
 plotter = Plotter()
 plotter.plot_training_curves('resources/taggers/example-upos/loss.tsv')
-#plotter.plot_weights('weights.txt')
+
+
+##########################
+# To-Do: fine-tune embeddings
+
+""" # use first and last subtoken for each word
+embeddings = TransformerWordEmbeddings('bert-base-uncased', fine_tune=True, layers='-1')
+embeddings.embed(sentence)
+print(sentence[0].embedding)
+# using top most layer for fine-tuning, thats why "-1"
+# fine-tune in training tourine!
+# fine tune word embeddings
+
+from flair.embeddings import StackedEmbeddings
+
+# now create the StackedEmbedding object that combines all embeddings
+stacked_embeddings = StackedEmbeddings(
+    embeddings=[flair_forward_embedding, flair_backward_embedding, bert_embedding])
+
+
+# train gensim for word embedding
+
+# convert fasttext to gensim
+import gensim
+
+word_vectors = gensim.models.KeyedVectors.load_word2vec_format('/path/to/fasttext/embeddings.txt', binary=False)
+word_vectors.save('/path/to/converted')
+ """
+>>>>>>> e988642 (param setting pos)
