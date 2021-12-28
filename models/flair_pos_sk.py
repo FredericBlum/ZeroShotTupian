@@ -1,6 +1,3 @@
-from flair.data import Sentence
-from flair.data import Corpus
-from flair.datasets import ColumnCorpus
 from flair.embeddings import FlairEmbeddings, TransformerWordEmbeddings, StackedEmbeddings
 from flair.models import SequenceTagger
 from flair.trainers import ModelTrainer
@@ -10,7 +7,7 @@ from helper_functions import conllu_to_flair
 
 
 # data and dictionaries
-corpus, gold_dict = conllu_to_flair('../data/shipibo/shipibo-2018jul4.converted.conllu')
+corpus, gold_dict = conllu_to_flair('./data/shipibo/shipibo-2018jul4.converted.conllu')
 upos_dictionary = corpus.make_label_dictionary(label_type='upos')
 label_type = 'upos'
 
