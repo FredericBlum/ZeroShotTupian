@@ -4,22 +4,17 @@ from flair.embeddings import FlairEmbeddings, TransformerWordEmbeddings, Stacked
 from flair.models import DependencyParser
 from flair.trainers import ModelTrainer
 
+from helper_functions import conllu_to_flair
 
-# from flair.visual.tree_printer import tree_printer
 
-corpus = CoNLLUCorpus(data_folder = '../data/shipibo/orig',
-                    train_file = 'train.conllu',
-                    test_file = 'test.conllu',
-                    dev_file = 'valid.conllu')
-
-#sentence.metadata
-
-dependency_dictionary = corpus.make_label_dictionary(label_type='deprel')
-label_type = 'dependency'
+# data and dictionaries
+corpus, gold_dict = conllu_to_flair('../data/shipibo/shipibo-2018jul4.converted.conllu')
+label_type = 'deprel'
+dependency_dictionary = corpus.make_label_dictionary(label_type=label_type)
 
 # word embeddings
 bert_embedding = TransformerWordEmbeddings('bert-base-multilingual-uncased')
-# alternatives: xlm-roberta-large, xlm-roberta-base
+# alternatives: xlm-roberta-base
 
 # character embeddings
 flair_embedding_forward = FlairEmbeddings('multi-forward')
@@ -43,7 +38,7 @@ trainer.train('resources/taggers/example-dependency',
                 learning_rate=0.1,
                 mini_batch_size=8,
                 max_epochs=20,
-                gold_label_dictionary_for_eval = )
+                gold_label_dictionary_for_eval = gold_dict)
 
 sentence = Sentence('Nato escuelankoxon non onanai , jakon bake inoxon , non nete cuídannoxon')
 dep_parser_model: DependencyParser = DependencyParser.load('resources/taggers/example-dependency/best_model.pt')

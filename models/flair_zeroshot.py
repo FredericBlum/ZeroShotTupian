@@ -4,24 +4,17 @@ from flair.embeddings import FlairEmbeddings, TransformerWordEmbeddings, Stacked
 from flair.models import TARSTagger
 from flair.trainers import ModelTrainer
 
-columns = {0: 'text', 1: 'upos'}
-data_folder = '../data/shipibo/flair'
+from helper_functions import conllu_to_flair
 
-corpus: Corpus = ColumnCorpus(data_folder, columns,
-                              train_file = 'shipibo_train.txt',
-                              test_file = 'shipibo_test.txt',
-                              dev_file = 'shipibo_dev.txt')
-
-print(corpus)
-
-# create label dictionary for a Universal Part-of-Speech tagging task
+# data and dictionaries
+corpus, gold_dict = conllu_to_flair('../data/shipibo/shipibo-2018jul4.converted.conllu')
 label_type = 'upos'
 label_dict = corpus.make_label_dictionary(label_type=label_type)
 
 
 # word embeddings
 bert_embedding = TransformerWordEmbeddings('bert-base-multilingual-uncased')
-# alternatives: xlm-roberta-large, xlm-roberta-base
+# alternatives: xlm-roberta-base
 
 # character embeddings
 flair_embedding_forward = FlairEmbeddings('multi-forward')
