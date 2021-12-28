@@ -8,13 +8,12 @@ from helper_functions import conllu_to_flair
 
 
 # data and dictionaries
-corpus, gold_dict = conllu_to_flair('./data/shipibo/shipibo-2018jul4.converted.conllu')
+corpus, gold_dict, word_dict = conllu_to_flair('./data/shipibo/shipibo-2018jul4.converted.conllu')
 label_type = 'deprel'
 dependency_dictionary = corpus.make_label_dictionary(label_type=label_type)
 
 # word embeddings
 word_embedding = TransformerWordEmbeddings('bert-base-multilingual-uncased')
-
 # alternatives: xlm-roberta-base
 
 # character embeddings
@@ -36,8 +35,7 @@ trainer = ModelTrainer(tagger, corpus)
 
 # 7. start training
 trainer.train('models/resources/taggers/example-dependency',
-                #write_weights = True,
-                use_final_model_for_eval = True, # necessary because .pt writing is damaged
+                use_final_model_for_eval = True,
                 learning_rate=0.1,
                 mini_batch_size=8,
                 max_epochs=20)

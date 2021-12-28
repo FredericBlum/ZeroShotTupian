@@ -7,28 +7,20 @@ from flair.trainers import ModelTrainer
 from helper_functions import conllu_to_flair
 
 # data and dictionaries
-corpus, gold_dict = conllu_to_flair('data/shipibo/shipibo-2018jul4.converted.conllu')
+corpus, gold_dict, word_dict = conllu_to_flair('data/shipibo/shipibo-2018jul4.converted.conllu')
 label_type = 'upos'
 label_dict = corpus.make_label_dictionary(label_type=label_type)
 
 #################
-## Embeddings
+## Embeddings   #
 #################
 
-# word_embedding = TransformerWordEmbeddings('xlm-roberta-base') 
-word_embedding = TransformerWordEmbeddings('bert-base-multilingual-uncased')
+word_embedding = FlairEmbeddings('word_sk')
 
-# character embeddings
-flair_embedding_forward = FlairEmbeddings('models/resources/embeddings/sk_forward/best-lm.pt')
-# flair_embedding_forward = FlairEmbeddings('multi-forward')
-# flair_embedding_backward = FlairEmbeddings('multi-backward')
-flair_embedding_backward = FlairEmbeddings('models/resources/embeddings/sk_backward/best-lm.pt')
-
-# embeddings = StackedEmbeddings(embeddings=[word_embedding, flair_embedding_forward, flair_embedding_backward])
 embeddings = word_embedding
-###############
-# TARS
-###############
+#################
+# TARS          #
+#################
 
 # switch to a new task (TARS can do multiple tasks so you must define one)
 tars = TARSTagger(embeddings=embeddings)
@@ -49,5 +41,5 @@ trainer.train(base_path='./models/resources/taggers/oneshot_pos',  # path to sto
               param_selection_mode = True)
 
 sentence = Sentence('Nato escuelankoxon non onanai , jakon bake inoxon , non nete cuídannoxon')
-tars.predict(sentence)
+sentence =tars.predict(sentence)
 print(sentence.to_tagged_string("upos"))

@@ -7,7 +7,7 @@ from helper_functions import conllu_to_flair
 
 
 # data and dictionaries
-corpus, gold_dict = conllu_to_flair('./data/shipibo/shipibo-2018jul4.converted.conllu')
+corpus, gold_dict, word_dict = conllu_to_flair('./data/shipibo/shipibo-2018jul4.converted.conllu')
 upos_dictionary = corpus.make_label_dictionary(label_type='upos')
 label_type = 'upos'
 
