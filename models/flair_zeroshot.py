@@ -48,8 +48,6 @@ trainer.train(base_path='./models/resources/taggers/oneshot_pos',  # path to sto
               max_epochs=2,
               param_selection_mode = True)
 
-""" # 4. Predict for these classes and print results
-sentences = []
-for sentence in sentences:
-    tars.predict(sentence)
-    print(sentence.to_tagged_string("upos")) """
+sentence = Sentence('Nato escuelankoxon non onanai , jakon bake inoxon , non nete cuídannoxon')
+tars.predict(sentence)
+print(sentence.to_tagged_string("upos"))
