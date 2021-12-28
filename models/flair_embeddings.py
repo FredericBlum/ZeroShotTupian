@@ -9,6 +9,7 @@ from helper_functions import make_word_dictionary, read_conllu_utt
 # make_word_dictionary
 # are you training a forward or backward LM?
 is_forward_lm = True
+is_backward_lm = False
 
 # load the default character dictionary
 dictionary: Dictionary = Dictionary.load('chars')
@@ -30,7 +31,8 @@ language_model = LanguageModel(dictionary,
 # train your language model
 trainer = LanguageModelTrainer(language_model, corpus)
 
-trainer.train('resources/taggers/language_model',
-              sequence_length=5,
-              mini_batch_size=4,
-              max_epochs=10)
+trainer.train('resources/embeddings/sk_forward',
+              sequence_length=9,
+	      learning_rate = 1,
+              mini_batch_size=12,
+              max_epochs=20)

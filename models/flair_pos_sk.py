@@ -1,11 +1,7 @@
 from flair.data import Sentence
 from flair.data import Corpus
 from flair.datasets import ColumnCorpus
-<<<<<<< HEAD
 from flair.embeddings import FlairEmbeddings, TransformerWordEmbeddings, StackedEmbeddings
-=======
-from flair.embeddings import FlairEmbeddings, StackedEmbeddings, TransformerWordEmbeddings
->>>>>>> e988642 (param setting pos)
 from flair.models import SequenceTagger
 from flair.trainers import ModelTrainer
 from flair.visual.training_curves import Plotter
@@ -13,18 +9,18 @@ from flair.visual.training_curves import Plotter
 from helper_functions import create_sk_text
 
 
-create_sk_text('../data/shipibo/orig/shipibo_train.conllu', '../data/shipibo/flair/shipibo_train.txt', sep = False)
-create_sk_text('../data/shipibo/orig/shipibo_dev.conllu', '../data/shipibo/flair/shipibo_dev.txt', sep = False)
-create_sk_text('../data/shipibo/orig/shipibo_test.conllu', '../data/shipibo/flair/shipibo_test.txt', sep = False)
+create_sk_text('../data/shipibo/orig/train.conllu', '../data/shipibo/flair/train.txt', sep = False)
+create_sk_text('../data/shipibo/orig/valid.conllu', '../data/shipibo/flair/valid.txt', sep = False)
+create_sk_text('../data/shipibo/orig/test.conllu', '../data/shipibo/flair/test.txt', sep = False)
 
 # init a corpus using column format, data folder and the names of the train, dev and test files
 columns = {0: 'text', 1: 'upos'}
 data_folder = '../data/shipibo/flair'
 
 corpus: Corpus = ColumnCorpus(data_folder, columns,
-                              train_file = 'shipibo_train.txt',
-                              test_file = 'shipibo_test.txt',
-                              dev_file = 'shipibo_dev.txt')
+                              train_file = 'train.txt',
+                              test_file = 'test.txt',
+                              dev_file = 'valid.txt')
 
 # print(corpus)
 
@@ -36,28 +32,23 @@ label_type = 'upos'
 # print(corpus.train[1].to_tagged_string('upos'))
 
 
-word_sk_embeddings = FlairEmbeddings('resources/taggers/language_model/best-lm.pt')
-
-# word embeddings
-bert_embedding = TransformerWordEmbeddings('xlm-roberta-base')
-# alternatives: xlm-roberta-large, 
+#word_embedding = TransformerWordEmbeddings('xlm-roberta-base') 
+word_embedding = TransformerWordEmbeddings('bert-base-multilingual-uncased')
 
 # character embeddings
-flair_embedding_forward = FlairEmbeddings('multi-forward')
-flair_embedding_backward = FlairEmbeddings('multi-backward')
+flair_embedding_forward = FlairEmbeddings('resources/embeddings/sk_forward/best-lm.pt')
+# flair_embedding_forward = FlairEmbeddings('multi-forward')
+# flair_embedding_backward = FlairEmbeddings('multi-backward')
+flair_embedding_backward = FlairEmbeddings('resources/embeddings/sk_backward/best-lm.pt')
 
-
-embeddings = StackedEmbeddings(embeddings=[bert_embedding, flair_embedding_forward, flair_embedding_backward])
+embeddings = StackedEmbeddings(embeddings=[word_embedding, flair_embedding_forward, flair_embedding_backward])
 
 # 5. initialize sequence tagger
-tagger = SequenceTagger(hidden_size=1024,
+tagger = SequenceTagger(hidden_size=512,
                         embeddings=embeddings,
                         tag_dictionary=upos_dictionary,
                         tag_type=label_type,
                         use_crf=True)
-
-# tagger = SequenceTagger.load("pos-multi-fast")
-# fertiger tagger, nich so gut, vielleicht zero-shot mal anschauen
 
 
 # 6. initialize trainer
@@ -67,13 +58,13 @@ trainer = ModelTrainer(tagger, corpus)
 trainer.train('resources/taggers/example-upos',
                 write_weights = True,
                param_selection_mode = True, # necessary because .pt writing is damaged
-                learning_rate=0.05,
-                mini_batch_size=4,
-                max_epochs=25)
+                learning_rate=0.5,
+                mini_batch_size=12,
+                max_epochs=40)
 
 # visualize
 plotter = Plotter()
-plotter.plot_training_curves('resources/taggers/example-upos/loss.tsv')
+#plotter.plot_training_curves('resources/taggers/example-upos/loss.tsv')
 
 
 ##########################
@@ -102,4 +93,3 @@ import gensim
 word_vectors = gensim.models.KeyedVectors.load_word2vec_format('/path/to/fasttext/embeddings.txt', binary=False)
 word_vectors.save('/path/to/converted')
  """
->>>>>>> e988642 (param setting pos)
