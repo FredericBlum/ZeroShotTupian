@@ -1,13 +1,10 @@
 from flair.data import Dictionary
 from flair.models import LanguageModel
 from flair.trainers.language_model_trainer import LanguageModelTrainer, TextCorpus
-from helper_functions import make_word_dictionary, read_conllu_utt
+from helper_functions import make_dictionary
 
-
-
-#dictionary: Dictionary = make_word_dictionary(train_text)
-# make_word_dictionary
-# are you training a forward or backward LM?
+# dictionary: Dictionary = make_dictionary(train_text)
+# forward or backward LM
 is_forward_lm = True
 is_backward_lm = False
 
@@ -32,7 +29,7 @@ language_model = LanguageModel(dictionary,
 trainer = LanguageModelTrainer(language_model, corpus)
 
 trainer.train('resources/embeddings/sk_forward',
-              sequence_length=9,
-	      learning_rate = 1,
-              mini_batch_size=12,
-              max_epochs=20)
+                sequence_length=9,
+	            learning_rate = 1,
+                mini_batch_size=12,
+                max_epochs=20)

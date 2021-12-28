@@ -76,3 +76,29 @@ def conllu_to_flair(path_in):
                                 dev_file = 'dev.txt')
 
     return corpus, gold_dict
+
+def make_dictionary(data, unk_threshold: int = 0) -> Dict[str, int]:
+    '''
+    Makes a dictionary of words given a list of tokenized sentences.
+    :param data: List of (sentence, label) tuples
+    :param unk_threshold: All words below this count threshold are excluded from dictionary and replaced with UNK
+    :return: A dictionary of string keys and index values
+    '''
+
+    # First count the frequency of each distinct ngram
+    word_frequencies = {}
+    for sent in data:
+        for word in sent:
+            if word not in word_frequencies:
+                word_frequencies[word] = 0
+            word_frequencies[word] += 1
+
+    # Assign indices to each distinct ngram
+    word_to_ix = {'<PAD>': 0, '<UNK>': 1}
+    for word, freq in word_frequencies.items():
+        if freq > unk_threshold:  # only add words that are above threshold
+            word_to_ix[word] = len(word_to_ix)
+
+    # Print some info on dictionary size
+    print(f"At unk_threshold={unk_threshold}, the dictionary contains {len(word_to_ix)} words")
+    return word_to_ix
