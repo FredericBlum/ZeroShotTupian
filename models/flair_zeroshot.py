@@ -45,8 +45,8 @@ trainer.train(base_path='./models/resources/taggers/oneshot_pos',  # path to sto
               learning_rate=0.01,  # use very small learning rate
               mini_batch_size=8,
               #mini_batch_chunk_size=4,  # optionally set this if transformer is too much for your machine
-              max_epochs=10
-              )
+              max_epochs=2,
+              param_selection_mode = True)
 
 """ # 4. Predict for these classes and print results
 sentences = []
