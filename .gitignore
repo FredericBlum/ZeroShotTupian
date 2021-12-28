@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # example files for parameter selection
-/models/resources/taggers/example-upos/
+/models/resources/

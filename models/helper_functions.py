@@ -43,7 +43,7 @@ def conllu_to_flair(path_in):
             for tok in line:
                 if tok['upos'] != "_":
                     tok['form'] = tok['form'].replace("-", "")
-                    combined = tok['form'] + " " + tok['upos'] + " " + tok['head'] + " " + tok['deprel']
+                    combined = tok['form'] + " " + tok['upos'] + " " + str(tok['head']) + " " + tok['deprel']
 
                     if tok['form'] in gold_dict:
                         if tok['deprel'] != gold_dict[tok['form']]:
