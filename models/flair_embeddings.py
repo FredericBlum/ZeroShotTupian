@@ -7,6 +7,7 @@ from helper_functions import make_dictionary
 # forward or backward LM
 is_forward_lm = True
 is_backward_lm = False
+flair.device = torch.device('cuda:0')
 
 # load the default character dictionary
 #dictionary: Dictionary = Dictionary.load('chars')
