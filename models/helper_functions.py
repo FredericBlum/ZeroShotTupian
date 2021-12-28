@@ -22,12 +22,9 @@ def conllu_to_flair(path_in):
                     combined = tok['form'] + " " + tok['upos'] + " " + str(tok['head']) + " " + tok['deprel']
                     utterance.append(combined)
 
-                    if tok['form'] in gold_dict:
-                        if tok['deprel'] != gold_dict[tok['form']]:
-                            print(f"you have a problem. check '{tok['form']}' manually")
-                    else:
-                        gold_dict[tok['form']] = tok['deprel']
-                    word_dict.add_item(tok['form'])
+                    if tok['form'] not in gold_dict:
+                         gold_dict[tok['form']] = tok['deprel']
+                         word_dict.add_item(tok['form'])
 
             utt_str = "\n".join(utterance)
             data.append(utt_str)
