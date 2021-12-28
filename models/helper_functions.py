@@ -1,8 +1,6 @@
 from typing import Dict
 from conllu import parse
-import torch
-from more_itertools import windowed
-
+from torch.utils.data import random_split
 
 def read_conllu(path, sep: bool = True, char: bool = False):
     data = []
@@ -28,8 +26,10 @@ def read_conllu(path, sep: bool = True, char: bool = False):
 
     return data
 
-def create_sk_text(path_in, path_out, sep: bool = True):
+def conllu_to_flair(path_in):
     data = []
+    gold_dict = {}
+
     with open(path_in) as file:
         doc = file.read()
         doc = parse(doc)
@@ -39,15 +39,40 @@ def create_sk_text(path_in, path_out, sep: bool = True):
             
             for tok in line:
                 if tok['upos'] != "_":
-                    if sep == False:
-                        tok['form'] = tok['form'].replace("-", "")
+                    tok['form'] = tok['form'].replace("-", "")
                     combined = tok['form'] + " " + tok['upos'] + " " + tok['deprel']
+
+                    if tok['form'] in gold_dict:
+                        if tok['deprel'] != gold_dict[tok['form']]:
+                            print(f"you have a problem. check '{tok['form']}' manually")
+                    else:
+                        gold_dict[tok['form']] = tok['deprel']
                     utterance.append(combined)
+
             utt_str = "\n".join(utterance)
             data.append(utt_str)
-    data = "\n\n".join(data)
-    with open(f'{path_out}', 'w') as f:
-        f.write(data)
+
+    dev, test, train = random_split(data, [65, 65, 534])
+    columns = {0: 'text', 1: 'upos', 2: 'deprel'}
+    data_folder = '../data/shipibo/flair'
+
+    dev = "\n\n".join(dev)
+    test = "\n\n".join(test)
+    train = "\n\n".join(train)
+
+    with open(f'{data_folder}/dev.txt', 'w') as f:
+        f.write(dev)
+    with open(f'{data_folder}/test.txt', 'w') as f:
+        f.write(test)
+    with open(f'{data_folder}/train.txt', 'w') as f:
+        f.write(train)
+
+    corpus: Corpus = ColumnCorpus(data_folder, columns,
+                                train_file = 'train.txt',
+                                test_file = 'test.txt',
+                                dev_file = 'dev.txt')
+
+    return corpus, gold_dict
 
 def read_conllu_utt(path):
     data = []
@@ -106,33 +131,3 @@ def make_word_dictionary(data, unk_threshold: int = 0, max_ngrams: int = 1) -> D
     # Print some info on dictionary size
     print(f"At unk_threshold={unk_threshold}, the dictionary contains {len(word_to_ix)} words")
     return word_to_ix
-
-
-def make_label_dictionary(data) -> Dict[str, int]:
-    '''
-    Make a dictionary of labels.
-    :param data: List of (sentence, label) tuples
-    :return: A dictionary of string keys and index values
-    '''
-    label_to_ix = {}
-    for _, label in data:
-        if label not in label_to_ix:
-            label_to_ix[label] = len(label_to_ix)
-    return label_to_ix
-
-def make_label_dictionary(data) -> Dict[str, int]:
-    '''
-    Make a dictionary of labels.
-    :param data: List of (sentence, label) tuples
-    :return: A dictionary of string keys and index values
-    '''
-    label_to_ix = {}
-    label_freq = {}
-    for _, label in data:
-        if label not in label_to_ix:
-            label_to_ix[label] = len(label_to_ix)
-            label_freq[label] = 1
-        else:
-            label_freq[label] += 1
-
-    return label_to_ix, label_freq
