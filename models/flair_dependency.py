@@ -9,8 +9,8 @@ from helper_functions import conllu_to_flair
 
 # data and dictionaries
 corpus, gold_dict = conllu_to_flair('../data/shipibo/shipibo-2018jul4.converted.conllu')
-dependency_dictionary = corpus.make_label_dictionary(label_type='deprel')
-label_type = 'dependency'
+label_type = 'deprel'
+dependency_dictionary = corpus.make_label_dictionary(label_type=label_type)
 
 # word embeddings
 bert_embedding = TransformerWordEmbeddings('bert-base-multilingual-uncased')
