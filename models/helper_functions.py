@@ -43,7 +43,7 @@ def conllu_to_flair(path_in):
             for tok in line:
                 if tok['upos'] != "_":
                     tok['form'] = tok['form'].replace("-", "")
-                    combined = tok['form'] + " " + tok['upos'] + " " + tok['deprel']
+                    combined = tok['form'] + " " + tok['upos'] + " " + tok['head'] + " " + tok['deprel']
 
                     if tok['form'] in gold_dict:
                         if tok['deprel'] != gold_dict[tok['form']]:
@@ -56,7 +56,7 @@ def conllu_to_flair(path_in):
             data.append(utt_str)
 
     dev, test, train = random_split(data, [65, 65, 534])
-    columns = {0: 'text', 1: 'upos', 2: 'deprel'}
+    columns = {0: 'text', 1: 'upos', 2:'head', 3: 'deprel'}
     data_folder = './data/shipibo/flair'
 
     dev = "\n\n".join(dev)
