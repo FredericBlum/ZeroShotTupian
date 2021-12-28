@@ -7,7 +7,7 @@ from flair.trainers import ModelTrainer
 from helper_functions import conllu_to_flair
 
 # data and dictionaries
-corpus, gold_dict = conllu_to_flair('../data/shipibo/shipibo-2018jul4.converted.conllu')
+corpus, gold_dict = conllu_to_flair('data/shipibo/shipibo-2018jul4.converted.conllu')
 label_type = 'upos'
 label_dict = corpus.make_label_dictionary(label_type=label_type)
 

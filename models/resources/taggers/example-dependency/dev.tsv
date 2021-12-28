@@ -1,705 +1,533 @@
 token gold_tag gold_arc predicted_tag predicted_arc
-Nato  None <unk> 2
-escuela-nkoxon  None <unk> 4
-escuela  None <unk> 7
--nkoxon  None <unk> 10
-noa-n  None <unk> 11
-noa  None <unk> 11
--n  None <unk> 12
-onanti-ai  None <unk> 12
-,  None <unk> 12
-jakon  None <unk> 12
-bake  None <unk> 12
-iki-noxon  None <unk> 13
-,  None <unk> 14
-noa-n  None <unk> 16
-noa  None <unk> 17
--n  None <unk> 18
-nete  None <unk> 19
-cuidanti-noxon  None <unk> 19
-.  None <unk> 0
-
-noa-n  None <unk> 2
-noa  None <unk> 4
--n  None <unk> 6
-escuela-ra  None <unk> 8
-escuela  None <unk> 8
--ra  None <unk> 9
-noa-n  None <unk> 10
-noa  None <unk> 10
--n  None <unk> 11
-jáwetianbi  None <unk> 12
-manishti-ma-ti-ma  None <unk> 13
-manishti-ma-ti  None <unk> 14
--ma  None <unk> 15
-iki  None <unk> 15
-.  None <unk> 0
-
-wasnon-bo  None <unk> 0
-soati-non  None <unk> 3
-ati-kan-we  None <unk> 4
-.  None <unk> 0
-
-kati-xon-ki  None <unk> 0
-kati-xon  None <unk> 3
--ki  None <unk> 4
-ati-a  None <unk> 5
-iki  None <unk> 6
-rikanti-kin  None <unk> 7
-.  None <unk> 0
-
-jakon-shoko  None <unk> 0
-jakon  None <unk> 3
--shoko  None <unk> 4
-ainbo  None <unk> 5
-boo  None <unk> 6
-nenké  None <unk> 7
-.  None <unk> 0
-
-ea-n-ra  None <unk> 0
-ea  None <unk> 3
--n  None <unk> 4
--ra  None <unk> 5
-jato  None <unk> 6
-ointi-yama-ai  None <unk> 0
-
-ea-a-ra  None <unk> 0
-ea  None <unk> 3
--a  None <unk> 4
--ra  None <unk> 5
-mai-n  None <unk> 6
-mai  None <unk> 8
--n  None <unk> 8
-kati-kas-ai  None <unk> 0
-
-¿  None <unk> 2
-mia-a  None <unk> 3
-mia  None <unk> 4
--a  None <unk> 5
-arroz-ya  None <unk> 6
-arroz  None <unk> 7
--ya  None <unk> 8
-iki  None <unk> 9
-?  None <unk> 0
-
-Jaskarainoax-ki  None <unk> 0
-Jaskarainoax  None <unk> 3
--ki  None <unk> 4
-mawáti-ti  None <unk> 5
-pikoti-a  None <unk> 6
-iki  None <unk> 7
-.  None <unk> 0
-
-noa-n  None <unk> 2
-noa  None <unk> 3
--n  None <unk> 5
-chío-shoko-bo  None <unk> 6
-chío  None <unk> 7
--shoko-bo  None <unk> 8
-noa-n  None <unk> 9
-noa  None <unk> 10
--n  None <unk> 11
-ointi-ai  None <unk> 11
-.  None <unk> 0
-
-noa-n  None <unk> 2
-noa  None <unk> 3
--n  None <unk> 5
-anibo  None <unk> 6
-noa-n  None <unk> 6
-noa  None <unk> 7
--n  None <unk> 9
-jawéki  None <unk> 9
-ati-kin-ai  None <unk> 10
-.  None <unk> 0
-
-Jainxon  None <unk> 2
-noa-n  None <unk> 4
-noa  None <unk> 6
--n  None <unk> 7
-yoxan-shoko-bo  None <unk> 8
-yoxan  None <unk> 9
--shoko-bo  None <unk> 9
-noa-n  None <unk> 10
-noa  None <unk> 11
--n  None <unk> 12
-jawéki  None <unk> 13
-akinti-ti  None <unk> 13
-iki  None <unk> 14
-.  None <unk> 0
-
-¿  None <unk> 2
-Jawe  None <unk> 3
-yoiti-i  None <unk> 4
-iki-a-rin  None <unk> 5
-iki-a  None <unk> 6
--rin  None <unk> 7
-nato  None <unk> 8
-kointo  None <unk> 9
-?  None <unk> 0
-
-¿  None <unk> 2
-Moa  None <unk> 3
-basi  None <unk> 5
-iiti-kin-ki  None <unk> 6
-iiti-kin  None <unk> 7
--ki  None <unk> 8
-,  None <unk> 8
-jawerano  None <unk> 9
-bakeranon  None <unk> 11
-raanti-kan-a  None <unk> 11
-iki  None <unk> 12
-?  None <unk> 0
-
-Jaskara  None <unk> 2
-iki-ketian  None <unk> 3
-,  None <unk> 5
-yantan  None <unk> 6
-bari  None <unk> 6
-jikiti-ama-painon  None <unk> 7
-jikiti-ama  None <unk> 9
--painon  None <unk> 9
-riki  None <unk> 10
-.  None <unk> 0
-
-Iamarake  None <unk> 0
-.  None <unk> 0
-
-Aa  None <unk> 0
-¡  None <unk> 3
-papa  None <unk> 4
-!  None <unk> 0
-
-ati-yora-kin-ra  None <unk> 0
-ati  None <unk> 3
--yora-kin  None <unk> 4
--ra  None <unk> 5
-ea-a  None <unk> 6
-xoiti-ke  None <unk> 7
-.  None <unk> 0
-
-Jainoax  None <unk> 2
-jati-riba-ke  None <unk> 3
-jati  None <unk> 5
--riba-ke  None <unk> 7
-ja-n  None <unk> 7
-ja  None <unk> 8
--n  None <unk> 9
-noa-n  None <unk> 10
-noa  None <unk> 11
--n  None <unk> 12
-yora  None <unk> 12
-koshiati-ti  None <unk> 13
-.  None <unk> 0
-
-ja-a-bo  None <unk> 2
-ja  None <unk> 3
--a-bo  None <unk> 6
-iki  None <unk> 6
-,  None <unk> 7
-nami  None <unk> 8
-,  None <unk> 9
-yapa  None <unk> 9
-,  None <unk> 11
-poroto  None <unk> 12
-,  None <unk> 13
-tama  None <unk> 13
-.  None <unk> 0
-
-¿  None <unk> 0
-jawekeská-rin  None <unk> 3
-jawekeská  None <unk> 4
--rin  None <unk> 5
-jawen  None <unk> 6
-pei  None <unk> 7
-?  None <unk> 0
-
-Ja-a  None <unk> 2
-Ja  None <unk> 3
--a  None <unk> 6
-pei  None <unk> 7
-keskáati-kin  None <unk> 7
-mia-n  None <unk> 8
-mia  None <unk> 8
--n  None <unk> 9
-cuaderno-nin  None <unk> 11
-cuaderno  None <unk> 12
--nin  None <unk> 13
-ati-we  None <unk> 13
-.  None <unk> 0
-
-Jawen  None <unk> 0
-jane-bo  None <unk> 3
-wishati-we  None <unk> 4
-.  None <unk> 0
-
-¿  None <unk> 2
-tsoa-a-ki  None <unk> 3
-tsoa  None <unk> 5
--a  None <unk> 7
--ki  None <unk> 8
-inka-n  None <unk> 8
-inka  None <unk> 9
--n  None <unk> 10
-chii  None <unk> 11
-biti-ti  None <unk> 12
-yonoti-kan-a  None <unk> 12
-iki  None <unk> 13
-?  None <unk> 0
-
-Awá  None <unk> 0
-betan  None <unk> 3
-chosko  None <unk> 4
-bakeranon  None <unk> 5
-iki-ni  None <unk> 0
-
-Jatian  None <unk> 2
-28  None <unk> 4
-de  None <unk> 7
-julio  None <unk> 8
-de  None <unk> 8
-1821  None <unk> 9
-iki-ketian  None <unk> 9
-,  None <unk> 10
-San  None <unk> 11
-Martin-man  None <unk> 12
-Martin  None <unk> 13
--man  None <unk> 14
-yoiti-a  None <unk> 14
-iki  None <unk> 15
-:  None <unk> 0
-
-Perú  None <unk> 0
-vivanti-kan-we  None <unk> 3
-.  None <unk> 0
-
-¿  None <unk> 2
-mia-a  None <unk> 3
-mia  None <unk> 5
--a  None <unk> 6
-japones-nin  None <unk> 6
-japones  None <unk> 7
--nin  None <unk> 9
-yoyo  None <unk> 9
-iki-ai  None <unk> 10
-?  None <unk> 0
-
-¿  None <unk> 2
-mia-a  None <unk> 3
-mia  None <unk> 5
--a  None <unk> 6
-suajuali-nin  None <unk> 6
-suajuali  None <unk> 7
--nin  None <unk> 9
-yoyo  None <unk> 9
-iki-ai  None <unk> 10
-?  None <unk> 0
-
-¿  None <unk> 2
-mia-a  None <unk> 3
-mia  None <unk> 6
--a  None <unk> 7
-nawa-n  None <unk> 8
-nawa  None <unk> 8
--n  None <unk> 9
-joi-n  None <unk> 9
-joi  None <unk> 11
--n  None <unk> 12
-yoyo  None <unk> 12
-iki-ai  None <unk> 13
-?  None <unk> 0
-
-¿  None <unk> 2
-francés-nin  None <unk> 3
-francés  None <unk> 4
--nin  None <unk> 5
-mia-a  None <unk> 6
-yoyo  None <unk> 7
-iki-ai  None <unk> 8
-?  None <unk> 0
-
-Ikaxbi  None <unk> 0
-payari  None <unk> 0
-riki  None <unk> 4
-joxo  None <unk> 5
-.  None <unk> 0
-
-Jawen  None <unk> 0
-jana  None <unk> 3
-riki  None <unk> 4
-xakiti  None <unk> 5
-keská  None <unk> 6
-.  None <unk> 0
-
-Ja  None <unk> 0
-riki  None <unk> 3
-pia-n  None <unk> 4
-pia  None <unk> 5
--n  None <unk> 6
-tsakati-ti  None <unk> 7
-.  None <unk> 0
-
-ikaxbi-ra  None <unk> 0
-ikaxbi  None <unk> 3
--ra  None <unk> 4
-ja  None <unk> 5
-maxko  None <unk> 6
-iki  None <unk> 7
-.  None <unk> 0
-
-wame-tio  None <unk> 0
-ani-ma  None <unk> 0
-ani  None <unk> 4
--ma  None <unk> 5
-.  None <unk> 0
-
-¿  None <unk> 2
-jawe-n-ki  None <unk> 3
-jawe-n  None <unk> 4
--ki  None <unk> 5
-payari  None <unk> 6
-yomerati-ti  None <unk> 7
-iki  None <unk> 8
-?  None <unk> 0
-
-Jainxon  None <unk> 2
-ea-n  None <unk> 3
-ea  None <unk> 4
--n  None <unk> 5
-jakon  None <unk> 6
-chopa  None <unk> 7
-sáweti-a  None <unk> 8
-iki  None <unk> 9
-.  None <unk> 0
-
-Jainoax  None <unk> 2
-ea-a  None <unk> 3
-ea  None <unk> 5
--a  None <unk> 6
-boéxeketi-a  None <unk> 7
-iki  None <unk> 8
-nokon  None <unk> 9
-boéxeti-n-bi  None <unk> 10
-boéxeti  None <unk> 11
--n  None <unk> 12
--bi  None <unk> 12
-.  None <unk> 0
-
-Jainxon  None <unk> 2
-nokon  None <unk> 3
-mentsis  None <unk> 4
-ea-n  None <unk> 5
-ea  None <unk> 6
--n  None <unk> 7
-ta-weati-a  None <unk> 8
-iki  None <unk> 9
-.  None <unk> 0
-
-Yamékiri  None <unk> 2
-ea-n  None <unk> 3
-ea  None <unk> 5
--n  None <unk> 6
-potóti-kin-shaman  None <unk> 6
-potóti-kin  None <unk> 7
--shaman  None <unk> 9
-xéati-a  None <unk> 9
-iki  None <unk> 10
-.  None <unk> 0
-
-ea-a  None <unk> 2
-ea  None <unk> 3
--a  None <unk> 8
-mánokoxoti-a  None <unk> 9
-iki  None <unk> 12
-,  None <unk> 12
-cepillo-nin  None <unk> 13
-cepillo  None <unk> 13
--nin  None <unk> 13
-;  None <unk> 13
-nokon  None <unk> 13
-xeta  None <unk> 14
-chokati-i  None <unk> 14
-,  None <unk> 15
-ompax  None <unk> 17
-bexnan-man  None <unk> 18
-bexnan  None <unk> 19
--man  None <unk> 19
-.  None <unk> 0
-
-mia-n  None <unk> 2
-mia  None <unk> 3
--n  None <unk> 5
-cuaderno-nin  None <unk> 6
-cuaderno  None <unk> 6
--nin  None <unk> 7
-jawen  None <unk> 9
-jane-bo  None <unk> 9
-ati-we  None <unk> 10
-.  None <unk> 0
-
-¿  None <unk> 0
-Jawerano-rin  None <unk> 3
-Jawerano  None <unk> 4
--rin  None <unk> 5
-Norte  None <unk> 6
-América  None <unk> 7
-?  None <unk> 0
-
-¿  None <unk> 2
-Jawerato  None <unk> 3
-aninasi-n-rin  None <unk> 4
-aninasi  None <unk> 5
--n  None <unk> 6
--rin  None <unk> 7
-Perú  None <unk> 8
-?  None <unk> 0
-
-¿  None <unk> 2
-Jawerato  None <unk> 3
-ponté-ki  None <unk> 5
-ponté  None <unk> 6
--ki  None <unk> 7
-kati-ti  None <unk> 7
-iki  None <unk> 8
-,  None <unk> 10
-Asia-in  None <unk> 10
-kati-i  None <unk> 11
-?  None <unk> 0
-
-jati-ra-ke  None <unk> 2
-jati  None <unk> 3
--ra-ke  None <unk> 5
-avión-shoko-bo  None <unk> 6
-avión  None <unk> 7
--shoko-bo  None <unk> 8
-,  None <unk> 9
-jene-n  None <unk> 10
-jene  None <unk> 11
--n  None <unk> 12
-pakéti-ai  None <unk> 12
-.  None <unk> 0
-
-¿  None <unk> 2
-mia-a  None <unk> 3
-mia  None <unk> 5
--a  None <unk> 6
-iti-kon-i  None <unk> 6
-iti  None <unk> 7
--kon-i  None <unk> 9
-yoyo  None <unk> 9
-iki-ai  None <unk> 10
-?  None <unk> 0
-
-noa-n  None <unk> 0
-noa  None <unk> 3
--n  None <unk> 4
-yoyo  None <unk> 5
-ati-ti  None <unk> 6
-atipanti-a  None <unk> 0
-
-¿  None <unk> 2
-ea-n  None <unk> 3
-ea  None <unk> 4
--n  None <unk> 5
-jain  None <unk> 6
-iti-ti  None <unk> 7
-atipanti-a  None <unk> 8
-?  None <unk> 0
-
-¡  None <unk> 2
-Ja  None <unk> 3
-pekao  None <unk> 4
-ea-a  None <unk> 5
-ea  None <unk> 6
--a  None <unk> 7
-kenati-we  None <unk> 8
-!  None <unk> 0
-
-mia-n  None <unk> 0
-mia  None <unk> 3
--n  None <unk> 4
-osanti-i  None <unk> 5
-riki  None <unk> 6
-noa-a  None <unk> 7
-noa  None <unk> 8
--a  None <unk> 0
-
-jatian-ki  None <unk> 2
-jatian  None <unk> 3
--ki  None <unk> 11
-yoiti-a  None <unk> 12
-iki  None <unk> 12
-:  None <unk> 13
-"  None <unk> 14
-Nato  None <unk> 14
-bimi  None <unk> 14
-kokoti-i  None <unk> 14
-joti-ax-a  None <unk> 14
-joti-ax  None <unk> 14
--a  None <unk> 15
-ea-a  None <unk> 15
-ea  None <unk> 16
--a  None <unk> 17
-iiti-ai  None <unk> 18
-,  None <unk> 20
-"  None <unk> 21
-ati-kin  None <unk> 21
-.  None <unk> 0
-
-Jaskatax  None <unk> 2
-ino  None <unk> 4
-neeti-shoko-kas-a-bi  None <unk> 8
-neeti  None <unk> 9
--shoko-kas-a  None <unk> 10
--bi  None <unk> 10
-iti-ti-koma  None <unk> 10
-iti-ti  None <unk> 11
--koma  None <unk> 11
-iki-a  None <unk> 12
-iki  None <unk> 13
-,  None <unk> 13
-ja  None <unk> 15
-jiwi  None <unk> 16
-sibá  None <unk> 17
-iki-ax  None <unk> 17
-.  None <unk> 0
-
-Jakon  None <unk> 0
-jaweki  None <unk> 3
-bánati-ai  None <unk> 4
-.  None <unk> 0
-
-Atsa  None <unk> 0
-taxo  None <unk> 3
-bánati-ai  None <unk> 4
-.  None <unk> 0
-
-Xeki  None <unk> 0
-bero  None <unk> 3
-bánati-ai  None <unk> 4
-.  None <unk> 0
-
-Kari  None <unk> 0
-tapon  None <unk> 3
-bánati-ai  None <unk> 4
-.  None <unk> 0
-
-Maxó  None <unk> 0
-bakeranon  None <unk> 3
-betan  None <unk> 4
-jawen  None <unk> 5
-tita  None <unk> 6
-iki-ni  None <unk> 0
-
-Jaskatax  None <unk> 2
-,  None <unk> 3
-ja  None <unk> 6
-maxó  None <unk> 7
-bakeranon  None <unk> 8
-kati-a  None <unk> 9
-iki  None <unk> 9
-,  None <unk> 10
-chonka  None <unk> 11
-pichika  None <unk> 12
-joni-a  None <unk> 13
-joni  None <unk> 13
--a  None <unk> 14
-.  None <unk> 0
-
-Moa  None <unk> 2
-kawánti-ketian  None <unk> 3
-jawen  None <unk> 6
-tita-n  None <unk> 6
-tita  None <unk> 7
--n  None <unk> 8
-mana  None <unk> 9
-mánati-a  None <unk> 9
-iki  None <unk> 11
-,  None <unk> 12
-yantanti-paket-aitian  None <unk> 12
-.  None <unk> 0
-
-néte-tiibi  None <unk> 2
-noa-n  None <unk> 3
-noa  None <unk> 5
--n  None <unk> 6
-xeati-ti  None <unk> 7
-iki  None <unk> 8
-,  None <unk> 8
-westíora  None <unk> 10
-litro  None <unk> 11
-inonbires  None <unk> 12
-,  None <unk> 13
-ompax  None <unk> 13
-.  None <unk> 0
-
-noa-n  None <unk> 2
-noa  None <unk> 3
--n  None <unk> 5
-xeati-ti  None <unk> 6
-iki  None <unk> 6
-jakon  None <unk> 7
-ompax-bicho  None <unk> 9
-ompax  None <unk> 10
--bicho  None <unk> 10
-.  None <unk> 0
-
-Jaskatax  None <unk> 2
-ja  None <unk> 3
-Inca-n  None <unk> 5
-Inca  None <unk> 6
--n  None <unk> 7
-xeni-n  None <unk> 7
-xeni  None <unk> 8
--n  None <unk> 10
-sikíti-a  None <unk> 10
-iki  None <unk> 11
-.  None <unk> 0
-
-Jaskáaxon  None <unk> 2
-incaati-kin  None <unk> 3
-janeti-kan-a  None <unk> 4
-iki  None <unk> 5
-,  None <unk> 6
-ja  None <unk> 7
-Manco  None <unk> 8
-Cápac  None <unk> 9
-.  None <unk> 0
-
-¿  None <unk> 0
-mia-a  None <unk> 3
-mia  None <unk> 4
--a  None <unk> 5
-ranx  None <unk> 6
-iki-ai  None <unk> 7
-?  None <unk> 0
-
-Neteti-ax  None <unk> 0
-yoyo  None <unk> 3
-iki-we  None <unk> 0
-
-jati-ribi  None <unk> 2
-jati  None <unk> 3
--ribi  None <unk> 5
-yapa-bo-ra  None <unk> 6
-yapa-bo  None <unk> 7
--ra  None <unk> 7
-iki-ai  None <unk> 9
-make-ki  None <unk> 10
-raketi-ti  None <unk> 10
-.  None <unk> 0
-
-¿  None <unk> 2
-Jawe  None <unk> 3
-kopi-ki  None <unk> 5
-kopi  None <unk> 6
--ki  None <unk> 6
-jawen  None <unk> 7
-xeta  None <unk> 9
-kensho  None <unk> 9
-iki  None <unk> 10
-?  None <unk> 0
-
-Apoo  None <unk> 0
-.  None <unk> 0
+Jatian cc None nsubj 0
+28 advmod None nsubj 1
+de flat None nsubj 2
+julio flat None nsubj 3
+de flat None nsubj 4
+1821 flat None nsubj 0
+ikiketian advcl None nsubj 6
+, punct None nsubj 7
+San nsubj None nsubj 7
+Martin flat None nsubj 7
+man case None case 8
+yoitia root None root 9
+iki aux None root 11
+: punct None punct 12
+
+wasnonbo obj None nsubj 0
+soatinon advcl None nsubj 1
+atikanwe root None root 2
+. punct None punct 0
+
+jawen det None nsubj 0
+jane obj None nsubj 1
+wishatiwe root None root 2
+. punct None punct 0
+
+¿ punct None nsubj 0
+jaweati advmod None nsubj 1
+ki advcl None nsubj 2
+noa nmod None nsubj 3
+n case None nsubj 4
+rarebo obj None nsubj 5
+noan nsubj None nsubj 5
+noititi root None root 6
+iki aux None root 7
+? punct None punct 9
+
+australianobo cop None nsubj 0
+riki cop None nsubj 1
+noaa root None punct 0
+
+eaa nsubj None nsubj 0
+ra aux:val None nsubj 1
+jakon root None nsubj 2
+bires Lfcl None nsubj 3
+tani Lfcl None root 4
+iki cop None root 5
+. punct None punct 6
+
+eri discourse None nsubj 0
+panon Lfcl None nsubj 1
+¡ punct None nsubj 2
+papa root None root 3
+! punct None punct 4
+
+Xoa nsubj None nsubj 0
+riki cop None nsubj 1
+ea root None nsubj 2
+a case None punct 0
+
+ikiama root None nsubj 0
+. punct None root 0
+
+mia nmod None nsubj 0
+n case None nsubj 1
+cuaderno obl None nsubj 2
+nin case None nsubj 3
+jawen det None nsubj 4
+janebo obj None root 5
+atiwe root None root 6
+. punct None punct 7
+
+jati amod None nsubj 0
+ribi Lfcl None nsubj 1
+yapabo nsubj None nsubj 2
+ra aux:val None nsubj 3
+ikiai aux None nsubj 4
+makeki obj None root 5
+raketiti root None root 6
+. punct None punct 7
+
+Ja det None nsubj 0
+xeki nsubj None nsubj 1
+, punct None nsubj 2
+papa conj None nsubj 3
+, punct None nsubj 4
+quinua conj None nsubj 5
+, punct None nsubj 6
+ja det None nsubj 6
+jawéki nsubj None nsubj 7
+xóxotii advcl None nsubj 8
+péokootia root None nsubj 8
+iki aux None case 8
+Perú obl None root 9
+ainoax case None root 12
+. punct None punct 13
+
+Yoyo compound None nsubj 0
+ikiwe root None nsubj 1
+quedito advmod None punct 0
+
+pikótixon advcl None nsubj 0
+joni nsubj None nsubj 1
+n case None nsubj 2
+ja det None nsubj 3
+ainbo obj None nsubj 4
+yatantia root None nsubj 5
+iki aux None nsubj 5
+. punct None nsubj 6
+Ja det None nsubj 6
+yatantia nsubj None case 7
+yoitia root None root 8
+iki aux None root 9
+: punct None punct 11
+
+jaskatax cc None nsubj 0
+onki aux:val None nsubj 1
+, punct None nsubj 2
+katibekona root None nsubj 3
+iki aux None nsubj 4
+jaweoma advmod None nsubj 5
+, punct None nsubj 5
+tasá obl None case 6
+ya case None root 7
+bicho Lfcl None root 8
+. punct None punct 9
+
+mia nmod None nsubj 0
+n case None nsubj 1
+cuaderno obl None nsubj 2
+meran case None nsubj 3
+wíshatiwe root None nsubj 4
+, punct None nsubj 5
+pichika nummod None nsubj 5
+jiwi nmod None case 6
+n case None root 7
+jane obj None root 8
+. punct None punct 10
+
+Aniparo obl None nsubj 0
+kexá case None nsubj 1
+iki root None nsubj 2
+matsi nsubj None nsubj 3
+wetsa amod None nsubj 4
+oxe obl None root 5
+baon case None root 6
+. punct None punct 7
+
+Jaskáaxon cc None nsubj 0
+incaatikin advcl None nsubj 1
+janetikana root None nsubj 2
+iki aux None nsubj 3
+, punct None nsubj 4
+ja det None nsubj 4
+Manco compound None root 5
+Cápac obj None root 6
+. punct None punct 8
+
+ea nsubj None nsubj 0
+n case None nsubj 1
+ra aux:val None nsubj 2
+meken obj None nsubj 3
+tash compound None root 4
+atike root None punct 5
+
+Bueno discourse None nsubj 0
+, punct None nsubj 1
+rama advmod None nsubj 2
+atiwe root None nsubj 3
+maitiatikin advcl None nsubj 4
+nato amod None nsubj 5
+pei obj None nsubj 5
+ani amod None case 6
+chaa Lfcl None root 7
+bitixon advcl None root 8
+. punct None punct 9
+
+Nií obl None nsubj 0
+meran case None nsubj 1
+bai nsubj None nsubj 2
+jatike root None root 3
+. punct None punct 0
+
+Jaskatax cc None nsubj 0
+ja det None nsubj 1
+Inca nmod None nsubj 2
+n case None nsubj 3
+xeni nsubj None nsubj 4
+n case None case 5
+sikítia root None case 5
+iki aux None root 7
+. punct None punct 8
+
+¿ punct None nsubj 0
+francés obl None nsubj 1
+nin case None nsubj 2
+miaa nsubj None nsubj 3
+yoyo compound None root 4
+ikiai root None root 5
+? punct None punct 6
+
+moa advmod None nsubj 0
+ra aux:val None nsubj 1
+ea nsubj None nsubj 2
+a case None nsubj 3
+keentiyamaai root None root 4
+. punct None punct 5
+
+¿ punct None nsubj 0
+Ja det None nsubj 1
+bake nsubj None nsubj 2
+ki aux:val None nsubj 3
+jawe obj None nsubj 4
+banetia root None root 5
+iki aux None root 6
+? punct None punct 7
+
+mia nsubj None nsubj 0
+a case None nsubj 1
+ra aux:val None nsubj 2
+jakon amod None nsubj 3
+bires Lfcl None nsubj 4
+maestro root None root 5
+iki cop None root 6
+. punct None punct 7
+
+Jati nsubj None nsubj 0
+rake aux:val None nsubj 1
+ani amod None nsubj 2
+manan root None nsubj 3
+, punct None nsubj 4
+keyá amod None root 5
+bires Lfcl None root 6
+. punct None punct 7
+
+Jati nsubj None nsubj 0
+rake aux:val None nsubj 1
+wean root None nsubj 2
+shokobo Lfcl None nsubj 3
+, punct None root 4
+nenkéma amod None root 5
+. punct None punct 6
+
+¿ punct None nsubj 0
+mia nsubj None nsubj 1
+n case None nsubj 2
+jawe obj None nsubj 3
+meratia root None root 4
+? punct None punct 5
+
+¿ punct None nsubj 0
+mia root None nsubj 1
+a case None nsubj 2
+rarot nsubj None nsubj 3
+shaman Lfcl None root 4
+iki cop None root 5
+? cop None punct 6
+
+Jainoax cc None nsubj 0
+San nsubj None nsubj 1
+Martín flat None nsubj 2
+Chile obl None nsubj 3
+nko case None nsubj 4
+jotia root None root 5
+iki aux None root 6
+. punct None punct 7
+
+ainbo nsubj None nsubj 0
+n case None nsubj 1
+wiso amod None nsubj 2
+ino obj None root 3
+retetini root None root 4
+
+Noitikana nsubj None nsubj 0
+riki cop None nsubj 1
+ea root None root 2
+a case None punct 0
+
+¿ punct None nsubj 0
+jainxon cc None nsubj 1
+ki aux:val None nsubj 2
+yawish nsubj None nsubj 3
+en case None nsubj 4
+jaweraki advmod None nsubj 5
+paranti root None nsubj 5
+ribia Lfcl None root 6
+iki aux None root 7
+? punct None punct 9
+
+Aleman obj None nsubj 0
+ra aux:val None nsubj 1
+yoyo compound None nsubj 2
+ikiai root None punct 0
+
+Bakeatiai amod None nsubj 0
+jawéki nsubj None nsubj 1
+ra aux:val None nsubj 2
+rabé root None nsubj 3
+iki cop None root 4
+. punct None punct 5
+
+Ainbo root None nsubj 0
+betan cc None nsubj 1
+popo conj None root 2
+ikini cop None punct 0
+
+jatike root None nsubj 0
+manan case None nsubj 1
+ani amod None nsubj 2
+nkobo case None root 3
+. punct None punct 4
+
+¿ punct None nsubj 0
+Wetsa amod None nsubj 1
+nete obl None nsubj 2
+n case None nsubj 3
+ki aux:val None nsubj 4
+ino nsubj None nsubj 5
+n case None nsubj 5
+chaxo iobj None nsubj 6
+jawe obj None case 7
+atia root None root 8
+iki aux None root 9
+? punct None punct 10
+
+wíshatiwe root None nsubj 0
+, punct None nsubj 1
+wetsa amod None nsubj 2
+yapa nmod None nsubj 3
+n case None nsubj 4
+janebo obj None root 5
+ribi Lfcl None root 6
+. punct None punct 7
+
+Patax advmod None nsubj 0
+jatibekona nsubj None nsubj 1
+riki cop None nsubj 2
+noa root None root 3
+a case None root 4
+
+Jawen det None nsubj 0
+bero nsubj None nsubj 1
+riki cop None nsubj 2
+maxko root None nsubj 3
+shoko Lfcl None root 4
+. punct None punct 5
+
+¿ punct None nsubj 0
+jawe obj None nsubj 1
+ki aux:val None nsubj 2
+ainbo nsubj None nsubj 3
+n case None nsubj 4
+kachiokea advmod None nsubj 5
+nikatia root None root 5
+iki aux None root 7
+? punct None punct 8
+
+ea nsubj None nsubj 0
+n case None nsubj 1
+mia obj None nsubj 2
+a case None root 3
+chibantiban root None root 4
+
+katixon advcl None nsubj 0
+ki aux:val None nsubj 1
+atia root None nsubj 2
+iki aux None nsubj 3
+rikantikin advcl None root 4
+. punct None punct 5
+
+¿ punct None nsubj 0
+mia nsubj None nsubj 1
+a case None nsubj 2
+iti advcl None nsubj 3
+koni Lfcl None nsubj 4
+yoyo compound None root 5
+ikiai root None root 6
+? punct None punct 7
+
+ea nsubj None nsubj 0
+n case None nsubj 1
+ra aux:val None nsubj 2
+miaa obj None root 3
+atikinkasai root None root 4
+
+baritiatiibi obl None nsubj 0
+icha advmod None nsubj 1
+bimitiai root None root 2
+. punct None punct 0
+
+Jaaboronkiki cc None nsubj 0
+, punct None nsubj 1
+ja det None nsubj 2
+nonn nsubj None nsubj 3
+rashíko obj None nsubj 4
+atikin advcl None root 5
+atiaibo root None root 6
+. punct None punct 7
+
+Baná amod None nsubj 0
+jawékibo nsubj None nsubj 1
+ribi Lfcl None nsubj 2
+bari obl None nsubj 3
+n case None root 4
+keentiai root None root 5
+. punct None punct 6
+
+¿ punct None nsubj 0
+mia nsubj None nsubj 1
+a case None nsubj 2
+japones obl None nsubj 3
+nin case None nsubj 4
+yoyo compound None root 5
+ikiai root None root 6
+? punct None punct 7
+
+¿ punct None nsubj 0
+Jawerato amod None nsubj 1
+bake nsubj None nsubj 2
+ki aux:val None nsubj 3
+ikia root None root 4
+? punct None punct 5
+
+Ecuador root None nsubj 0
+, punct None nsubj 1
+Colombia conj None root 2
+. punct None punct 0
+
+nomitii advcl None nsubj 0
+riki root None nsubj 1
+eaa nsubj None punct 0
+
+Ja nsubj None nsubj 0
+moa advmod None nsubj 1
+anitiketian advcl None nsubj 2
+, punct None nsubj 3
+jakiribi advmod None nsubj 4
+ainbo nsubj None nsubj 5
+toóti root None nsubj 5
+ribia Lfcl None root 6
+iki aux None root 7
+. punct None punct 9
+
+Katikin advcl None nsubj 0
+bi Lfcl None nsubj 1
+ja det None nsubj 2
+jonin root None nsubj 3
+shinantia nsubj None root 4
+iki aux None root 5
+: punct None punct 6
+
+noa nmod None nsubj 0
+n case None nsubj 1
+poko obl None nsubj 2
+meranoax case None nsubj 3
+a aux:val None nsubj 4
+noa nmod None nsubj 5
+n case None nsubj 5
+jawékiatiabo nsubj None case 6
+wetsaati root None root 7
+resibaai Lfcl None root 8
+. punct None punct 10
+
+Manan obl None nsubj 0
+ani amod None nsubj 1
+nko case None nsubj 2
+ribi Lfcl None nsubj 3
+jatike root None root 4
+. punct None punct 5
+
+mia nsubj None nsubj 0
+n case None nsubj 1
+ea obj None nsubj 2
+a case None root 3
+akintikasai root None root 4
+
+Nokon det None nsubj 0
+papa nsubj None nsubj 1
+n case None nsubj 2
+jiwi obj None nsubj 3
+rératiai root None nsubj 4
+, punct None root 5
+waiatikin advcl None root 6
+. punct None punct 7
+
+ea nsubj None nsubj 0
+a case None nsubj 1
+ra aux:val None nsubj 2
+moa advmod None nsubj 3
+katiai obj None nsubj 4
+atikin advcl None nsubj 5
+atia root None nsubj 5
+iki aux None nsubj 6
+, punct None nsubj 6
+jawen det None nsubj 7
+papa nsubj None case 7
+n case None case 8
+iná iobj None root 10
+. punct None punct 12
+
+jatike root None nsubj 0
+joni nmod None nsubj 1
+n case None nsubj 2
+kaíatiti amod None nsubj 3
+jawéki nsubj None nsubj 4
+, punct None nsubj 5
+jainoax cc None nsubj 5
+nií obl None nsubj 6
+meran case None case 6
+ikia amod None root 7
+jawéki conj None root 9
+. punct None punct 10
+
+Ino nsubj None nsubj 0
+betan cc None nsubj 1
+yawish conj None root 2
+ikini root None punct 0
+
+Jaskara cc None nsubj 0
+ikiketian advcl None nsubj 1
+ki aux:val None nsubj 2
+jakiribi advmod None nsubj 3
+kati root None nsubj 4
+ribakana Lfcl None root 5
+iki aux None root 6
+. punct None punct 7
+
+ea nsubj None nsubj 0
+a case None nsubj 1
+ra aux:val None nsubj 2
+jaa obj None root 3
+ointikasai root None root 4
 

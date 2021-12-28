@@ -16,10 +16,10 @@ label_type = 'upos'
 word_embedding = TransformerWordEmbeddings('bert-base-multilingual-uncased')
 
 # character embeddings
-flair_embedding_forward = FlairEmbeddings('resources/embeddings/sk_forward/best-lm.pt')
+flair_embedding_forward = FlairEmbeddings('models/resources/embeddings/sk_forward/best-lm.pt')
 # flair_embedding_forward = FlairEmbeddings('multi-forward')
 # flair_embedding_backward = FlairEmbeddings('multi-backward')
-flair_embedding_backward = FlairEmbeddings('resources/embeddings/sk_backward/best-lm.pt')
+flair_embedding_backward = FlairEmbeddings('models/resources/embeddings/sk_backward/best-lm.pt')
 
 embeddings = StackedEmbeddings(embeddings=[word_embedding, flair_embedding_forward, flair_embedding_backward])
 

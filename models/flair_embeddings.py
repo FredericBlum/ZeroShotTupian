@@ -13,22 +13,21 @@ dictionary: Dictionary = Dictionary.load('chars')
 
 
 # get your corpus, process forward and at the character level
-corpus = TextCorpus('../data/shipibo/embeddings',
+corpus = TextCorpus('./data/shipibo/embeddings',
                     dictionary,
-                    #is_forward_lm,
                     character_level=True)
 
 
 # instantiate your language model, set hidden size and number of layers
 language_model = LanguageModel(dictionary,
-                               is_forward_lm,
+                               is_backward_lm,
                                hidden_size=512,
                                nlayers=1)
 
 # train your language model
 trainer = LanguageModelTrainer(language_model, corpus)
 
-trainer.train('resources/embeddings/sk_forward',
+trainer.train('models/resources/embeddings/sk_backward',
                 sequence_length=9,
 	            learning_rate = 1,
                 mini_batch_size=12,
