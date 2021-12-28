@@ -46,7 +46,7 @@ def conllu_to_flair(path_in):
                             print(f"you have a problem. check '{tok['form']}' manually")
                     else:
                         gold_dict[tok['form']] = tok['deprel']
-                        word_dict[tok['form']] = len(word_dict)
+			word_dict[len(word_dict)].add(tok['form'])
                     utterance.append(combined)
 
             utt_str = "\n".join(utterance)

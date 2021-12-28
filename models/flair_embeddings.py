@@ -1,7 +1,9 @@
+import torch
+import flair
 from flair.data import Dictionary
 from flair.models import LanguageModel
 from flair.trainers.language_model_trainer import LanguageModelTrainer, TextCorpus
-from helper_functions import make_dictionary
+from helper_functions import conllu_to_flair
 
 # dictionary: Dictionary = make_dictionary(train_text)
 # forward or backward LM
@@ -28,8 +30,8 @@ language_model = LanguageModel(dictionary,
 # train your language model
 trainer = LanguageModelTrainer(language_model, corpus)
 
-trainer.train('models/resources/embeddings/sk_backward',
+trainer.train('models/resources/embeddings/sk_word',
                 sequence_length=9,
-	            learning_rate=0.5,
+	        learning_rate=0.5,
                 mini_batch_size=16,
                 max_epochs=30)
