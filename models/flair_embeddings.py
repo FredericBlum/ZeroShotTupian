@@ -9,7 +9,7 @@ from helper_functions import conllu_to_flair
 # forward or backward LM
 is_forward_lm = True
 is_backward_lm = False
-flair.device = torch.device('cuda:0')
+flair.device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
 # load the default character dictionary
 #dictionary: Dictionary = Dictionary.load('chars')

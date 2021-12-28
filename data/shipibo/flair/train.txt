@@ -1,17 +1,72 @@
-Nato PRON 0 root
-pisi ADJ 1 nsubj
-iki VERB 1 cop
+Ja DET 3 det
+maxó NOUN 3 compound
+bákeranon NOUN 11 nsubj
+man PART 3 case
+ki PART 11 aux:val
+, PUNCT 3 punct
+¿ PUNCT 11 punct
+jaweraki PRON 11 obj
+jawen DET 10 det
+tita NOUN 11 iobj
+atia VERB 0 root
+iki AUX 11 aux
+? PUNCT 11 punct
+
+Jaskatax CCONJ 7 cc
+ja DET 3 det
+Inca NOUN 5 nmod
+n PART 3 case
+xeni NOUN 7 nsubj
+n PART 5 case
+sikítia VERB 0 root
+iki AUX 7 aux
+. PUNCT 7 punct
+
+¿ PUNCT 9 punct
+Joxo ADJ 3 amod
+shino NOUN 9 nsubj
+n PART 3 case
+ki PART 9 aux:val
+mananxawe NOUN 9 obj
+jaweati ADV 9 advmod
+bochiki ADV 9 advmod
+botia VERB 0 root
+iki AUX 9 aux
+? PUNCT 9 punct
+
+Bueno INTJ 4 discourse
+, PUNCT 1 punct
+rama ADV 4 advmod
+atiwe VERB 0 root
+maitiatikin VERB 4 advcl
+nato ADJ 7 amod
+pei NOUN 10 obj
+ani ADJ 7 amod
+chaa PART 8 Lfcl
+bitixon VERB 4 advcl
+. PUNCT 4 punct
+
+¿ PUNCT 4 punct
+xóntako NOUN 4 nsubj
+ki PART 4 aux:val
+jotiyamaai VERB 0 root
+? PUNCT 4 punct
+
+Iamarake INTJ 0 root
+. PUNCT 1 punct
+
+ea PRON 5 nsubj
+a PART 1 case
+ra PART 5 aux:val
+jaa PRON 5 obj
+ointikasai VERB 0 root
 
 ¿ PUNCT 5 punct
+Jawe PRON 5 obj
 mia PRON 5 nsubj
-a PART 2 case
-ensalada NOUN 5 obj
-kénatiai VERB 0 root
+n PART 3 case
+janetia VERB 0 root
 ? PUNCT 5 punct
-
-jotiyamaai VERB 0 root
-Teniente NOUN 1 nsubj
-. PUNCT 1 punct
 
 ¡ PUNCT 4 punct
 mia PRON 4 nsubj
@@ -19,6 +74,32 @@ n PART 2 case
 atiti VERB 0 root
 atipantia AUX 4 aux
 ! PUNCT 4 punct
+
+Cristóbal PROPN 7 nsubj
+Colón PROPN 1 flat
+ikia VERB 7 cop
+iki AUX 3 aux
+jawéki NOUN 7 nmod
+oma PART 5 case
+joni NOUN 0 root
+. PUNCT 7 punct
+
+¿ PUNCT 5 punct
+Tsoa PRON 5 nsubj
+abo PART 2 case
+ikia VERB 5 aux
+yoitia VERB 0 root
+rin PART 5 aux:val
+nato DET 8 det
+kointo NOUN 5 obl
+nin PART 8 case
+? PUNCT 5 punct
+
+Australia PROPN 3 nsubj
+iki VERB 3 cop
+nasi NOUN 0 root
+ani ADJ 3 amod
+. PUNCT 3 punct
 
 Jati VERB 3 nsubj
 rake PART 1 aux:val
@@ -28,50 +109,223 @@ shokobo PART 3 Lfcl
 nenkéma ADJ 3 amod
 . PUNCT 1 punct
 
-¿ PUNCT 9 punct
-Moa ADV 4 advmod
-basi ADV 4 advmod
-iitikin VERB 9 advcl
-ki PART 9 aux:val
-, PUNCT 4 punct
-jawerano ADV 9 obj
-bakeranon NOUN 9 nsubj
-raantikana VERB 0 root
-iki AUX 9 aux
-? PUNCT 9 punct
+Jaskatax ADV 5 advmod
+ki PART 5 aux:val
+ja PRON 5 nsubj
+xete NOUN 5 obj
+banetia VERB 0 root
+iki AUX 5 aux
+. PUNCT 5 punct
 
-ikia VERB 0 root
-iki AUX 1 aux
-wetsa ADJ 4 amod
-joni NOUN 1 nsubj
-, PUNCT 1 punct
-Cristóbal PROPN 4 appos
-Colón PROPN 6 flat
-. PUNCT 1 punct
+Jakon ADJ 5 amod
+ma PART 2 Lfcl
+tani PART 2 Lfcl
+rabe NUM 8 obj
+ra PART 8 aux:val
+ean PRON 8 nsubj
+joniatike VERB 0 root
+. PUNCT 8 punct
 
-Netetiax VERB 3 advcl
-yoyo INTJ 3 compound
-ikiwe VERB 0 root
+Nokon DET 2 det
+kirika NOUN 0 root
+meran ADP 2 case
+riki VERB 2 cop
+. PUNCT 2 punct
 
-Jaskara CCONJ 4 cc
-ikiketian VERB 4 advcl
-ronki PART 4 aux:val
-atipaokannike VERB 0 root
-" PUNCT 7 punct
-Chexe PROPN 7 amod
-Inca PROPN 4 obj
-" PUNCT 7 punct
+ja PRON 5 nsubj
+abo PART 1 case
+iki VERB 5 cop
+, PUNCT 3 punct
+nami NOUN 0 root
 , PUNCT 7 punct
-atikin VERB 4 advcl
+yapa NOUN 5 conj
+, PUNCT 9 punct
+poroto NOUN 7 conj
+, PUNCT 11 punct
+tama NOUN 9 conj
+. PUNCT 5 punct
+
+¿ PUNCT 4 punct
+presidente NOUN 4 nsubj
+ki PART 4 aux:val
+jotiyamaai VERB 0 root
+? PUNCT 4 punct
+
+Astronomo NOUN 3 nsubj
+riki VERB 3 cop
+ea PRON 0 root
+a PART 3 case
+
+¿ PUNCT 5 punct
+Jawen DET 3 det
+rayosan NOUN 5 iobj
+ki PART 5 aux:val
+jaweatia VERB 0 root
+iki AUX 5 aux
+? PUNCT 5 punct
+
+¿ PUNCT 6 punct
+mia PRON 6 nsubj
+a PART 2 case
+arroz NOUN 6 obl
+ya PART 4 case
+iki VERB 0 root
+? PUNCT 6 punct
+
+Jaa PRON 6 nsubj
+a PART 1 case
+ribi PART 1 Lfcl
+iki VERB 6 cop
+kextó ADJ 6 amod
+rani NOUN 0 root
+a PART 6 case
+. PUNCT 6 punct
+
+¿ PUNCT 6 punct
+jaweati ADV 6 advmod
+ki PART 6 aux:val
+noa PRON 6 nsubj
+n PART 4 case
+shíroatiti VERB 0 root
+ma PART 6 Lfcl
+iki AUX 6 aux
+noa PRON 11 nmod
+n PART 9 case
+rarebo NOUN 6 obj
+? PUNCT 6 punct
+
+ointiwe VERB 0 root
+¡ PUNCT 3 punct
+tita NOUN 1 vocative
+! PUNCT 3 punct
+
+Ja DET 3 det
+rashíko ADJ 3 amod
+joni NOUN 8 nsubj
+ronki PART 8 aux:val
+ikia VERB 8 cop
+iki AUX 5 aux
+xawi NOUN 8 nmod
+wai NOUN 0 root
+a PART 8 case
+. PUNCT 8 punct
+
+¿ PUNCT 2 punct
+mia PRON 0 root
+a PART 2 case
+axeamis NOUN 2 nsubj
+iki VERB 2 cop
+? PUNCT 2 punct
+
+Jatíbi ADJ 3 amod
+baná ADJ 3 amod
+jawékibo NOUN 6 nsubj
+iki VERB 6 cop
+xóxotiai VERB 6 amod
+jawékibo NOUN 0 root
+. PUNCT 6 punct
+
+jaskáken CCONJ 8 cc
+bi PART 1 Lfcl
+ki PART 8 aux:val
+ja DET 5 det
+xawe NOUN 8 nsubj
+n PART 5 case
+joni NOUN 8 obj
+mératia VERB 0 root
+iki AUX 8 aux
+. PUNCT 8 punct
+
+bari NOUN 2 nsubj
+pikótiai VERB 0 root
+o PART 2 case
+ri PART 2 case
+: PUNCT 2 punct
+
+Bene NOUN 4 nsubj
+ya PART 1 case
+riki VERB 4 cop
+ea PRON 0 root
+a PART 4 case
+
+Kikin ADV 2 advmod
+jakon ADJ 4 nsubj
+riki VERB 4 cop
+mia PRON 0 root
+a PART 4 case
+
+Okotii VERB 0 root
+riki AUX 1 aux
+ea PRON 1 nsubj
+a PART 3 case
+
+¿ PUNCT 6 punct
+mia PRON 6 nsubj
+a PART 2 case
+atun NOUN 6 obl
+ya PART 4 case
+iki VERB 0 root
+? PUNCT 6 punct
+
+ea PRON 4 nsubj
+a PART 1 case
+ra PART 4 aux:val
+kéentiyamaai VERB 0 root
+maestro NOUN 7 nsubj
+n PART 5 case
+ointitinin VERB 4 obj
 . PUNCT 4 punct
 
-Baná ADJ 2 amod
-jawékibo NOUN 6 nsubj
-ribi PART 2 Lfcl
-bari NOUN 6 obl
-n PART 4 case
-keentiai VERB 0 root
-. PUNCT 6 punct
+eaa PRON 3 nsubj
+ra PART 3 aux:val
+jakon ADJ 0 root
+bires PART 3 Lfcl
+tani PART 3 Lfcl
+iki VERB 3 cop
+. PUNCT 3 punct
+
+jati VERB 0 root
+rake PART 1 aux:val
+avión NOUN 1 nsubj
+shokobo PART 3 Lfcl
+, PUNCT 1 punct
+jene NOUN 8 obl
+n PART 6 case
+pakétiai VERB 3 amod
+. PUNCT 1 punct
+
+riki VERB 2 cop
+ea PRON 0 root
+a PART 2 case
+
+jotiyamaai VERB 0 root
+. PUNCT 1 punct
+
+Japonesbo NOUN 3 obl
+keska ADP 1 case
+riki VERB 0 root
+mia PRON 3 nsubj
+a PART 4 case
+
+Jakon ADJ 5 nsubj
+ma PART 1 Lfcl
+cha PART 1 Lfcl
+riki VERB 5 cop
+ea PRON 0 root
+a PART 5 case
+
+¿ PUNCT 7 punct
+mia PRON 7 nsubj
+a PART 2 case
+iti VERB 7 advcl
+koni PART 4 Lfcl
+yoyo INTJ 7 compound
+ikiai VERB 0 root
+? PUNCT 7 punct
+
+Ja PRON 2 obj
+tanatinon VERB 0 root
+ikiwe AUX 2 aux
 
 ea PRON 5 nsubj
 a PART 1 case
@@ -89,103 +343,189 @@ n PART 12 case
 iná NOUN 8 iobj
 . PUNCT 14 punct
 
-baritiatiibi NOUN 3 obl
-icha ADJ 3 advmod
-bimitiai VERB 0 root
-. PUNCT 3 punct
-
-¡ PUNCT 4 punct
-ea PRON 4 obj
-a PART 2 case
-akintiwe VERB 0 root
-! PUNCT 4 punct
-
-Xoatii VERB 0 root
-riki AUX 1 aux
-ea PRON 1 nsubj
-a PART 3 case
-
-Ransatii VERB 0 root
-riki AUX 1 aux
-noa PRON 1 nsubj
-a PART 3 case
-
-¡ PUNCT 2 punct
-Chama NOUN 0 root
-! PUNCT 2 punct
-
 ¿ PUNCT 7 punct
-Non DET 3 det
-jema NOUN 5 compound
-koshiatia VERB 5 amod
-joni NOUN 7 nsubj
+tsoa PRON 7 nsubj
 ki PART 7 aux:val
-jotiyamaai VERB 0 root
+ikia VERB 7 cop
+iki AUX 4 aux
+, PUNCT 4 punct
+wasa NOUN 0 root
 ? PUNCT 7 punct
 
-¿ PUNCT 3 punct
-Jawetio ADV 3 amod
-ani ADJ 0 root
-rin PART 3 cop
-isonxoma NOUN 8 nmod
-n PART 5 case
-jawen DET 8 det
-jiwi NOUN 3 nsubj
-? PUNCT 3 punct
-
-Jaskáa CCONJ 2 cc
-katia VERB 0 root
-iki AUX 2 aux
-, PUNCT 2 punct
-jawen DET 6 det
-rayos NOUN 2 nsubj
-. PUNCT 6 punct
-
-Isthon ADV 5 advmod
-n SUFV 1 case
-mia PRON 5 nsubj
-a PART 3 case
-nokótia VERB 0 root
-
-eaa PRON 3 nsubj
-ra PART 3 aux:val
-jakon ADJ 0 root
-bires PART 3 Lfcl
-tani PART 3 Lfcl
-iki VERB 3 cop
-. PUNCT 3 punct
-
-Galleta NOUN 3 obl
-ya PART 1 case
-riki VERB 0 root
-ea PRON 3 nsubj
-a PART 4 case
-
 ¿ PUNCT 6 punct
-mia PRON 4 det
+noa PRON 6 nsubj
 n PART 2 case
-papa NOUN 6 nsubj
 ki PART 6 aux:val
-jaská ADV 0 root
-bires PART 6 Lfcl
-tani PART 6 Lfcl
-iitiai VERB 6 cop
+miaa PRON 6 obj
+onántia VERB 0 root
 ? PUNCT 6 punct
 
-Petroleo NOUN 2 nmod
-xeni NOUN 6 nsubj
-iki VERB 6 cop
-iti VERB 6 amod
-resa PART 4 Lfcl
-jawéki NOUN 0 root
-. PUNCT 6 punct
+ea PRON 6 nsubj
+a PART 1 case
+ra PART 6 aux:val
+mai NOUN 6 obl
+n PART 4 case
+katikasai VERB 0 root
+
+¿ PUNCT 6 punct
+mia PRON 6 nsubj
+a PART 2 case
+koriki NOUN 6 obl
+ya PART 4 case
+iki VERB 0 root
+? PUNCT 6 punct
+
+¿ PUNCT 8 punct
+joni NOUN 8 nsubj
+n PART 2 case
+ki PART 8 aux:val
+jawe PRON 8 obj
+rika NOUN 8 obl
+n PART 6 case
+mápotia VERB 0 root
+iki AUX 8 aux
+? PUNCT 8 punct
+
+ea PRON 6 nsubj
+a PART 1 case
+ra PART 6 aux:val
+mai NOUN 6 obl
+n PART 4 case
+katikasai VERB 0 root
+
+Jenjen INTJ 0 root
+. PUNCT 1 punct
+
+Jatian CCONJ 3 cc
+jato PRON 3 nsubj
+yoitia VERB 0 root
+iki AUX 3 aux
+: PUNCT 3 punct
+
+Jaskáaxon CCONJ 8 cc
+mia PRON 6 nsubj
+n PART 2 case
+ja PRON 8 obl
+a PART 4 case
+atia VERB 4 amod
+naman ADP 4 case
+wíshatiwe VERB 0 root
+jawen DET 10 det
+jane NOUN 8 obj
+. PUNCT 8 punct
+
+nete NOUN 2 nsubj
+tsisenentia VERB 0 root
+o PART 2 case
+: PUNCT 2 punct
+
+¿ PUNCT 6 punct
+mia PRON 6 nsubj
+n PART 2 case
+ja PRON 6 obj
+a PART 4 case
+xetetiai VERB 0 root
+? PUNCT 6 punct
 
 ¿ PUNCT 5 punct
-Jawe PRON 5 obj
-mia PRON 5 nsubj
-n PART 3 case
-janetia VERB 0 root
+jáwerano ADV 5 advmod
+ki PART 5 aux:val
+awá NOUN 5 nsubj
+katia VERB 0 root
+iki AUX 5 aux
 ? PUNCT 5 punct
+
+¿ PUNCT 8 punct
+Memio ADV 4 advmod
+kea PART 2 case
+meken NOUN 8 obl
+man PART 4 case
+ki PART 8 aux:val
+jawe PRON 8 obj
+yatantia VERB 0 root
+? PUNCT 8 punct
+
+ochóma ADV 4 advmod
+ra PART 4 aux:val
+eaa PRON 4 nsubj
+ikiai VERB 0 root
+
+¿ PUNCT 2 punct
+Mato PRON 0 root
+canadiensebo NOUN 2 nsubj
+iki VERB 2 cop
+? PUNCT 2 punct
+
+masa ADV 2 advmod
+atii VERB 0 root
+riki AUX 2 aux
+ea PRON 2 nsubj
+a PART 4 case
+
+¿ PUNCT 7 punct
+jawekeskaaxon ADV 7 advmod
+ki PART 7 aux:val
+mananxawe NOUN 7 nsubj
+n PART 4 case
+ino NOUN 7 obj
+retetia VERB 0 root
+iki AUX 7 aux
+? PUNCT 7 punct
+
+jáskataxxon CCONJ 4 cc
+ki PART 4 aux:val
+moa ADV 4 advmod
+katiti VERB 0 root
+átipantiyamakana AUX 4 aux
+iki AUX 5 aux
+. PUNCT 4 punct
+
+Tenista NOUN 3 nsubj
+riki VERB 3 cop
+ea PRON 0 root
+a PART 3 case
+
+Manko ADJ 3 nsubj
+riki VERB 3 cop
+ea PRON 0 root
+a PART 3 case
+
+Ikaxbi CCONJ 5 cc
+payari NOUN 4 nsubj
+riki VERB 4 cop
+joxo ADJ 0 root
+. PUNCT 4 punct
+
+Jainoax CCONJ 2 cc
+jati VERB 0 root
+ribake PART 2 Lfcl
+ja PRON 9 nsubj
+n PART 4 case
+noa PRON 8 nmod
+n PART 6 case
+yora NOUN 9 obj
+koshiatiti VERB 2 nsubj
+. PUNCT 2 punct
+
+Diestro ADJ 3 nsubj
+riki VERB 3 cop
+eaa PRON 0 root
+
+noa PRON 5 nsubj
+n PART 1 case
+yoyo INTJ 4 compound
+atiti VERB 5 xcomp
+atipantia VERB 0 root
+
+Nií NOUN 5 obl
+meran ADP 1 case
+ra PART 5 aux:val
+ikiai VERB 5 cop
+xana ADJ 0 root
+, PUNCT 8 punct
+shokores ADV 8 advmod
+matsi ADJ 5 conj
+. PUNCT 5 punct
 
 Kirika NOUN 7 obj
 potati VERB 1 amod
@@ -197,112 +537,600 @@ napótiti VERB 0 root
 iki AUX 7 aux
 . PUNCT 7 punct
 
-Kikin ADV 2 advmod
-jakon ADJ 4 xcomp
-riki VERB 4 cop
-miaa PRON 0 root
-} PUNCT 4 punct
+Netetiax VERB 3 advcl
+yoyo INTJ 3 compound
+ikiwe VERB 0 root
+
+wametio NOUN 2 nsubj
+ani ADJ 0 root
+ma PART 2 Lfcl
+. PUNCT 2 punct
+
+Moa ADV 2 advmod
+atikas VERB 5 nsubj
+yoraai PART 2 Lfcl
+riki VERB 5 cop
+ea PRON 0 root
+a PART 5 case
+
+ino NOUN 4 nsubj
+n PART 1 case
+ra PART 4 aux:val
+pitiai VERB 0 root
+nami NOUN 4 obj
+. PUNCT 4 punct
+
+Jakon ADJ 2 amod
+jawékiatitibo VERB 0 root
+
+Ja PRON 5 nsubj
+riki AUX 5 cop
+pia NOUN 5 obl
+n PART 3 case
+tsakatiti VERB 0 root
+. PUNCT 5 punct
+
+jatike VERB 0 root
+manan NOUN 1 case
+ani ADJ 2 amod
+nkobo PART 3 case
+. PUNCT 1 punct
+
+mai NOUN 5 nsubj
+ra PART 5 aux:val
+netetiibi NOUN 5 obl
+westíora NUM 3 nummod
+mayátiai VERB 0 root
+. PUNCT 5 punct
+
+¿ PUNCT 8 punct
+Jawerano ADV 8 obl
+rin PART 8 aux:val
+ja DET 8 det
+a PART 4 case
+mekayao ADV 8 advmod
+kea PART 6 case
+meken NOUN 0 root
+? PUNCT 8 punct
+
+¿ PUNCT 7 punct
+bésoti VERB 7 advcl
+kiax PART 7 aux:val
+jawen DET 5 det
+epa NOUN 7 nsubj
+jaweraki PRON 7 obj
+ikia VERB 0 root
+iki AUX 7 aux
+? PUNCT 7 punct
+
+¿ PUNCT 5 punct
+Jaskáa CCONJ 5 cc
+ki PART 5 aux:val
+ja DET 5 det
+jeme NOUN 0 root
+jawe PRON 5 nsubj
+ikia VERB 5 cop
+iki AUX 7 aux
+? PUNCT 5 punct
+
+¿ PUNCT 5 punct
+mia PRON 5 nsubj
+n PART 2 case
+jato PRON 5 obj
+ointimakasai VERB 0 root
+? PUNCT 5 punct
+
+ea PRON 6 nsubj
+n PART 1 case
+ra PART 6 aux:val
+mia PRON 6 obj
+a PART 4 case
+atikinkaske VERB 0 root
+
+Moa ADV 8 advmod
+kimisha NUM 3 nummod
+nete NOUN 4 obj
+senentiketian VERB 8 advcl
+, PUNCT 4 punct
+jawen DET 7 det
+bene NOUN 8 iobj
+yoiti VERB 0 root
+ribia PART 8 Lfcl
+iki AUX 8 aux
+: PUNCT 8 punct
 
 ea PRON 5 nsubj
 n PART 1 case
-ra PART 5 aux:val
-yoyo INTJ 5 compound
-atikasai VERB 0 root
+mia PRON 5 obj
+a PART 3 case
+akintibanon VERB 0 root
 
-Ja DET 2 det
-bake NOUN 6 nsubj
-basi ADV 6 advmod
+jakontiax VERB 2 advcl
+jatii VERB 0 root
+riki AUX 2 aux
+noaa PRON 2 nsubj
+
+Xepotikana VERB 0 root
+
+Boshtiatii VERB 0 root
+riki AUX 1 aux
+ea PRON 1 nsubj
+a PART 3 case
+
+mia PRON 3 nmod
+n PART 1 case
+cuaderno NOUN 5 obl
+meran ADP 3 case
+wíshatiwe VERB 0 root
+, PUNCT 5 punct
+bake NOUN 9 nsubj
+n PART 7 case
+ointia VERB 13 appos
+keskabo ADP 9 case
+, PUNCT 9 punct
+meskó ADJ 13 amod
+sionbo NOUN 5 obj
+. PUNCT 5 punct
+
+¿ PUNCT 7 punct
+jáweati ADV 7 advmod
+ki PART 7 aux:val
+mia PRON 7 nsubj
+n PART 4 case
+caucho NOUN 7 obj
+bánatiai VERB 0 root
+? PUNCT 7 punct
+
+¿ PUNCT 7 punct
+Jaton DET 3 det
+axé NOUN 7 nsubj
+bi PART 3 Lfcl
 ribi PART 3 Lfcl
-ma PART 3 Lfcl
-aniatia VERB 0 root
-iki AUX 6 aux
+ki PART 7 aux:val
+jawekeska ADV 0 root
+ikikatiai VERB 7 cop
+? PUNCT 7 punct
+
+¿ PUNCT 5 punct
+mia PRON 5 nsubj
+a PART 2 case
+ranx X 5 compound
+ikiai VERB 0 root
+? PUNCT 5 punct
+
+Iso NOUN 4 nsubj
+atii VERB 4 advcl
+kachio ADV 4 advmod
+katikanni VERB 0 root
+
+Moa ADV 2 advmod
+taxnátixon VERB 10 advcl
+ki PART 10 aux:val
+, PUNCT 2 punct
+ja DET 6 det
+chiakatia VERB 10 nsubj
+tonin PART 6 case
+, PUNCT 6 punct
+reyakatia VERB 10 iobj
+yoitia VERB 0 root
+iki AUX 10 punct
+: PUNCT 10 punct
+
+¡ PUNCT 4 punct
+Manotia VERB 4 nsubj
+riki VERB 4 cop
+eaa PRON 0 root
+! PUNCT 4 punct
+
+mia PRON 3 nmod
+n PART 1 case
+chio NOUN 5 obl
+betan CCONJ 3 case
+tsínitiwe VERB 0 root
+, PUNCT 5 punct
+jawen DET 8 det
+mekén NOUN 10 obj
+shoko PART 8 Lfcl
+topóntiboax VERB 5 advcl
+. PUNCT 10 punct
+
+ea PRON 6 nsubj
+n PART 1 case
+ra PART 6 aux:val
+meskó ADJ 5 amod
+sion NOUN 6 obj
+ointike VERB 0 root
 . PUNCT 6 punct
 
-jainoax CCONJ 4 cc
-ki PART 4 aux:val
-koshi ADJ 4 obj
-méetianana VERB 0 root
+Pitii VERB 0 root
+riki AUX 1 aux
+noa PRON 1 nsubj
+a PART 3 case
+
+Wiso ADJ 0 root
+riki VERB 1 cop
+xoke NOUN 1 nsubj
+. PUNCT 1 punct
+
+¿ PUNCT 5 punct
+jawe PRON 5 obj
+ki PART 5 aux:val
+nexnexen NOUN 5 nsubj
+pitiai VERB 0 root
+? PUNCT 5 punct
+
+¿ PUNCT 8 punct
+yawish NOUN 8 nsubj
+an PART 2 case
+ki PART 8 aux:val
+, PUNCT 2 punct
+jaweraki ADV 8 advmod
+ino NOUN 8 obj
+parantia VERB 0 root
+iki AUX 8 aux
+? PUNCT 8 punct
+
+ea PRON 6 nsubj
+n PART 1 case
+ra PART 6 aux:val
+meken NOUN 6 obj
+tash X 6 compound
+atike VERB 0 root
+
+Yoyo INTJ 2 compound
+atikasi VERB 0 root
+ra PART 2 aux:val
+eaa PRON 2 nsubj
+itiwanke VERB_AUX 2 aux
+
+Llama NOUN 6 nsubj
+iki VERB 6 cop
+Perú PROPN 5 obl
+ainxon PART 3 case
+kaíatikanai VERB 6 amod
+jawéki NOUN 0 root
+. PUNCT 6 punct
+
+Moa ADV 2 advmod
+anitiketian VERB 7 advcl
+, PUNCT 2 punct
+jakiribi CCONJ 7 cc
+ja DET 6 det
+ainbo NOUN 7 nsubj
+tootia VERB 0 root
+iki AUX 7 aux
+. PUNCT 7 punct
+
+ea PRON 9 nsubj
+a PART 1 case
+ra PART 9 aux:val
+nawa NOUN 6 nmod
+n PART 4 case
+joi NOUN 9 obl
+n PART 6 case
+yoyo INTJ 9 compound
+ikiai VERB 0 root
+
+Chino ADJ 3 nsubj
+riki VERB 3 cop
+ea PRON 0 root
+a PART 3 case
+
+¿ PUNCT 7 punct
+jainoa CCONJ 7 cc
+ki PART 7 aux:val
+ino NOUN 7 nsubj
+n PART 4 case
+jaweraki PRON 7 obj
+atitoshia VERB 0 root
+iki AUX 7 aux
+? PUNCT 7 punct
+
+meratixon VERB 4 advcl
+notsíntianan VERB 4 advcl
+bi PART 2 Lfcl
+yoitia VERB 0 root
 iki AUX 4 aux
-. PUNCT 4 punct
+: PUNCT 4 punct
 
 ¿ PUNCT 4 punct
-ea PRON 4 nsubj
+mia PRON 4 nsubj
 n PART 2 case
-bititi VERB 0 root
+yoititi VERB 0 root
 atipantia AUX 4 aux
 ? PUNCT 4 punct
 
-ea PRON 5 nsubj
-a PART 1 case
-ra PART 5 aux:val
-jaa PRON 5 obj
-ointikasai VERB 0 root
-
-Ja DET 2 det
-mai NOUN 3 obl
-chínitiax VERB 5 aux:val
-chichó ADP 2 case
-sotantimeeta VERB 0 root
-iki AUX 5 aux
-, PUNCT 5 punct
-ja DET 9 det
-joni NOUN 5 nsubj
-. PUNCT 9 punct
+Bititankanwe VERB 10 obj
+bakebo NOUN 1 vocative
+, PUNCT 4 punct
+icha ADJ 1 conj
+riki VERB 4 cop
+kankan NOUN 4 nsubj
+ PUNCT 1 punct
+atikin VERB 10 advcl
+jato PRON 10 iobj
+atia VERB 0 root
+iki AUX 10 aux
+. PUNCT 10 punct
 
 ¿ PUNCT 5 punct
-Jawe PRON 5 obj
-mato PRON 5 nsubj
-n PART 3 case
-yoitiai VERB 0 root
+jainki ADV 5 advmod
+mia PRON 5 nsubj
+a PART 3 case
+ikibata VERB 0 root
 ? PUNCT 5 punct
 
-Jaskara CCONJ 5 cc
-ikiketian VERB 5 advcl
+¿ PUNCT 2 punct
+Jaweranorin ADV 0 root
+? PUNCT 2 punct
+
+¿ PUNCT 5 punct
+tsoa PRON 5 obj
+a PART 2 case
 ki PART 5 aux:val
-jakiribi ADV 5 advmod
-kati VERB 0 root
-ribakana PART 5 Lfcl
-iki AUX 5 aux
-. PUNCT 5 punct
+yoitiai VERB 0 root
+nato ADJ 7 amod
+kointonin NOUN 5 nsubj
+? PUNCT 5 punct
 
-Perú PROPN 2 nsubj
-tekíbo NOUN 3 cop
+Jawe PRON 2 obj
+atiyamai VERB 0 root
+riki AUX 2 aux
+ea PRON 2 nsubj
+a PART 4 case
+
+ja PRON 3 obj
+abo PART 1 case
+benatiwe VERB 0 root
+. PUNCT 3 punct
+
+noinbo NOUN 6 nsubj
+ribi PART 1 Lfcl
+iki VERB 6 cop
+jakon ADJ 6 amod
+ma PART 4 Lfcl
+jawéki NOUN 0 root
+. PUNCT 6 punct
+
+mia PRON 5 nsubj
+n PART 1 case
+ea PRON 5 obj
+a PART 3 case
+akintikasai VERB 0 root
+
+Jaskarainoax ADV 4 advmod
+ki PART 4 aux:val
+mawátiti VERB 4 nsubj
+pikotia VERB 0 root
+iki AUX 4 aux
+. PUNCT 4 punct
+
+ea PRON 5 nsubj
+n PART 1 case
+ra PART 5 aux:val
+mato PRON 5 obj
+ointikasai VERB 0 root
+
+Perú PROPN 2 obj
+vivantikanwe VERB 0 root
+. PUNCT 2 punct
+
+¿ PUNCT 6 punct
+mia PRON 6 nsubj
+a PART 2 case
+karo NOUN 6 obl
+ya PART 4 case
 iki VERB 0 root
-: PUNCT 2 punct
+? PUNCT 6 punct
 
-bari NOUN 0 root
-katiai VERB 1 nmod
-o PART 2 case
-ri PART 2 case
+Nií NOUN 4 obl
+meran ADP 1 case
+bai NOUN 4 nsubj
+jatike VERB 0 root
+. PUNCT 4 punct
 
-bari NOUN 2 nsubj
-pikótiai VERB 0 root
-o PART 2 case
-ri PART 2 case
-: PUNCT 2 punct
+¿ PUNCT 5 punct
+mia PRON 5 nsubj
+a PART 2 case
+te NOUN 5 obj
+kénatiai VERB 0 root
+? PUNCT 5 punct
+
+bari NOUN 3 nsubj
+ra PART 3 aux:val
+jakon ADJ 0 root
+iki VERB 3 cop
+. PUNCT 3 punct
+
+Jaskara ADJ 7 nsubj
+bi PART 1 Lfcl
+ribi PART 1 Lfcl
+ronki PART 7 aux:val
+ikipaonike VERB 7 cop
+jawen DET 7 det
+tee NOUN 0 root
+. PUNCT 7 punct
+
+¿ PUNCT 5 punct
+Ishton ADV 3 advmod
+katiai VERB 5 nsubj
+rin PART 5 cop
+mia PRON 0 root
+a PART 5 case
+? PUNCT 5 punct
+
+joni NOUN 7 nsubj
+ronki PART 7 aux:val
+ikia VERB 8 aux
+iki AUX 3 aux
+konxan NOUN 6 compound
+bema NOUN 7 obj
+toweiki VERB 0 root
+iiti VERB 7 aux
+, PUNCT 7 punct
+xoboatinoxon VERB 7 advcl
+. PUNCT 10 punct
+
+jakon ADJ 4 nsubj
+ma PART 1 Lfcl
+riki VERB 4 cop
+ea PRON 0 root
+a PART 4 case
+
+noa PRON 0 root
+a PART 1 case
+ra PART 1 aux:val
+jawe NOUN 1 nsubj
+yoma PART 4 case
+iki VERB 1 cop
+
+ea PRON 5 nsubj
+n PART 1 case
+ra PART 5 aux:val
+miaa PRON 5 obj
+atikinkasai VERB 0 root
+
+Kimisha NUM 3 nummod
+baná ADJ 3 amod
+jawéki NOUN 8 nsubj
+ra PART 8 aux:val
+Perú PROPN 8 obl
+ainoax PART 5 case
+pari PART 5 Lfcl
+xoxotia VERB 0 root
+iki AUX 8 aux
+. PUNCT 8 punct
+
+Pitii VERB 0 root
+riki AUX 1 aux
+ea PRON 1 nsubj
+a PART 3 case
+
+ninkatii VERB 0 root
+riki AUX 1 aux
+ea PRON 1 nsubj
+a PART 3 case
+
+Jainoax CCONJ 4 cc
+ea PRON 4 nsubj
+a PART 2 case
+boéxeketia VERB 0 root
+iki AUX 4 aux
+nokon DET 7 det
+boéxeti NOUN 4 obl
+n PART 7 case
+bi PART 7 Lfcl
+. PUNCT 4 punct
+
+¿ PUNCT 8 punct
+tsoabo PRON 8 obj
+ikia VERB 2 nsubj
+ki PART 8 aux:val
+nato DET 6 det
+kointo NOUN 8 nsubj
+nin PART 6 case
+yoitiai VERB 0 root
+? PUNCT 8 punct
+
+Tom PROPN 4 nsubj
+ra PART 4 aux:val
+yoyo INTJ 4 compound
+ikiai VERB 0 root
+
+ea PRON 6 nsubj
+n PART 1 case
+ra PART 6 aux:val
+mia PRON 6 obj
+a PART 4 case
+ointikasai VERB 0 root
+
+Jaskarainxon CCONJ 4 cc
+jaton DET 3 det
+Inca PROPN 4 obj
+ochóatikana VERB 0 root
+iki AUX 4 aux
+. PUNCT 4 punct
+
+Ja DET 2 det
+joni NOUN 4 nsubj
+ra PART 4 aux:val
+jotiai VERB 0 root
+, PUNCT 4 punct
+noa PRON 8 nmod
+n PART 6 case
+reken NOUN 2 appos
+. PUNCT 4 punct
+
+ea PRON 0 root
+a PART 1 case
+ra PART 1 aux:val
+vino NOUN 1 nsubj
+ya PART 4 case
+iki VERB 1 cop
+
+¿ PUNCT 5 punct
+jawe PRON 5 obj
+ki PART 5 aux:val
+jonin NOUN 5 nsubj
+aatia VERB 0 root
+iki AUX 5 aux
+? PUNCT 5 punct
+
+Jaskáataanan CCONJ 3 cc
+moa ADV 3 advmod
+katia VERB 0 root
+iki AUX 3 aux
+. PUNCT 3 punct
+
+jati ADJ 3 amod
+ribi PART 1 Lfcl
+yapabo NOUN 7 nsubj
+ra PART 7 aux:val
+ikiai AUX 7 aux
+makeki NOUN 7 obj
+raketiti VERB 0 root
+. PUNCT 7 punct
+
+baritiatiibi NOUN 3 obl
+icha ADJ 3 advmod
+bimitiai VERB 0 root
+. PUNCT 3 punct
 
 Jatíbi ADJ 3 amod
-baná ADJ 3 amod
-jawékibo NOUN 6 nsubj
+kóshitiai VERB 3 amod
+jawéki NOUN 6 nsubj
 iki VERB 6 cop
-xóxotiai VERB 6 amod
+bakeatiai VERB 6 amod
 jawékibo NOUN 0 root
 . PUNCT 6 punct
 
-mia PRON 4 nsubj
-n PART 1 case
-ra PART 4 aux:val
-atiyamake VERB 0 root
-, PUNCT 4 punct
-¿ PUNCT 7 punct
-ikon ADJ 4 discourse
-? PUNCT 7 punct
+Tee NOUN 2 compound
+atiti VERB 4 obl
+ya PART 2 case
+riki VERB 0 root
+noa PRON 4 nsubj
+a PART 5 case
 
-vino NOUN 5 obj
-ra PART 5 aux:val
-ea PRON 5 nsubj
-n PART 3 case
-betiai VERB 0 root
+Jakon ADJ 5 nsubj
+ma PART 1 Lfcl
+cha PART 1 Lfcl
+riki VERB 5 cop
+ea PRON 0 root
+a PART 5 case
+
+¿ PUNCT 5 punct
+mia PRON 5 nsubj
+n PART 2 case
+jawe PRON 5 obj
+meratia VERB 0 root
+? PUNCT 5 punct
+
+kikín ADV 5 advmod
+shaman PART 1 Lfcl
+atikin VERB 5 advcl
+esé NOUN 5 obj
+onantiwe VERB 0 root
+. PUNCT 5 punct
 
 Ikaxbi CCONJ 11 cc
 jawen DET 3 det
@@ -319,181 +1147,239 @@ koshi ADJ 11 amod
 a PART 11 case
 . PUNCT 11 punct
 
-Jaskatax ADV 5 advmod
-ki PART 5 aux:val
-ja PRON 5 nsubj
-xete NOUN 5 obj
-banetia VERB 0 root
-iki AUX 5 aux
-. PUNCT 5 punct
-
-ja PRON 5 nsubj
-abo PART 1 case
-iki VERB 5 cop
-, PUNCT 3 punct
-nami NOUN 0 root
-, PUNCT 7 punct
-yapa NOUN 5 conj
-, PUNCT 9 punct
-poroto NOUN 7 conj
-, PUNCT 11 punct
-tama NOUN 9 conj
-. PUNCT 5 punct
-
-Patax ADV 2 advmod
-jatibekona VERB 4 nsubj
-riki VERB 4 cop
-noa PRON 0 root
-a PART 4 case
-
-¿ PUNCT 8 punct
-tso PINT 8 iobj
-a PART 2 case
-ki PART 8 aux:val
-ja DET 6 det
-joni NOUN 8 nsubj
-pekáo ADP 8 marker
-néetia VERB 0 root
-iki AUX 8 aux
-? PUNCT 8 punct
-
-mia PRON 3 nsubj
-n PART 1 case
-atiibatabo VERB 6 obj
-jakiribi ADV 6 advmod
-yoyo X 6 compound
-ati VERB 0 root
-ribawe PART 6 Lfcl
-. PUNCT 6 punct
-
-joni NOUN 7 nsubj
-ronki PART 7 aux:val
-ikia VERB 8 aux
-iki AUX 3 aux
-konxan NOUN 6 compound
-bema NOUN 7 obj
-toweiki VERB 0 root
-iiti VERB 7 aux
-, PUNCT 7 punct
-xoboatinoxon VERB 7 advcl
-. PUNCT 10 punct
-
-Diestro ADJ 3 nsubj
+Autista ADJ 3 nsubj
 riki VERB 3 cop
-eaa PRON 0 root
-
-Tetébo NOUN 3 nsubj
-ra PART 3 aux:val
-jatike VERB 0 root
-manish NOUN 3 obl
-ain PART 4 case
-. PUNCT 3 punct
-
-Aniparo NOUN 3 obl
-kexá ADP 1 case
-iki VERB 4 nsubj
-mashi NOUN 0 root
-res PART 4 Lfcl
-. PUNCT 3 punct
-
-jaskáaxon CCONJ 8 cc
-ki PART 8 aux:val
-ja DET 4 det
-joni NOUN 8 nsubj
-icha ADJ 6 amod
-piti VERB 8 obl
-a PART 6 case
-banétinike VERB 0 root
-; PUNCT 8 punct
-jatíbi ADJ 11 amod
-roo NOUN 12 obj
-rétetikin VERB 13 advcl
-kéyotiax VERB 8 advcl
-. PUNCT 13 punct
-
-Nato DET 2 det
-bewá NOUN 3 nsubj
-onántiwe VERB 0 root
-. PUNCT 3 punct
-
-Jaskarainoax ADV 4 advmod
-ki PART 4 aux:val
-mawátiti VERB 4 nsubj
-pikotia VERB 0 root
-iki AUX 4 aux
-. PUNCT 4 punct
-
-" PUNCT 3 punct
-Piti NOUN 3 ccomp
-benabatanon VERB 6 parataxis
-" PUNCT 3 punct
-, PUNCT 3 punct
-ikia VERB 9 conj
-ain PART 6 case
-ki PART 9 aux:val
-katikatiai VERB 0 root
-. PUNCT 9 punct
-
-jatibi ADJ 3 nsubj
-ra PART 3 aux:val
-koshi ADJ 0 root
-bires PART 3 Lfcl
-tani PART 3 Lfcl
-ikikanai VERB 3 cop
-. PUNCT 3 punct
-
-Jaskáaxon CCONJ 10 cc
-, PUNCT 1 acl
-bochiki ADV 4 advmod
-péyakatixon VERB 10 advcl
-, PUNCT 4 punct
-jawen DET 7 det
-epa NOUN 8 nsubj
-jishtentiai VERB 10 obj
-mana VERB 10 compound
-mánatia VERB 0 root
-iki AUX 10 aux
-. PUNCT 10 punct
-
-katikin VERB 3 advcl
-, PUNCT 1 punct
-botia VERB 0 root
-iki AUX 3 aux
-rabé NUM 6 nummod
-xopan NOUN 3 obj
-. PUNCT 3 punct
-
-Ilesos ADJ 3 nsubj
-riki VERB 3 cop
-noaa PRON 0 root
-
-¿ PUNCT 8 punct
-tsoa PRON 8 nsubj
-a PART 2 case
-ki PART 8 aux:val
-mia PRON 8 obl
-n PART 5 case
-memio ADP 5 case
-yakatia VERB 0 root
-? PUNCT 8 punct
+ea PRON 0 root
+a PART 3 case
 
 ¿ PUNCT 5 punct
-jainki ADV 5 advmod
-mia PRON 5 nsubj
-a PART 3 case
-ikibata VERB 0 root
+jawekeskarain ADV 5 advmod
+ki PART 5 aux:val
+jonibo NOUN 5 nsubj
+katikana VERB 0 root
+iki AUX 5 aux
 ? PUNCT 5 punct
 
-Jainoax CCONJ 2 cc
-jati VERB 0 root
-ribake PART 2 Lfcl
-ja PRON 9 nsubj
-n PART 4 case
-noa PRON 8 nmod
-n PART 6 case
-yora NOUN 9 obj
-koshiatiti VERB 2 nsubj
-. PUNCT 2 punct
+Resho NOUN 3 obl
+ya PART 1 case
+riki VERB 0 root
+ea PRON 3 nsubj
+a PART 4 case
+
+¿ PUNCT 5 punct
+mia PRON 5 nsubj
+a PART 2 case
+yoyo INTJ 5 compound
+ikikasai VERB 0 root
+? PUNCT 5 punct
+
+Jatike VERB 0 root
+joni NOUN 4 nsubj
+n PART 2 case
+kaíatiti VERB 5 amod
+jawéki NOUN 1 nsubj
+, PUNCT 5 punct
+jainoax CCONJ 11 cc
+nií NOUN 10 obl
+meran ADP 8 case
+ikia VERB 11 amod
+jawéki NOUN 5 conj
+. PUNCT 1 punct
+
+¿ PUNCT 7 punct
+Jawetio ADV 3 advmod
+basi ADV 7 advmod
+ki PART 7 aux:val
+mananxawe NOUN 7 nsubj
+bochiki ADV 7 advmod
+ikia VERB 0 root
+iki AUX 7 aux
+? PUNCT 7 punct
+
+San PROPN 5 nsubj
+Martín PROPN 1 flat
+Perú PROPN 5 obl
+ain PART 3 case
+jotia VERB 0 root
+iki AUX 5 aux
+, PUNCT 5 punct
+icha ADJ 9 amod
+buke NOUN 5 obl
+ya PART 9 case
+, PUNCT 9 punct
+jainoax CCONJ 14 cc
+icha ADJ 14 amod
+sontáro NOUN 9 conj
+ya PART 14 case
+ribi PART 14 Lfcl
+. PUNCT 5 punct
+
+Jaweyomabiyoma NOUN 4 nsubj
+bi PART 1 Lfcl
+riki VERB 4 cop
+eaa PRON 0 root
+
+yokati VERB 0 root
+resi PART 1 Lfcl
+riki AUX 1 aux
+ea PRON 1 nsubj
+a PART 4 case
+
+Jaská CCONJ 7 cc
+, PUNCT 1 punct
+ja DET 4 det
+ino NOUN 7 nsubj
+bochiki ADV 7 advmod
+kotsatiax VERB 7 advcl
+janxbátia VERB 0 root
+iki AUX 7 aux
+. PUNCT 7 punct
+
+¡ PUNCT 2 punct
+Yatantikana VERB 0 root
+riki AUX 2 aux
+noa PRON 2 nsubj
+a PART 4 case
+! PUNCT 2 punct
+
+¿ PUNCT 7 punct
+mia PRON 7 nsubj
+a PART 2 case
+suajuali NOUN 7 obl
+nin PART 4 case
+yoyo INTJ 7 compound
+ikiai VERB 0 root
+? PUNCT 7 punct
+
+Nokon DET 2 det
+tita NOUN 5 nsubj
+n PART 2 case
+wai NOUN 5 obj
+orotiai VERB 0 root
+. PUNCT 5 punct
+
+jaskáxon CCONJ 9 cc
+ki PART 9 aux:val
+awa NOUN 9 nsubj
+kan PART 3 case
+rono NOUN 7 nmod
+n PART 5 case
+ewa NOUN 8 compound
+bakeranon NOUN 9 obj
+tésatia VERB 0 root
+iki AUX 9 aux
+. PUNCT 9 punct
+
+¿ PUNCT 2 punct
+mia PRON 0 root
+a PART 2 case
+rarot ADJ 2 nsubj
+shaman PART 4 Lfcl
+iki VERB 2 cop
+? PUNCT 2 cop
+
+bari NOUN 0 root
+katiai VERB 1 nmod
+o PART 2 case
+ri PART 2 case
+
+Mapamea NOUN 2 obl
+ointixon VERB 4 advcl
+aninasibo NOUN 4 obj
+benatiwe VERB 0 root
+. PUNCT 4 punct
+
+noa PRON 3 nmod
+n PART 1 case
+yora NOUN 4 nsubj
+iki VERB 0 root
+kimisha NUM 6 nummod
+jawéki NOUN 4 obj
+a PART 6 case
+: PUNCT 4 punct
+
+Jasin NOUN 3 nsubj
+riki VERB 3 cop
+piti NOUN 0 root
+. PUNCT 3 punct
+
+bitii VERB 0 root
+riki AUX 1 aux
+ea PRON 1 nsubj
+a PART 3 case
+
+pikótixon VERB 6 advcl
+joni NOUN 6 nsubj
+n PART 2 case
+ja DET 5 det
+ainbo NOUN 6 obj
+yatantia VERB 0 root
+iki AUX 6 aux
+. PUNCT 6 punct
+Ja DET 2 det
+yatantia VERB 3 nsubj
+yoitia VERB 0 root
+iki AUX 3 aux
+: PUNCT 3 punct
+
+Rinko ADJ 2 amod
+joni NOUN 4 nsubj
+riki VERB 4 cop
+ea PRON 0 root
+a PART 4 case
+
+Jatian ADV 3 advmod
+ja PRON 3 nsubj
+keotiaitian VERB 9 advcl
+ki PART 9 aux:val
+, PUNCT 3 punct
+ainbo NOUN 9 nsubj
+baon PART 6 case
+mawa VERB 9 compound
+mawatia VERB 0 root
+iki AUX 9 aux
+. PUNCT 9 punct
+
+Jatibi ADJ 2 amod
+bake NOUN 7 iobj
+ra PART 7 aux:val
+jawen DET 5 det
+bimi NOUN 6 nsubj
+kókotinin VERB 7 nsubj
+kéentiai VERB 0 root
+. PUNCT 7 punct
+
+nete NOUN 2 nsubj
+resenentia VERB 0 root
+o PART 2 case
+: PUNCT 2 punct
+
+ainbo NOUN 5 nsubj
+n PART 1 case
+wiso ADJ 4 amod
+ino NOUN 5 obj
+retetini VERB 0 root
+
+¿ PUNCT 5 punct
+jawekeská ADV 5 advmod
+rin PART 5 aux:val
+jawen DET 5 det
+pei NOUN 0 root
+? PUNCT 5 punct
+
+¿ PUNCT 5 punct
+mia PRON 5 nsubj
+n PART 2 case
+atiti VERB 5 xcomp
+atipantia VERB 0 root
+? PUNCT 5 punct
+
+¿ PUNCT 5 punct
+Jawerato PRON 3 amod
+bake NOUN 5 nsubj
+ki PART 5 aux:val
+ikia VERB 0 root
+? PUNCT 5 punct
 
 jatike VERB 0 root
 joni NOUN 4 nmod
@@ -508,353 +1394,13 @@ ikia VERB 11 amod
 jawéki NOUN 5 conj
 . PUNCT 1 punct
 
-Wetsa ADJ 7 nsubj
-iki VERB 7 cop
-, PUNCT 2 punct
-noa PRON 7 nmod
-n PART 4 case
-yora NOUN 7 compound
-chapatabo NOUN 0 root
-. PUNCT 7 punct
-
-mia PRON 3 nsubj
-n PART 1 case
-atiti VERB 0 root
-atipantia AUX 3 aux
-
 ¿ PUNCT 6 punct
-awá NOUN 6 nsubj
-kan PART 2 case
+Jakon ADV 6 advmod
 ki PART 6 aux:val
-jawe PRON 6 obj
-pitia VERB 0 root
-iki AUX 6 aux
-? PUNCT 6 punct
-
-ea PRON 5 nsubj
-n PART 1 case
-ra PART 5 aux:val
-jato PRON 5 obj
-ointiyamaai VERB 0 root
-
-¿ PUNCT 6 punct
 mia PRON 6 nsubj
-a PART 2 case
-Ea PRON 6 obl
-be PART 4 obl
-katiai VERB 0 root
+a PART 4 case
+jatia VERB 0 root
 ? PUNCT 6 punct
-
-¿ PUNCT 8 punct
-jawe PRON 8 obj
-ki PART 8 aux:val
-chaxo NOUN 8 nsubj
-n PART 4 case
-bi PART 4 Lfcl
-ribi PART 4 Lfcl
-betia VERB 0 root
-iki AUX 8 aux
-? PUNCT 8 punct
-
-wishatiwe VERB 0 root
-, PUNCT 1 punct
-wetsa ADJ 4 amod
-isákan NOUN 5 nmod
-janebo NOUN 1 obj
-ribi PART 5 Lfcl
-. PUNCT 1 punct
-
-¿ PUNCT 5 punct
-Ishton ADV 3 advmod
-katiai VERB 5 nsubj
-rin PART 5 cop
-mia PRON 0 root
-a PART 5 case
-? PUNCT 5 punct
-
-osantii VERB 0 root
-riki AUX 1 aux
-ea PRON 1 nsubj
-a PART 3 case
-
-ointiwe VERB 0 root
-¡ PUNCT 3 punct
-tita NOUN 1 vocative
-! PUNCT 3 punct
-
-Ja DET 2 det
-ainbo NOUN 6 nsubj
-tsi PART 2 Lfcl
-ki PART 6 aux:val
-¿ PUNCT 6 punct
-jáwekeskatia VERB 0 root
-iki AUX 6 aux
-? PUNCT 6 punct
-
-Jawen DET 2 det
-jana NOUN 4 nsubj
-riki VERB 4 cop
-xakiti NOUN 0 root
-keská ADP 4 case
-. PUNCT 4 punct
-
-Jaskáaxon CCONJ 5 cc
-joni NOUN 5 nsubj
-n PART 2 case
-mai NOUN 5 obj
-chinitia VERB 0 root
-iki AUX 5 aux
-; PUNCT 5 punct
-ja PRON 10 obl
-meran ADP 8 case
-sontantimeeti VERB 5 aux:val
-. PUNCT 10 punct
-
-Ja DET 2 det
-ainbo NOUN 15 nsubj
-ki PART 15 aux:val
-ikikatiai VERB 16 aux
-, PUNCT 4 punct
-jawen DET 7 det
-bene NOUN 9 nsubj
-piti NOUN 9 obj
-benatii VERB 15 advcl
-katia VERB 9 aux
-pekáo SCONJ 9 cc
-ki PART 9 aux:val
-, PUNCT 9 punct
-wai NOUN 15 obj
-órotii VERB 0 root
-katii VERB 15 aux
-. PUNCT 15 punct
-
-Manan NOUN 5 obl
-ani ADJ 1 amod
-nko PART 1 case
-ribi PART 1 Lfcl
-jatike VERB 0 root
-. PUNCT 5 punct
-
-Ecuador PROPN 0 root
-, PUNCT 3 punct
-Colombia PROPN 1 conj
-. PUNCT 1 punct
-
-Moa ADV 2 advmod
-atiti VERB 5 nsubj
-res PART 2 Lfcl
-riki VERB 5 cop
-ea PRON 0 root
-a PART 5 case
-
-Ja PRON 5 nsubj
-riki AUX 5 cop
-pia NOUN 5 obl
-n PART 3 case
-tsakatiti VERB 0 root
-. PUNCT 5 punct
-
-Japones ADJ 3 nsubj
-riki VERB 3 cop
-ea PRON 0 root
-a PART 3 case
-
-jakontiax VERB 2 advcl
-jatii VERB 0 root
-riki AUX 2 aux
-noaa PRON 2 nsubj
-
-jotiyamaai VERB 0 root
-, PUNCT 1 punct
-ni CCONJ 4 cc
-yoxan NOUN 1 nsubj
-shoko PART 4 Lfcl
-bi PART 4 Lfcl
-, PUNCT 9 punct
-ni CCONJ 9 cc
-xóntako NOUN 4 conj
-bi PART 9 Lfcl
-, PUNCT 16 punct
-ni CCONJ 16 cc
-nokon DET 14 det
-anibo NOUN 16 obj
-bi PART 14 Lfcl
-betiyamakanai VERB 1 conj
-. PUNCT 16 punct
-
-¿ PUNCT 2 punct
-mia PRON 0 root
-a PART 2 case
-rarot ADJ 2 nsubj
-shaman PART 4 Lfcl
-iki VERB 2 cop
-? PUNCT 2 cop
-
-¿ PUNCT 6 punct
-Jainxon CCONJ 6 cc
-ki PART 6 aux:val
-ja DET 5 det
-ainbo NOUN 6 nsubj
-jáwekeskaatia VERB 0 root
-iki AUX 6 aux
-? PUNCT 6 punct
-
-Cristóbal PROPN 7 nsubj
-Colón PROPN 1 flat
-ikia VERB 7 cop
-iki AUX 3 aux
-jawéki NOUN 7 nmod
-oma PART 5 case
-joni NOUN 0 root
-. PUNCT 7 punct
-
-Rama ADV 3 advmod
-ja DET 3 det
-jawékibo NOUN 7 nsubj
-wetsa ADJ 7 obl
-nko PART 4 case
-ribi PART 4 Lfcl
-xoxotiai VERB 0 root
-. PUNCT 7 punct
-
-meratixon VERB 4 advcl
-notsíntianan VERB 4 advcl
-bi PART 2 Lfcl
-yoitia VERB 0 root
-iki AUX 4 aux
-: PUNCT 4 punct
-
-noa PRON 3 nmod
-n PART 1 case
-anibo NOUN 7 nsubj
-noa PRON 6 nmod
-n PART 4 case
-jawéki NOUN 7 obj
-atikinai VERB 0 root
-. PUNCT 7 punct
-
-¿ PUNCT 5 punct
-Jawe PRON 5 obj
-mato PRON 5 nsubj
-n PART 3 case
-joneaa VERB 0 root
-? PUNCT 5 punct
-
-ointi VERB 0 root
-kayata PART 1 Lfcl
-nato PRON 4 obj
-joniatikin VERB 5 advcl
-atikana VERB 1 obj
-. PUNCT 1 punct
-
-Jaskáataanan CCONJ 3 cc
-moa ADV 3 advmod
-katia VERB 0 root
-iki AUX 3 aux
-. PUNCT 3 punct
-
-Ja PRON 4 obj
-ea PRON 4 iobj
-a PART 2 case
-betixonwe VERB 0 root
-
-Ishton ADV 2 advmod
-atinon VERB 0 root
-ikiwe AUX 2 aux
-
-jáskataxxon CCONJ 4 cc
-ki PART 4 aux:val
-moa ADV 4 advmod
-katiti VERB 0 root
-átipantiyamakana AUX 4 aux
-iki AUX 5 aux
-. PUNCT 4 punct
-
-Nokon DET 2 det
-papa NOUN 6 obj
-ribi PART 2 Lfcl
-ea PRON 6 nsubj
-n PART 4 case
-yómeratikinai VERB 0 root
-. PUNCT 6 punct
-
-Jakon ADJ 5 nsubj
-ma PART 1 Lfcl
-cha PART 1 Lfcl
-riki VERB 5 cop
-ea PRON 0 root
-a PART 5 case
-
-¿ PUNCT 8 punct
-yawish NOUN 8 nsubj
-an PART 2 case
-ki PART 8 aux:val
-, PUNCT 2 punct
-jaweraki ADV 8 advmod
-ino NOUN 8 obj
-parantia VERB 0 root
-iki AUX 8 aux
-? PUNCT 8 punct
-
-Ja DET 2 det
-báke NOUN 5 nsubj
-ki PART 5 aux:val
-ishton ADV 5 advmod
-aniatia VERB 0 root
-iki AUX 5 aux
-. PUNCT 5 punct
-
-mia PRON 5 nsubj
-n PART 1 case
-jakon ADV 4 advmod
-atiti VERB 5 xcomp
-maxkatia VERB 0 root
-
-¿ PUNCT 7 punct
-jaweranoa ADV 7 advmod
-ki PART 7 aux:val
-jawen DET 5 det
-tita NOUN 7 nsubj
-n PART 5 case
-mératia VERB 0 root
-iki AUX 7 aux
-? PUNCT 7 punct
-
-Manko ADJ 3 nsubj
-riki VERB 3 cop
-ea PRON 0 root
-a PART 3 case
-
-noa PRON 3 nmod
-n PART 1 case
-chío NOUN 7 obj
-shokobo PART 3 Lfcl
-noa PRON 7 nsubj
-n PART 5 case
-ointiai VERB 0 root
-. PUNCT 7 punct
-
-nétetiibi NOUN 4 advmod
-noa PRON 4 nsubj
-n PART 2 case
-xeatiti VERB 0 root
-iki AUX 4 aux
-, PUNCT 4 punct
-westíora DET 8 det
-litro NOUN 4 obj
-inonbires ADV 4 advmod
-, PUNCT 8 punct
-ompax NOUN 8 compound
-. PUNCT 4 punct
-
-Jeeen INTJ 7 discourse
-, PUNCT 1 punct
-ea PRON 7 nsubj
-n PART 3 case
-ra PART 7 aux:val
-moa ADV 7 advmod
-onantike VERB 0 root
-. PUNCT 7 punct
 
 joatiax VERB 3 advcl
 ki PART 3 aux:val
@@ -862,497 +1408,10 @@ taxnátibekona VERB 0 root
 iki AUX 3 aux
 . PUNCT 3 punct
 
-ea PRON 5 nsubj
-n PART 1 case
-mia PRON 5 obj
-a PART 3 case
-chibantiban VERB 0 root
-
-Jato PRON 2 obj
-akintiai VERB 4 nsubj
-rin PART 4 cop
-mia PRON 0 root
-a PART 4 case
-
-Toya ADJ 3 nsubj
-riki VERB 3 cop
-ea PRON 0 root
-a PART 3 case
-
-¿ PUNCT 6 punct
-Jawekeskáakin ADV 6 advmod
-ki PART 6 aux:val
-jonin NOUN 6 nsubj
-ino NOUN 6 iobj
-parantia VERB 0 root
-iki AUX 6 aux
-? PUNCT 6 punct
-
-Moa ADV 2 advmod
-taxnátixon VERB 10 advcl
-ki PART 10 aux:val
-, PUNCT 2 punct
-ja DET 6 det
-chiakatia VERB 10 nsubj
-tonin PART 6 case
-, PUNCT 6 punct
-reyakatia VERB 10 iobj
-yoitia VERB 0 root
-iki AUX 10 punct
-: PUNCT 10 punct
-
-Joxo ADJ 2 amod
-shino NOUN 5 nsubj
-betan CCONJ 4 cc
-mananxawe NOUN 2 conj
-ikini VERB 0 root
-
-Ja DET 2 det
-konxan NOUN 3 obj
-toetii VERB 10 obj
-to X 5 obj
-iitiaitian VERB 3 advcl
-ki PART 3 aux:val
-, PUNCT 3 punct
-ino NOUN 10 nsubj
-n PART 8 case
-nikatia VERB 0 root
-iki AUX 10 aux
-. PUNCT 10 punct
-
-Jatian ADV 3 advmod
-ja PRON 3 nsubj
-keotiaitian VERB 9 advcl
-ki PART 9 aux:val
-, PUNCT 3 punct
-ainbo NOUN 9 nsubj
-baon PART 6 case
-mawa VERB 9 compound
-mawatia VERB 0 root
-iki AUX 9 aux
-. PUNCT 9 punct
-
-Boshtiatii VERB 0 root
-riki AUX 1 aux
-ea PRON 1 nsubj
-a PART 3 case
-
-Cristóbal PROPN 7 nsubj
-Colón PROPN 1 compound
-ikia VERB 7 cop
-iki AUX 3 aux
-jawéki NOUN 7 nmod
-oma PART 5 case
-joni NOUN 0 root
-. PUNCT 7 punct
-
-nomitii VERB 2 advcl
-riki AUX 0 root
-eaa PRON 1 nsubj
-
-ea PRON 6 nsubj
-n PART 1 case
-ra PART 6 aux:val
-manapo NOUN 6 obl
-nko PART 4 case
-nitiai VERB 0 root
-
-¿ PUNCT 5 punct
-mia PRON 5 nsubj
-n PART 2 case
-yoyo INTJ 5 compound
-atikasai VERB 0 root
-? PUNCT 5 punct
-
-¿ PUNCT 6 punct
-Ja DET 3 det
-bake NOUN 6 nsubj
-ki PART 6 aux:val
-jawe PRON 6 obj
-banetia VERB 0 root
-iki AUX 6 aux
-? PUNCT 6 punct
-
-ea PRON 5 nsubj
-n PART 1 case
-ra PART 5 aux:val
-jato PRON 5 obj
-botikasai VERB 0 root
-
-¿ PUNCT 5 punct
-mia PRON 5 nsubj
-n PART 2 case
-bakish ADV 5 advmod
-yoyoatiibata VERB 0 root
-? PUNCT 5 punct
-
-ea PRON 3 nsubj
-a PART 1 case
-mánokoxotia VERB 0 root
-iki AUX 3 aux
-, PUNCT 3 punct
-cepillo NOUN 3 obl
-nin PART 6 case
-; PUNCT 6 punct
-nokon DET 10 det
-xeta NOUN 11 obj
-chokatii VERB 3 advcl
-, PUNCT 11 punct
-ompax NOUN 3 obl
-bexnan ADJ 13 amod
-man PART 13 case
-. PUNCT 13 punct
-
-mia PRON 3 nmod
-n PART 1 case
-cuaderno NOUN 5 obl
-meran ADP 3 case
-wíshatiwe VERB 0 root
-, PUNCT 5 punct
-pichika NUM 8 nummod
-jiwi NOUN 10 nmod
-n PART 8 case
-jane NOUN 5 obj
-. PUNCT 5 punct
-
-Llama NOUN 6 nsubj
-iki VERB 6 cop
-Perú PROPN 5 obl
-ainxon PART 3 case
-kaíatikanai VERB 6 amod
-jawéki NOUN 0 root
-. PUNCT 6 punct
-
-Jakon ADJ 2 amod
-jawékiatitibo VERB 0 root
-
-Pitii VERB 0 root
-riki AUX 1 aux
-ea PRON 1 nsubj
-a PART 3 case
-
-Mexka ADJ 3 nsubj
-riki VERB 3 cop
-ea PRON 0 root
-a PART 3 case
-
-Nato DET 2 det
-baritia NOUN 10 obl
-n PART 2 case
-ra PART 10 aux:val
-noa PRON 10 nsubj
-a PART 5 case
-castellano NOUN 10 obl
-nin PART 7 case
-yoyo X 10 compound
-ikiai VERB 0 root
-. PUNCT 10 punct
-
-bari NOUN 3 nsubj
-ra PART 3 aux:val
-jakon ADJ 0 root
-iki VERB 3 cop
-. PUNCT 3 punct
-
-jakon ADJ 4 nsubj
-ma PART 1 Lfcl
-riki VERB 4 cop
-mia PRON 0 root
-a PART 4 case
-
-¿ PUNCT 5 punct
-mia PRON 5 nsubj
-n PART 2 case
-ikon NOUN 5 obj
-yoitiai VERB 0 root
-? PUNCT 5 punct
-
-¿ PUNCT 4 punct
-tsoabo PRON 4 obj
-ki PART 4 aux:val
-yoitiai VERB 0 root
-nato DET 6 det
-kointonin NOUN 4 nsubj
-? PUNCT 4 punct
-
-mia PRON 0 root
-a PART 1 case
-vinoya NOUN 1 nsubj
-iki VERB 1 cop
-
-Pei NOUN 3 obl
-30 NUM 1 nummod
-ikia VERB 4 amod
-bewá NOUN 6 obj
-jakiribi ADV 6 advmod
-máwatiwe VERB 0 root
-. PUNCT 6 punct
-
-mia PRON 3 nsubj
-a PART 1 case
-áxeatia VERB 0 root
-riki AUX 3 aux
-
-Ja DET 2 det
-jiwi NOUN 0 root
-atiabo VERB 2 acl
-naman ADV 2 advmod
-
-Wetsa ADJ 6 nsubj
-iki VERB 6 cop
-, PUNCT 2 punct
-noa PRON 6 nmod
-n PART 4 case
-mapo NOUN 0 root
-. PUNCT 6 punct
-
-Ja DET 2 det
-joni NOUN 7 nsubj
-jotiai VERB 2 amod
-iki VERB 7 cop
-non PRON 7 nmod
-n PART 5 case
-maestro NOUN 0 root
-. PUNCT 7 punct
-
-Jaaboronkiki CCONJ 5 cc
-ja PRON 3 det
-nonn DET 5 nsubj
-kirinko NOUN 5 obj
-atiaibo VERB 0 root
-. PUNCT 5 punct
-
-¿ PUNCT 7 punct
-jainoa CCONJ 7 cc
-ki PART 7 aux:val
-ino NOUN 7 nsubj
-n PART 4 case
-jaweraki PRON 7 obj
-atitoshia VERB 0 root
-iki AUX 7 aux
-? PUNCT 7 punct
-
-Bititankanwe VERB 10 obj
-bakebo NOUN 1 vocative
-, PUNCT 4 punct
-icha ADJ 1 conj
-riki VERB 4 cop
-kankan NOUN 4 nsubj
- PUNCT 1 punct
-atikin VERB 10 advcl
-jato PRON 10 iobj
-atia VERB 0 root
-iki AUX 10 aux
-. PUNCT 10 punct
-
-¿ PUNCT 6 punct
-noa PRON 6 nsubj
-n PART 2 case
-ki PART 6 aux:val
-miaa PRON 6 obj
-onántia VERB 0 root
-? PUNCT 6 punct
-
-bari NOUN 6 obj
-ra PART 6 aux:val
-naí NOUN 4 compound
-koin NOUN 6 nsubj
-man PART 4 case
-bepotike VERB 0 root
-. PUNCT 6 punct
-
-noa PRON 3 nsubj
-n PART 1 case
-xeatiti VERB 0 root
-iki AUX 3 aux
-jakon ADJ 6 amod
-ompax NOUN 3 obj
-bicho PART 6 Lfcl
-. PUNCT 3 punct
-
-Nato ADJ 2 amod
-escuela NOUN 6 obl
-nkoxon PART 2 case
-noa PRON 6 nsubj
-n PART 4 case
-onantiai VERB 0 root
-, PUNCT 6 punct
-jakon ADJ 9 amod
-bake NOUN 6 advcl
-ikinoxon VERB 9 cop
-, PUNCT 15 punct
-noa PRON 14 nmod
-n PART 12 case
-nete NOUN 15 obj
-cuidantinoxon VERB 9 conj
-. PUNCT 6 punct
-
-jaskáken CCONJ 8 cc
-bi PART 1 Lfcl
-ki PART 8 aux:val
-ja DET 5 det
-xawe NOUN 8 nsubj
-n PART 5 case
-joni NOUN 8 obj
-mératia VERB 0 root
-iki AUX 8 aux
-. PUNCT 8 punct
-
-Xoa ADJ 3 nsubj
-riki VERB 3 cop
-ea PRON 0 root
-a PART 3 case
-
-mia PRON 5 nsubj
-n PART 1 case
-ea PRON 5 obj
-a PART 3 case
-akintikasai VERB 0 root
-
-Jaskara CCONJ 6 cc
-ikiketian VERB 6 advcl
-, PUNCT 2 punct
-yantan ADV 6 advmod
-bari NOUN 6 nsubj
-jikitiama VERB 0 root
-painon PART 6 Lfcl
-riki AUX 6 aux
-. PUNCT 6 punct
-
-¿ PUNCT 5 punct
-jawekeská ADV 5 advmod
-rin PART 2 aux:val
-jawen DET 5 det
-pei NOUN 0 root
-? PUNCT 5 punct
-
-jati ADJ 3 amod
-ribi PART 1 Lfcl
-yapabo NOUN 7 nsubj
-ra PART 7 aux:val
-ikiai AUX 7 aux
-makeki NOUN 7 obj
-raketiti VERB 0 root
-. PUNCT 7 punct
-
-Ja DET 2 det
-jiwi NOUN 0 root
-atia VERB 2 acl
-naman ADV 2 advmod
-
-ja PRON 6 nsubj
-abo PART 1 case
-ra PART 6 aux:val
-mátsi NOUN 6 obl
-res PART 4 Lfcl
-keentiai VERB 0 root
-. PUNCT 6 punct
-
-¿ PUNCT 5 punct
-mia PRON 5 nsubj
-n PART 2 case
-jato PRON 5 obj
-ointimakasai VERB 0 root
-? PUNCT 5 punct
-
-¿ PUNCT 5 punct
-Jawerano ADV 5 advmod
-rin PART 5 aux:val
-Norte PROPN 5 compound
-América PROPN 0 root
-? PUNCT 5 punct
-
-ja PRON 3 nsubj
-bi PART 1 Lfcl
-jenetiyamaa VERB 0 root
-iki AUX 3 aux
-. PUNCT 3 punct
-
-ninkatiyamaai VERB 3 nsubj
-riki VERB 3 cop
-ea PRON 0 root
-a PART 3 case
-
-Jaweati CCONJ 7 cc
-kan PART 1 Lfcl
-mia PRON 7 nsubj
-n PART 3 case
-jonétixon VERB 7 advcl
-eaa PRON 7 nsubj
-ointiai VERB 0 root
-. PUNCT 7 punct
-
-Ikaxbi CCONJ 5 cc
-payari NOUN 4 nsubj
-riki VERB 4 cop
-joxo ADJ 0 root
-. PUNCT 4 punct
-
-oshitia VERB 3 nsubj
-riki VERB 3 cop
-ea PRON 0 root
-a PART 3 case
-
-¿ PUNCT 8 punct
-tsoabo PRON 8 obj
-ikia VERB 2 nsubj
-ki PART 8 aux:val
-nato DET 6 det
-kointo NOUN 8 nsubj
-nin PART 6 case
-yoitiai VERB 0 root
-? PUNCT 8 punct
-
-Jaskatax CCONJ 3 cc
-ino NOUN 3 nsubj
-neeti VERB 0 root
-shokokasa PART 3 Lfcl
-bi PART 3 Lfcl
-ititi VERB 3 advcl
-koma PART 6 Lfcl
-ikia AUX 3 aux
-iki AUX 8 aux
-, PUNCT 3 punct
-ja DET 12 det
-jiwi NOUN 13 nsubj
-sibá ADJ 3 advmod
-ikiax VERB 13 cop
-. PUNCT 13 punct
-
-¿ PUNCT 6 punct
-mia PRON 6 nsubj
+Ja PRON 4 obj
+ea PRON 4 iobj
 a PART 2 case
-sere NOUN 6 obl
-ya PART 4 case
-iki VERB 0 root
-? PUNCT 6 punct
-
-¿ PUNCT 5 punct
-mia PRON 5 nsubj
-n PART 2 case
-natobo PRON 5 obj
-onántia VERB 0 root
-? PUNCT 5 punct
-
-Ja DET 2 det
-Inca NOUN 9 nsubj
-ronki PART 9 aux:val
-ikipaonike VERB 9 cop
-, PUNCT 4 punct
-wiso ADJ 9 amod
-tani PART 6 Lfcl
-shoko PART 6 Lfcl
-joni NOUN 0 root
-. PUNCT 9 punct
-
-Aniparo NOUN 3 obl
-kexá ADP 1 case
-iki VERB 0 root
-matsi NOUN 3 nsubj
-wetsa ADJ 6 amod
-oxe NOUN 3 obl
-baon PART 6 case
-. PUNCT 3 punct
+ointimawe VERB 0 root
 
 bari NOUN 2 nsubj
 katiai VERB 0 root
@@ -1360,63 +1419,60 @@ o PART 2 case
 ri SUFN 2 case
 : PUNCT 2 punct
 
-Vicuña NOUN 2 compound
-rani NOUN 3 obj
-bitikanai VERB 0 root
-, PUNCT 3 punct
-mas SYM 6 advmod
-jakon ADJ 7 amod
-rani NOUN 3 advcl
-ikiketian VERB 7 cop
-. PUNCT 3 punct
+jaskatax CCONJ 4 cc
+onki PART 4 aux:val
+, PUNCT 1 punct
+katibekona VERB 0 root
+iki AUX 4 aux
+jaweoma ADV 4 advmod
+, PUNCT 4 punct
+tasá NOUN 4 obl
+ya PART 8 case
+bicho PART 8 Lfcl
+. PUNCT 4 punct
+
+¿ PUNCT 6 punct
+jawe PRON 6 obj
+ki PART 6 aux:val
+ea PRON 6 nsubj
+a PART 4 case
+maxkatia VERB 0 root
+? PUNCT 6 punct
 
 ¿ PUNCT 4 punct
-ea PRON 4 nsubj
-n PART 2 case
-xeatiti VERB 0 root
-atipantia AUX 4 aux
+jawerano ADV 4 advmod
+ki PART 4 aux:val
+katikana VERB 0 root
+iki AUX 4 aux
 ? PUNCT 4 punct
 
-oxatia VERB 0 root
-riki VERB 1 aux
-mia PRON 1 nsubj
-a PART 3 case
-
-Astronomo NOUN 3 nsubj
-riki VERB 3 cop
 ea PRON 0 root
-a PART 3 case
+a PART 1 case
+ra PART 1 aux:val
+frances ADJ 1 nsubj
+iki VERB 1 cop
 
-¿ PUNCT 5 punct
-mia PRON 5 nsubj
-n PART 2 case
-ki PART 5 aux:val
-betiyama VERB 0 root
-biresa PART 5 Lfcl
-? PUNCT 5 punct
+ja PRON 4 nsubj
+n PART 1 case
+ra PART 4 aux:val
+pitiai VERB 0 root
+nami NOUN 4 obj
+. PUNCT 4 punct
 
-atikasi VERB 2 advcl
-riki AUX 0 root
-ea PRON 1 nsubj
-a PART 3 case
+ea PRON 5 nsubj
+n PART 1 case
+ra PART 5 aux:val
+mato PRON 5 obj
+ointikasai VERB 0 root
 
-¿ PUNCT 5 punct
-jáwerano ADV 5 advmod
-ki PART 5 aux:val
-awá NOUN 5 nsubj
-katia VERB 0 root
-iki AUX 5 aux
-? PUNCT 5 punct
-
-¿ PUNCT 5 punct
-mia PRON 5 nsubj
-n PART 2 case
-shinantiti VERB 5 xcomp
-atipantia VERB 0 root
-? PUNCT 5 punct
-
-ikiama VERB 0 root
-. PUNCT 1 punct
+Yoáshiko PROPN 4 nsubj
+Inka PROPN 4 nsubj
+ronki PART 4 aux:val
+jatipaonike VERB 0 root
+joni NOUN 4 obl
+icha ADJ 5 amod
+xaran ADP 5 case
+. PUNCT 4 punct
 
 ¿ PUNCT 8 punct
 jatian CCONJ 8 cc
@@ -1429,16 +1485,17 @@ atia VERB 0 root
 iki AUX 8 aux
 ? PUNCT 8 punct
 
-ea PRON 0 root
-a PART 1 case
-ra PART 1 aux:val
-frances ADJ 1 nsubj
-iki VERB 1 cop
-
-ochóma ADV 4 advmod
-ra PART 4 aux:val
-eaa PRON 4 nsubj
-ikiai VERB 0 root
+noa PRON 3 nmod
+n PART 1 case
+escuela NOUN 8 obj
+ra PART 8 aux:val
+noa PRON 8 nsubj
+n PART 5 case
+jáwetianbi ADV 8 advmod
+manishtimati VERB 0 root
+ma PART 8 Lfcl
+iki AUX 8 aux
+. PUNCT 8 punct
 
 jatian CCONJ 3 cc
 ki PART 3 aux:val
@@ -1459,384 +1516,26 @@ iitiai VERB 17 ccomp
 atikin VERB 3 advcl
 . PUNCT 14 punct
 
-nete NOUN 2 nsubj
-resenentia VERB 0 root
-o PART 2 case
-: PUNCT 2 punct
-
-iti VERB 3 amod
-resa PART 1 Lfcl
-jawékibo NOUN 4 obj
-bítixon VERB 8 advcl
-icha ADJ 7 amod
-jakon ADJ 7 amod
-jawékibo NOUN 8 obj
-atikanai VERB 0 root
-. PUNCT 8 punct
-
-ino NOUN 4 nsubj
-n PART 1 case
-ra PART 4 aux:val
-pitiai VERB 0 root
-nami NOUN 4 obj
-. PUNCT 4 punct
-
-bitii VERB 0 root
-riki AUX 1 aux
-ea PRON 1 nsubj
-a PART 3 case
-
-pontetii NOUN 3 advcl
-yoyo INTJ 3 compound
-ikiwe VERB 0 root
-
-Perú PROPN 4 obl
-ain PART 1 case
-ra PART 4 aux:val
-jatike VERB 0 root
-icha ADJ 6 amod
-yami NOUN 8 nmod
-keská ADP 6 case
-jawékibo NOUN 4 nsubj
-. PUNCT 4 punct
-
-¿ PUNCT 8 punct
-Memio ADV 4 advmod
-kea PART 2 case
-meken NOUN 8 obl
-man PART 4 case
-ki PART 8 aux:val
-jawe PRON 8 obj
-yatantia VERB 0 root
-? PUNCT 8 punct
-
-¿ PUNCT 4 punct
-xóntako NOUN 4 nsubj
-ki PART 4 aux:val
-jotiyamaai VERB 0 root
-? PUNCT 4 punct
-
-Ja DET 2 det
-vicuña NOUN 9 nsubj
-iki VERB 9 cop
-, PUNCT 3 punct
-joni NOUN 7 nsubj
-n PART 5 case
-kaíatimati VERB 9 amod
-ma PART 7 Lfcl
-jawéki NOUN 0 root
-. PUNCT 9 punct
-
-Nokon DET 2 det
-tita NOUN 5 nsubj
-n PART 2 case
-wai NOUN 5 obj
-orotiai VERB 0 root
-. PUNCT 5 punct
-
-Iamarake INTJ 0 root
-. PUNCT 1 punct
-
 ¿ PUNCT 5 punct
-Jawerano ADV 5 obj
+Jawe PRON 5 obj
 mia PRON 5 nsubj
-a PART 3 case
-áxeatiai VERB 0 root
-? PUNCT 5 punct
-
-Jaskatax CCONJ 5 cc
-ja DET 4 det
-rabé NUM 4 nummod
-joni NOUN 5 nsubj
-raetianana VERB 0 root
-iki AUX 5 aux
-. PUNCT 5 punct
-
-¿ PUNCT 5 punct
-Jaskáa CCONJ 5 cc
-ki PART 5 aux:val
-ja DET 5 det
-jeme NOUN 0 root
-jawe PRON 5 nsubj
-ikia VERB 5 cop
-iki AUX 7 aux
-? PUNCT 5 punct
-
-ea PRON 5 nsubj
-n PART 1 case
-ra PART 5 aux:val
-mato PRON 5 obj
-ikonatiai VERB 0 root
-ea PRON 1 nsubj
-n PART 6 case
-ra PART 1 aux:val
-mia PRON 1 obj
-a PART 9 case
-
-Ja DET 2 det
-vicuña NOUN 5 obj
-bi PART 2 Lfcl
-ribi PART 2 Lfcl
-atikanai VERB 0 root
-, PUNCT 5 punct
-" PUNCT 10 punct
-Manan NOUN 10 nmod
-Animea ADJ 8 amod
-Chono NOUN 5 iobj
-shoko PART 10 Lfcl
-" PUNCT 10 punct
-atikin VERB 5 advcl
-, PUNCT 13 punct
-jakon ADJ 5 advmod
-shoko PART 15 Lfcl
-ikiax VERB 15 cop
-bi PART 17 Lfcl
-oshi ADJ 5 advcl
-tani PART 19 Lfcl
-shoko PART 19 Lfcl
-ikiketian VERB 19 cop
-. PUNCT 5 punct
-
-Awá NOUN 5 nsubj
-betan CCONJ 4 cc
-chosko NUM 4 nummod
-bakeranon NOUN 1 conj
-ikini VERB 0 root
-
-sere NOUN 3 obl
-ya PART 1 case
-riki VERB 0 root
-ea PRON 3 nsubj
-a PART 4 case
-
-¿ PUNCT 5 punct
-katikin VERB 5 advcl
-ki PART 5 aux:val
-jawe PRON 5 obj
-meratia VERB 0 root
-iki AUX 5 aux
-? PUNCT 5 punct
-
-Ochíti NOUN 0 root
-bake NOUN 1 compound
-
-jakon ADJ 4 nsubj
-ma PART 1 Lfcl
-riki VERB 4 cop
-ea PRON 0 root
-a PART 4 case
-
-ea PRON 4 nsubj
-a PART 1 case
-ra PART 4 aux:val
-kéentiyamaai VERB 0 root
-maestro NOUN 7 nsubj
-n PART 5 case
-ointitinin VERB 4 obj
-. PUNCT 4 punct
-
-noa PRON 4 nsubj
-n PART 1 case
-atipantike VERB 4 aux
-retetiti VERB 0 root
-. PUNCT 4 punct
-
-riki VERB 2 cop
-ea PRON 0 root
-a PART 2 case
-
-¿ PUNCT 9 punct
-Joxo ADJ 3 amod
-shino NOUN 9 nsubj
 n PART 3 case
-ki PART 9 aux:val
-mananxawe NOUN 9 obj
-jaweati ADV 9 advmod
-bochiki ADV 9 advmod
-botia VERB 0 root
-iki AUX 9 aux
-? PUNCT 9 punct
-
-Chile PROPN 10 obl
-nkonia PART 1 case
-ribi PART 1 Lfcl
-español NOUN 6 nmod
-baon PART 4 case
-apo NOUN 7 obj
-ikonhati VERB 9 amod
-makaskanai PART 7 Lfcl
-jonibo NOUN 10 obj
-pótati VERB 0 root
-ribikana PART 10 Lfcl
-iki AUX 10 aux
-. PUNCT 10 punct
-
-Jainoax CCONJ 4 conj
-jawen DET 3 det
-texonko NOUN 4 nsubj
-joshin ADJ 0 root
-. PUNCT 4 punct
-
-¿ PUNCT 9 punct
-mia PRON 9 nsubj
-a PART 2 case
-nawa NOUN 6 nmod
-n PART 4 case
-joi NOUN 9 obl
-n PART 6 case
-yoyo INTJ 9 compound
-ikiai VERB 0 root
-? PUNCT 9 punct
-
-Nií NOUN 4 obl
-meran ADP 1 case
-bai NOUN 4 nsubj
-jatike VERB 0 root
-. PUNCT 4 punct
+yoititi VERB 0 root
+atipantia AUX 5 aux
+? PUNCT 5 punct
 
 ¿ PUNCT 6 punct
-mia PRON 6 nsubj
-n PART 2 case
-ea PRON 6 obj
-a PART 4 case
-akintiti VERB 0 root
-atipantia AUX 6 aux
+awá NOUN 6 nsubj
+kan PART 2 case
+ki PART 6 aux:val
+jawe PRON 6 obj
+pitia VERB 0 root
+iki AUX 6 aux
 ? PUNCT 6 punct
 
-Jaskáaxon CCONJ 4 cc
-, PUNCT 1 punct
-boi NOUN 4 obj
-joniatia VERB 0 root
-iki AUX 4 aux
-; PUNCT 4 punct
-ja DET 9 det
-xawi NOUN 9 nmod
-wai NOUN 11 obj
-kexá ADP 9 case
-atiti VERB 4 advcl
-. PUNCT 11 punct
-
-Joto NOUN 2 nsubj
-tsekatiai VERB 4 nsubj
-riki VERB 4 cop
-ea PRON 0 root
-a PART 4 case
-
-Jaskáxon CCONJ 2 cc
-shinantia VERB 0 root
-iki VERB 2 aux
-: PUNCT 2 punct
-
-¿ PUNCT 5 punct
-tsoa PRON 5 obj
-a PART 2 case
-ki PART 5 aux:val
-yoitiai VERB 0 root
-nato ADJ 7 amod
-kointonin NOUN 5 nsubj
-? PUNCT 5 punct
-
-Chino ADJ 3 nsubj
-riki VERB 3 cop
-ea PRON 0 root
-a PART 3 case
-
-¿ PUNCT 2 punct
-mia PRON 0 root
-a PART 2 case
-axeamis NOUN 2 nsubj
-iki VERB 2 cop
-? PUNCT 2 punct
-
-¿ PUNCT 7 punct
-mia PRON 7 nsubj
-n PART 2 case
-ea PRON 6 obj
-a PART 4 case
-akintiti VERB 7 xcomp
-atipantia VERB 0 root
-? PUNCT 7 punct
-
-Jatian CCONJ 9 cc
-wasan NOUN 9 nsubj
-, PUNCT 2 punct
-jawen DET 5 det
-epa NOUN 6 nsubj
-óxatiketian VERB 9 advcl
-, PUNCT 6 punct
-piti NOUN 9 obj
-quéyotia VERB 0 root
-iki AUX 9 aux
-. PUNCT 9 punct
-
-¿ PUNCT 7 punct
-Jaton DET 3 det
-axé NOUN 7 nsubj
-bi PART 3 Lfcl
-ribi PART 3 Lfcl
-ki PART 7 aux:val
-jawekeska ADV 0 root
-ikikatiai VERB 7 cop
-? PUNCT 7 punct
-
-Nokon DET 2 det
-kirika NOUN 0 root
-meran ADP 2 case
-riki VERB 2 cop
-. PUNCT 2 punct
-
-Apoo INTJ 0 root
+jotiyamaai VERB 0 root
+Teniente NOUN 1 nsubj
 . PUNCT 1 punct
-
-Jenjen INTJ 0 root
-. PUNCT 1 punct
-
-Ani ADJ 2 amod
-jiwibo NOUN 5 nsubj
-ribi PART 2 Lfcl
-iki VERB 5 cop
-xóxotiai VERB 0 root
-ribi PART 5 Lfcl
-. PUNCT 5 punct
-
-Mananxawe NOUN 4 nsubj
-betan CCONJ 3 cc
-chaxo NOUN 1 conj
-ikini VERB 0 root
-
-Jaskáaxon CCONJ 8 cc
-mia PRON 6 nsubj
-n PART 2 case
-ja PRON 8 obl
-a PART 4 case
-atia VERB 4 amod
-naman ADP 4 case
-wíshatiwe VERB 0 root
-jawen DET 10 det
-jane NOUN 8 obj
-. PUNCT 8 punct
-
-meratitaanan VERB 8 advcl
-ki PART 8 aux:val
-xawe NOUN 8 nsubj
-ikon ADJ 8 advcl
-bires PART 4 Lfcl
-i PART 4 Lfcl
-ki PART 8 aux:val
-íshtotia VERB 0 root
-iki AUX 8 aux
-; PUNCT 8 punct
-koin NOUN 12 compound
-poto NOUN 13 obj
-chankátikaini VERB 8 advcl
-. PUNCT 13 punct
-
-bakeatiai VERB 2 amod
-jawéki NOUN 4 nsubj
-ra PART 4 aux:val
-rabé NUM 0 root
-iki VERB 4 cop
-. PUNCT 4 punct
 
 ¡ PUNCT 4 punct
 Jain ADV 3 advmod
@@ -1844,77 +1543,48 @@ ititi VERB 4 ccomp
 jenetiwe VERB 0 root
 ! PUNCT 4 punct
 
-Bueno INTJ 4 discourse
-, PUNCT 1 punct
-rama ADV 4 advmod
-atiwe VERB 0 root
-maitiatikin VERB 4 advcl
-nato ADJ 7 amod
-pei NOUN 10 obj
-ani ADJ 7 amod
-chaa PART 8 Lfcl
-bitixon VERB 4 advcl
-. PUNCT 4 punct
-
-ninkatii VERB 0 root
-riki AUX 1 aux
-ea PRON 1 nsubj
-a PART 3 case
-
-ikikeanaxma VERB 8 advcl
-bi PART 1 Lfcl
-wetsa ADJ 4 amod
-ainbo NOUN 8 nsubj
-baon PART 4 case
-kimisha NUM 7 nummod
-vapor NOUN 8 obj
-menitia VERB 0 root
-iki AUX 8 aux
-. PUNCT 8 punct
-
-Ja DET 2 det
-awá NOUN 5 nsubj
-koshicha ADJ 5 compound
-yora PART 3 Lfcl
-ikia VERB 0 root
-iki AUX 5 aux
-. PUNCT 5 punct
-
-jakon ADJ 4 nsubj
-ma PART 1 Lfcl
-riki VERB 4 cop
-ea PRON 0 root
-a PART 4 case
-
-Jainxon CCONJ 6 cc
-nokon DET 3 det
-mentsis NOUN 6 obj
-ea PRON 6 nsubj
-n PART 4 case
-taweatia VERB 0 root
-iki AUX 6 aux
-. PUNCT 6 punct
-
-¿ PUNCT 6 punct
-ja DET 6 det
-a PART 2 case
-mekayao ADV 6 advmod
-kea PART 4 case
-meken NOUN 0 root
-ki PART 6 aux:val
-mesa NOUN 6 obl
-n PART 8 case
+Petroleo NOUN 2 nmod
+xeni NOUN 6 nsubj
 iki VERB 6 cop
-? PUNCT 6 punct
-
-Moa ADV 2 advmod
-meshotiax VERB 6 advcl
-pakétiketian VERB 6 advcl
-yawish NOUN 6 nsubj
-an PART 4 case
-pitia VERB 0 root
-iki AUX 6 aux
+iti VERB 6 amod
+resa PART 4 Lfcl
+jawéki NOUN 0 root
 . PUNCT 6 punct
+
+¿ PUNCT 7 punct
+jawe PRON 7 obj
+ki PART 7 aux:val
+ainbo NOUN 7 nsubj
+n PART 4 case
+kachiokea ADV 7 advmod
+nikatia VERB 0 root
+iki AUX 7 aux
+? PUNCT 7 punct
+
+¿ PUNCT 5 punct
+mia PRON 5 nsubj
+n PART 2 case
+natobo PRON 5 obj
+onántia VERB 0 root
+? PUNCT 5 punct
+
+jotiyamaai VERB 0 root
+Teniente NOUN 1 nsubj
+. PUNCT 1 punct
+
+¿ PUNCT 5 punct
+mia PRON 5 nsubj
+a PART 2 case
+ensalada NOUN 5 obj
+kénatiai VERB 0 root
+? PUNCT 5 punct
+
+¿ PUNCT 5 punct
+mia PRON 5 nsubj
+n PART 2 case
+jato PRON 5 obj
+akintikasai VERB 0 root
+? PUNCT 5 punct
 
 Jaskatai CCONJ 4 cc
 ninkátiax VERB 4 advcl
@@ -1932,190 +1602,15 @@ bene ADJ 4 advmod
 shaman PART 13 Lfcl
 . PUNCT 13 punct
 
-¿ PUNCT 7 punct
-mia PRON 7 nsubj
-n PART 2 case
-ea PRON 6 obj
-a PART 4 case
-yoititi VERB 7 xcomp
-atipantia VERB 0 root
-? PUNCT 7 punct
-
-¿ PUNCT 4 punct
-presidente NOUN 4 nsubj
-ki PART 4 aux:val
-jotiyamaai VERB 0 root
-? PUNCT 4 punct
-
-ea PRON 0 root
-a PART 1 case
-ra PART 1 aux:val
-vino NOUN 1 nsubj
-ya PART 4 case
-iki VERB 1 cop
-
-nete NOUN 2 nsubj
-tsisenentia VERB 0 root
-o PART 2 case
-: PUNCT 2 punct
-
-australianobo ADJ 3 cop
-riki VERB 3 cop
-noaa PRON 0 root
-
-ea PRON 5 nsubj
-n PART 1 case
-mia PRON 5 obj
-a PART 3 case
-akintibanon VERB 0 root
-
-mia PRON 3 nmod
-n PART 1 case
-chio NOUN 5 obl
-betan CCONJ 3 case
-tsínitiwe VERB 0 root
-, PUNCT 5 punct
-jawen DET 8 det
-mekén NOUN 10 obj
-shoko PART 8 Lfcl
-topóntiboax VERB 5 advcl
-. PUNCT 10 punct
-
-ea PRON 5 nsubj
-n PART 1 case
-ra PART 5 aux:val
-galletabo NOUN 5 obj
-atike VERB 0 root
-
-noa PRON 3 nmod
-n PART 1 case
-yora NOUN 4 nsubj
-iki VERB 0 root
-kimisha NUM 6 nummod
-jawéki NOUN 4 obj
-a PART 6 case
-: PUNCT 4 punct
-
-Jatian CCONJ 6 cc
-yapa NOUN 3 compound
-ainbo NOUN 6 nsubj
-n PART 3 case
-jato PRON 6 iobj
-nokotiwetsayamaa VERB 0 root
-iki AUX 6 aux
-. PUNCT 6 punct
-
-jaskaaxon CCONJ 8 cc
-ki PART 8 aux:val
-ainbo NOUN 8 nsubj
-n PART 3 case
-ki PART 8 aux:val
-wiso ADJ 7 amod
-ino NOUN 8 obj
-retetia VERB 0 root
-iki AUX 8 aux
-. PUNCT 8 punct
-
-¿ PUNCT 6 punct
-Jakon ADV 6 advmod
-ki PART 6 aux:val
-mia PRON 6 nsubj
-a PART 4 case
-jatia VERB 0 root
-? PUNCT 6 punct
-
-¿ PUNCT 4 punct
-jaweskarain PRON 4 obj
-ki PART 4 aux:val
-bachiatiai VERB 0 root
-? PUNCT 4 punct
-
-jema NOUN 3 obl
-n PART 1 case
-pitinon VERB 0 root
-katiwe AUX 3 aux
-
-¿ PUNCT 6 punct
-mia PRON 6 nsubj
-n PART 2 case
-noa PRON 6 obj
-a PART 4 case
-chibantikasai VERB 0 root
-? PUNCT 6 punct
-
-Pitii VERB 0 root
-riki AUX 1 aux
-noa PRON 1 nsubj
-a PART 3 case
-
-jotiyamaai VERB 0 root
-escuela NOUN 3 obj
-ointii VERB 1 advcl
-. PUNCT 1 punct
-
-Perú PROPN 2 obj
-vivantikanwe VERB 0 root
-. PUNCT 2 punct
-
-Jatian CCONJ 4 cc
-jawen DET 3 det
-bene NOUN 4 nsubj
-katia VERB 0 root
-iki AUX 4 aux
-. PUNCT 4 punct
-
-ea PRON 0 root
-a PART 1 case
-ra PART 1 aux:val
-poiya NOUN 1 nsubj
-iki VERB 1 cop
-
-Jainoax CCONJ 6 cc
-San PROPN 6 nsubj
-Martín PROPN 2 flat
-Chile PROPN 6 obl
-nko PART 4 case
-jotia VERB 0 root
-iki AUX 6 aux
-. PUNCT 6 punct
-
-¿ PUNCT 2 punct
-Jaweranorin ADV 0 root
-? PUNCT 2 punct
-
-jotiyamaai VERB 0 root
-. PUNCT 1 punct
-
-Icha ADJ 3 obl
-ya PART 1 case
-riki VERB 0 root
-noa PRON 3 nsubj
-a PART 4 case
-
-¡ PUNCT 2 punct
-Yatantikana VERB 0 root
-riki AUX 2 aux
-noa PRON 2 nsubj
-a PART 4 case
-! PUNCT 2 punct
-
-Xeatia VERB 3 nsubj
-riki VERB 3 cop
-ea PRON 0 root
-n PART 3 case
-
-rama ADV 8 advmod
-ra PART 8 aux:val
-noa PRON 8 nsubj
-n PART 3 case
-jakon ADJ 7 advmod
-shaman PART 5 Lfcl
-atikin VERB 8 advcl
-chibantiai VERB 0 root
-, PUNCT 8 punct
-rekentia VERB 11 acl
-baritia NOUN 8 obj
-. PUNCT 8 punct
+Jaskáaxon CCONJ 3 cc
+incaatikin VERB 3 advcl
+janetikana VERB 0 root
+iki AUX 3 aux
+, PUNCT 3 punct
+ja DET 8 det
+Manco PROPN 8 compound
+Cápac PROPN 3 obj
+. PUNCT 3 punct
 
 icha ADV 5 advmod
 yora PART 1 Lfcl
@@ -2124,572 +1619,52 @@ n PART 3 case
 xeatia VERB 0 root
 riki AUX 5 aux
 
-wametio NOUN 2 nsubj
-ani ADJ 0 root
-ma PART 2 Lfcl
-. PUNCT 2 punct
-
-Ja DET 2 det
-xeki NOUN 11 nsubj
-, PUNCT 4 punct
-papa NOUN 2 conj
-, PUNCT 6 punct
-quinua NOUN 4 conj
-, PUNCT 6 punct
-ja DET 9 det
-jawéki NOUN 10 nsubj
-xóxotii VERB 11 advcl
-péokootia VERB 0 root
-iki AUX 11 aux
-Perú PROPN 11 obl
-ainoax PART 13 case
-. PUNCT 11 punct
-
-Jaskara ADV 3 advmod
-ikiax VERB 3 advcl
-peotinon VERB 0 root
-ikiwe AUX 3 aux
-
-¿ PUNCT 6 punct
-mia PRON 6 nsubj
-a PART 2 case
-yona NOUN 6 obl
-ya PART 4 case
-iki VERB 0 root
-? PUNCT 6 punct
-
-noa PRON 4 nsubj
-a PART 1 case
-ra PART 4 aux:val
-akintiananai VERB 0 root
-. PUNCT 4 punct
-
-jati VERB 0 root
-rake PART 1 aux:val
-avión NOUN 1 nsubj
-shokobo PART 3 Lfcl
-, PUNCT 1 punct
-jene NOUN 8 obl
-n PART 6 case
-pakétiai VERB 3 amod
-. PUNCT 1 punct
-
-¿ PUNCT 6 punct
-tsoa PRON 6 nsubj
-a PART 2 case
-bicho PART 2 Lfcl
-ki PART 6 aux:val
-banetia VERB 0 root
-iki AUX 6 aux
-? PUNCT 6 punct
-
-¿ PUNCT 5 punct
-Jawerato PRON 5 obj
-mato PRON 5 nsubj
-n PART 3 case
-yoitiai VERB 0 root
-? PUNCT 5 punct
-
 ¿ PUNCT 5 punct
 mia PRON 5 nsubj
 n PART 2 case
-frances NOUN 5 obj
-onántia VERB 0 root
+yoyo INTJ 5 compound
+atikasai VERB 0 root
 ? PUNCT 5 punct
 
-¡ PUNCT 4 punct
-Manotia VERB 4 nsubj
-riki VERB 4 cop
-eaa PRON 0 root
-! PUNCT 4 punct
-
-Bakeatiai VERB 2 amod
-jawéki NOUN 4 nsubj
-ra PART 4 aux:val
-rabé NUM 0 root
-iki VERB 4 cop
-. PUNCT 4 punct
-
-mia PRON 3 nmod
-n PART 1 case
-cuaderno NOUN 7 obl
-nin PART 3 case
-jawen DET 6 det
-janebo NOUN 7 obj
-atiwe VERB 0 root
-. PUNCT 7 punct
-
-¿ PUNCT 7 punct
-jawe PRON 7 obj
-ki PART 7 aux:val
-ainbo NOUN 7 nsubj
-n PART 4 case
-kachiokea ADV 7 advmod
-nikatia VERB 0 root
-iki AUX 7 aux
-? PUNCT 7 punct
-
-¿ PUNCT 5 punct
-jawen ADV 5 obl
-ki PART 5 aux:val
-payari NOUN 5 obj
-yomeratiti VERB 0 root
-iki AUX 5 aux
-? PUNCT 5 punct
-
-Nií NOUN 5 obl
-meran ADP 1 case
-ra PART 5 aux:val
-ikiai VERB 5 cop
-xana ADJ 0 root
-, PUNCT 8 punct
-shokores ADV 8 advmod
-matsi ADJ 5 conj
-. PUNCT 5 punct
-
-noa PRON 5 nsubj
-n PART 1 case
-yoyo INTJ 4 compound
-atiti VERB 5 xcomp
-atipantia VERB 0 root
-
-jakon ADJ 4 nsubj
-ma PART 1 Lfcl
-riki VERB 4 cop
-ea PRON 0 root
-a PART 4 case
-
-¿ PUNCT 5 punct
-Jawetii NUM 3 amod
-shishi NOUN 5 obj
-ki PART 5 aux:val
-bitikana VERB 0 root
-iki AUX 5 aux
-? PUNCT 5 punct
-
-Jaskáaxon CCONJ 6 cc
-, PUNCT 1 punct
-ja DET 4 det
-jonin NOUN 6 nsubj
-jonétixon VERB 6 advcl
-ointia VERB 0 root
-iki AUX 6 aux
-, PUNCT 6 punct
-jawen DET 10 det
-awin NOUN 11 nsubj
-bakentiai VERB 6 obj
-. PUNCT 6 punct
-
-Jatian CCONJ 12 cc
-28 NUM 7 advmod
-de SYM 2 flat
-julio PROPN 2 flat
-de SYM 2 flat
-1821 NUM 2 flat
-ikiketian VERB 12 advcl
-, PUNCT 7 punct
-San PROPN 12 nsubj
-Martin PROPN 9 flat
-man PART 9 case
-yoitia VERB 0 root
-iki AUX 12 aux
-: PUNCT 12 punct
-
-katiketian VERB 7 advcl
-ki PART 7 aux:val
-jakiribi ADV 7 advmod
-yapa NOUN 5 compound
-ainbo NOUN 7 nsubj
-n PART 5 case
-yoitia VERB 0 root
-iki AUX 7 aux
-: PUNCT 7 punct
-Jatian CCONJ 3 cc
-joni NOUN 3 nsubj
-kati VERB 0 root
-ribaa PART 3 Lfcl
-iki AUX 3 aux
-. PUNCT 3 punct
-
-¿ PUNCT 7 punct
-mia PRON 7 nsubj
-a PART 2 case
-suajuali NOUN 7 obl
-nin PART 4 case
-yoyo INTJ 7 compound
-ikiai VERB 0 root
-? PUNCT 7 punct
-
-mia PRON 3 nmod
-n PART 1 case
-cuaderno NOUN 5 obl
-meran ADP 3 case
-wíshatiwe VERB 0 root
-, PUNCT 5 punct
-bake NOUN 9 nsubj
-n PART 7 case
-ointia VERB 13 appos
-keskabo ADP 9 case
-, PUNCT 9 punct
-meskó ADJ 13 amod
-sionbo NOUN 5 obj
-. PUNCT 5 punct
-
-¿ PUNCT 4 punct
-teniente NOUN 4 nsubj
-ki PART 4 aux:val
-jotiyamaai VERB 0 root
-? PUNCT 4 punct
-
-ea PRON 0 root
-a PART 1 case
-ra PART 1 aux:val
-coreano ADJ 1 nsubj
-iki VERB 1 cop
-
-Moa ADV 2 advmod
-atikas VERB 5 nsubj
-yoraai PART 2 Lfcl
-riki VERB 5 cop
-ea PRON 0 root
-a PART 5 case
-
-Mapamea NOUN 2 obl
-ointixon VERB 4 advcl
-aninasibo NOUN 4 obj
-benatiwe VERB 0 root
-. PUNCT 4 punct
-
-wíshatiwe VERB 0 root
-, PUNCT 1 punct
-wetsa ADJ 4 amod
-rono NOUN 6 nmod
-n PART 4 case
-janebo NOUN 1 obj
-ribi PART 6 Lfcl
-. PUNCT 1 punct
-
-¿ PUNCT 5 punct
-mia PRON 5 nsubj
-a PART 2 case
-ranx X 5 compound
-ikiai VERB 0 root
-? PUNCT 5 punct
-
-ja PRON 4 nsubj
-n PART 1 case
-ra PART 4 aux:val
-pitiai VERB 0 root
-nami NOUN 4 obj
-. PUNCT 4 punct
-
-¿ PUNCT 3 punct
-Jaweki PINT 3 obj
-winotiti VERB 0 root
-iki AUX 3 aux
-? PUNCT 3 punct
-
-noa PRON 3 nmod
-n PART 1 case
-escuela NOUN 8 obj
-ra PART 8 aux:val
-noa PRON 8 nsubj
-n PART 5 case
-jáwetianbi ADV 8 advmod
-manishtimati VERB 0 root
-ma PART 8 Lfcl
-iki AUX 8 aux
-. PUNCT 8 punct
-
-bari NOUN 2 nsubj
-jotiaiori VERB 0 root
-
-Ochíti NOUN 3 nsubj
-iki VERB 3 cop
-mecha ADJ 0 root
-. PUNCT 3 punct
-
-¿ PUNCT 5 punct
-jawekeskatax ADV 5 advmod
-ki PART 5 aux:val
-ino NOUN 5 nsubj
-mawatia VERB 0 root
-iki AUX 5 aux
-? PUNCT 5 punct
-
-Jaskatax CCONJ 7 cc
-ja DET 3 det
-Inca NOUN 5 nmod
-n PART 3 case
-xeni NOUN 7 nsubj
-n PART 5 case
-sikítia VERB 0 root
-iki AUX 7 aux
-. PUNCT 7 punct
-
-¿ PUNCT 6 punct
-ea PRON 6 nsubj
-n PART 2 case
-jain ADV 5 advmod
-ititi VERB 6 xcomp
-atipantia VERB 0 root
-? PUNCT 6 punct
-
-¡ PUNCT 2 punct
-Papá NOUN 0 root
-! PUNCT 2 punct
-
-ea PRON 5 nsubj
-n PART 1 case
-ra PART 5 aux:val
-mato PRON 5 obj
-ointikasai VERB 0 root
-
-wetsabo ADJ 4 obj
-ea PRON 4 nsubj
-a PART 2 case
-ointimawe VERB 0 root
-
-Moa ADV 2 advmod
-kawántiketian VERB 7 advcl
-jawen DET 4 det
-tita NOUN 7 nsubj
-n PART 4 case
-mana VERB 7 compound
-mánatia VERB 0 root
-iki AUX 7 aux
-, PUNCT 7 punct
-yantantipaketaitian VERB 7 advcl
-. PUNCT 10 punct
-
-¿ PUNCT 5 punct
-mia PRON 5 nsubj
-n PART 2 case
-jawe PRON 5 obj
-meratia VERB 0 root
-? PUNCT 5 punct
-
-¿ PUNCT 6 punct
-tsoa PRON 6 obj
-abo PART 2 case
-ikia VERB 2 amod
-ki PART 6 aux:val
-yoitiai VERB 0 root
-nato DET 8 det
-kointo NOUN 6 nsubj
-nin PART 8 case
-? PUNCT 6 punct
-
-¿ PUNCT 7 punct
-mia PRON 7 nsubj
-a PART 2 case
-japones NOUN 7 obl
-nin PART 4 case
-yoyo INTJ 7 compound
-ikiai VERB 0 root
-? PUNCT 7 punct
-
-Isinti VERB 0 root
-i PART 1 Lfcl
-riki AUX 1 aux
-ea PRON 1 nsubj
-a PART 4 case
-
-kati VERB 0 root
-riba PART 1 Lfcl
-pari PART 1 Lfcl
-banon SUFV 1 x
-. PUNCT 1 punct
-
-Jawe PRON 2 obj
-atiyamai VERB 0 root
-riki AUX 2 aux
-ea PRON 2 nsubj
-a PART 4 case
-
-Xeki NOUN 2 obj
-yokátikana VERB 0 root
-ki PART 2 aux:val
-jaskáribi ADV 2 advmod
-, PUNCT 2 punct
-chií NOUN 8 obl
-meran ADP 6 case
-niatixon VERB 2 advcl
-, PUNCT 8 punct
-jato PRON 11 iobj
-menitii VERB 2 advcl
-. PUNCT 2 punct
-
-Jainoax CCONJ 6 cc
-meskó ADJ 3 amod
-tsinitibo NOUN 6 obj
-ribi PART 3 Lfcl
-jato PRON 6 iobj
-onantimakatiai VERB 0 root
-. PUNCT 6 punct
-
-wishatiwe VERB 0 root
-, PUNCT 1 punct
-siná ADJ 4 amod
-jawékinin NOUN 5 nmod
-janebo NOUN 1 obj
-ribi PART 5 Lfcl
-. PUNCT 1 punct
-
-moa ADV 5 advmod
+Jatibitian ADV 5 advmod
 ra PART 5 aux:val
 ea PRON 5 nsubj
 a PART 3 case
-keentiyamaai VERB 0 root
-. PUNCT 5 punct
+katiai VERB 0 root
 
-Jainxon CCONJ 6 cc
-ea PRON 6 nsubj
+otitis NOUN 3 obl
+ya PART 1 case
+riki VERB 0 root
+ea PRON 3 nsubj
+
+Perú PROPN 2 nsubj
+tekíbo NOUN 3 cop
+iki VERB 0 root
+: PUNCT 2 punct
+
+¿ PUNCT 5 punct
+mia PRON 5 nsubj
 n PART 2 case
-jakon ADJ 5 amod
-chopa NOUN 6 obj
-sáwetia VERB 0 root
-iki AUX 6 aux
-. PUNCT 6 punct
+bititi VERB 5 xcomp
+atipantia VERB 0 root
+? PUNCT 5 punct
 
-¿ PUNCT 7 punct
-bésoti VERB 7 advcl
-kiax PART 7 aux:val
-jawen DET 5 det
-epa NOUN 7 nsubj
-jaweraki PRON 7 obj
-ikia VERB 0 root
-iki AUX 7 aux
-? PUNCT 7 punct
-
-ea PRON 5 nsubj
-n PART 1 case
-ra PART 5 aux:val
-miaa PRON 5 obj
-atikinkasai VERB 0 root
-
-Aleman NOUN 4 obj
-ra PART 4 aux:val
-yoyo INTJ 4 compound
-ikiai VERB 0 root
-
-Yamé ADV 3 advmod
-jo INTJ 3 compound
-ikiai VERB 0 root
-, PUNCT 3 punct
-jain ADV 7 advmod
-joni NOUN 7 nsubj
-ikiketian VERB 3 advcl
+Jakon ADJ 2 amod
+jaweki NOUN 3 obj
+bánatiai VERB 0 root
 . PUNCT 3 punct
 
-kikín ADV 5 advmod
-shaman PART 1 Lfcl
-atikin VERB 5 advcl
-esé NOUN 5 obj
-onantiwe VERB 0 root
-. PUNCT 5 punct
-
-mian PRON 2 det
-kirika NOUN 4 nmod
-meran ADP 2 case
-wishatiwe VERB 0 root
-, PUNCT 4 punct
-mia PRON 8 nmod
-be PART 6 case
-raeanantiai VERB 10 nmod
-baon PART 8 case
-jane NOUN 4 obj
-. PUNCT 4 punct
-
-¿ PUNCT 7 punct
-Jawetio ADV 3 advmod
-basi ADV 7 advmod
-ki PART 7 aux:val
-mananxawe NOUN 7 nsubj
-bochiki ADV 7 advmod
-ikia VERB 0 root
-iki AUX 7 aux
-? PUNCT 7 punct
-
-noa PRON 4 nsubj
-a PART 1 case
-jakiribi ADV 4 advmod
-ointianannon VERB 0 root
-
-Moa ADV 2 advmod
-anitiketian VERB 7 advcl
+Jatian CCONJ 9 cc
+wasan NOUN 9 nsubj
 , PUNCT 2 punct
-jakiribi CCONJ 7 cc
-ja DET 6 det
-ainbo NOUN 7 nsubj
-tootia VERB 0 root
-iki AUX 7 aux
-. PUNCT 7 punct
-
-ea PRON 5 nsubj
-n PART 1 case
-ra PART 5 aux:val
-jato PRON 5 obj
-botikasai VERB 0 root
-
-San PROPN 5 nsubj
-Martín PROPN 1 flat
-Perú PROPN 5 obl
-ain PART 3 case
-jotia VERB 0 root
-iki AUX 5 aux
-, PUNCT 5 punct
-icha ADJ 9 amod
-buke NOUN 5 obl
-ya PART 9 case
-, PUNCT 9 punct
-jainoax CCONJ 14 cc
-icha ADJ 14 amod
-sontáro NOUN 9 conj
-ya PART 14 case
-ribi PART 14 Lfcl
-. PUNCT 5 punct
-
-ea PRON 6 nsubj
-n PART 1 case
-ra PART 6 aux:val
-meskó ADJ 5 amod
-sion NOUN 6 obj
-ointike VERB 0 root
-. PUNCT 6 punct
-
-¿ PUNCT 4 punct
-jawerano ADV 4 advmod
-ki PART 4 aux:val
-katikana VERB 0 root
-iki AUX 4 aux
-? PUNCT 4 punct
-
-Nato ADJ 2 amod
-escuela NOUN 10 nsubj
-iki VERB 10 cop
-noa PRON 6 nmod
-n PART 4 case
-papa NOUN 10 nmod
-baon PART 6 case
-noa PRON 10 iobj
-a PART 8 case
-atixona VERB 0 root
-. PUNCT 10 punct
-
-jotiyamaai VERB 0 root
-Teniente NOUN 1 nsubj
-. PUNCT 1 punct
-
-¿ PUNCT 6 punct
-tsoa PRON 6 obj
-abo PART 2 case
-ikia VERB 2 amod
-ki PART 6 aux:val
-yoitiai VERB 0 root
-nato ADJ 8 amod
-kointonin NOUN 6 nsubj
-? PUNCT 6 punct
+jawen DET 5 det
+epa NOUN 6 nsubj
+óxatiketian VERB 9 advcl
+, PUNCT 6 punct
+piti NOUN 9 obj
+quéyotia VERB 0 root
+iki AUX 9 aux
+. PUNCT 9 punct
 
 jakon ADJ 6 obj
 shaman PART 1 Lfcl
@@ -2699,148 +1674,101 @@ n PART 4 case
 shinantiai VERB 0 root
 . PUNCT 6 punct
 
-¿ PUNCT 6 punct
-mia PRON 4 det
+Jaskara ADV 3 advmod
+ikiax VERB 3 advcl
+peotinon VERB 0 root
+ikiwe AUX 3 aux
+
+jotiyamaai VERB 0 root
+, PUNCT 1 punct
+ni CCONJ 4 cc
+yoxan NOUN 1 nsubj
+shoko PART 4 Lfcl
+bi PART 4 Lfcl
+, PUNCT 9 punct
+ni CCONJ 9 cc
+xóntako NOUN 4 conj
+bi PART 9 Lfcl
+, PUNCT 16 punct
+ni CCONJ 16 cc
+nokon DET 14 det
+anibo NOUN 16 obj
+bi PART 14 Lfcl
+betiyamakanai VERB 1 conj
+. PUNCT 16 punct
+
+Jainxon CCONJ 9 cc
+noa PRON 4 nmod
 n PART 2 case
-papa NOUN 6 nsubj
-ki PART 6 aux:val
-jaská ADV 0 root
-bires PART 6 Lfcl
-tani PART 6 Lfcl
-iitiai VERB 6 cop
-? PUNCT 6 punct
+yoxan NOUN 9 nsubj
+shokobo PART 4 Lfcl
+noa PRON 8 nmod
+n PART 6 case
+jawéki NOUN 9 obj
+akintiti VERB 0 root
+iki AUX 9 aux
+. PUNCT 9 punct
 
 ¿ PUNCT 5 punct
-Jawen DET 3 det
-rayosan NOUN 5 iobj
-ki PART 5 aux:val
-jaweatia VERB 0 root
-iki AUX 5 aux
+Jawerano ADV 5 advmod
+rin PART 5 aux:val
+Norte PROPN 5 compound
+América PROPN 0 root
 ? PUNCT 5 punct
 
+moa ADV 5 advmod
+ra PART 5 aux:val
+ea PRON 5 nsubj
+a PART 3 case
+keentiyamaai VERB 0 root
+. PUNCT 5 punct
+
+ja PRON 3 nsubj
+bi PART 1 Lfcl
+jenetiyamaa VERB 0 root
+iki AUX 3 aux
+. PUNCT 3 punct
+
 ¿ PUNCT 7 punct
-jawekeskaaxon ADV 7 advmod
+jainxon CCONJ 7 cc
 ki PART 7 aux:val
-mananxawe NOUN 7 nsubj
-n PART 4 case
-ino NOUN 7 obj
-retetia VERB 0 root
+yawish NOUN 7 nsubj
+en PART 4 case
+jaweraki ADV 7 advmod
+paranti VERB 0 root
+ribia PART 7 Lfcl
 iki AUX 7 aux
 ? PUNCT 7 punct
 
-¿ PUNCT 6 punct
-mia PRON 6 nsubj
-a PART 2 case
-facebook NOUN 6 obl
-ya PART 4 case
-iki VERB 0 root
-? PUNCT 6 punct
+Mapó NOUN 0 root
+ainbo NOUN 1 nsubj
+ikini VERB 1 cop
 
-¿ PUNCT 6 punct
-tsoa PRON 6 obj
-abo PART 2 case
-ikia VERB 2 amod
-ki PART 6 aux:val
-yoitiai VERB 0 root
-nato DET 8 det
-kointo NOUN 6 nsubj
-nin PART 8 case
-? PUNCT 6 punct
-
-pikótixon VERB 6 advcl
-joni NOUN 6 nsubj
-n PART 2 case
-ja DET 5 det
-ainbo NOUN 6 obj
-yatantia VERB 0 root
-iki AUX 6 aux
-. PUNCT 6 punct
-Ja DET 2 det
-yatantia VERB 3 nsubj
-yoitia VERB 0 root
-iki AUX 3 aux
-: PUNCT 3 punct
-
-Xeati NOUN 4 nsubj
-ya PART 1 case
-riki VERB 4 cop
-ea PRON 0 root
-a PART 4 case
-
-ea PRON 5 nsubj
-n PART 1 case
-pari PART 1 Lfcl
-koka NOUN 5 obj
-pitibanon VERB 0 root
-. PUNCT 5 punct
-
-ja DET 4 det
-a PART 1 case
-mekayaokea ADV 4 advmod
-meken NOUN 7 obj
-mia PRON 7 nsubj
-n PART 5 case
-ointiyamaai VERB 0 root
-. PUNCT 7 punct
-
-Jaská CCONJ 5 cc
-bi PART 1 Lfcl
-, PUNCT 1 punct
-jawebi PRON 5 obj
-yoitiamaa VERB 0 root
-iki AUX 5 aux
-. PUNCT 5 punct
-
-¿ PUNCT 6 punct
-Jawekeskaaxon ADV 6 advmod
-ja PRON 6 nsubj
-onsá ADJ 5 amod
-yoina NOUN 6 obj
-retetia VERB 0 root
-iki AUX 6 aux
-? PUNCT 6 punct
-
-¿ PUNCT 6 punct
-mia PRON 6 nsubj
-a PART 2 case
-atun NOUN 6 obl
-ya PART 4 case
-iki VERB 0 root
-? PUNCT 6 punct
-
-Brasil PROPN 0 root
-, PUNCT 3 punct
-Bolivia PROPN 1 conj
+jotiyamaai VERB 0 root
+escuela NOUN 3 obj
+ointii VERB 1 advcl
 . PUNCT 1 punct
 
-¿ PUNCT 5 punct
-mia PRON 5 nsubj
-a PART 2 case
-yoyo INTJ 5 compound
-ikikasai VERB 0 root
-? PUNCT 5 punct
-
-¿ PUNCT 6 punct
-Jatian CCONJ 6 cc
-ki PART 6 aux:val
-joni NOUN 6 nsubj
-jaweraki ADV 6 advmod
-yoitia VERB 0 root
+Jaskáa CCONJ 6 cc
+, PUNCT 1 punct
+ino NOUN 6 nsubj
+n PART 3 case
+piti VERB 6 obj
+shinántiyamaa VERB 0 root
 iki AUX 6 aux
-? PUNCT 6 punct
+, PUNCT 6 punct
+pikástii VERB 6 advcl
+ikiwanxon AUX 9 aux
+bi PART 10 Lfcl
+. PUNCT 9 punct
 
-¿ PUNCT 6 punct
-Jaweti PINT 6 nsubj
-rin PART 6 cop
-mia PRON 6 nmod
-n PART 4 case
-iwe NOUN 0 root
-? PUNCT 6 punct
-
-yantan ADV 3 advmod
-cha PART 1 Lfcl
-katiti VERB 0 root
-riki AUX 3 aux
+wishatiwe VERB 0 root
+, PUNCT 1 punct
+siná ADJ 4 amod
+jawékinin NOUN 5 nmod
+janebo NOUN 1 obj
+ribi PART 5 Lfcl
+. PUNCT 1 punct
 
 ¿ PUNCT 7 punct
 mia PRON 7 nsubj
@@ -2851,32 +1779,492 @@ yoyo INTJ 7 compound
 ikiai VERB 0 root
 ? PUNCT 7 punct
 
-Jakiribi ADV 4 advmod
-atixon VERB 4 advcl
-ki PART 4 aux:val
-bitia VERB 0 root
-iki AUX 4 aux
-, PUNCT 4 punct
-ani ADJ 8 amod
-tora NOUN 4 obj
-. PUNCT 4 punct
+ja DET 4 det
+a PART 1 case
+mekayaokea ADV 4 advmod
+meken NOUN 7 obj
+mia PRON 7 nsubj
+n PART 5 case
+ointiyamaai VERB 0 root
+. PUNCT 7 punct
 
-¿ PUNCT 2 punct
-Mato PRON 0 root
-Japonesbo NOUN 2 nsubj
-iki VERB 2 cop
-? PUNCT 2 punct
+Icha ADJ 2 amod
+makan NOUN 3 nsubj
+iki VERB 0 root
+jain ADV 3 advmod
+, PUNCT 4 punct
+nií NOUN 3 nsubj
+ichama ADJ 6 amod
+ma PART 7 Lfcl
+. PUNCT 6 punct
+
+Jaskara CCONJ 5 cc
+ikiketian VERB 5 advcl
+ki PART 5 aux:val
+jakiribi ADV 5 advmod
+kati VERB 0 root
+ribakana PART 5 Lfcl
+iki AUX 5 aux
+. PUNCT 5 punct
+
+Manan NOUN 5 nsubj
+ani ADJ 1 amod
+nko PART 2 case
+ribi PART 2 Lfcl
+jatike VERB 0 root
+. PUNCT 5 punct
+
+ea PRON 5 nsubj
+n PART 1 case
+pari PART 1 Lfcl
+koka NOUN 5 obj
+pitibanon VERB 0 root
+. PUNCT 5 punct
+
+¿ PUNCT 6 punct
+tsoa PRON 6 obj
+a PART 2 case
+ikia VERB 2 amod
+ki PART 6 aux:val
+yoitiai VERB 0 root
+nato ADJ 8 amod
+kointo NOUN 6 nsubj
+nin PART 8 case
+? PUNCT 6 punct
 
 ea PRON 6 nsubj
 n PART 1 case
 ra PART 6 aux:val
-meken NOUN 6 obj
-tash X 6 compound
-atike VERB 0 root
+mia PRON 6 obj
+a PART 4 case
+nokótike VERB 0 root
 
-nete NOUN 0 root
-résenena NOUN 1 nmod
-o PART 2 case
+Ja DET 2 det
+llama NOUN 7 nsubj
+iki VERB 7 cop
+jakon ADJ 5 compound
+jakon ADJ 7 amod
+bires PART 5 Lfcl
+jawéki NOUN 0 root
+, PUNCT 12 punct
+manan NOUN 12 nmod
+ani ADJ 9 amod
+mea PART 9 case
+jawéki NOUN 7 conj
+. PUNCT 7 punct
+
+ea PRON 5 nsubj
+a PART 1 case
+ra PART 5 aux:val
+icha ADV 5 advmod
+axeke VERB 0 root
+
+Jaaboronkiki CCONJ 7 cc
+, PUNCT 7 punct
+ja PRON 4 det
+nonn DET 7 nsubj
+rashíko NOUN 7 obj
+atikin VERB 7 advcl
+atiaibo VERB 0 root
+. PUNCT 7 punct
+
+¿ PUNCT 7 punct
+mia PRON 7 nsubj
+n PART 2 case
+ja PRON 6 det
+n PART 4 case
+ointi NOUN 7 obj
+sawetiai VERB 0 root
+? PUNCT 7 punct
+
+jaskáaxon CCONJ 8 cc
+ki PART 8 aux:val
+ja DET 4 det
+joni NOUN 8 nsubj
+icha ADJ 6 amod
+piti VERB 8 obl
+a PART 6 case
+banétinike VERB 0 root
+; PUNCT 8 punct
+jatíbi ADJ 11 amod
+roo NOUN 12 obj
+rétetikin VERB 13 advcl
+kéyotiax VERB 8 advcl
+. PUNCT 13 punct
+
+Buenos ADJ 2 amod
+días NOUN 5 discourse
+, PUNCT 2 punct
+¡ PUNCT 5 punct
+bakebo NOUN 0 root
+! PUNCT 5 punct
+
+¿ PUNCT 3 punct
+Jawe PRON 3 obj
+yoitii VERB 0 root
+ikia AUX 3 aux
+rin PART 3 aux:val
+nato ADJ 7 amod
+kointo NOUN 3 nsubj
+? PUNCT 3 punct
+
+Jatian CCONJ 4 cc
+yawishan NOUN 4 nsubj
+makan NOUN 4 obj
+nexatia VERB 0 root
+iki AUX 4 aux
+nishi NOUN 4 obl
+n PART 6 case
+. PUNCT 4 punct
+
+Rarotii VERB 0 root
+riki AUX 1 aux
+ea PRON 1 nsubj
+a PART 3 case
+
+ea PRON 3 nsubj
+a PART 1 case
+mánokoxotia VERB 0 root
+iki AUX 3 aux
+, PUNCT 3 punct
+cepillo NOUN 3 obl
+nin PART 6 case
+; PUNCT 6 punct
+nokon DET 10 det
+xeta NOUN 11 obj
+chokatii VERB 3 advcl
+, PUNCT 11 punct
+ompax NOUN 3 obl
+bexnan ADJ 13 amod
+man PART 13 case
+. PUNCT 13 punct
+
+¿ PUNCT 5 punct
+mia PRON 5 nsubj
+n PART 2 case
+jawe PRON 5 obj
+jonetia VERB 0 root
+? PUNCT 5 punct
+
+¿ PUNCT 4 punct
+jainoax CCONJ 4 cc
+ki PART 2 Lfcl
+jawe PRON 0 root
+iki VERB 4 cop
+nokon DET 9 det
+Memio ADV 9 advmod
+kea PART 7 case
+meken NOUN 4 obl
+man PART 4 case
+? PUNCT 4 punct
+
+iti VERB 3 amod
+resa PART 1 Lfcl
+jawékibo NOUN 4 obj
+bítixon VERB 8 advcl
+icha ADJ 7 amod
+jakon ADJ 7 amod
+jawékibo NOUN 8 obj
+atikanai VERB 0 root
+. PUNCT 8 punct
+
+noa PRON 4 nsubj
+a PART 1 case
+jakiribi ADV 4 advmod
+ointianannon VERB 0 root
+
+eaa PRON 3 nsubj
+ra PART 3 aux:val
+jakon ADJ 0 root
+bires PART 3 Lfcl
+tani PART 3 Lfcl
+iki VERB 3 cop
+. PUNCT 3 punct
+
+¿ PUNCT 2 punct
+mia PRON 0 root
+a PART 2 case
+jawe NOUN 5 obj
+atiya VERB 2 nsubj
+ma PART 5 Lfcl
+iki VERB 2 cop
+? PUNCT 2 punct
+
+¡ PUNCT 4 punct
+ea PRON 4 obj
+a PART 2 case
+akintiwe VERB 0 root
+! PUNCT 4 punct
+
+Ransatii VERB 0 root
+riki AUX 1 aux
+ea PRON 1 nsubj
+a PART 3 case
+
+Francés NOUN 6 obl
+nin PART 1 case
+ra PART 6 aux:val
+noaa PRON 6 nsubj
+yoyo INTJ 6 compound
+ikiai VERB 0 root
+
+¡ PUNCT 2 punct
+Papá NOUN 0 root
+! PUNCT 2 punct
+
+ja PRON 5 nsubj
+n PART 1 case
+vapor NOUN 4 obj
+marotiti VERB 5 obj
+atipantiyamake VERB 0 root
+, PUNCT 5 punct
+ja PRON 9 nsubj
+n PART 7 case
+katiti VERB 5 obl
+. PUNCT 5 punct
+
+¡ PUNCT 4 punct
+Ponte ADV 4 advmod
+yoyo INTJ 4 compound
+ikiwe VERB 0 root
+! PUNCT 4 punct
+
+noa PRON 3 nmod
+n PART 1 case
+chío NOUN 7 obj
+shokobo PART 3 Lfcl
+noa PRON 7 nsubj
+n PART 5 case
+ointiai VERB 0 root
+. PUNCT 7 punct
+
+Ja DET 3 det
+a SUFV 1 case
+pei NOUN 9 obj
+keskáatikin VERB 9 advcl
+mia PRON 7 nmod
+n PART 5 case
+cuaderno NOUN 9 obl
+nin PART 7 case
+atiwe VERB 0 root
+. PUNCT 9 punct
+
+¿ PUNCT 8 punct
+tso PINT 8 iobj
+a PART 2 case
+ki PART 8 aux:val
+ja DET 6 det
+joni NOUN 8 nsubj
+pekáo ADP 8 marker
+néetia VERB 0 root
+iki AUX 8 aux
+? PUNCT 8 punct
+
+ea PRON 6 nsubj
+n PART 1 case
+ra PART 6 aux:val
+mia PRON 6 obj
+a PART 4 case
+osantikinkasai VERB 0 root
+
+Miope ADJ 3 nsubj
+riki VERB 3 cop
+ea PRON 0 root
+a PART 3 case
+
+oshitia VERB 3 nsubj
+riki VERB 3 cop
+ea PRON 0 root
+a PART 3 case
+
+jotiyamaai VERB 0 root
+Presidente NOUN 1 nsubj
+. PUNCT 1 punct
+
+pontetii NOUN 3 advcl
+yoyo INTJ 3 compound
+ikiwe VERB 0 root
+
+osantii VERB 0 root
+riki AUX 1 aux
+ea PRON 1 nsubj
+a PART 3 case
+
+katikin VERB 3 advcl
+, PUNCT 1 punct
+botia VERB 0 root
+iki AUX 3 aux
+rabé NUM 6 nummod
+xopan NOUN 3 obj
+. PUNCT 3 punct
+
+¿ PUNCT 5 punct
+mia PRON 5 nsubj
+n PART 2 case
+frances NOUN 5 obj
+onántia VERB 0 root
+? PUNCT 5 punct
+
+Chile PROPN 10 obl
+nkonia PART 1 case
+ribi PART 1 Lfcl
+español NOUN 6 nmod
+baon PART 4 case
+apo NOUN 7 obj
+ikonhati VERB 9 amod
+makaskanai PART 7 Lfcl
+jonibo NOUN 10 obj
+pótati VERB 0 root
+ribikana PART 10 Lfcl
+iki AUX 10 aux
+. PUNCT 10 punct
+
+oxatia VERB 0 root
+riki VERB 1 aux
+mia PRON 1 nsubj
+a PART 3 case
+
+¿ PUNCT 6 punct
+Jaweti PINT 6 nsubj
+rin PART 6 cop
+mia PRON 6 nmod
+n PART 4 case
+iwe NOUN 0 root
+? PUNCT 6 punct
+
+Icha ADJ 3 obl
+ya PART 1 case
+riki VERB 0 root
+noa PRON 3 nsubj
+a PART 4 case
+
+Kikin ADV 2 advmod
+jakon ADJ 4 xcomp
+riki VERB 4 cop
+miaa PRON 0 root
+} PUNCT 4 punct
+
+Jatibi PRON 3 obl
+ya PART 1 case
+riki VERB 0 root
+ea PRON 3 nsubj
+a PART 4 case
+
+Wetsa ADJ 7 nsubj
+iki VERB 7 cop
+, PUNCT 2 punct
+noa PRON 7 nmod
+n PART 4 case
+yora NOUN 7 compound
+chapatabo NOUN 0 root
+. PUNCT 7 punct
+
+Yoáshiko PROPN 2 compound
+Inka PROPN 0 root
+ikini VERB 2 nsubj
+
+noa PRON 3 nmod
+n PART 1 case
+anibo NOUN 7 nsubj
+baon PART 3 case
+noa PRON 7 obj
+a PART 5 case
+atiai VERB 0 root
+cuídantikin VERB 7 advcl
+. PUNCT 7 punct
+
+¿ PUNCT 6 punct
+mia PRON 6 nsubj
+a PART 2 case
+karo NOUN 6 obl
+ya PART 4 case
+iki VERB 0 root
+? PUNCT 6 punct
+
+Ja DET 2 det
+baná ADJ 3 amod
+jawékibo NOUN 6 nsubj
+iki VERB 6 cop
+, PUNCT 4 punct
+xeki NOUN 0 root
+, PUNCT 8 punct
+papa NOUN 6 conj
+quinua NOUN 6 conj
+ribi PART 9 Lfcl
+. PUNCT 6 punct
+
+Jaská CCONJ 5 cc
+bi PART 1 Lfcl
+, PUNCT 1 punct
+jawebi PRON 5 obj
+yoitiamaa VERB 0 root
+iki AUX 5 aux
+. PUNCT 5 punct
+
+Pei NOUN 3 obl
+30 NUM 1 nummod
+ikia VERB 4 amod
+bewá NOUN 6 obj
+jakiribi ADV 6 advmod
+máwatiwe VERB 0 root
+. PUNCT 6 punct
+
+ja PRON 6 nsubj
+abo PART 1 case
+ra PART 6 aux:val
+mátsi NOUN 6 obl
+res PART 4 Lfcl
+keentiai VERB 0 root
+. PUNCT 6 punct
+
+mia PRON 4 nsubj
+a PART 1 case
+ra PART 4 aux:val
+jakon ADJ 6 amod
+bires PART 4 Lfcl
+maestro NOUN 0 root
+iki VERB 4 cop
+. PUNCT 4 punct
+
+ea PRON 5 nsubj
+n PART 1 case
+mia PRON 5 obj
+a PART 3 case
+chibantiban VERB 0 root
+
+wasnonbo NOUN 3 obj
+soatinon VERB 3 advcl
+atikanwe VERB 0 root
+. PUNCT 3 punct
+
+¿ PUNCT 7 punct
+Non DET 3 det
+jema NOUN 5 compound
+koshiatia VERB 5 amod
+joni NOUN 7 nsubj
+ki PART 7 aux:val
+jotiyamaai VERB 0 root
+? PUNCT 7 punct
+
+Pitii VERB 0 root
+riki AUX 1 aux
+noa PRON 1 nsubj
+a PART 3 case
+
+¿ PUNCT 5 punct
+jawerano ADV 5 advmod
+ki PART 5 aux:val
+joni NOUN 5 nsubj
+katia VERB 0 root
+iki AUX 5 aux
+? PUNCT 5 punct
+
+¿ PUNCT 5 punct
+Jawe PRON 5 obj
+mato PRON 5 nsubj
+n PART 3 case
+joneaa VERB 0 root
+? PUNCT 5 punct
 
 jainoax ADV 4 advmod
 ki PART 4 aux:val
@@ -2894,86 +2282,67 @@ naman ADV 8 advmod
 paketii VERB 1 advcl
 . PUNCT 1 punct
 
-mia PRON 4 nsubj
-a PART 1 case
-ra PART 4 aux:val
-jakon ADJ 6 amod
-bires PART 4 Lfcl
-maestro NOUN 0 root
-iki VERB 4 cop
-. PUNCT 4 punct
-
-jotiyama VERB 0 root
-ai SUFV 3 obj
-escuela SUFV 3 obj
-ointii VERB 1 advcl
-. PUNCT 1 punct
-
-¿ PUNCT 7 punct
-jainxon CCONJ 7 cc
-ki PART 7 aux:val
-yawish NOUN 7 nsubj
-en PART 4 case
-jaweraki ADV 7 advmod
-paranti VERB 0 root
-ribia PART 7 Lfcl
-iki AUX 7 aux
-? PUNCT 7 punct
-
-noa PRON 3 nmod
-n PART 1 case
-poko NOUN 9 obl
-meranoax ADP 3 case
-a PART 9 aux:val
-noa PRON 8 nmod
-n PART 6 case
-jawékiatiabo VERB 9 nsubj
-wetsaati VERB 0 root
-resibaai PART 9 Lfcl
-. PUNCT 9 punct
-
-Bakish ADV 4 advmod
-ea PRON 4 obj
-a PART 2 case
-kenatiwe VERB 0 root
-
-¿ PUNCT 7 punct
-mia PRON 7 nsubj
+¿ PUNCT 6 punct
+ea PRON 6 nsubj
 n PART 2 case
-ja PRON 6 det
-n PART 4 case
-ointi NOUN 7 obj
-sawetiai VERB 0 root
-? PUNCT 7 punct
+mia PRON 6 obj
+a PART 4 case
+akintiti VERB 0 root
+atipantia AUX 6 aux
+? PUNCT 6 punct
 
-¿ PUNCT 7 punct
-Jawen DET 3 det
-akinti NOUN 7 obj
-ki PART 7 aux:val
-ja DET 6 det
-joni NOUN 7 iobj
-yoitia VERB 0 root
-iki AUX 7 aux
-? PUNCT 7 punct
+mia PRON 5 nsubj
+n PART 1 case
+jakon ADV 4 advmod
+atiti VERB 5 xcomp
+maxkatia VERB 0 root
 
-Rinko ADJ 2 amod
-joni NOUN 4 nsubj
+jakon ADJ 4 nsubj
+ma PART 1 Lfcl
 riki VERB 4 cop
 ea PRON 0 root
 a PART 4 case
 
-¿ PUNCT 4 punct
-mia PRON 4 nsubj
+¿ PUNCT 5 punct
+mia PRON 5 nsubj
 n PART 2 case
-onantiti VERB 0 root
-atipantia AUX 4 aux
-? PUNCT 4 punct
+ransatiti VERB 5 xcomp
+onántia VERB 0 root
+? PUNCT 5 punct
 
-masa ADV 2 advmod
-atii VERB 0 root
-riki AUX 2 aux
-ea PRON 2 nsubj
+sere NOUN 3 obl
+ya PART 1 case
+riki VERB 0 root
+ea PRON 3 nsubj
 a PART 4 case
+
+ea PRON 5 nsubj
+n PART 1 case
+ra PART 5 aux:val
+yoyo INTJ 5 compound
+atikasai VERB 0 root
+
+Mananxawe NOUN 5 nsubj
+betan CCONJ 3 cc
+nonon NOUN 1 conj
+rabé NUM 3 nummod
+ikini VERB 0 root
+
+¿ PUNCT 6 punct
+mia PRON 6 nsubj
+n PART 2 case
+ea PRON 6 obj
+a PART 4 case
+noitia VERB 0 root
+? PUNCT 6 punct
+
+¿ PUNCT 6 punct
+yoxán NOUN 6 nsubj
+shoko PART 2 Lfcl
+ainbo NOUN 2 compound
+ki PART 6 aux:val
+jotiyamaai VERB 0 root
+? PUNCT 6 punct
 
 Jaskatax CCONJ 6 cc
 , PUNCT 1 punct
@@ -2989,247 +2358,342 @@ joni NOUN 6 obl
 a PART 11 case
 . PUNCT 11 punct
 
-Ja PRON 2 obj
-tanatinon VERB 0 root
-ikiwe AUX 2 aux
-
-¿ PUNCT 2 punct
-mia PRON 0 root
-a PART 2 case
-oshitia VERB 2 nsubj
-riki VERB 2 cop
-? PUNCT 2 punct
-
-otitis NOUN 3 obl
-ya PART 1 case
-riki VERB 0 root
-ea PRON 3 nsubj
-
-Icha ADJ 2 amod
-makan NOUN 3 nsubj
-iki VERB 0 root
-jain ADV 3 advmod
-, PUNCT 4 punct
-nií NOUN 3 nsubj
-ichama ADJ 6 amod
-ma PART 7 Lfcl
-. PUNCT 6 punct
-
-Rarotii VERB 0 root
+Xoatii VERB 0 root
 riki AUX 1 aux
 ea PRON 1 nsubj
 a PART 3 case
 
-noinbo NOUN 6 nsubj
-ribi PART 1 Lfcl
-iki VERB 6 cop
-jakon ADJ 6 amod
-ma PART 4 Lfcl
+¿ PUNCT 8 punct
+tsoa PRON 8 nsubj
+a PART 2 case
+ki PART 8 aux:val
+mia PRON 8 obl
+n PART 5 case
+mekayao ADP 5 case
+yakatia VERB 0 root
+? PUNCT 8 punct
+
+Jaskatax CCONJ 7 cc
+ki PART 7 aux:val
+, PUNCT 1 punct
+jain ADV 7 advmod
+basi ADV 7 advmod
+bires PART 5 Lfcl
+teetikana VERB 0 root
+iki AUX 7 aux
+. PUNCT 7 punct
+
+¿ PUNCT 7 punct
+Jawerato PRON 3 amod
+bake NOUN 7 nsubj
+keska ADP 3 case
+ribi PART 4 Lfcl
+rin PART 7 aux:val
+mia PRON 0 root
+? PUNCT 7 punct
+
+Kikin ADV 2 advmod
+onan ADJ 4 nsubj
+riki VERB 4 cop
+mia PRON 0 root
+a PART 4 case
+
+Ea PRON 4 obl
+be PART 1 case
+yoyo INTJ 4 compound
+ikiwe VERB 0 root
+
+Nato DET 2 det
+baritia NOUN 10 obl
+n PART 2 case
+ra PART 10 aux:val
+noa PRON 10 nsubj
+a PART 5 case
+castellano NOUN 10 obl
+nin PART 7 case
+yoyo X 10 compound
+ikiai VERB 0 root
+. PUNCT 10 punct
+
+Ja DET 2 det
+konxan NOUN 3 obj
+toetii VERB 10 obj
+to X 5 obj
+iitiaitian VERB 3 advcl
+ki PART 3 aux:val
+, PUNCT 3 punct
+ino NOUN 10 nsubj
+n PART 8 case
+nikatia VERB 0 root
+iki AUX 10 aux
+. PUNCT 10 punct
+
+Iráke INTJ 3 discourse
+¡ PUNCT 3 punct
+papa NOUN 0 root
+! PUNCT 3 punct
+
+kati VERB 0 root
+riba PART 1 Lfcl
+pari PART 1 Lfcl
+banon SUFV 1 x
+. PUNCT 1 punct
+
+katixon VERB 8 advcl
+, PUNCT 1 punct
+ja DET 4 det
+bakeranon NOUN 8 nsubj
+man PART 4 case
+jawen DET 7 det
+pia NOUN 8 obj
+bénatikin VERB 10 advcl
+bi PART 8 Lfcl
+meratiyamaa VERB 0 root
+iki AUX 10 aux
+. PUNCT 10 punct
+
+mia PRON 3 nsubj
+n PART 1 case
+atiti VERB 0 root
+atipantia AUX 3 aux
+
+bakeatiai VERB 2 amod
+jawéki NOUN 4 nsubj
+ra PART 4 aux:val
+rabé NUM 0 root
+iki VERB 4 cop
+. PUNCT 4 punct
+
+Ja DET 2 det
+vicuña NOUN 9 nsubj
+iki VERB 9 cop
+, PUNCT 3 punct
+joni NOUN 7 nsubj
+n PART 5 case
+kaíatimati VERB 9 amod
+ma PART 7 Lfcl
 jawéki NOUN 0 root
-. PUNCT 6 punct
+. PUNCT 9 punct
 
-¿ PUNCT 6 punct
-Jawekeska ADV 6 advmod
-jisá NOUN 5 compound
-ki PART 6 aux:val
-ainbo NOUN 6 nsubj
-jotia VERB 0 root
-iki AUX 6 aux
-, PUNCT 6 punct
-ja PRON 11 nsubj
-iba PART 9 case
-merátii VERB 6 advcl
-? PUNCT 6 punct
-
-jawen DET 2 det
-jane NOUN 3 obj
-wishatiwe VERB 0 root
-. PUNCT 3 punct
-
-Miope ADJ 3 nsubj
+Toya ADJ 3 nsubj
 riki VERB 3 cop
 ea PRON 0 root
 a PART 3 case
 
-Escuela NOUN 2 compound
-tapo NOUN 5 obj
-noa PRON 5 nsubj
-n PART 3 case
-matsótiti VERB 0 root
-iki AUX 5 aux
-. PUNCT 5 punct
+ikia VERB 0 root
+iki AUX 1 aux
+wetsa ADJ 4 amod
+joni NOUN 1 nsubj
+, PUNCT 1 punct
+Cristóbal PROPN 4 appos
+Colón PROPN 6 flat
+. PUNCT 1 punct
 
-Xepotikana VERB 0 root
-
-Ino NOUN 4 nsubj
-betan CCONJ 3 cc
-yawish NOUN 1 conj
-ikini VERB 0 root
-
-Llama NOUN 6 nsubj
-iki VERB 6 cop
-Perú PROPN 6 nmod
-ain PART 3 case
-kaíatikanai VERB 6 amod
-jawéki NOUN 0 root
+Baná ADJ 2 amod
+jawékibo NOUN 6 nsubj
+ribi PART 2 Lfcl
+bari NOUN 6 obl
+n PART 4 case
+keentiai VERB 0 root
 . PUNCT 6 punct
 
-Yami NOUN 2 compound
-jawékibo NOUN 7 nsubj
-ribi PART 2 Lfcl
-, PUNCT 2 punct
-iti VERB 7 amod
-resa PART 5 Lfcl
-jawékibo NOUN 0 root
-iki VERB 7 cop
-. PUNCT 7 punct
+¿ PUNCT 9 punct
+joni NOUN 9 nsubj
+n PART 2 case
+ki PART 9 aux:val
+ja DET 6 det
+roo NOUN 8 obj
+icha ADJ 6 amod
+mératixon VERB 9 advcl
+jawekeskáatia VERB 0 root
+iki AUX 9 aux
+? PUNCT 9 punct
 
-Ani ADJ 2 amod
-manan NOUN 5 nsubj
-man PART 2 case
-ra PART 5 aux:val
-matsi NOUN 0 root
-bires PART 5 Lfcl
-iki VERB 5 cop
-. PUNCT 5 punct
+meratitaanan VERB 8 advcl
+ki PART 8 aux:val
+xawe NOUN 8 nsubj
+ikon ADJ 8 advcl
+bires PART 4 Lfcl
+i PART 4 Lfcl
+ki PART 8 aux:val
+íshtotia VERB 0 root
+iki AUX 8 aux
+; PUNCT 8 punct
+koin NOUN 12 compound
+poto NOUN 13 obj
+chankátikaini VERB 8 advcl
+. PUNCT 13 punct
 
-Jaskáa CCONJ 6 cc
-, PUNCT 1 punct
-ino NOUN 6 nsubj
-n PART 3 case
-piti VERB 6 obj
-shinántiyamaa VERB 0 root
-iki AUX 6 aux
-, PUNCT 6 punct
-pikástii VERB 6 advcl
-ikiwanxon AUX 9 aux
-bi PART 10 Lfcl
-. PUNCT 9 punct
-
-ea PRON 6 nsubj
-a PART 1 case
-ra PART 6 aux:val
-pontetii VERB 6 advcl
-yoyo INTJ 6 compound
-ikike VERB 0 root
-
-Ja DET 2 det
-llama NOUN 3 nsubj
-jatike VERB 0 root
-matsinnko NOUN 3 obl
-bi PART 4 Lfcl
-ribi PART 4 Lfcl
-, PUNCT 4 punct
-bochiki ADV 3 advmod
+shino NOUN 3 nsubj
+ra PART 3 aux:val
+jina NOUN 0 root
+ya PART 3 case
+iki VERB 3 cop
 . PUNCT 3 punct
 
-Ja DET 3 det
-a SUFV 1 case
-pei NOUN 9 obj
-keskáatikin VERB 9 advcl
-mia PRON 7 nmod
-n PART 5 case
-cuaderno NOUN 9 obl
-nin PART 7 case
-atiwe VERB 0 root
-. PUNCT 9 punct
+jatibi ADJ 3 nsubj
+ra PART 3 aux:val
+koshi ADJ 0 root
+bires PART 3 Lfcl
+tani PART 3 Lfcl
+ikikanai VERB 3 cop
+. PUNCT 3 punct
 
-yokati VERB 0 root
-resi PART 1 Lfcl
+¿ PUNCT 4 punct
+teniente NOUN 4 nsubj
+ki PART 4 aux:val
+jotiyamaai VERB 0 root
+? PUNCT 4 punct
+
+Isinti VERB 0 root
+i PART 1 Lfcl
 riki AUX 1 aux
 ea PRON 1 nsubj
 a PART 4 case
 
-¿ PUNCT 4 punct
-jáwekeskati ADV 4 advmod
-ki PART 4 aux:val
-jaskátiai VERB 0 root
-? PUNCT 4 punct
+¿ PUNCT 9 punct
+Moa ADV 4 advmod
+basi ADV 4 advmod
+iitikin VERB 9 advcl
+ki PART 9 aux:val
+, PUNCT 4 punct
+jawerano ADV 9 obj
+bakeranon NOUN 9 nsubj
+raantikana VERB 0 root
+iki AUX 9 aux
+? PUNCT 9 punct
 
-Jatike VERB 0 root
-joni NOUN 4 nsubj
-n PART 2 case
-kaíatiti VERB 5 amod
-jawéki NOUN 1 nsubj
-, PUNCT 5 punct
-jainoax CCONJ 11 cc
-nií NOUN 10 obl
-meran ADP 8 case
-ikia VERB 11 amod
-jawéki NOUN 5 conj
-. PUNCT 1 punct
+Jakiribi ADV 4 advmod
+atixon VERB 4 advcl
+ki PART 4 aux:val
+bitia VERB 0 root
+iki AUX 4 aux
+, PUNCT 4 punct
+ani ADJ 8 amod
+tora NOUN 4 obj
+. PUNCT 4 punct
 
 ¿ PUNCT 5 punct
-tso PINT 5 nsubj
-n PART 2 case
+katikin VERB 5 advcl
 ki PART 5 aux:val
-kanántia VERB 0 root
+jawe PRON 5 obj
+meratia VERB 0 root
 iki AUX 5 aux
 ? PUNCT 5 punct
 
-Katikin VERB 5 advcl
-bi PART 1 Lfcl
-ja DET 4 det
-jonin NOUN 0 root
-shinantia VERB 4 nsubj
-iki AUX 5 aux
-: PUNCT 5 punct
+australianobo ADJ 3 cop
+riki VERB 3 cop
+noaa PRON 0 root
 
-Nií NOUN 9 obl
-meran ADP 1 case
-meax PART 2 case
-noa PRON 9 nsubj
+Wai NOUN 2 nsubj
+ramítiai VERB 3 amod
+jawékibo NOUN 5 obj
+keskáakin ADV 5 advmod
+wíshatiwe VERB 0 root
+. PUNCT 5 punct
+
+mian PRON 2 det
+kirika NOUN 4 nmod
+meran ADP 2 case
+wishatiwe VERB 0 root
+, PUNCT 4 punct
+mia PRON 8 nmod
+be PART 6 case
+raeanantiai VERB 10 nmod
+baon PART 8 case
+jane NOUN 4 obj
+. PUNCT 4 punct
+
+ea PRON 5 nsubj
+n PART 1 case
+ra PART 5 aux:val
+yoyo INTJ 5 compound
+atikasai VERB 0 root
+
+¿ PUNCT 5 punct
+mia PRON 5 nsubj
+n PART 2 case
+bakish ADV 5 advmod
+yoyoatiibata VERB 0 root
+? PUNCT 5 punct
+
+¿ PUNCT 5 punct
+Tom PROPN 5 nsubj
+ki PART 5 aux:val
+jain ADV 5 advmod
+iki VERB 0 root
+? PUNCT 5 punct
+
+jainxon CCONJ 10 cc
+ribi PART 1 Lfcl
+noa PRON 5 nmod
+n PART 3 case
+papá NOUN 10 nsubj
+isi PART 5 Lfcl
+n PART 5 case
+noa PRON 10 obj
+a PART 8 case
+noitike VERB 0 root
+. PUNCT 10 punct
+
+Galleta NOUN 3 obl
+ya PART 1 case
+riki VERB 0 root
+ea PRON 3 nsubj
 a PART 4 case
-mai NOUN 9 obl
-n PART 6 case
-ribi PART 6 Lfcl
-katiai VERB 0 root
-. PUNCT 9 punct
 
-Jaská CCONJ 7 cc
-, PUNCT 1 punct
-ja DET 4 det
-ino NOUN 7 nsubj
-bochiki ADV 7 advmod
-kotsatiax VERB 7 advcl
-janxbátia VERB 0 root
+Ja PRON 3 nsubj
+moa ADV 3 advmod
+anitiketian VERB 7 advcl
+, PUNCT 3 punct
+jakiribi ADV 7 advmod
+ainbo NOUN 7 nsubj
+toóti VERB 0 root
+ribia PART 7 Lfcl
 iki AUX 7 aux
 . PUNCT 7 punct
 
-¿ PUNCT 6 punct
-jaweati ADV 6 obl
-ki PART 6 aux:val
-noa PRON 6 nsubj
-n PART 4 case
-nakatiai VERB 0 root
-, PUNCT 6 punct
-jawékiatikin VERB 6 advcl
-? PUNCT 6 punct
+Petroleo NOUN 2 compound
+xeni NOUN 3 obj
+xeatixon VERB 4 advcl
+atikanai VERB 0 root
+kerosene NOUN 4 obj
+, PUNCT 7 punct
+gasolinabo NOUN 5 conj
 
-Jaweyomabiyoma NOUN 4 nsubj
-bi PART 1 Lfcl
-riki VERB 4 cop
-eaa PRON 0 root
+¿ PUNCT 3 punct
+Jaweki PINT 3 obj
+winotiti VERB 0 root
+iki AUX 3 aux
+? PUNCT 3 punct
 
-¿ PUNCT 10 punct
-Atapa NOUN 3 obj
-betiketian VERB 10 advcl
-, PUNCT 3 punct
-jawe PRON 6 obj
-ménititi VERB 10 obj
-ki PART 10 aux:val
-jawen DET 9 det
-titan NOUN 10 nsubj
-yoitia VERB 0 root
-iki AUX 10 aux
-? PUNCT 10 punct
+mia PRON 3 det
+n PART 1 case
+cuaderno NOUN 5 obl
+meran ADP 3 case
+wishatiwe VERB 0 root
+, PUNCT 5 punct
+pichika NUM 10 nummod
+jiwi NOUN 10 nmod
+n PART 8 case
+jane NOUN 5 obj
+. PUNCT 10 punct
 
-¿ PUNCT 5 punct
-mato PRON 5 nsubj
-n PART 2 case
-ikon NOUN 5 obj
-yoitiai VERB 0 root
-? PUNCT 5 punct
+moa ADV 5 advmod
+ra PART 5 aux:val
+wetsa ADJ 4 amod
+joni NOUN 5 nsubj
+jotiai VERB 0 root
+, PUNCT 12 cc
+ja PRON 12 obj
+a PART 7 case
+ra PART 12 aux:val
+noa PRON 12 nsubj
+n PART 10 case
+shíroatiti VERB 5 conj
+ma PART 12 Lfcl
+iki VERB 12 aux
+. PUNCT 12 punct
 
 Jawen DET 2 det
 ibo NOUN 5 nsubj
@@ -3246,10 +2710,142 @@ jawen DET 13 det
 bichi NOUN 7 conj
 . PUNCT 5 punct
 
+Jaskatax CCONJ 3 cc
+ino NOUN 3 nsubj
+neeti VERB 0 root
+shokokasa PART 3 Lfcl
+bi PART 3 Lfcl
+ititi VERB 3 advcl
+koma PART 6 Lfcl
+ikia AUX 3 aux
+iki AUX 8 aux
+, PUNCT 3 punct
+ja DET 12 det
+jiwi NOUN 13 nsubj
+sibá ADJ 3 advmod
+ikiax VERB 13 cop
+. PUNCT 13 punct
+
+Ja DET 2 det
+ainbo NOUN 7 obl
+betan ADP 2 case
+Huayna PROPN 5 compound
+Cápac PROPN 7 nsubj
+jatian ADV 7 advmod
+wanotia VERB 0 root
+iki AUX 7 aux
+. PUNCT 7 punct
+
+¿ PUNCT 5 punct
+mia PRON 5 nsubj
+a PART 2 case
+jakontii VERB 5 advcl
+oxatia VERB 0 root
+? PUNCT 5 punct
+
+¿ PUNCT 5 punct
+mia PRON 5 nsubj
+a PART 2 case
+jaweki NOUN 5 obj
+maxkatia VERB 0 root
+? PUNCT 5 punct
+
+Ja DET 2 det
+bake NOUN 6 nsubj
+basi ADV 6 advmod
+ribi PART 3 Lfcl
+ma PART 3 Lfcl
+aniatia VERB 0 root
+iki AUX 6 aux
+. PUNCT 6 punct
+
+¿ PUNCT 6 punct
+Jainxon CCONJ 6 cc
+ki PART 6 aux:val
+ja DET 5 det
+ainbo NOUN 6 nsubj
+jáwekeskaatia VERB 0 root
+iki AUX 6 aux
+? PUNCT 6 punct
+
+Jatíbi ADJ 2 amod
+koshitiai VERB 3 amod
+jawéki NOUN 6 nsubj
+iki VERB 6 cop
+bakeatiai VERB 6 amod
+jawekibo NOUN 0 root
+. PUNCT 6 punct
+
+Ja DET 2 det
+llama NOUN 3 nsubj
+jatike VERB 0 root
+matsinnko NOUN 3 obl
+bi PART 4 Lfcl
+ribi PART 4 Lfcl
+, PUNCT 4 punct
+bochiki ADV 3 advmod
+. PUNCT 3 punct
+
+mia PRON 3 nsubj
+n PART 1 case
+osantii VERB 0 root
+riki AUX 3 aux
+noa PRON 3 obj
+a PART 5 case
+
+¿ PUNCT 6 punct
+Jawekeskaaxon ADV 6 advmod
+ja PRON 6 nsubj
+onsá ADJ 5 amod
+yoina NOUN 6 obj
+retetia VERB 0 root
+iki AUX 6 aux
+? PUNCT 6 punct
+
+¿ PUNCT 6 punct
+jaweati ADV 6 obl
+ki PART 6 aux:val
+noa PRON 6 nsubj
+n PART 4 case
+nakatiai VERB 0 root
+, PUNCT 6 punct
+jawékiatikin VERB 6 advcl
+? PUNCT 6 punct
+
+Xawe NOUN 2 compound
+ainbo NOUN 6 nsubj
+n PART 2 case
+jawen DET 5 det
+bene NOUN 6 obj
+pótatini VERB 0 root
+
+Atsa NOUN 2 compound
+taxo NOUN 3 obj
+bánatiai VERB 0 root
+. PUNCT 3 punct
+
 Tantii VERB 0 root
 riki AUX 1 aux
 ea PRON 1 nsubj
 a PART 3 case
+
+Nokon DET 2 det
+papa NOUN 5 nsubj
+n PART 2 case
+jiwi NOUN 5 obj
+rératiai VERB 0 root
+, PUNCT 5 punct
+waiatikin VERB 5 advcl
+. PUNCT 5 punct
+
+ea PRON 4 nsubj
+a PART 1 case
+ribi PART 1 Lfcl
+teetiai VERB 0 root
+, PUNCT 4 punct
+escuela NOUN 4 obl
+meran ADP 6 case
+. PUNCT 4 punct
 
 Vicuña NOUN 2 compound
 rani NOUN 3 obj
@@ -3261,547 +2857,155 @@ rani NOUN 3 advcl
 ikiketian VERB 7 cop
 . PUNCT 3 punct
 
-jainxon CCONJ 3 cc
-ribi PART 1 Lfcl
-wíshatiwe VERB 0 root
-, PUNCT 3 punct
-pichika NUM 7 nummod
-baná ADJ 7 amod
-jawéki NOUN 9 nmod
-nin PART 7 case
-jane NOUN 3 obj
-, PUNCT 12 punct
-ikaxbi CCONJ 12 cc
-jiwi NOUN 9 conj
-ma PART 12 Lfcl
-. PUNCT 3 punct
-
-¿ PUNCT 6 punct
-mia PRON 5 nsubj
-n PART 2 case
-eaa PRON 5 obj
-yoititi VERB 6 xcomp
-atipantia VERB 0 root
-? PUNCT 6 punct
-
-¿ PUNCT 4 punct
-Mato PRON 4 nsubj
-korikiya NOUN 4 obl
-iki VERB 0 root
-? PUNCT 4 punct
-
-noa PRON 3 nmod
-n PART 1 case
-maestro NOUN 4 nsubj
-teetiai VERB 0 root
-noa PRON 7 nmod
-n PART 5 case
-escuela NOUN 4 obl
-meran ADP 7 case
-. PUNCT 8 punct
-
-mia PRON 3 nsubj
-n PART 1 case
-osantii VERB 0 root
-riki AUX 3 aux
-noa PRON 3 obj
-a PART 5 case
-
-Jaskatax CCONJ 7 cc
-ki PART 7 aux:val
-, PUNCT 1 punct
-jain ADV 7 advmod
-basi ADV 7 advmod
-bires PART 5 Lfcl
-teetikana VERB 0 root
-iki AUX 7 aux
-. PUNCT 7 punct
-
-Jaskarainxon CCONJ 4 cc
-jaton DET 3 det
-Inca PROPN 4 obj
-ochóatikana VERB 0 root
-iki AUX 4 aux
-. PUNCT 4 punct
-
-¿ PUNCT 5 punct
-mia PRON 5 nsubj
-a PART 2 case
-jakontii VERB 5 advcl
-oxatia VERB 0 root
-? PUNCT 5 punct
-
-jainxon CCONJ 10 cc
-ribi PART 1 Lfcl
-noa PRON 5 nmod
-n PART 3 case
-papá NOUN 10 nsubj
-isi PART 5 Lfcl
-n PART 5 case
-noa PRON 10 obj
-a PART 8 case
-noitike VERB 0 root
-. PUNCT 10 punct
-
-eri INTJ 4 discourse
-panon PART 1 Lfcl
-¡ PUNCT 4 punct
+Aa INTJ 3 discourse
+¡ PUNCT 3 punct
 papa NOUN 0 root
-! PUNCT 4 punct
-
-Jakon ADJ 5 nsubj
-ma PART 1 Lfcl
-cha PART 1 Lfcl
-riki VERB 5 cop
-ea PRON 0 root
-a PART 5 case
-
-jatibi NOUN 5 obj
-ki PART 5 aux:val
-mato PRON 5 nsubj
-n PART 3 case
-onántia VERB 0 root
-
-ea PRON 5 nsubj
-n PART 1 case
-ra PART 5 aux:val
-yoyo INTJ 5 compound
-atikasai VERB 0 root
-
-¿ PUNCT 6 punct
-ea PRON 6 nsubj
-n PART 2 case
-mia PRON 6 obj
-a PART 4 case
-akintiti VERB 0 root
-atipantia AUX 6 aux
-? PUNCT 6 punct
-
-¿ PUNCT 2 punct
-mia PRON 0 root
-a PART 2 case
-áxeatiai VERB 5 acl
-bakeranon NOUN 2 nsubj
-iki VERB 2 cop
-? PUNCT 2 punct
-
-Jasin NOUN 3 nsubj
-riki VERB 3 cop
-piti NOUN 0 root
-. PUNCT 3 punct
-
-Ea PRON 4 obl
-be PART 1 case
-yoyo INTJ 4 compound
-ikiwe VERB 0 root
-
-¿ PUNCT 5 punct
-mia PRON 5 nsubj
-n PART 2 case
-latin NOUN 5 obj
-onántia VERB 0 root
-? PUNCT 5 punct
-
-wishatiwe VERB 0 root
-, PUNCT 1 punct
-wetsa ADJ 4 amod
-yapa NOUN 6 nmod
-n PART 4 case
-janebo NOUN 1 obj
-ribi PART 6 Lfcl
-. PUNCT 1 punct
-
-¿ PUNCT 4 punct
-mia PRON 4 nsubj
-n PART 2 case
-yoititi VERB 0 root
-atipantia AUX 4 aux
-? PUNCT 4 punct
-
-¿ PUNCT 7 punct
-Non DET 3 det
-jema NOUN 5 compound
-koshiatia VERB 5 amod
-joni NOUN 7 nsubj
-ki PART 7 aux:val
-jotiyamaai VERB 0 root
-? PUNCT 7 punct
-
-¿ PUNCT 7 punct
-Jawerato PRON 3 amod
-bake NOUN 7 nsubj
-keska ADP 3 case
-ribi PART 4 Lfcl
-rin PART 7 aux:val
-mia PRON 0 root
-? PUNCT 7 punct
-
-Orantii VERB 0 root
-riki AUX 1 aux
-ea PRON 1 nsubj
-a PART 3 case
-
-¿ PUNCT 5 punct
-Jawerato PRON 3 amod
-ponté NOUN 5 advmod
-ki PART 5 aux:val
-katiti VERB 0 root
-iki AUX 5 aux
-, PUNCT 5 punct
-Asiain PROPN 9 obl
-katii VERB 5 advcl
-? PUNCT 5 punct
-
-Jati VERB 4 nsubj
-rake PART 1 aux:val
-ani ADJ 4 amod
-manan NOUN 0 root
-, PUNCT 1 punct
-keyá ADJ 4 amod
-bires PART 6 Lfcl
-. PUNCT 6 punct
-
-Yoáshiko PROPN 2 compound
-Inka PROPN 0 root
-ikini VERB 2 nsubj
-
-Kari NOUN 2 compound
-tapon NOUN 3 obj
-bánatiai VERB 0 root
-. PUNCT 3 punct
-
-Xeki NOUN 2 compound
-bero NOUN 3 obj
-bánatiai VERB 0 root
-. PUNCT 3 punct
-
-ea PRON 5 nsubj
-n PART 1 case
-ra PART 5 aux:val
-mato PRON 5 obj
-ointikasai VERB 0 root
-
-ea PRON 9 nsubj
-a PART 1 case
-ra PART 9 aux:val
-nawa NOUN 6 nmod
-n PART 4 case
-joi NOUN 9 obl
-n PART 6 case
-yoyo INTJ 9 compound
-ikiai VERB 0 root
-
-¿ PUNCT 6 punct
-mia PRON 6 nsubj
-a PART 2 case
-ki PART 6 aux:val
-jawetii NUM 6 amod
-xeta NOUN 0 root
-ya PART 6 case
-iki VERB 6 cop
-? PUNCT 6 punct
-
-Jaaboronkiki CCONJ 7 cc
-, PUNCT 7 punct
-ja PRON 4 det
-nonn DET 7 nsubj
-rashíko NOUN 7 obj
-atikin VERB 7 advcl
-atiaibo VERB 0 root
-. PUNCT 7 punct
-
-Aniparo NOUN 5 obl
-kexá ADP 1 case
-ra PART 5 aux:val
-oi NOUN 5 nsubj
-betiyamaai VERB 0 root
-. PUNCT 5 punct
-
-Ja PRON 3 nsubj
-moa ADV 3 advmod
-anitiketian VERB 7 advcl
-, PUNCT 3 punct
-jakiribi ADV 7 advmod
-ainbo NOUN 7 nsubj
-toóti VERB 0 root
-ribia PART 7 Lfcl
-iki AUX 7 aux
-. PUNCT 7 punct
-
-Bakish ADV 5 advmod
-ra PART 5 aux:val
-ea PRON 5 nsubj
-a PART 3 case
-katiai VERB 0 root
-
-¿ PUNCT 5 punct
-Tsoa PRON 5 nsubj
-abo PART 2 case
-ikia VERB 5 aux
-yoitia VERB 0 root
-rin PART 5 aux:val
-nato DET 8 det
-kointo NOUN 5 obl
-nin PART 8 case
-? PUNCT 5 punct
-
-¿ PUNCT 6 punct
-yoxán NOUN 6 nsubj
-shoko PART 2 Lfcl
-ainbo NOUN 2 compound
-ki PART 6 aux:val
-jotiyamaai VERB 0 root
-? PUNCT 6 punct
-
-¿ PUNCT 5 punct
-mia PRON 5 nsubj
-n PART 2 case
-bititi VERB 5 xcomp
-atipantia VERB 0 root
-? PUNCT 5 punct
-
-ea PRON 6 nsubj
-n PART 1 case
-ra PART 6 aux:val
-mia PRON 5 nsubj
-a PART 2 case
-ikoantiai VERB 0 root
-
-¿ PUNCT 2 punct
-mia PRON 0 root
-a PART 2 case
-jawe NOUN 5 obj
-atiya VERB 2 nsubj
-ma PART 5 Lfcl
-iki VERB 2 cop
-? PUNCT 2 punct
+! PUNCT 3 punct
 
 ¿ PUNCT 6 punct
 Jawerato PRON 3 amod
 aninasi NOUN 6 obl
 n PART 3 case
 rin PART 6 aux:val
-España PROPN 0 root
+Perú PROPN 0 root
 ? PUNCT 6 punct
 
-Ja DET 2 det
-llama NOUN 3 nsubj
-jatike VERB 0 root
-matsi NOUN 3 obl
-nko PART 4 case
-bi PART 4 Lfcl
-ribi PART 4 Lfcl
-, PUNCT 3 punct
-bochiki ADV 3 advmod
-. PUNCT 3 punct
-
-¿ PUNCT 7 punct
-tsoa PRON 7 nsubj
-ki PART 7 aux:val
-ikia VERB 7 cop
-iki AUX 4 aux
-, PUNCT 4 punct
-wasa NOUN 0 root
-? PUNCT 7 punct
-
-¿ PUNCT 5 punct
-mia PRON 5 nsubj
-n PART 2 case
-atiti VERB 5 xcomp
-atipantia VERB 0 root
-? PUNCT 5 punct
-
-¿ PUNCT 6 punct
-Jawe PRON 6 advmod
-kopi NOUN 2 cc
-ki PART 6 aux:val
-jawen DET 6 det
-xeta NOUN 0 root
-kensho ADJ 6 amod
-iki VERB 6 cop
-? PUNCT 6 punct
-
-¿ PUNCT 5 punct
-jawe PRON 5 nsubj
-pari PART 2 Lfcl
-ki PART 5 aux:val
-pikotiai VERB 0 root
-? PUNCT 5 punct
-
-Jainoax CCONJ 4 cc
-ea PRON 4 nsubj
-a PART 2 case
-boéxeketia VERB 0 root
-iki AUX 4 aux
-nokon DET 7 det
-boéxeti NOUN 4 obl
-n PART 7 case
-bi PART 7 Lfcl
-. PUNCT 4 punct
-
-Jainxon CCONJ 6 cc
-wetsa ADJ 3 amod
-joni NOUN 6 nsubj
-baon PART 3 case
-Kosi PROPN 6 obj
-osántia VERB 0 root
-iki AUX 6 aux
-. PUNCT 6 punct
-
-wasnonbo NOUN 3 obj
-soatinon VERB 3 advcl
-atikanwe VERB 0 root
-. PUNCT 3 punct
-
-Ja PRON 6 obj
-abo PART 1 case
-ra PART 6 aux:val
-noa PRON 6 nsubj
-n PART 4 case
-potatikasai VERB 0 root
-. PUNCT 6 punct
-
-jatike VERB 0 root
-manan NOUN 1 obl
-ani ADJ 2 amod
-nkobo PART 3 case
-. PUNCT 1 punct
-
-Aa INTJ 3 discourse
-¡ PUNCT 3 punct
-papa NOUN 0 root
-! PUNCT 3 punct
-
-Pitii VERB 0 root
-riki AUX 1 aux
-noa PRON 1 nsubj
-a PART 3 case
-
-¿ PUNCT 5 punct
-mia PRON 5 nsubj
-a PART 2 case
-te NOUN 5 obj
-kénatiai VERB 0 root
-? PUNCT 5 punct
-
-¿ PUNCT 8 punct
-jawe PRON 8 obj
-ki PART 8 aux:val
-epa NOUN 8 nsubj
-n PART 4 case
-jawen DET 7 det
-noxa NOUN 8 iobj
-yokátia VERB 0 root
-iki AUX 8 aux
-? PUNCT 8 punct
-
-¿ PUNCT 6 punct
-jawe PRON 6 obj
-ki PART 6 aux:val
 ea PRON 6 nsubj
-a PART 4 case
-maxkatia VERB 0 root
-? PUNCT 6 punct
-
-Kikin ADV 2 advmod
-onan ADJ 4 nsubj
-riki VERB 4 cop
-mia PRON 0 root
-a PART 4 case
-
-¡ PUNCT 5 punct
-Ea PRON 5 obl
-be PART 2 case
-yoyo INTJ 5 compound
-ikiwe VERB 0 root
-! PUNCT 5 punct
-
-jaskatax CCONJ 4 cc
-onki PART 4 aux:val
-, PUNCT 1 punct
-katibekona VERB 0 root
-iki AUX 4 aux
-jaweoma ADV 4 advmod
-, PUNCT 4 punct
-tasá NOUN 4 obl
-ya PART 8 case
-bicho PART 8 Lfcl
-. PUNCT 4 punct
-
-ea PRON 5 nsubj
 a PART 1 case
-ra PART 5 aux:val
-icha ADV 5 advmod
-axeke VERB 0 root
-
-¿ PUNCT 5 punct
-jawekeskaxon ADV 5 advmod
-ki PART 5 aux:val
-noaa PRON 5 obj
-atia VERB 0 root
-iki AUX 5 aux
-? PUNCT 5 punct
-
-Ainbo NOUN 0 root
-betan CCONJ 3 cc
-popo NOUN 1 conj
-ikini VERB 1 cop
-
-Japonesbo NOUN 3 obl
-keska ADP 1 case
-riki VERB 0 root
-mia PRON 3 nsubj
-a PART 4 case
-
-¿ PUNCT 5 punct
-mia PRON 5 nsubj
-n PART 2 case
-jawe PRON 5 obj
-atiyamai VERB 0 root
-? PUNCT 5 punct
-
-Jatíbi ADJ 3 amod
-kóshitiai VERB 3 amod
-jawéki NOUN 6 nsubj
-iki VERB 6 cop
-bakeatiai VERB 6 amod
-jawékibo NOUN 0 root
-. PUNCT 6 punct
-
-ikaxbi CCONJ 4 cc
-ra PART 4 aux:val
-ja PRON 4 nsubj
-maxko ADJ 0 root
-iki VERB 4 cop
-. PUNCT 4 punct
-
-Francés NOUN 6 obl
-nin PART 1 case
 ra PART 6 aux:val
-noaa PRON 6 nsubj
+pontetii VERB 6 advcl
 yoyo INTJ 6 compound
-ikiai VERB 0 root
+ikike VERB 0 root
+
+Isthon ADV 5 advmod
+n SUFV 1 case
+mia PRON 5 nsubj
+a PART 3 case
+nokótia VERB 0 root
+
+rama ADV 8 advmod
+ra PART 8 aux:val
+noa PRON 8 nsubj
+n PART 3 case
+jakon ADJ 7 advmod
+shaman PART 5 Lfcl
+atikin VERB 8 advcl
+chibantiai VERB 0 root
+, PUNCT 8 punct
+rekentia VERB 11 acl
+baritia NOUN 8 obj
+. PUNCT 8 punct
 
 wíshatiwe VERB 0 root
 , PUNCT 1 punct
 wetsa ADJ 4 amod
-isá NOUN 6 nmod
-kan PART 4 case
+rono NOUN 6 nmod
+n PART 4 case
 janebo NOUN 1 obj
 ribi PART 6 Lfcl
 . PUNCT 1 punct
 
-Rabin ADJ 3 nsubj
+Moa ADV 2 advmod
+atiti VERB 5 nsubj
+res PART 2 Lfcl
+riki VERB 5 cop
+ea PRON 0 root
+a PART 5 case
+
+¿ PUNCT 2 punct
+mia PRON 0 root
+a PART 2 case
+oshitia VERB 2 nsubj
+riki VERB 2 cop
+? PUNCT 2 punct
+
+Jaskáaxon CCONJ 5 cc
+joni NOUN 5 nsubj
+n PART 2 case
+mai NOUN 5 obj
+chinitia VERB 0 root
+iki AUX 5 aux
+; PUNCT 5 punct
+ja PRON 10 obl
+meran ADP 8 case
+sontantimeeti VERB 5 aux:val
+. PUNCT 10 punct
+
+Ja DET 2 det
+jiwi NOUN 0 root
+atia VERB 2 acl
+naman ADV 2 advmod
+
+¿ PUNCT 8 punct
+jawe PRON 8 obj
+ki PART 8 aux:val
+chaxo NOUN 8 nsubj
+n PART 4 case
+bi PART 4 Lfcl
+ribi PART 4 Lfcl
+betia VERB 0 root
+iki AUX 8 aux
+? PUNCT 8 punct
+
+jakon ADJ 4 nsubj
+ma PART 1 Lfcl
+riki VERB 4 cop
+ea PRON 0 root
+a PART 4 case
+
+¿ PUNCT 6 punct
+tsoa PRON 6 nsubj
+a PART 2 case
+bicho PART 2 Lfcl
+ki PART 6 aux:val
+banetia VERB 0 root
+iki AUX 6 aux
+? PUNCT 6 punct
+
+ean PRON 3 nsubj
+yoyo INTJ 3 compound
+atibanon VERB 0 root
+
+Moa ADV 2 advmod
+meshotiax VERB 6 advcl
+pakétiketian VERB 6 advcl
+yawish NOUN 6 nsubj
+an PART 4 case
+pitia VERB 0 root
+iki AUX 6 aux
+. PUNCT 6 punct
+
+Jaskáa CCONJ 2 cc
+katia VERB 0 root
+iki AUX 2 aux
+, PUNCT 2 punct
+jawen DET 6 det
+rayos NOUN 2 nsubj
+. PUNCT 6 punct
+
+¿ PUNCT 6 punct
+ja DET 6 det
+a PART 2 case
+mekayao ADV 6 advmod
+kea PART 4 case
+meken NOUN 0 root
+ki PART 6 aux:val
+banka NOUN 6 obl
+pekáo ADP 8 case
+iki AUX 6 cop
+? PUNCT 6 punct
+
+Bakeatiai VERB 2 amod
+jawéki NOUN 4 nsubj
+ra PART 4 aux:val
+rabé NUM 0 root
+iki VERB 4 cop
+. PUNCT 4 punct
+
+ninkatiyamaai VERB 3 nsubj
 riki VERB 3 cop
 ea PRON 0 root
 a PART 3 case
-
-Buenos ADJ 2 amod
-días NOUN 5 discourse
-, PUNCT 2 punct
-¡ PUNCT 5 punct
-bakebo NOUN 0 root
-! PUNCT 5 punct
 
 moatian ADV 6 advmod
 ronki PART 6 aux:val
@@ -3816,252 +3020,58 @@ rabé NUM 11 nummod
 nonon NOUN 8 conj
 . PUNCT 6 punct
 
-Jatian CCONJ 4 cc
-jawen DET 3 det
-bene NOUN 4 nsubj
-kati VERB 0 root
-ribaa PART 4 Lfcl
-iki AUX 4 aux
-. PUNCT 4 punct
-
-ja PRON 3 obj
-abo PART 1 case
-benatiwe VERB 0 root
-. PUNCT 3 punct
-
-Jaskáaxon CCONJ 3 cc
-incaatikin VERB 3 advcl
-janetikana VERB 0 root
-iki AUX 3 aux
-, PUNCT 3 punct
-ja DET 8 det
-Manco PROPN 8 compound
-Cápac PROPN 3 obj
-. PUNCT 3 punct
-
-atikin VERB 2 advcl
-atikana VERB 0 root
-iki AUX 2 aux
-joni NOUN 2 nsubj
-baon PART 4 case
-. PUNCT 2 punct
-
-Moa ADV 8 advmod
-kimisha NUM 3 nummod
-nete NOUN 4 obj
-senentiketian VERB 8 advcl
-, PUNCT 4 punct
-jawen DET 7 det
-bene NOUN 8 iobj
-yoiti VERB 0 root
-ribia PART 8 Lfcl
-iki AUX 8 aux
-: PUNCT 8 punct
-
-mai NOUN 5 nsubj
-ra PART 5 aux:val
-netetiibi NOUN 5 obl
-westíora NUM 3 nummod
-mayátiai VERB 0 root
-. PUNCT 5 punct
-
-Iráke INTJ 3 discourse
-¡ PUNCT 3 punct
-papa NOUN 0 root
-! PUNCT 3 punct
-
-Ja DET 2 det
-llama NOUN 7 nsubj
-iki VERB 7 cop
-jakon ADJ 5 compound
-jakon ADJ 7 amod
-bires PART 5 Lfcl
-jawéki NOUN 0 root
-, PUNCT 12 punct
-manan NOUN 12 nmod
-ani ADJ 9 amod
-mea PART 9 case
-jawéki NOUN 7 conj
-. PUNCT 7 punct
-
-Atsa NOUN 2 compound
-taxo NOUN 3 obj
-bánatiai VERB 0 root
-. PUNCT 3 punct
-
-Kikin ADV 2 advmod
-jakon ADJ 4 nsubj
-riki VERB 4 cop
-mia PRON 0 root
-a PART 4 case
-
-¿ PUNCT 6 punct
-ja DET 6 det
-a PART 2 case
-mekayao ADV 6 advmod
-kea PART 4 case
-meken NOUN 0 root
-ki PART 6 aux:val
-banka NOUN 6 obl
-pekáo ADP 8 case
-iki AUX 6 cop
-? PUNCT 6 punct
-
-Jawen DET 2 det
-bero NOUN 4 nsubj
-riki VERB 4 cop
-maxko ADJ 0 root
-shoko PART 4 Lfcl
-. PUNCT 4 punct
-
-Ja PRON 4 obj
-ea PRON 4 iobj
-a PART 2 case
-ointimawe VERB 0 root
-
-¿ PUNCT 3 punct
+¿ PUNCT 5 punct
 Jawerato PRON 3 amod
-ponté NOUN 0 root
-rin PART 3 aux:val
-mia PRON 7 nmod
-n PART 5 case
-escuela NOUN 3 obl
-nkoniax PART 7 case
-? PUNCT 3 punct
+ponté NOUN 5 advmod
+ki PART 5 aux:val
+katiti VERB 0 root
+iki AUX 5 aux
+, PUNCT 5 punct
+Asiain PROPN 9 obl
+katii VERB 5 advcl
+? PUNCT 5 punct
 
-¡ PUNCT 4 punct
-ea PRON 4 obj
-a PART 2 case
-akintiwe VERB 0 root
-! PUNCT 4 punct
-
-¿ PUNCT 6 punct
-mia PRON 6 nsubj
+Jainxon CCONJ 6 cc
+ea PRON 6 nsubj
 n PART 2 case
-ja PRON 6 obj
-a PART 4 case
-xetetiai VERB 0 root
-? PUNCT 6 punct
+jakon ADJ 5 amod
+chopa NOUN 6 obj
+sáwetia VERB 0 root
+iki AUX 6 aux
+. PUNCT 6 punct
 
-jotiyamaai VERB 0 root
-Presidente NOUN 1 nsubj
-. PUNCT 1 punct
+Jawe NOUN 2 obj
+atiti VERB 5 nsubj
+yoma PART 2 case
+riki VERB 5 cop
+ea PRON 0 root
+a PART 5 case
 
 ¿ PUNCT 6 punct
 mia PRON 6 nsubj
 a PART 2 case
-arroz NOUN 6 obl
+sere NOUN 6 obl
 ya PART 4 case
 iki VERB 0 root
 ? PUNCT 6 punct
 
-Jatibitian ADV 5 advmod
-ra PART 5 aux:val
-ea PRON 5 nsubj
-a PART 3 case
-katiai VERB 0 root
-
-Ja DET 2 det
-joni NOUN 4 nsubj
-ra PART 4 aux:val
-jotiai VERB 0 root
-, PUNCT 4 punct
-noa PRON 8 nmod
+¿ PUNCT 9 punct
+mia PRON 9 nsubj
+a PART 2 case
+nawa NOUN 6 nmod
+n PART 4 case
+joi NOUN 9 obl
 n PART 6 case
-reken NOUN 2 appos
-. PUNCT 4 punct
-
-Iso NOUN 4 nsubj
-atii VERB 4 advcl
-kachio ADV 4 advmod
-katikanni VERB 0 root
-
-Jatian CCONJ 4 cc
-yawishan NOUN 4 nsubj
-makan NOUN 4 obj
-nexatia VERB 0 root
-iki AUX 4 aux
-nishi NOUN 4 obl
-n PART 6 case
-. PUNCT 4 punct
-
-Ja DET 2 det
-jawékibo NOUN 4 nsubj
-iki VERB 4 cop
-koríki NOUN 0 root
-, PUNCT 4 punct
-centavo NOUN 4 conj
-, PUNCT 8 punct
-yami NOUN 4 conj
-, PUNCT 10 punct
-yami NOUN 11 compound
-boí NOUN 4 conj
-. PUNCT 4 punct
-
-¿ PUNCT 5 punct
-jawerano ADV 5 advmod
-ki PART 5 aux:val
-joni NOUN 5 nsubj
-katia VERB 0 root
-iki AUX 5 aux
-? PUNCT 5 punct
+yoyo INTJ 9 compound
+ikiai VERB 0 root
+? PUNCT 9 punct
 
 ¿ PUNCT 5 punct
 mia PRON 5 nsubj
 n PART 2 case
-ikon ADV 5 advmod
+ikon NOUN 5 obj
 yoitiai VERB 0 root
 ? PUNCT 5 punct
-
-ea PRON 6 nsubj
-n PART 1 case
-ra PART 6 aux:val
-mia PRON 6 obj
-a PART 4 case
-osantikinkasai VERB 0 root
-
-ea PRON 6 nsubj
-n PART 1 case
-ra PART 6 aux:val
-mia PRON 6 obj
-a PART 4 case
-atikinkaske VERB 0 root
-
-Jakon ADJ 2 amod
-jaweki NOUN 3 obj
-bánatiai VERB 0 root
-. PUNCT 3 punct
-
-jakon ADJ 4 amod
-shoko PART 1 Lfcl
-ainbo NOUN 4 compound
-boo NOUN 0 root
-nenké ADJ 4 amod
-. PUNCT 4 punct
-
-¿ PUNCT 5 punct
-Jawerato PRON 3 amod
-bake NOUN 5 nsubj
-ki PART 5 aux:val
-ikia VERB 0 root
-? PUNCT 5 punct
-
-Yamékiri ADV 6 advmod
-ea PRON 6 nsubj
-n PART 2 case
-potótikin VERB 6 advcl
-shaman PART 4 Lfcl
-xéatia VERB 0 root
-iki AUX 6 aux
-. PUNCT 6 punct
-
-Petroleo NOUN 2 compound
-xeni NOUN 3 obj
-xeatixon VERB 4 advcl
-atikanai VERB 0 root
-kerosene NOUN 4 obj
-, PUNCT 7 punct
-gasolinabo NOUN 5 conj
 
 ¿ PUNCT 5 punct
 mia PRON 5 nsubj
@@ -4070,62 +3080,405 @@ kexetiti VERB 5 xcomp
 onántia VERB 0 root
 ? PUNCT 5 punct
 
-Resho NOUN 3 obl
-ya PART 1 case
-riki VERB 0 root
-ea PRON 3 nsubj
+¿ PUNCT 2 punct
+mia PRON 0 root
+a PART 2 case
+áxeatiai VERB 5 acl
+bakeranon NOUN 2 nsubj
+iki VERB 2 cop
+? PUNCT 2 punct
+
+Jain ADV 4 advmod
+ea PRON 4 obj
+a PART 2 case
+manatiwe VERB 0 root
+
+¿ PUNCT 6 punct
+mia PRON 6 nsubj
+n PART 2 case
+ja PRON 6 obj
+a PART 4 case
+onántia VERB 0 root
+ikiwana AUX 6 aux
+? PUNCT 6 punct
+
+¿ PUNCT 5 punct
+jawekeskaxon ADV 5 advmod
+ki PART 5 aux:val
+amen NOUN 5 obj
+onántia VERB 0 root
+iki AUX 5 aux
+? PUNCT 5 punct
+
+Jati VERB 4 nsubj
+rake PART 1 aux:val
+ani ADJ 4 amod
+manan NOUN 0 root
+, PUNCT 1 punct
+keyá ADJ 4 amod
+bires PART 6 Lfcl
+. PUNCT 6 punct
+
+ikikeanaxma VERB 8 advcl
+bi PART 1 Lfcl
+wetsa ADJ 4 amod
+ainbo NOUN 8 nsubj
+baon PART 4 case
+kimisha NUM 7 nummod
+vapor NOUN 8 obj
+menitia VERB 0 root
+iki AUX 8 aux
+. PUNCT 8 punct
+
+Ino NOUN 4 nsubj
+betan CCONJ 3 cc
+yawish NOUN 1 conj
+ikini VERB 0 root
+
+Moa ADV 2 advmod
+atiti VERB 5 nsubj
+res PART 2 Lfcl
+riki VERB 5 cop
+ea PRON 0 root
+a PART 5 case
+
+Kari NOUN 2 compound
+tapon NOUN 3 obj
+bánatiai VERB 0 root
+. PUNCT 3 punct
+
+Jainoax CCONJ 6 cc
+meskó ADJ 3 amod
+tsinitibo NOUN 6 obj
+ribi PART 3 Lfcl
+jato PRON 6 iobj
+onantimakatiai VERB 0 root
+. PUNCT 6 punct
+
+Piti NOUN 2 obj
+kéyotixon VERB 10 advcl
+, PUNCT 2 punct
+quentí NOUN 7 obl
+kan PART 4 case
+makan NOUN 7 obj
+bóchoatixon VERB 10 advcl
+, PUNCT 7 punct
+bochiki ADV 10 advmod
+panina VERB 0 root
+iki AUX 10 aux
+. PUNCT 10 punct
+
+¿ PUNCT 10 punct
+Atapa NOUN 3 obj
+betiketian VERB 10 advcl
+, PUNCT 3 punct
+jawe PRON 6 obj
+ménititi VERB 10 obj
+ki PART 10 aux:val
+jawen DET 9 det
+titan NOUN 10 nsubj
+yoitia VERB 0 root
+iki AUX 10 aux
+? PUNCT 10 punct
+
+Jato PRON 2 obj
+akintiai VERB 4 nsubj
+rin PART 4 cop
+mia PRON 0 root
 a PART 4 case
 
-ea PRON 6 nsubj
-n PART 1 case
-ra PART 6 aux:val
-mia PRON 6 obj
+Xeki NOUN 2 obj
+yokátikana VERB 0 root
+ki PART 2 aux:val
+jaskáribi ADV 2 advmod
+, PUNCT 2 punct
+chií NOUN 8 obl
+meran ADP 6 case
+niatixon VERB 2 advcl
+, PUNCT 8 punct
+jato PRON 11 iobj
+menitii VERB 2 advcl
+. PUNCT 2 punct
+
+Ransatii VERB 0 root
+riki AUX 1 aux
+noa PRON 1 nsubj
+a PART 3 case
+
+ikaxbi CCONJ 4 cc
+ra PART 4 aux:val
+ja PRON 4 nsubj
+maxko ADJ 0 root
+iki VERB 4 cop
+. PUNCT 4 punct
+
+Ja DET 2 det
+awá NOUN 5 nsubj
+koshicha ADJ 5 compound
+yora PART 3 Lfcl
+ikia VERB 0 root
+iki AUX 5 aux
+. PUNCT 5 punct
+
+¿ PUNCT 4 punct
+ea PRON 4 nsubj
+n PART 2 case
+xeatiti VERB 0 root
+atipantia AUX 4 aux
+? PUNCT 4 punct
+
+¿ PUNCT 5 punct
+mia PRON 5 nsubj
 a PART 4 case
-nokótike VERB 0 root
+yoyo INTJ 5 compound
+ikikasai VERB 0 root
+? PUNCT 5 punct
+
+¿ PUNCT 6 punct
+francés NOUN 6 obl
+nin PART 2 case
+miaa PRON 6 nsubj
+yoyo INTJ 6 compound
+ikiai VERB 0 root
+? PUNCT 6 punct
+
+¿ PUNCT 6 punct
+jawekeskati ADV 6 advmod
+ki PART 6 aux:val
+ino NOUN 6 nsubj
+naman ADV 6 advmod
+pakétia VERB 0 root
+iki AUX 6 aux
+? PUNCT 6 punct
+
+¿ PUNCT 7 punct
+mia PRON 7 nsubj
+n PART 2 case
+ea PRON 6 obj
+a PART 4 case
+yoititi VERB 7 xcomp
+atipantia VERB 0 root
+? PUNCT 7 punct
+
+jasinman NOUN 2 nmod
+bero NOUN 4 nsubj
+riki VERB 4 cop
+maxko ADJ 0 root
+shoko PART 4 Lfcl
+. PUNCT 4 punct
+
+Tetébo NOUN 3 nsubj
+ra PART 3 aux:val
+jatike VERB 0 root
+manish NOUN 3 obl
+ain PART 4 case
+. PUNCT 3 punct
+
+Aniparo NOUN 3 obl
+kexá ADP 1 case
+iki VERB 4 nsubj
+mashi NOUN 0 root
+res PART 4 Lfcl
+. PUNCT 3 punct
+
+Ja DET 2 det
+jiwi NOUN 0 root
+atiabo VERB 2 acl
+naman ADV 2 advmod
+
+¿ PUNCT 5 punct
+mia PRON 5 nsubj
+n PART 2 case
+latin NOUN 5 obj
+onántia VERB 0 root
+? PUNCT 5 punct
+
+¿ PUNCT 10 punct
+Wetsa ADJ 3 amod
+nete NOUN 10 obl
+n PART 3 case
+ki PART 10 aux:val
+ino NOUN 10 nsubj
+n PART 6 case
+chaxo NOUN 9 iobj
+jawe PRON 10 obj
+atia VERB 0 root
+iki AUX 10 aux
+? PUNCT 10 punct
+
+mia PRON 3 nmod
+n PART 1 case
+cuaderno NOUN 5 obl
+meran ADP 3 case
+wíshatiwe VERB 0 root
+, PUNCT 5 punct
+pichika NUM 8 nummod
+jiwi NOUN 10 nmod
+n PART 8 case
+jane NOUN 5 obj
+. PUNCT 5 punct
+
+mia PRON 4 nsubj
+n PART 1 case
+ra PART 4 aux:val
+atiyamake VERB 0 root
+, PUNCT 4 punct
+¿ PUNCT 7 punct
+ikon ADJ 4 discourse
+? PUNCT 7 punct
+
+ea PRON 5 nsubj
+n PART 1 case
+ra PART 5 aux:val
+jato PRON 5 obj
+ointiyamaai VERB 0 root
 
 ¿ PUNCT 5 punct
 jawekeská ADV 5 advmod
-rin PART 5 aux:val
+rin PART 2 aux:val
 jawen DET 5 det
 pei NOUN 0 root
 ? PUNCT 5 punct
 
-Jawen DET 2 det
-janebo NOUN 3 obj
-wishatiwe VERB 0 root
-. PUNCT 3 punct
+Ainbo NOUN 0 root
+betan CCONJ 3 cc
+popo NOUN 1 conj
+ikini VERB 1 cop
 
-¿ PUNCT 5 punct
-Tom PROPN 5 nsubj
-ki PART 5 aux:val
-jain ADV 5 advmod
-iki VERB 0 root
-? PUNCT 5 punct
-
-¿ PUNCT 5 punct
-jawekeskarain ADV 5 advmod
-ki PART 5 aux:val
-jonibo NOUN 5 nsubj
-katikana VERB 0 root
+Katikin VERB 5 advcl
+bi PART 1 Lfcl
+ja DET 4 det
+jonin NOUN 0 root
+shinantia VERB 4 nsubj
 iki AUX 5 aux
+: PUNCT 5 punct
+
+Ja DET 2 det
+joni NOUN 7 nsubj
+jotiai VERB 2 amod
+iki VERB 7 cop
+non PRON 7 nmod
+n PART 5 case
+maestro NOUN 0 root
+. PUNCT 7 punct
+
+Bakish ADV 5 advmod
+ra PART 5 aux:val
+ea PRON 5 nsubj
+a PART 3 case
+katiai VERB 0 root
+
+¿ PUNCT 5 punct
+mia PRON 5 nsubj
+a PART 2 case
+Eabe PRON 5 obl
+katiai VERB 0 root
 ? PUNCT 5 punct
+
+noa PRON 3 nmod
+n PART 1 case
+poko NOUN 9 obl
+meranoax ADP 3 case
+a PART 9 aux:val
+noa PRON 8 nmod
+n PART 6 case
+jawékiatiabo VERB 9 nsubj
+wetsaati VERB 0 root
+resibaai PART 9 Lfcl
+. PUNCT 9 punct
 
 ¿ PUNCT 6 punct
 mia PRON 6 nsubj
 a PART 2 case
-karo NOUN 6 obl
-ya PART 4 case
-iki VERB 0 root
+Ea PRON 6 obl
+be PART 4 obl
+katiai VERB 0 root
 ? PUNCT 6 punct
 
+¿ PUNCT 5 punct
+Jawetii NUM 3 amod
+shishi NOUN 5 obj
+ki PART 5 aux:val
+bitikana VERB 0 root
+iki AUX 5 aux
+? PUNCT 5 punct
+
 ¿ PUNCT 6 punct
-ea PRON 6 nsubj
-n PART 2 case
-mia PRON 6 obj
-a PART 4 case
-akintiti VERB 0 root
-atipantia AUX 6 aux
+ja DET 6 det
+a PART 2 case
+mekayao ADV 6 advmod
+kea PART 4 case
+meken NOUN 0 root
+ki PART 6 aux:val
+mesa NOUN 6 obl
+n PART 8 case
+iki VERB 6 cop
 ? PUNCT 6 punct
+
+¿ PUNCT 7 punct
+Non DET 3 det
+jema NOUN 5 compound
+koshiatia VERB 5 amod
+joni NOUN 7 nsubj
+ki PART 7 aux:val
+jotiyamaai VERB 0 root
+? PUNCT 7 punct
+
+¿ PUNCT 4 punct
+jáwekeskati ADV 4 advmod
+ki PART 4 aux:val
+jaskátiai VERB 0 root
+? PUNCT 4 punct
+
+jaskaaxon CCONJ 8 cc
+ki PART 8 aux:val
+ainbo NOUN 8 nsubj
+n PART 3 case
+ki PART 8 aux:val
+wiso ADJ 7 amod
+ino NOUN 8 obj
+retetia VERB 0 root
+iki AUX 8 aux
+. PUNCT 8 punct
+
+¿ PUNCT 5 punct
+mia PRON 5 nsubj
+a PART 2 case
+ranx X 5 compound
+ikiai VERB 0 root
+? PUNCT 5 punct
+
+Xeki NOUN 2 compound
+bero NOUN 3 obj
+bánatiai VERB 0 root
+. PUNCT 3 punct
+
+¿ PUNCT 6 punct
+tsoa PRON 6 obj
+abo PART 2 case
+ikia VERB 2 amod
+ki PART 6 aux:val
+yoitiai VERB 0 root
+nato DET 8 det
+kointo NOUN 6 nsubj
+nin PART 8 case
+? PUNCT 6 punct
+
+¿ PUNCT 4 punct
+tsoabo PRON 4 obj
+ki PART 4 aux:val
+yoitiai VERB 0 root
+nato DET 6 det
+kointonin NOUN 4 nsubj
+? PUNCT 4 punct
+
+Ja PRON 6 obj
+abo PART 1 case
+ra PART 6 aux:val
+noa PRON 6 nsubj
+n PART 4 case
+potatikasai VERB 0 root
+. PUNCT 6 punct
 
 ¿ PUNCT 8 punct
 jawekeskaxon ADV 8 advmod
@@ -4137,15 +3490,49 @@ awin NOUN 8 obj
 pitimakatitai VERB 0 root
 ? PUNCT 8 punct
 
-Manan NOUN 5 nsubj
-ani ADJ 1 amod
-nko PART 2 case
-ribi PART 2 Lfcl
-jatike VERB 0 root
-. PUNCT 5 punct
+mia PRON 3 nsubj
+a PART 1 case
+áxeatia VERB 0 root
+riki AUX 3 aux
 
-ikiama VERB 0 root
-. PUNCT 1 punct
+ea PRON 0 root
+a PART 1 case
+ra PART 1 aux:val
+poiya NOUN 1 nsubj
+iki VERB 1 cop
+
+¿ PUNCT 5 punct
+jawekeskatax ADV 5 advmod
+ki PART 5 aux:val
+ino NOUN 5 nsubj
+mawatia VERB 0 root
+iki AUX 5 aux
+? PUNCT 5 punct
+
+Jaweati CCONJ 7 cc
+kan PART 1 Lfcl
+mia PRON 7 nsubj
+n PART 3 case
+jonétixon VERB 7 advcl
+eaa PRON 7 nsubj
+ointiai VERB 0 root
+. PUNCT 7 punct
+
+ea PRON 5 nsubj
+n PART 1 case
+ra PART 5 aux:val
+mato PRON 5 obj
+ikonatiai VERB 0 root
+ea PRON 1 nsubj
+n PART 6 case
+ra PART 1 aux:val
+mia PRON 1 obj
+a PART 9 case
+
+yantan ADV 3 advmod
+cha PART 1 Lfcl
+katiti VERB 0 root
+riki AUX 3 aux
 
 jakonatikin VERB 2 advcl
 nacatiai VERB 0 root
@@ -4157,52 +3544,226 @@ n PART 5 case
 besheatikin VERB 2 advcl
 . PUNCT 2 punct
 
-katixon VERB 8 advcl
-, PUNCT 1 punct
-ja DET 4 det
-bakeranon NOUN 8 nsubj
-man PART 4 case
-jawen DET 7 det
-pia NOUN 8 obj
-bénatikin VERB 10 advcl
-bi PART 8 Lfcl
-meratiyamaa VERB 0 root
-iki AUX 10 aux
-. PUNCT 10 punct
-
-Xawe NOUN 2 compound
-ainbo NOUN 6 nsubj
+¿ PUNCT 4 punct
+ea PRON 4 nsubj
 n PART 2 case
-jawen DET 5 det
-bene NOUN 6 obj
-pótatini VERB 0 root
+bititi VERB 0 root
+atipantia AUX 4 aux
+? PUNCT 4 punct
 
-moatian ADV 9 advmod
-ronki PART 9 aux:val
-Santa PROPN 4 compound
-Rosa PROPN 9 obl
-nko PART 4 case
+" PUNCT 3 punct
+Piti NOUN 3 ccomp
+benabatanon VERB 6 parataxis
+" PUNCT 3 punct
+, PUNCT 3 punct
+ikia VERB 9 conj
+ain PART 6 case
 ki PART 9 aux:val
-Chexe PROPN 8 compound
-Inca PROPN 9 nsubj
-ikipaonike VERB 0 root
+katikatiai VERB 0 root
 . PUNCT 9 punct
 
-Tee NOUN 2 compound
-atiti VERB 4 obl
-ya PART 2 case
-riki VERB 0 root
-noa PRON 4 nsubj
-a PART 5 case
+Apoo INTJ 0 root
+. PUNCT 1 punct
 
-Vegetariano ADJ 3 nsubj
+wishatiwe VERB 0 root
+, PUNCT 1 punct
+wetsa ADJ 4 amod
+isákan NOUN 5 nmod
+janebo NOUN 1 obj
+ribi PART 5 Lfcl
+. PUNCT 1 punct
+
+Nato ADJ 2 amod
+escuela NOUN 10 nsubj
+iki VERB 10 cop
+noa PRON 6 nmod
+n PART 4 case
+papa NOUN 10 nmod
+baon PART 6 case
+noa PRON 10 iobj
+a PART 8 case
+atixona VERB 0 root
+. PUNCT 10 punct
+
+wetsa NOUN 5 nsubj
+iki VERB 5 cop
+mekayao ADV 5 advmod
+kea PART 3 case
+meken NOUN 0 root
+. PUNCT 5 punct
+
+mia PRON 3 nmod
+n PART 1 case
+cuaderno NOUN 7 obl
+nin PART 3 case
+jawen DET 6 det
+janebo NOUN 7 obj
+atiwe VERB 0 root
+. PUNCT 7 punct
+
+Bakish ADV 4 advmod
+ea PRON 4 obj
+a PART 2 case
+kenatiwe VERB 0 root
+
+¿ PUNCT 2 punct
+Mato PRON 0 root
+Japonesbo NOUN 2 nsubj
+iki VERB 2 cop
+? PUNCT 2 punct
+
+Jaaboronkiki CCONJ 5 cc
+ja PRON 3 det
+nonn DET 5 nsubj
+kirinko NOUN 5 obj
+atiaibo VERB 0 root
+. PUNCT 5 punct
+
+mia PRON 0 root
+a PART 1 case
+vinoya NOUN 1 nsubj
+iki VERB 1 cop
+
+¿ PUNCT 6 punct
+mia PRON 6 nsubj
+a PART 2 case
+yona NOUN 6 obl
+ya PART 4 case
+iki VERB 0 root
+? PUNCT 6 punct
+
+¿ PUNCT 6 punct
+mia PRON 6 nsubj
+n PART 2 case
+noa PRON 6 obj
+a PART 4 case
+chibantikasai VERB 0 root
+? PUNCT 6 punct
+
+miaa PRON 3 nsubj
+jakiribi ADV 3 advmod
+ointibe VERB 0 root
+ribai PART 3 Lfcl
+jotinox VERB 3 advcl
+. PUNCT 3 punct
+
+Aniparo NOUN 5 obl
+kexá ADP 1 case
+ra PART 5 aux:val
+oi NOUN 5 nsubj
+betiyamaai VERB 0 root
+. PUNCT 5 punct
+
+noa PRON 0 root
+a PART 1 case
+ra PART 1 aux:val
+bakeranonbo NOUN 1 nsubj
+iki VERB 1 cop
+
+Nokon DET 2 det
+papa NOUN 6 nsubj
+n PART 2 case
+noa PRON 6 iobj
+a PART 4 case
+marotixonai VERB 0 root
+non PRON 9 nmod
+n PART 7 case
+chopa NOUN 6 obj
+y CCONJ 11 cc
+kerosene NOUN 9 conj
+. PUNCT 6 punct
+
+¿ PUNCT 6 punct
+mato PRON 6 nsubj
+n PART 2 case
+noa PRON 6 obj
+a PART 4 case
+ointiti VERB 0 root
+atipantia AUX 6 aux
+? PUNCT 6 punct
+
+¿ PUNCT 5 punct
+mia PRON 5 nsubj
+n PART 2 case
+shinantiti VERB 5 xcomp
+atipantia VERB 0 root
+? PUNCT 5 punct
+
+mia PRON 3 nsubj
+n PART 1 case
+atiibatabo VERB 6 obj
+jakiribi ADV 6 advmod
+yoyo X 6 compound
+ati VERB 0 root
+ribawe PART 6 Lfcl
+. PUNCT 6 punct
+
+¿ PUNCT 5 punct
+Jawerano ADV 5 obj
+mia PRON 5 nsubj
+a PART 3 case
+áxeatiai VERB 0 root
+? PUNCT 5 punct
+
+Patax ADV 2 advmod
+jatibekona VERB 4 nsubj
+riki VERB 4 cop
+noa PRON 0 root
+a PART 4 case
+
+Xoa ADJ 3 nsubj
 riki VERB 3 cop
 ea PRON 0 root
-
-Okotii VERB 0 root
-riki AUX 1 aux
-ea PRON 1 nsubj
 a PART 3 case
+
+ja PRON 5 nsubj
+ra PART 5 aux:val
+jiwi NOUN 5 obl
+n PART 3 case
+néetiai VERB 0 root
+. PUNCT 5 punct
+
+¿ PUNCT 5 punct
+mia PRON 5 nsubj
+n PART 2 case
+ikon ADV 5 advmod
+yoitiai VERB 0 root
+? PUNCT 5 punct
+
+jainoax CCONJ 4 cc
+ki PART 4 aux:val
+koshi ADJ 4 obj
+méetianana VERB 0 root
+iki AUX 4 aux
+. PUNCT 4 punct
+
+¡ PUNCT 4 punct
+ea PRON 4 obj
+a PART 2 case
+akintiwe VERB 0 root
+! PUNCT 4 punct
+
+Ja DET 2 det
+llama NOUN 3 nsubj
+jatike VERB 0 root
+matsi NOUN 3 obl
+nko PART 4 case
+bi PART 4 Lfcl
+ribi PART 4 Lfcl
+, PUNCT 3 punct
+bochiki ADV 3 advmod
+. PUNCT 3 punct
+
+¿ PUNCT 5 punct
+Jawe PRON 5 obj
+mato PRON 5 nsubj
+n PART 3 case
+yoitiai VERB 0 root
+? PUNCT 5 punct
+
+nete NOUN 0 root
+tsisenen NOUN 1 nmod
+o PART 2 case
 
 ja PRON 6 nsubj
 a PART 1 case
@@ -4212,6 +3773,292 @@ kextó ADJ 6 amod
 rani NOUN 0 root
 a PART 6 case
 . PUNCT 6 punct
+
+ja PRON 3 nsubj
+ra PART 3 aux:val
+jatike VERB 0 root
+manish NOUN 3 obl
+ain SUFN 4 case
+. PUNCT 3 punct
+
+¿ PUNCT 6 punct
+mia PRON 4 det
+n PART 2 case
+papa NOUN 6 nsubj
+ki PART 6 aux:val
+jaská ADV 0 root
+bires PART 6 Lfcl
+tani PART 6 Lfcl
+iitiai VERB 6 cop
+? PUNCT 6 punct
+
+Jaskáaxon CCONJ 10 cc
+, PUNCT 1 acl
+bochiki ADV 4 advmod
+péyakatixon VERB 10 advcl
+, PUNCT 4 punct
+jawen DET 7 det
+epa NOUN 8 nsubj
+jishtentiai VERB 10 obj
+mana VERB 10 compound
+mánatia VERB 0 root
+iki AUX 10 aux
+. PUNCT 10 punct
+
+Yamékiri ADV 6 advmod
+ea PRON 6 nsubj
+n PART 2 case
+potótikin VERB 6 advcl
+shaman PART 4 Lfcl
+xéatia VERB 0 root
+iki AUX 6 aux
+. PUNCT 6 punct
+
+katixon VERB 3 advcl
+, PUNCT 1 punct
+nókotia VERB 0 root
+iki AUX 3 aux
+westíora DET 6 det
+kini NOUN 3 obl
+meran ADP 6 case
+oa PART 7 case
+. PUNCT 3 punct
+
+Nokon DET 2 det
+papa NOUN 6 nsubj
+nétetiibi NOUN 6 advmod
+jene NOUN 6 obl
+n PART 4 case
+katiai VERB 0 root
+, PUNCT 6 punct
+yomeratii VERB 6 advcl
+. PUNCT 6 punct
+
+Apendicitis NOUN 3 obl
+ya PART 1 case
+riki VERB 0 root
+ea PRON 3 nsubj
+a PART 4 case
+
+Ja DET 2 det
+xeki NOUN 11 nsubj
+, PUNCT 4 punct
+papa NOUN 2 conj
+, PUNCT 6 punct
+quinua NOUN 4 conj
+, PUNCT 6 punct
+ja DET 9 det
+jawéki NOUN 10 nsubj
+xóxotii VERB 11 advcl
+péokootia VERB 0 root
+iki AUX 11 aux
+Perú PROPN 11 obl
+ainoax PART 13 case
+. PUNCT 11 punct
+
+¿ PUNCT 5 punct
+jawe PRON 5 nsubj
+pari PART 2 Lfcl
+ki PART 5 aux:val
+pikotiai VERB 0 root
+? PUNCT 5 punct
+
+Ochíti NOUN 3 nsubj
+iki VERB 3 cop
+mecha ADJ 0 root
+. PUNCT 3 punct
+
+¿ PUNCT 4 punct
+jatibi ADJ 4 nsubj
+ki PART 4 aux:val
+isinti VERB 0 root
+kona PART 4 Lfcl
+ma PART 4 Lfcl
+? PUNCT 4 punct
+
+Jawen DET 2 det
+janebo NOUN 3 obj
+wishatiwe VERB 0 root
+. PUNCT 3 punct
+
+wíshatiwe VERB 0 root
+, PUNCT 1 punct
+wetsa ADJ 4 amod
+yapa NOUN 6 nmod
+n PART 4 case
+janebo NOUN 1 obj
+ribi PART 6 Lfcl
+. PUNCT 1 punct
+
+¿ PUNCT 5 punct
+mia PRON 5 nsubj
+a PART 2 case
+korikiya NOUN 5 obl
+iki VERB 0 root
+? PUNCT 5 punct
+
+Jaskara CCONJ 6 cc
+ikiketian VERB 6 advcl
+, PUNCT 2 punct
+yantan ADV 6 advmod
+bari NOUN 6 nsubj
+jikitiama VERB 0 root
+painon PART 6 Lfcl
+riki AUX 6 aux
+. PUNCT 6 punct
+
+Ja DET 2 det
+ainbo NOUN 15 nsubj
+ki PART 15 aux:val
+ikikatiai VERB 16 aux
+, PUNCT 4 punct
+jawen DET 7 det
+bene NOUN 9 nsubj
+piti NOUN 9 obj
+benatii VERB 15 advcl
+katia VERB 9 aux
+pekáo SCONJ 9 cc
+ki PART 9 aux:val
+, PUNCT 9 punct
+wai NOUN 15 obj
+órotii VERB 0 root
+katii VERB 15 aux
+. PUNCT 15 punct
+
+Jatian CCONJ 12 cc
+28 NUM 7 advmod
+de SYM 2 flat
+julio PROPN 2 flat
+de SYM 2 flat
+1821 NUM 2 flat
+ikiketian VERB 12 advcl
+, PUNCT 7 punct
+San PROPN 12 nsubj
+Martin PROPN 9 flat
+man PART 9 case
+yoitia VERB 0 root
+iki AUX 12 aux
+: PUNCT 12 punct
+
+Llama NOUN 6 nsubj
+iki VERB 6 cop
+Perú PROPN 6 nmod
+ain PART 3 case
+kaíatikanai VERB 6 amod
+jawéki NOUN 0 root
+. PUNCT 6 punct
+
+¿ PUNCT 5 punct
+Jawerato PRON 5 obj
+mato PRON 5 nsubj
+n PART 3 case
+yoitiai VERB 0 root
+? PUNCT 5 punct
+
+nétetiibi NOUN 4 advmod
+noa PRON 4 nsubj
+n PART 2 case
+xeatiti VERB 0 root
+iki AUX 4 aux
+, PUNCT 4 punct
+westíora DET 8 det
+litro NOUN 4 obj
+inonbires ADV 4 advmod
+, PUNCT 8 punct
+ompax NOUN 8 compound
+. PUNCT 4 punct
+
+¿ PUNCT 7 punct
+Escuela NOUN 3 obj
+ointii VERB 7 advcl
+ki PART 7 aux:val
+wetsa DET 6 det
+apo NOUN 7 nsubj
+jotiyamaai VERB 0 root
+? PUNCT 7 punct
+
+¿ PUNCT 8 punct
+Jatian CCONJ 8 cc
+ki PART 8 aux:val
+jawen DET 5 det
+ibo NOUN 8 nsubj
+n PART 5 case
+jawe PRON 8 obj
+atia VERB 0 root
+iki AUX 8 aux
+? PUNCT 8 punct
+
+Ani ADJ 2 amod
+jiwibo NOUN 5 nsubj
+ribi PART 2 Lfcl
+iki VERB 5 cop
+xóxotiai VERB 0 root
+ribi PART 5 Lfcl
+. PUNCT 5 punct
+
+¿ PUNCT 8 punct
+ainbo NOUN 8 nsubj
+n PART 2 case
+ki PART 8 aux:val
+jaweraki PRON 8 obj
+jawen DET 7 det
+bene NOUN 8 iobj
+atikatiai VERB 0 root
+? PUNCT 8 punct
+
+¿ PUNCT 6 punct
+tsoa PRON 6 obj
+abo PART 2 case
+ikia VERB 2 amod
+ki PART 6 aux:val
+yoitiai VERB 0 root
+nato ADJ 8 amod
+kointonin NOUN 6 nsubj
+? PUNCT 6 punct
+
+Ja PRON 4 obj
+ea PRON 4 iobj
+a PART 2 case
+betixonwe VERB 0 root
+
+jatibi NOUN 5 obj
+ki PART 5 aux:val
+mato PRON 5 nsubj
+n PART 3 case
+onántia VERB 0 root
+
+¿ PUNCT 4 punct
+mia PRON 4 nsubj
+n PART 2 case
+onantiti VERB 0 root
+atipantia AUX 4 aux
+? PUNCT 4 punct
+
+¿ PUNCT 7 punct
+mia PRON 7 nsubj
+a PART 2 case
+japones NOUN 7 obl
+nin PART 4 case
+yoyo INTJ 7 compound
+ikiai VERB 0 root
+? PUNCT 7 punct
+
+Aniparo NOUN 0 root
+Pacífico PROPN 1 compound
+. PUNCT 1 punct
+
+Wetsa ADJ 6 nsubj
+iki VERB 6 cop
+, PUNCT 2 punct
+noa PRON 6 nmod
+n PART 4 case
+mapo NOUN 0 root
+. PUNCT 6 punct
+
+Mexka ADJ 3 nsubj
+riki VERB 3 cop
+ea PRON 0 root
+a PART 3 case
 
 Pancha PROPN 4 nsubj
 n PART 1 case
@@ -4224,62 +4071,227 @@ res PART 6 Lfcl
 waxmen NOUN 4 obj
 . PUNCT 4 punct
 
-Ransatii VERB 0 root
-riki AUX 1 aux
-ea PRON 1 nsubj
-a PART 3 case
+bari NOUN 2 nsubj
+jotiaiori VERB 0 root
 
-¿ PUNCT 5 punct
-mia PRON 5 nsubj
-a PART 2 case
-korikiya NOUN 5 obl
-iki VERB 0 root
-? PUNCT 5 punct
+Nato ADJ 2 amod
+escuela NOUN 6 obl
+nkoxon PART 2 case
+noa PRON 6 nsubj
+n PART 4 case
+onantiai VERB 0 root
+, PUNCT 6 punct
+jakon ADJ 9 amod
+bake NOUN 6 advcl
+ikinoxon VERB 9 cop
+, PUNCT 15 punct
+noa PRON 14 nmod
+n PART 12 case
+nete NOUN 15 obj
+cuidantinoxon VERB 9 conj
+. PUNCT 6 punct
 
-¿ PUNCT 8 punct
-Jawerano ADV 8 obl
-rin PART 8 aux:val
-ja DET 8 det
-a PART 4 case
-mekayao ADV 8 advmod
-kea PART 6 case
-meken NOUN 0 root
-? PUNCT 8 punct
-
-Jakon ADJ 5 amod
-ma PART 2 Lfcl
-tani PART 2 Lfcl
-rabe NUM 8 obj
-ra PART 8 aux:val
-ean PRON 8 nsubj
-joniatike VERB 0 root
+noa PRON 3 nmod
+n PART 1 case
+maestro NOUN 4 nsubj
+teetiai VERB 0 root
+noa PRON 7 nmod
+n PART 5 case
+escuela NOUN 4 obl
+meran ADP 7 case
 . PUNCT 8 punct
 
-Jawe NOUN 2 obj
-atiti VERB 5 nsubj
-yoma PART 2 case
-riki VERB 5 cop
-ea PRON 0 root
-a PART 5 case
-
-Jainoax CCONJ 5 cc
-joti VERB 5 advcl
-ribakasa PART 2 Lfcl
-bi PART 2 Lfcl
-jotiti VERB 0 root
-koma PART 5 Lfcl
-ikia AUX 5 aux
-iki AUX 7 aux
+Jaskatax CCONJ 5 cc
+ja DET 4 det
+rabé NUM 4 nummod
+joni NOUN 5 nsubj
+raetianana VERB 0 root
+iki AUX 5 aux
 . PUNCT 5 punct
 
-mia PRON 3 det
-n PART 1 case
-cuaderno NOUN 5 obl
-meran ADP 3 case
+¿ PUNCT 5 punct
+tso PINT 5 nsubj
+n PART 2 case
+ki PART 5 aux:val
+kanántia VERB 0 root
+iki AUX 5 aux
+? PUNCT 5 punct
+
+Yami NOUN 2 compound
+jawékibo NOUN 7 nsubj
+ribi PART 2 Lfcl
+, PUNCT 2 punct
+iti VERB 7 amod
+resa PART 5 Lfcl
+jawékibo NOUN 0 root
+iki VERB 7 cop
+. PUNCT 7 punct
+
+Ja DET 2 det
+báke NOUN 5 nsubj
+ki PART 5 aux:val
+ishton ADV 5 advmod
+aniatia VERB 0 root
+iki AUX 5 aux
+. PUNCT 5 punct
+
+jotiyamaai VERB 0 root
+. PUNCT 1 punct
+
+ea PRON 0 root
+a PART 1 case
+ra PART 1 aux:val
+coreano ADJ 1 nsubj
+iki VERB 1 cop
+
+Perú PROPN 4 obl
+ain PART 1 case
+ra PART 4 aux:val
+jatike VERB 0 root
+icha ADJ 6 amod
+yami NOUN 8 nmod
+keská ADP 6 case
+jawékibo NOUN 4 nsubj
+. PUNCT 4 punct
+
+¿ PUNCT 4 punct
+jaweskarain PRON 4 obj
+ki PART 4 aux:val
+bachiatiai VERB 0 root
+? PUNCT 4 punct
+
+Brasil PROPN 0 root
+, PUNCT 3 punct
+Bolivia PROPN 1 conj
+. PUNCT 1 punct
+
+jakon ADJ 4 amod
+shoko PART 1 Lfcl
+ainbo NOUN 4 compound
+boo NOUN 0 root
+nenké ADJ 4 amod
+. PUNCT 4 punct
+
+jawen DET 2 det
+jane NOUN 3 obj
 wishatiwe VERB 0 root
+. PUNCT 3 punct
+
+¿ PUNCT 6 punct
+mia PRON 6 nsubj
+n PART 2 case
+ea PRON 6 obj
+a PART 4 case
+akintiti VERB 0 root
+atipantia AUX 6 aux
+? PUNCT 6 punct
+
+Chile PROPN 0 root
+. PUNCT 1 punct
+
+Ja DET 2 det
+mai NOUN 3 obl
+chínitiax VERB 5 aux:val
+chichó ADP 2 case
+sotantimeeta VERB 0 root
+iki AUX 5 aux
 , PUNCT 5 punct
-pichika NUM 10 nummod
-jiwi NOUN 10 nmod
-n PART 8 case
-jane NOUN 5 obj
-. PUNCT 10 punct
+ja DET 9 det
+joni NOUN 5 nsubj
+. PUNCT 9 punct
+
+Jatian CCONJ 4 cc
+jawen DET 3 det
+bene NOUN 4 nsubj
+kati VERB 0 root
+ribaa PART 4 Lfcl
+iki AUX 4 aux
+. PUNCT 4 punct
+
+¿ PUNCT 6 punct
+ea PRON 6 nsubj
+n PART 2 case
+jain ADV 5 advmod
+ititi VERB 6 xcomp
+atipantia VERB 0 root
+? PUNCT 6 punct
+
+¿ PUNCT 5 punct
+Ishton ADV 3 advmod
+katiai VERB 5 nsubj
+rin PART 5 cop
+mia PRON 0 root
+a PART 5 case
+? PUNCT 5 punct
+
+ointi VERB 0 root
+kayata PART 1 Lfcl
+nato PRON 4 obj
+joniatikin VERB 5 advcl
+atikana VERB 1 obj
+. PUNCT 1 punct
+
+Jaskáaxon CCONJ 4 cc
+, PUNCT 1 punct
+boi NOUN 4 obj
+joniatia VERB 0 root
+iki AUX 4 aux
+; PUNCT 4 punct
+ja DET 9 det
+xawi NOUN 9 nmod
+wai NOUN 11 obj
+kexá ADP 9 case
+atiti VERB 4 advcl
+. PUNCT 11 punct
+
+jotiyama VERB 0 root
+ai SUFV 3 obj
+escuela SUFV 3 obj
+ointii VERB 1 advcl
+. PUNCT 1 punct
+
+¿ PUNCT 3 punct
+Jawetio ADV 3 amod
+ani ADJ 0 root
+rin PART 3 cop
+isonxoma NOUN 8 nmod
+n PART 5 case
+jawen DET 8 det
+jiwi NOUN 3 nsubj
+? PUNCT 3 punct
+
+Noitikana VERB 3 nsubj
+riki VERB 3 cop
+ea PRON 0 root
+a PART 3 case
+
+Ishton ADV 2 advmod
+atinon VERB 0 root
+ikiwe AUX 2 aux
+
+Jawen DET 2 det
+jana NOUN 4 nsubj
+riki VERB 4 cop
+xakiti NOUN 0 root
+keská ADP 4 case
+. PUNCT 4 punct
+
+jema NOUN 3 obl
+n PART 1 case
+pitinon VERB 0 root
+katiwe AUX 3 aux
+
+jakon ADJ 4 nsubj
+ma PART 1 Lfcl
+riki VERB 4 cop
+mia PRON 0 root
+a PART 4 case
+
+noa PRON 3 nmod
+n PART 1 case
+anibo NOUN 7 nsubj
+noa PRON 6 nmod
+n PART 4 case
+jawéki NOUN 7 obj
+atikinai VERB 0 root
+. PUNCT 7 punct
