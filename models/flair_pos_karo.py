@@ -7,10 +7,10 @@ from helper_functions import conllu_to_flair
 
 
 # data and dictionaries
-corpus, gold_dict, word_dict = conllu_to_flair('../UD/UD:Karo-TuDeT/arr_tudet-ud-test.conllu')
+corpus, gold_dict, word_dict = conllu_to_flair('../UD/UD_Karo-TuDeT/arr_tudet-ud-test.conllu', lang = 'karo')
 upos_dictionary = corpus.make_label_dictionary(label_type='upos')
 label_type = 'upos'
-
+print(corpus)
 ## Embeddings
 # word_embedding = TransformerWordEmbeddings('xlm-roberta-base') 
 word_embedding = TransformerWordEmbeddings('bert-base-multilingual-uncased')

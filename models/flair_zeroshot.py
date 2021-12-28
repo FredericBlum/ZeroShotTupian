@@ -1,4 +1,4 @@
-from flair.data import Corpus
+from flair.data import Corpus, Sentence
 from flair.datasets import ColumnCorpus
 from flair.embeddings import FlairEmbeddings, TransformerWordEmbeddings, StackedEmbeddings
 from flair.models import TARSTagger
@@ -15,7 +15,7 @@ label_dict = corpus.make_label_dictionary(label_type=label_type)
 ## Embeddings   #
 #################
 
-word_embedding = FlairEmbeddings('word_sk')
+word_embedding = TransformerWordEmbeddings('bert-base-multilingual-uncased')
 
 embeddings = word_embedding
 #################

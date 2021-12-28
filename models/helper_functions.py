@@ -1,14 +1,16 @@
+import torch
+import flair
 from conllu import parse
 from torch.utils.data import random_split
 from flair.data import Corpus, Dictionary, Sentence
 from flair.datasets import ColumnCorpus
 
 
-def conllu_to_flair(path_in):
+def conllu_to_flair(path_in, lang):
     data = []
     word_dict = Dictionary()
     gold_dict = {}
-
+    flair.device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
     with open(path_in) as file:
         doc = file.read()
         doc = parse(doc)
@@ -29,9 +31,14 @@ def conllu_to_flair(path_in):
             utt_str = "\n".join(utterance)
             data.append(utt_str)
 
-    dev, test, train = random_split(data, [65, 65, 534])
+    overall = len(data)
+    tenth = round((overall/10), 0)
+    rest = overall - tenth - tenth 
+    tenth = int(tenth)
+    rest = int(rest)
+    dev, test, train = random_split(data, [tenth, tenth, rest])
     columns = {0: 'text', 1: 'upos', 2:'head', 3: 'deprel'}
-    data_folder = './data/shipibo/flair'
+    data_folder = f'./data/{lang}/flair'
 
     dev = "\n\n".join(dev)
     test = "\n\n".join(test)
