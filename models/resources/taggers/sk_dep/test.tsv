@@ -1,0 +1,529 @@
+token gold_tag gold_arc predicted_tag predicted_arc
+Jatian cc None cc 0
+wasan nsubj None conj 0
+, punct None punct 0
+jawen det None det 0
+epa nsubj None obj 0
+óxatiketian advcl None advcl 0
+, punct None punct 0
+piti obj None root 0
+quéyotia root None Lfcl 0
+iki aux None aux 0
+. punct None punct 0
+
+¿ punct None punct 0
+bésoti advcl None advmod 0
+kiax aux:val None aux:val 0
+jawen det None det 0
+epa nsubj None nsubj 0
+jaweraki obj None obj 0
+ikia root None root 0
+iki aux None aux 0
+? punct None punct 0
+
+ointi root None root 0
+kayata Lfcl None aux:val 0
+nato obj None advmod 0
+joniatikin advcl None advcl 0
+atikana obj None root 0
+. punct None punct 0
+
+Ja det None det 0
+bake nsubj None nsubj 0
+basi advmod None nsubj 0
+ribi Lfcl None Lfcl 0
+ma Lfcl None Lfcl 0
+aniatia root None root 0
+iki aux None aux 0
+. punct None punct 0
+
+¿ punct None punct 0
+Tom nsubj None nsubj 0
+ki aux:val None aux:val 0
+jain advmod None nsubj 0
+iki root None cop 0
+? punct None punct 0
+
+¿ punct None punct 0
+mato nsubj None nsubj 0
+n case None case 0
+noa obj None obj 0
+a case None case 0
+ointiti root None root 0
+atipantia aux None aux 0
+? punct None punct 0
+
+ja nsubj None nsubj 0
+n case None case 0
+ra aux:val None aux:val 0
+ea obj None nsubj 0
+a case None case 0
+akíntike root None root 0
+
+¿ punct None punct 0
+tso iobj None nsubj 0
+a case None case 0
+ki aux:val None aux:val 0
+ja det None det 0
+joni nsubj None nsubj 0
+pekáo marker None case 0
+néetia root None root 0
+iki aux None aux 0
+? punct None punct 0
+
+¿ punct None punct 0
+mia nsubj None nsubj 0
+a case None case 0
+frances obl None obl 0
+nin case None case 0
+yoyo compound None compound 0
+ikiai root None root 0
+? punct None punct 0
+
+Ja det None det 0
+jiwi root None root 0
+atia acl None acl 0
+naman advmod None advmod 0
+
+¿ punct None punct 0
+mia nsubj None nsubj 0
+a case None case 0
+arroz obl None obl 0
+ya case None case 0
+iki root None root 0
+? punct None punct 0
+
+ikikeanaxma advcl None advcl 0
+bi Lfcl None Lfcl 0
+wetsa amod None amod 0
+ainbo nsubj None nsubj 0
+baon case None case 0
+kimisha nummod None nummod 0
+vapor obj None obj 0
+menitia root None root 0
+iki aux None aux 0
+. punct None punct 0
+
+jatibi obj None advmod 0
+ki aux:val None aux:val 0
+mato nsubj None nsubj 0
+n case None case 0
+onántia root None root 0
+
+jáskataxxon cc None advmod 0
+ki aux:val None aux:val 0
+moa advmod None nsubj 0
+katiti root None root 0
+átipantiyamakana aux None root 0
+iki aux None aux 0
+. punct None punct 0
+
+ninkatiyamaai nsubj None root 0
+riki cop None aux 0
+ea root None nsubj 0
+a case None case 0
+
+ea nsubj None nsubj 0
+n case None case 0
+ra aux:val None aux:val 0
+meskó amod None amod 0
+sion obj None obj 0
+ointike root None root 0
+. punct None punct 0
+
+jainoax cc None cc 0
+ki Lfcl None aux:val 0
+Inka nsubj None nsubj 0
+yoyo aux None compound 0
+ikia root None root 0
+iki aux None aux 0
+: punct None punct 0
+
+eaa nsubj None nsubj 0
+ra aux:val None aux:val 0
+jakon root None root 0
+bires Lfcl None Lfcl 0
+tani Lfcl None Lfcl 0
+iki cop None cop 0
+. punct None punct 0
+
+noa nmod None nmod 0
+n case None case 0
+escuela obj None obj 0
+ra aux:val None aux:val 0
+noa nsubj None nsubj 0
+n case None case 0
+jáwetianbi advmod None advmod 0
+manishtimati root None root 0
+ma Lfcl None Lfcl 0
+iki aux None aux 0
+. punct None punct 0
+
+Jatian cc None cc 0
+yawishan nsubj None nsubj 0
+makan obj None nsubj 0
+nexatia root None root 0
+iki aux None aux 0
+nishi obl None obl 0
+n case None case 0
+. punct None punct 0
+
+ja nsubj None nsubj 0
+ra aux:val None aux:val 0
+jiwi obl None obl 0
+n case None case 0
+néetiai root None root 0
+. punct None punct 0
+
+Jaská cc None cc 0
+, punct None punct 0
+ja det None det 0
+ino nsubj None nsubj 0
+bochiki advmod None compound 0
+kotsatiax advcl None advcl 0
+janxbátia root None root 0
+iki aux None aux 0
+. punct None punct 0
+
+jatike root None root 0
+manan obl None case 0
+ani amod None amod 0
+nkobo case None case 0
+. punct None punct 0
+
+Miope nsubj None nsubj 0
+riki cop None cop 0
+ea root None root 0
+a case None case 0
+
+¿ punct None punct 0
+mia nsubj None nsubj 0
+a case None case 0
+ranx compound None compound 0
+ikiai root None root 0
+? punct None punct 0
+
+jotiyamaai root None root 0
+. punct None punct 0
+
+¿ punct None punct 0
+Jaskáa cc None cc 0
+ki aux:val None aux:val 0
+ja det None det 0
+jeme root None obj 0
+jawe nsubj None nsubj 0
+ikia cop None root 0
+iki aux None aux 0
+? punct None punct 0
+
+ja nsubj None nsubj 0
+n case None case 0
+ra aux:val None aux:val 0
+pitiai root None root 0
+nami obj None obj 0
+. punct None punct 0
+
+¡ punct None punct 0
+Chama root None root 0
+! punct None punct 0
+
+Pitii root None root 0
+riki aux None aux 0
+noa nsubj None nsubj 0
+a case None case 0
+
+Ja obj None obj 0
+ea iobj None iobj 0
+a case None case 0
+ointimawe root None root 0
+
+ea nsubj None nsubj 0
+n case None case 0
+ra aux:val None aux:val 0
+manapo obl None nsubj 0
+nko case None case 0
+nitiai root None root 0
+
+icha advmod None advmod 0
+yora Lfcl None aux:val 0
+mia nsubj None nsubj 0
+n case None case 0
+xeatia root None root 0
+riki aux None aux 0
+
+¿ punct None punct 0
+Jatian cc None cc 0
+ki aux:val None aux:val 0
+ino nsubj None nsubj 0
+n case None case 0
+jawe obj None obj 0
+betia root None root 0
+iki aux None aux 0
+? punct None punct 0
+
+¿ punct None punct 0
+mia nsubj None nsubj 0
+n case None case 0
+ki aux:val None aux:val 0
+betiyama root None xcomp 0
+biresa Lfcl None root 0
+? punct None punct 0
+
+Jaskáaxon cc None cc 0
+, punct None punct 0
+ja det None det 0
+jonin nsubj None nsubj 0
+jonétixon advcl None advcl 0
+ointia root None root 0
+iki aux None aux 0
+, punct None punct 0
+jawen det None det 0
+awin nsubj None obj 0
+bakentiai obj None advcl 0
+. punct None punct 0
+
+¿ punct None punct 0
+mia nsubj None nsubj 0
+a case None case 0
+karo obl None obl 0
+ya case None case 0
+iki root None root 0
+? punct None punct 0
+
+Icha obl None obl 0
+ya case None case 0
+riki root None root 0
+noa nsubj None nsubj 0
+a case None case 0
+
+Rarotii root None root 0
+riki aux None aux 0
+ea nsubj None nsubj 0
+a case None case 0
+
+Jainxon cc None cc 0
+noa nmod None nmod 0
+n case None case 0
+yoxan nsubj None nsubj 0
+shokobo Lfcl None Lfcl 0
+noa nmod None nmod 0
+n case None case 0
+jawéki obj None obj 0
+akintiti root None root 0
+iki aux None aux 0
+. punct None punct 0
+
+Isthon advmod None nsubj 0
+n case None case 0
+mia nsubj None obj 0
+a case None case 0
+nokótia root None root 0
+
+Jaskatax cc None cc 0
+, punct None punct 0
+ja det None det 0
+maxó compound None nsubj 0
+bakeranon nsubj None nsubj 0
+katia root None root 0
+iki aux None aux 0
+, punct None punct 0
+chonka nummod None advmod 0
+pichika compound None amod 0
+joni obl None conj 0
+a case None case 0
+. punct None punct 0
+
+¿ punct None punct 0
+jawekeskati advmod None advmod 0
+ki aux:val None aux:val 0
+ino nsubj None nsubj 0
+naman advmod None obj 0
+pakétia root None root 0
+iki aux None aux 0
+? punct None punct 0
+
+Ilesos nsubj None nsubj 0
+riki cop None cop 0
+noaa root None root 0
+
+Moa advmod None advmod 0
+atikas nsubj None advmod 0
+yoraai Lfcl None root 0
+riki cop None aux 0
+ea root None nsubj 0
+a case None case 0
+
+¿ punct None punct 0
+Wetsa amod None amod 0
+nete obl None nsubj 0
+n case None case 0
+ki aux:val None aux:val 0
+ino nsubj None nsubj 0
+n case None case 0
+chaxo iobj None obj 0
+jawe obj None obj 0
+atia root None root 0
+iki aux None aux 0
+? punct None punct 0
+
+ati advcl None amod 0
+yorakin Lfcl None Lfcl 0
+ra aux:val None aux:val 0
+eaa obj None nsubj 0
+xoitike root None root 0
+. punct None punct 0
+
+¡ punct None punct 0
+Papá root None root 0
+! punct None punct 0
+
+Nato amod None amod 0
+escuela nsubj None nsubj 0
+iki cop None cop 0
+noa nmod None nmod 0
+n case None case 0
+papa nmod None nsubj 0
+baon case None case 0
+noa iobj None obj 0
+a case None case 0
+atixona root None root 0
+. punct None punct 0
+
+¿ punct None punct 0
+katikin advcl None advmod 0
+ki aux:val None aux:val 0
+jawe obj None nsubj 0
+meratia root None root 0
+iki aux None aux 0
+? punct None punct 0
+
+iti amod None amod 0
+resa Lfcl None Lfcl 0
+jawékibo obj None nsubj 0
+bítixon advcl None nsubj 0
+icha amod None amod 0
+jakon amod None amod 0
+jawékibo obj None obj 0
+atikanai root None root 0
+. punct None punct 0
+
+¿ punct None punct 0
+ea nsubj None nsubj 0
+n case None case 0
+jain advmod None obj 0
+ititi xcomp None root 0
+atipantia root None root 0
+? punct None punct 0
+
+ea nsubj None nsubj 0
+a case None case 0
+mánokoxotia root None nsubj 0
+iki aux None cop 0
+, punct None punct 0
+cepillo obl None obl 0
+nin case None case 0
+; punct None punct 0
+nokon det None det 0
+xeta obj None obj 0
+chokatii advcl None conj 0
+, punct None punct 0
+ompax obl None compound 0
+bexnan amod None conj 0
+man case None case 0
+. punct None punct 0
+
+¿ punct None punct 0
+awá nsubj None nsubj 0
+kan case None case 0
+ki aux:val None aux:val 0
+jawe obj None obj 0
+pitia root None root 0
+iki aux None aux 0
+? punct None punct 0
+
+¿ punct None punct 0
+mia nsubj None nsubj 0
+a case None case 0
+ensalada obj None obj 0
+kénatiai root None root 0
+? punct None punct 0
+
+mia nsubj None nsubj 0
+n case None case 0
+atiibatabo obj None obj 0
+jakiribi advmod None advmod 0
+yoyo compound None compound 0
+ati root None root 0
+ribawe Lfcl None nsubj 0
+. punct None punct 0
+
+Diestro nsubj None nsubj 0
+riki cop None cop 0
+eaa root None root 0
+
+ea nsubj None nsubj 0
+n case None case 0
+ra aux:val None aux:val 0
+miaa obj None obj 0
+atikinkasai root None root 0
+
+Jatíbi amod None amod 0
+koshitiai amod None amod 0
+jawéki nsubj None nsubj 0
+iki cop None cop 0
+bakeatiai amod None amod 0
+jawekibo root None root 0
+. punct None punct 0
+
+¿ punct None punct 0
+mia nsubj None nsubj 0
+n case None case 0
+yoititi root None xcomp 0
+atipantia aux None root 0
+? punct None punct 0
+
+América obl None obl 0
+ainoax case None case 0
+Europa nsubj None nsubj 0
+iki root None cop 0
+ochó advmod None root 0
+bires Lfcl None Lfcl 0
+. punct None punct 0
+
+Nato det None det 0
+bewá nsubj None obj 0
+onántiwe root None root 0
+. punct None punct 0
+
+Jakon amod None nsubj 0
+ma Lfcl None Lfcl 0
+tani Lfcl None Lfcl 0
+rabe obj None compound 0
+ra aux:val None aux:val 0
+ean nsubj None nsubj 0
+joniatike root None root 0
+. punct None punct 0
+
+¿ punct None punct 0
+mia nsubj None nsubj 0
+a case None case 0
+yona obl None obl 0
+ya case None case 0
+iki root None root 0
+? punct None punct 0
+
+Nií obl None obl 0
+meran case None case 0
+ra aux:val None aux:val 0
+ikiai cop None root 0
+xana root None nsubj 0
+, punct None punct 0
+shokores advmod None compound 0
+matsi conj None obj 0
+. punct None punct 0
+
+Pitii root None root 0
+riki aux None aux 0
+noa nsubj None nsubj 0
+a case None case 0
+
