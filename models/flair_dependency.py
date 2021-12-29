@@ -1,8 +1,10 @@
 from flair.models import SequenceTagger
+from flair.data import Sentence
 from flair.datasets.conllu import CoNLLUCorpus
 from flair.embeddings import FlairEmbeddings, TransformerWordEmbeddings, StackedEmbeddings
 from flair.models import DependencyParser
 from flair.trainers import ModelTrainer
+from flair.visual.training_curves import Plotter
 
 from helper_functions import conllu_to_flair
 
@@ -10,46 +12,42 @@ from helper_functions import conllu_to_flair
 ################################
 ### data and dictionaries    ###
 ################################
-corpus, gold_dict, word_dict = conllu_to_flair('./data/shipibo/shipibo-2018jul4.converted.conllu', lang = "Shipibo")
+corpus, gold_dict, word_dict = conllu_to_flair('./data/Shipibo/shipibo-2018jul4.converted.conllu', lang = "Shipibo")
 label_type = 'deprel'
-dependency_dictionary = corpus.make_label_dictionary(label_type=label_type)
+dictionary = corpus.make_label_dictionary(label_type='deprel')
 
 ################################
 ### Embeddings               ###
 ################################
-word_embedding = TransformerWordEmbeddings('bert-base-multilingual-uncased')
-# alternatives: xlm-roberta-base
-
 # flair_embedding_forward = FlairEmbeddings('multi-forward')
 # flair_embedding_backward = FlairEmbeddings('multi-backward')
 flair_embedding_forward = FlairEmbeddings('models/resources/embeddings/sk_forward/best-lm.pt')
 flair_embedding_backward = FlairEmbeddings('models/resources/embeddings/sk_backward/best-lm.pt')
 
-embeddings = StackedEmbeddings(embeddings=[word_embedding, flair_embedding_forward, flair_embedding_backward])
+embeddings = StackedEmbeddings(embeddings=[flair_embedding_forward, flair_embedding_backward])
 
 ################################
 ### Tagger and Trainer       ###
 ################################
-tagger = DependencyParser(lstm_hidden_size=256,
+tagger = DependencyParser(lstm_hidden_size=512,
                         token_embeddings=embeddings,
-                        relations_dictionary=dependency_dictionary,
+                        relations_dictionary=dictionary,
                         tag_type=label_type)
 
 trainer = ModelTrainer(tagger, corpus)
 
 trainer.train('models/resources/taggers/sk_dep',
-                use_final_model_for_eval=True,
-                learning_rate=0.1,
-                mini_batch_size=8,
-                max_epochs=20)
+                train_with_dev=True,
+                learning_rate=0.2,
+                mini_batch_size=16,
+                max_epochs=50)
 
 ###############################
 ### Visualizations          ###
 ###############################
-sentence = Sentence('Nato escuelankoxon non onanai , jakon bake inoxon , non nete cuídannoxon')
-dep_parser_model: DependencyParser = DependencyParser.load('resources/taggers/example-dependency/best_model.pt')
-dep_parser_model.predict(sentence, print_tree=True)
-
 plotter = Plotter()
-plotter.plot_training_curves('models/resources/taggers/example-dependency/loss.tsv')
-#plotter.plot_weights('weights.txt')
+plotter.plot_training_curves('models/resources/taggers/sk_dep/loss.tsv')
+
+# sentence = Sentence('Nato escuelankoxon non onanai , jakon bake inoxon , non nete cuídannoxon')
+# dep_parser_model: DependencyParser = DependencyParser.load('models/resources/taggers/sk_dep/best-model.pt')
+# dep_parser_model.predict(sentence, print_tree=True)
