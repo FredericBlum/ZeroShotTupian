@@ -58,3 +58,22 @@ def conllu_to_flair(path_in, lang):
     print(f"The {lang} corpus contains {count} tokens in total. There are {len(word_dict)} lemmas.")
 
     return corpus, gold_dict, word_dict
+
+def make_dictionary(path_in, unk_threshold: int = 0):
+    with open(path_in) as file:
+        doc = file.read()
+
+    word_frequencies = {}
+    data = doc.split(" ")
+    for word in data:
+        if word not in word_frequencies:
+            word_frequencies[word] = 0
+        word_frequencies[word] += 1
+
+    word_dict = Dictionary()
+    for word, freq in word_frequencies.items():
+        if freq > unk_threshold:
+            word_dict.add_item(word)
+
+    print(f"At unk_threshold={unk_threshold}, the dictionary contains {len(word_dict)} words")
+    return word_dict

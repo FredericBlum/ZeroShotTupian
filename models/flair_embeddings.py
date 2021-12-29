@@ -1,18 +1,18 @@
 from flair.data import Dictionary
 from flair.models import LanguageModel
 from flair.trainers.language_model_trainer import LanguageModelTrainer, TextCorpus
-from helper_functions import conllu_to_flair
+from helper_functions import conllu_to_flair, make_dictionary
 
 
 ################################
 ### data and dictionaries    ###
 ################################
-corpus, gold_dict, word_dict = conllu_to_flair('./data/shipibo/shipibo-2018jul4.converted.conllu')
-#dictionary = word_dict
-dictionary: Dictionary = Dictionary.load('chars')
+dictionary: Dictionary = make_dictionary('data/Shipibo/embeddings/train/train.txt')
+
+# dictionary: Dictionary = Dictionary.load('chars')
 
 # get your corpus, process forward and at the character level
-corpus = TextCorpus('./data/shipibo/embeddings',
+corpus = TextCorpus('data/Shipibo/embeddings',
                     dictionary,
                     character_level=True)
 
