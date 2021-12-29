@@ -1,0 +1,47 @@
+Buko PROPN 4 nsubj
+kɨte NUM 3 nummod
+korakora NOUN 4 obj
+mi VERB 0 root
+
+erẽ PRON 3 nsubj
+epo NOUN 3 obj
+tʃoga VERB 0 root
+erẽ PRON 1 discourse
+
+Ariano PROPN 2 nsubj
+teita VERB 0 root
+kɨrẽ ADV 2 advmod
+
+omepit NOUN 2 nmod
+tek NOUN 3 nmod
+pi NOUN 4 obj
+tʃopa VERB 0 root
+on PRON 4 nsubj
+
+en PRON 2 nsubj
+aramĩra NOUN 0 root
+, PUNCT 4 punct
+aramĩra NOUN 5 nmod
+baba NOUN 2 nmod
+
+Patʃo PROPN 4 nsubj
+Patʃe PROPN 4 nsubj
+tɨɾɨ NUM 4 nummod
+tajtʃi NOUN 0 root
+
+Pura PROPN 3 nsubj
+te PART 3 discourse
+kɨte NUM 0 root
+
+Pupak PROPN 3 nsubj
+kɨjtpitatʃo NOUN 3 obj
+ata VERB 0 root
+kom PART 3 advmod
+
+ek NOUN 3 obl
+etʃe ADP 1 case
+imaã VERB 0 root
+
+ɨkɨ NOUN 2 nmod
+pekã NOUN 3 nsubj
+ana PART 0 root

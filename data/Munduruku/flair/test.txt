@@ -1,0 +1,69 @@
+oexexe VERB 0 root
+ip PART 1 dep
+uk NOUN 1 obj
+'a NOUN 3 nmod
+be ADP 3 case
+puybit NOUN 7 obj
+kukug̃ VERB 1 dep
+
+wida NOUN 2 obl
+o'jeaokaat VERB 0 root
+ag̃okatkat NOUN 2 obl
+pe ADP 3 case
+
+Tawe NOUN 2 obl
+oajẽm VERB 0 root
+ka NOUN 2 obl
+xe ADP 3 case
+
+Ajojot NOUN 4 nsubj
+jekobe NOUN 4 obl
+be ADP 2 case
+cum VERB 0 root
+
+Ite PRON 3 obl
+awi NOUN 3 obl
+o'tobuxik VERB 0 root
+
+Ixiwe NOUN 2 obl
+o'tobuxik VERB 0 root
+ako NOUN 2 obl
+xe ADP 3 case
+
+ceebay NOUN 2 nsubj
+icokcok NOUN 0 root
+cicã ADV 4 advmod
+idip NOUN 2 advcl
+cicã ADV 4 advmod
+buye CCONJ 4 mark
+bekicat NOUN 4 nsubj
+yadappek NOUN 7 parataxis
+
+Awawa NOUN 3 obl
+awi NOUN 3 obl
+o'tobuxik VERB 0 root
+jekibit NOUN 5 nmod
+ka NOUN 3 obl
+be ADP 5 case
+
+wexey NOUN 5 obl
+bi ADP 1 case
+wida NOUN 5 obl
+biopak NOUN 5 obl
+o'yaoka VERB 0 root
+
+Tawe NOUN 2 obl
+oajẽm VERB 0 root
+xa NOUN 2 obl
+xe ADP 3 case
+
+Jexat NOUN 2 obl
+o'tobuxik VERB 0 root
+iku NOUN 2 obl
+be ADP 3 case
+
+ẽn PRON 2 obl
+eg̃ũm VERB 0 root
+kise NOUN 2 obl
+ayacat NOUN 2 obl
+pe ADP 4 case

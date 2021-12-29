@@ -1,0 +1,24 @@
+kux NOUN 2 obj
+kixa VERB 3 advcl
+ngarap VERB 0 root
+, PUNCT 3 punct
+pit PRON 3 parataxis
+
+Kito NOUN 7 nsubj
+nãkowut NOUN 7 obj
+moat NOUN 4 dep
+xauwet NOUN 2 nmod
+moke NOUN 4 conj
+kepit CCONJ 5 cc
+xagara VERB 0 root
+
+ama ADV 4 advmod
+ngot NOUN 3 nmod
+xiaret NOUN 4 nsubj
+eya VERB 0 root
+kurux VERB 4 dep
+amang VERB 4 dep
+ngot NOUN 8 obj
+oen VERB 4 parataxis
+wimõ ADV 8 advmod
+nitēt PART 8 discourse

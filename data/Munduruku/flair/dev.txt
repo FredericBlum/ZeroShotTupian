@@ -1,0 +1,86 @@
+Kapusu ADV 2 advcl
+oajẽm VERB 0 root
+owag̃o NOUN 4 nmod
+duk'a NOUN 2 obl
+be ADP 4 case
+
+Jexat NOUN 2 obl
+o'tobuxik VERB 0 root
+
+puy NOUN 4 obl
+bu NOUN 1 clf
+bekicat NOUN 4 obl
+o'joa VERB 0 root
+
+Toxaw NOUN 4 obl
+dak ADV 4 advmod
+jexat NOUN 4 obl
+o'tobuxik VERB 0 root
+
+I'it NOUN 2 nsubj
+wa VERB 0 root
+du PART 2 discourse
+? PUNCT 2 punct
+
+õn PRON 3 obl
+ag̃okatkat NOUN 3 obl
+o'sutayxidaat VERB 0 root
+wamõat NOUN 3 obl
+pe ADP 4 case
+
+bekicat NOUN 2 obl
+o'akõm VERB 0 root
+wetabut VERB 2 dep
+pe ADP 3 case
+
+ixem PRON 3 obj
+õn PRON 3 obl
+wetaybit VERB 0 root
+g̃u PART 3 discourse
+ojojo VERB 3 advcl
+g̃u PART 5 discourse
+ma ADV 5 advmod
+buye SCONJ 5 mark
+
+Kabiam ADV 3 amod
+doa NOUN 5 nsubj
+iba'orere ADJ 2 amod
+jedoti NOUN 5 obl
+mug̃ẽg̃ẽm VERB 0 root
+daxa NOUN 5 obj
+xe ADP 6 case
+
+ejot VERB 0 root
+cuy PART 1 discourse
+, PUNCT 4 punct
+muto'o NOUN 1 advcl
+bima ADP 4 case
+, PUNCT 7 punct
+kaxi NOUN 4 nmod
+wuyase ADP 7 case
+bima ADP 7 case
+
+Ag̃okatkayũ NOUN 4 nsubj
+soat DET 3 det
+axima NOUN 4 obj
+muyuhum VERB 0 root
+: PUNCT 4 punct
+wasũbu NOUN 3 appos
+, PUNCT 6 punct
+potip NOUN 6 conj
+, PUNCT 6 punct
+potiprip NOUN 6 conj
+, PUNCT 6 punct
+pakodup NOUN 6 conj
+, PUNCT 6 punct
+pirãydup NOUN 6 conj
+, PUNCT 6 punct
+pirũm NOUN 6 conj
+. PUNCT 4 punct
+
+õn PRON 3 dep
+bekicat NOUN 3 obl
+ojoaat VERB 0 root
+puy NOUN 3 obl
+bu NOUN 4 clf
+be ADP 1 case

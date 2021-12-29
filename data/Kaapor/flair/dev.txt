@@ -1,0 +1,44 @@
+pe ADV 2 advmod
+oho VERB 0 root
+je PART 2 discourse
+tĩ ADV 2 advmod
+
+Xõru PROPN 2 nsubj
+nixói VERB 0 root
+se NOUN 2 obj
+aʔe PRON 2 nmod
+
+Tapiʔir NOUN 2 obj
+ujan VERB 0 root
+oho VERB 2 compound
+
+Arahã ADV 6 advmod
+maʔe NOUN 6 obj
+Kaninde PROPN 6 obl
+rehe ADP 3 case
+ihẽ PRON 6 nsubj
+araho VERB 0 root
+
+pahar ADV 5 advmod
+pahar ADV 5 advmod
+je PART 5 discourse
+kɪse NOUN 5 obj
+meʔē VERB 0 root
+ngā PRON 5 nsubj
+
+Maiɾ PROPN 3 nsubj
+ɪwɪke NOUN 3 obj
+hapɪ VERB 0 root
+
+pe CCONJ 5 cc
+riki ADV 5 advmod
+katar NOUN 5 obj
+ngã PRON 5 nsubj
+muhɪk VERB 0 root
+
+a’eta PRON 6 nsubj
+ma’e NOUN 3 nmod
+jukwahá NOUN 6 obj
+ihẽke PRON 6 obl
+pe ADP 4 obl
+me’ẽ VERB 0 root

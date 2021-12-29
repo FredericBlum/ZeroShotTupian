@@ -1,0 +1,137 @@
+opũãtemwã VERB 0 root
+ota AUX 1 aux
+
+ama NOUN 0 root
+etera VERB 1 parataxis
+kurux VERB 2 xcomp
+
+wotye VERB 0 root
+pukpuga VERB 1 advcl
+pit PRON 2 parataxis
+
+woaret NOUN 0 root
+koa PART 1 discourse
+
+nãpẽrenã ADV 3 advmod
+kito NOUN 3 nsubj
+eapītera VERB 0 root
+pīxe AUX 3 aux
+
+xop DET 3 nmod
+koa PART 3 discourse
+ten ADV 4 advmod
+nã VERB 5 xcomp
+peka VERB 0 root
+
+op ADV 2 advmod
+ten VERB 0 root
+eya PART 2 dep
+õn PRON 2 nsubj
+
+xeke PRON 0 root
+xēke PART 1 discourse
+ke PART 1 discourse
+
+ã INTJ 2 discourse
+en PRON 0 root
+emẽ DET 5 obj
+xop DET 2 dep
+nẽnẽkaret NOUN 4 dep
+
+kito NOUN 6 obj
+moke NOUN 3 nmod
+xiat NOUN 1 nmod
+ekuwaora VERB 1 dep
+kepit CCONJ 6 dep
+pukpuga VERB 0 root
+õn PRON 6 nsubj
+
+xop DET 2 obj
+ten VERB 0 root
+eya PART 2 dep
+on PRON 2 nsubj
+ke PART 2 discourse
+
+etera VERB 0 root
+kurux VERB 1 parataxis
+amang VERB 1 parataxis
+ngot NOUN 5 obj
+keya VERB 1 parataxis
+pīxe ADV 5 advmod
+
+yeman ADV 3 advmod
+ngot NOUN 3 obj
+kana VERB 0 root
+oen VERB 3 dep
+
+põrom ADV 2 advmod
+toa VERB 0 root
+, PUNCT 2 punct
+pit PRON 2 parataxis
+
+putorot NOUN 0 root
+xēke PART 1 discourse
+ke PART 1 discourse
+xēt PART 1 dep
+
+mokat ADV 2 advmod
+etera VERB 0 root
+kurux VERB 2 conj
+
+arimot NOUN 0 root
+urot NOUN 1 nmod
+arimot NOUN 1 discourse
+urot NOUN 3 nmod
+
+mawo NOUN 2 obj
+papīknga VERB 0 root
+mokat ADV 5 advmod
+etyenkuax NOUN 5 obj
+nã VERB 2 parataxis
+xoknga VERB 5 parataxis
+xok VERB 6 dep
+
+etxekup NOUN 2 obj
+keya VERB 0 root
+
+kepit CCONJ 5 cc
+eya PART 5 dep
+õn PRON 5 nsubj
+waokatmõ ADV 5 advmod
+papiknga VERB 0 root
+ke PART 5 discourse
+
+xop DET 4 obl
+me ADP 1 case
+pote ADV 4 advmod
+worawiget NOUN 0 root
+xop DET 4 obl
+me ADP 5 case
+
+mokat ADV 2 advmod
+etera VERB 0 root
+kurux VERB 2 parataxis
+amang VERB 2 parataxis
+pīxe ADV 4 advmod
+
+yãn ADV 3 advmod
+oxepngoret NOUN 3 obj
+oerã VERB 0 root
+kepit CCONJ 5 cc
+eta VERB 3 conj
+on PRON 5 nsubj
+toa VERB 5 dep
+
+mokat ADV 2 advmod
+etera VERB 0 root
+korop VERB 2 dep
+noa NOUN 3 obl
+pe ADP 4 case
+
+mokat ADV 3 advmod
+peitõã ADV 3 advmod
+etera VERB 0 root
+amang VERB 3 parataxis
+korop VERB 3 parataxis
+kux NOUN 5 obl
+me ADP 6 case

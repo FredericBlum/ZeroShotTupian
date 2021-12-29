@@ -1,8 +1,6 @@
-import torch
-import flair
 from conllu import parse
 from torch.utils.data import random_split
-from flair.data import Corpus, Dictionary, Sentence
+from flair.data import Corpus, Dictionary
 from flair.datasets import ColumnCorpus
 
 
@@ -10,7 +8,8 @@ def conllu_to_flair(path_in, lang):
     data = []
     word_dict = Dictionary()
     gold_dict = {}
-    flair.device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+    count: int = 0
+
     with open(path_in) as file:
         doc = file.read()
         doc = parse(doc)
@@ -23,6 +22,7 @@ def conllu_to_flair(path_in, lang):
                     tok['form'] = tok['form'].replace("-", "")
                     combined = tok['form'] + " " + tok['upos'] + " " + str(tok['head']) + " " + tok['deprel']
                     utterance.append(combined)
+                    count += 1
 
                     if tok['form'] not in gold_dict:
                          gold_dict[tok['form']] = tok['deprel']
@@ -32,10 +32,8 @@ def conllu_to_flair(path_in, lang):
             data.append(utt_str)
 
     overall = len(data)
-    tenth = round((overall/10), 0)
-    rest = overall - tenth - tenth 
-    tenth = int(tenth)
-    rest = int(rest)
+    tenth = int(round((overall/10), 0))
+    rest = int(overall - tenth - tenth)
     dev, test, train = random_split(data, [tenth, tenth, rest])
     columns = {0: 'text', 1: 'upos', 2:'head', 3: 'deprel'}
     data_folder = f'./data/{lang}/flair'
@@ -55,5 +53,8 @@ def conllu_to_flair(path_in, lang):
                                 train_file = 'train.txt',
                                 test_file = 'test.txt',
                                 dev_file = 'dev.txt')
+    
+    print(corpus)
+    print(f"The {lang} corpus contains {count} tokens in total. There are {len(word_dict)} lemmas.")
 
     return corpus, gold_dict, word_dict

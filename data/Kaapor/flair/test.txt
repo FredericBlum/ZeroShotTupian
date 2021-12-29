@@ -1,0 +1,48 @@
+Tuti PROPN 4 obj
+ke PART 1 discourse
+ʃaʔe PROPN 4 nsubj
+jukwa VERB 0 root
+
+Maíra PROPN 2 nsubj
+wata VERB 0 root
+
+aʔeke PRON 3 nsubj
+ipɪke NOUN 3 obj
+tukwa VERB 0 root
+
+aʔeke PRON 2 nsubj
+uʔuta VERB 0 root
+pɪpɪhu NOUN 2 obj
+ketĩ PART 2 discourse
+
+Tapiʔir NOUN 2 obj
+ujan VERB 0 root
+
+ko ADV 4 advmod
+riki ADP 1 case
+ihē PRON 4 nsubj
+ahɪk VERB 0 root
+ajur VERB 4 csubj
+jarupa NOUN 4 obl
+rehe ADP 6 case
+
+taʔɪn NOUN 2 nsubj
+ukwerta VERB 9 advcl
+je PART 2 discourse
+tĩ PART 2 discourse
+, PUNCT 2 punct
+ko DET 7 nmod
+aʔi NOUN 9 nsubj
+iháike NOUN 9 obj
+piɾokhũ VERB 0 root
+je PART 9 discourse
+pe ADV 9 advmod
+iʔaɾpe ADV 13 advmod
+pɪnuhũ VERB 9 conj
+
+ne PRON 3 nsubj
+ihẽke PRON 3 obj
+renupã VERB 6 advcl
+rahã SCONJ 3 mark
+ihẽ PRON 6 obj
+ahota VERB 0 root

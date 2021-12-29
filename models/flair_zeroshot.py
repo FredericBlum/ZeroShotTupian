@@ -7,17 +7,18 @@ from flair.trainers import ModelTrainer
 from helper_functions import conllu_to_flair
 
 # data and dictionaries
-corpus, gold_dict, word_dict = conllu_to_flair('data/shipibo/shipibo-2018jul4.converted.conllu')
+corpus, gold_dict, word_dict = conllu_to_flair('data/shipibo/shipibo-2018jul4.converted.conllu', lang = "Shipibo")
 label_type = 'upos'
 label_dict = corpus.make_label_dictionary(label_type=label_type)
 
-#################
-## Embeddings   #
-#################
+####################
+### Embeddings   ###
+####################
 
 word_embedding = TransformerWordEmbeddings('bert-base-multilingual-uncased')
 
 embeddings = word_embedding
+
 #################
 # TARS          #
 #################
@@ -41,5 +42,5 @@ trainer.train(base_path='./models/resources/taggers/oneshot_pos',  # path to sto
               param_selection_mode = True)
 
 sentence = Sentence('Nato escuelankoxon non onanai , jakon bake inoxon , non nete cuídannoxon')
-sentence =tars.predict(sentence)
+sentence = tars.predict(sentence)
 print(sentence.to_tagged_string("upos"))

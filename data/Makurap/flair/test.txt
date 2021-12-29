@@ -1,0 +1,13 @@
+etera VERB 0 root
+korop VERB 1 xcomp
+
+ngot NOUN 2 dep
+xiaret NOUN 0 root
+
+i INTJ 5 discourse
+eya PART 5 dep
+on PRON 5 nsubj
+wet ADV 5 advmod
+toa VERB 0 root
+ke PART 5 discourse
+pit ADV 5 advmod
