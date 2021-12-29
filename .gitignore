@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # large model files
-.pt
+*.pt

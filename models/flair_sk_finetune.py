@@ -5,16 +5,15 @@ from flair.trainers.language_model_trainer import LanguageModelTrainer, TextCorp
 lm_forward = FlairEmbeddings('multi-forward').lm
 lm_backward = FlairEmbeddings('multi-backward').lm
 
-dictionary: Dictionary = flair_embedding_forward.dictionary
+dictionary: Dictionary = lm_forward.dictionary
 
 corpus_for = TextCorpus('data/Shipibo/embeddings',
                     dictionary,
-                    is_forward_lm=True,
                     character_level=True)
 
 corpus_back = TextCorpus('data/Shipibo/embeddings',
                     dictionary,
-                    is_forward_lm=False,
+                    False,
                     character_level=True)
 
 ################################
@@ -26,11 +25,11 @@ trainer_backward = LanguageModelTrainer(lm_backward, corpus_back)
 trainer_forward.train('models/resources/embeddings/multi_sk_ft/forward',
                 sequence_length=100,
                 learning_rate=0.3,
-                mini_batch_size=8,
-                max_epochs=30)
+                mini_batch_size=12,
+                max_epochs=10)
 
 trainer_backward.train('models/resources/embeddings/multi_sk_ft/backward',
                 sequence_length=100,
                 learning_rate=0.3,
-                mini_batch_size=8,
-                max_epochs=30)
+                mini_batch_size=12,
+                max_epochs=10)

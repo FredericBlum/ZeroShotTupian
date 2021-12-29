@@ -7,21 +7,20 @@ from helper_functions import conllu_to_flair, make_dictionary
 ################################
 ### data and dictionaries    ###
 ################################
-dictionary: Dictionary = make_dictionary('data/Shipibo/embeddings/train/train.txt')
+# dictionary: Dictionary = make_dictionary('data/Shipibo/embeddings/train/train.txt')
+dictionary: Dictionary = Dictionary.load('chars')
 
-# dictionary: Dictionary = Dictionary.load('chars')
+is_forward_lm = True
+is_backward_lm = False
 
-# get your corpus, process forward and at the character level
 corpus = TextCorpus('data/Shipibo/embeddings',
                     dictionary,
+                    is_forward_lm,
                     character_level=True)
 
 ################################
 ### Language Model           ###
 ################################
-is_forward_lm = True
-is_backward_lm = False
-
 language_model = LanguageModel(dictionary,
                                is_forward_lm,
                                hidden_size=512,
@@ -32,8 +31,7 @@ language_model = LanguageModel(dictionary,
 ################################
 trainer = LanguageModelTrainer(language_model, corpus)
 
-trainer.train('models/resources/embeddings/sk_word',
-                sequence_length=11,
-                learning_rate=0.3,
-                mini_batch_size=8,
+trainer.train('models/resources/embeddings/sk_backward',
+                sequence_length=100,
+                mini_batch_size=16,
                 max_epochs=30)

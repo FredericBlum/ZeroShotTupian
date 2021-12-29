@@ -15,16 +15,15 @@ label_type = 'upos'
 ################################
 ### Embeddings               ###
 ################################
-# word_embedding = TransformerWordEmbeddings('xlm-roberta-base') 
-word_embedding = TransformerWordEmbeddings('bert-base-multilingual-uncased')
-# word_embedding = TransformerWordEmbeddings('sk_word')
+#word_embedding = TransformerWordEmbeddings('bert-base-multilingual-cased', fine_tune=True, layers='-1')
 
 flair_embedding_forward = FlairEmbeddings('models/resources/embeddings/sk_forward/best-lm.pt')
 flair_embedding_backward = FlairEmbeddings('models/resources/embeddings/sk_backward/best-lm.pt')
-# flair_embedding_forward = FlairEmbeddings('multi-forward')
-# flair_embedding_backward = FlairEmbeddings('multi-backward')
+#flair_embedding_forward = FlairEmbeddings('models/resources/embeddings/multi_sk_ft/forward/best-lm.pt')
+#flair_embedding_backward = FlairEmbeddings('models/resources/embeddings/multi_sk_ft/backward/best-lm.pt')
 
-embeddings = StackedEmbeddings(embeddings=[word_embedding, flair_embedding_forward, flair_embedding_backward])
+embeddings = StackedEmbeddings(embeddings=[#word_embedding,
+                                           flair_embedding_forward, flair_embedding_backward])
 
 ################################
 ### Tagger and Trainer       ###
@@ -37,15 +36,14 @@ tagger = SequenceTagger(hidden_size=256,
 
 trainer = ModelTrainer(tagger, corpus)
 
-trainer.train('resources/taggers/sk_pos',
-                param_selection_mode=True,
+trainer.train('models/resources/taggers/sk_pos',
                 train_with_dev=True,
-                learning_rate=0.3,
+                learning_rate=0.2,
                 mini_batch_size=16,
-                max_epochs=30)
+                max_epochs=40)
 
 ###############################
 ### Visualizations          ###
 ###############################
 plotter = Plotter()
-#plotter.plot_training_curves('models/resources/taggers/example-upos/loss.tsv')
+plotter.plot_training_curves('models/resources/taggers/sk_pos/loss.tsv')
