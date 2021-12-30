@@ -132,6 +132,10 @@ def concat(languages: list, folder: str):
     test = []
     dev = []
     train = []
+    char_dict = Dictionary()
+    char_dict.add_item("<unk>")
+    char_dict.add_item("[SEP]")
+    char_dict.add_item(" ")
 
     for lang in languages:
         lang_text = []
@@ -140,27 +144,45 @@ def concat(languages: list, folder: str):
             text = rewrite(doc)
             for utt in text:
                 lang_text.append(utt)
+                for char in utt:
+                    if char_dict.get_idx_for_item != 0:
+                        char_dict.add_item(char)
 
         with open(f'data/{lang}/embeddings/valid.txt') as file:
             doc = file.read()
             text = rewrite(doc)
             for utt in text:
                 lang_text.append(utt)
+                for char in utt:
+                    if char_dict.get_idx_for_item != 0:
+                        char_dict.add_item(char)
 
         with open(f'data/{lang}/embeddings/test.txt') as file:
             doc = file.read()
             text = rewrite(doc)
             for utt in text:
                 lang_text.append(utt)
-                #for char in utt:
-                    #if char_dict.get_idx_for_item != 0:
-                        #char_dict.add_item(char)
+                for char in utt:
+                    if char_dict.get_idx_for_item != 0:
+                        char_dict.add_item(char)
 
         lang_train, validtext = train_test_split(lang_text, random_state=42, test_size=.2)
         lang_val, lang_test = train_test_split(validtext, random_state=42, test_size=0.5)
+
+        dev_str = "\n".join(lang_val)
+        with open(f'data/{lang}/embeddings_new/valid.txt', 'w') as f:
+            f.write(dev_str)        
+        
+        test_str = "\n".join(lang_test)
+        with open(f'data/{lang}/embeddings_new/test.txt', 'w') as f:
+            f.write(test_str)
+
+        train_str = "\n".join(lang_train)
+        with open(f'data/{lang}/embeddings_new/train/train.txt', 'w') as f:
+            f.write(train_str)
+
         lang_val.append("[SEP]")
         lang_test.append("[SEP]")
-
         train.append((lang_train, lang))
 
         for sentence in lang_val:
@@ -180,7 +202,6 @@ def concat(languages: list, folder: str):
     with open(f'{data_emb}/train/train.txt', 'w') as f:
         f.write(train_raw)
 
-    char_dict = Dictionary.load("chars-xl")
     corpus = TextCorpus(f'data/combi_emb/{folder}', char_dict, forward = True, character_level=True)
 
     return corpus, char_dict
