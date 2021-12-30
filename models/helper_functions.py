@@ -132,6 +132,8 @@ def concat(languages: list, folder: str):
     test = []
     dev = []
     train = []
+    char_dict = Dictionary()
+
     for lang in languages:
         lang_text = []
         print(lang)
@@ -140,18 +142,27 @@ def concat(languages: list, folder: str):
             text = rewrite(doc)
             for utt in text:
                 lang_text.append(utt)
+                for char in utt:
+                    if char not in word_dict:
+                        word_dict.add_item(char)
 
         with open(f'data/{lang}/embeddings/valid.txt') as file:
             doc = file.read()
             text = rewrite(doc)
             for utt in text:
                 lang_text.append(utt)
+                for char in utt:
+                    if char not in word_dict:
+                        word_dict.add_item(char)
 
         with open(f'data/{lang}/embeddings/test.txt') as file:
             doc = file.read()
             text = rewrite(doc)
             for utt in text:
                 lang_text.append(utt)
+                for char in utt:
+                    if char not in word_dict:
+                        word_dict.add_item(char)
 
         lang_train, validtext = train_test_split(lang_text, random_state=42, test_size=.2)
         lang_val, lang_test = train_test_split(validtext, random_state=42, test_size=0.5)
@@ -179,7 +190,6 @@ def concat(languages: list, folder: str):
         with open(f'{data_emb}/train/{lang}.txt', 'w') as f:
             f.write(train_raw)
 
-    dictionary: Dictionary = Dictionary.load('chars')
-    corpus = TextCorpus(f'data/combi_emb/{folder}', dictionary, True, character_level=True)
+    corpus = TextCorpus(f'data/combi_emb/{folder}', char_dict, True, character_level=True)
 
-    return corpus
+    return corpus, char_dict
