@@ -30,15 +30,16 @@ upos_dictionary = corpus.make_label_dictionary(label_type=label_type)
 ################################
 ### Embeddings               ###
 ################################
-#word_embedding = TransformerWordEmbeddings('xlm-roberta-base') 
-#word_embedding = TransformerWordEmbeddings('bert-base-multilingual-uncased')
+tf_embeddings = TransformerWordEmbeddings('bert-base-multilingual-cased', fine_tune=True, layers='-1')
 
-flair_embedding_forward = FlairEmbeddings('models/resources/embeddings/sk_forward/best-lm.pt')
-flair_embedding_backward = FlairEmbeddings('models/resources/embeddings/sk_backward/best-lm.pt')
+#flair_embedding_forward = FlairEmbeddings('models/resources/embeddings/sk_forward/best-lm.pt')
+#flair_embedding_backward = FlairEmbeddings('models/resources/embeddings/sk_backward/best-lm.pt')
 # flair_embedding_forward = FlairEmbeddings('multi-forward')
 # flair_embedding_backward = FlairEmbeddings('multi-backward')
 
-embeddings = StackedEmbeddings(embeddings=[flair_embedding_forward, flair_embedding_backward])
+#embeddings = StackedEmbeddings(embeddings=[# tf_embeddings,
+#                                           flair_embedding_forward, flair_embedding_backward])
+embeddings = tf_embeddings
 
 ################################
 ### Tagger and Trainer       ###
@@ -51,8 +52,12 @@ tagger = SequenceTagger(hidden_size=512,
 
 trainer = ModelTrainer(tagger, corpus)
 
-trainer.train('models/resources/taggers/multi-upos',
-                param_selection_mode=True,
-                learning_rate=0.3,
-                mini_batch_size=8,
-                max_epochs=30)
+trainer.train('models/resources/taggers/my-upos',
+                train_with_dev=True,
+                monitor_train=True,
+                monitor_test=True,
+                patience=3,
+                anneal_with_restarts=True,
+                learning_rate=0.5,
+                mini_batch_size=16,
+                max_epochs=100)
