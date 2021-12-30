@@ -141,25 +141,26 @@ def concat(languages: list, folder: str):
             text = rewrite(doc)
             for utt in text:
                 lang_text.append(utt)
-		for char in utt:
+                for char in utt:
                     if char_dict.get_idx_for_item != 0:
-			char_dict.add_item(char)
+                        char_dict.add_item(char)
+
         with open(f'data/{lang}/embeddings/valid.txt') as file:
             doc = file.read()
             text = rewrite(doc)
             for utt in text:
                 lang_text.append(utt)
-		for char in utt:
-		    if char_dict.get_idx_for_item != 0:
-			char_dict.add_item(char)
+                for char in utt:
+                    if char_dict.get_idx_for_item != 0:
+                        char_dict.add_item(char)
         with open(f'data/{lang}/embeddings/test.txt') as file:
             doc = file.read()
             text = rewrite(doc)
             for utt in text:
                 lang_text.append(utt)
-		for char in utt:
-		    if char_dict.get_idx_for_item != 0:
-			char_dict.add_item(char)
+                for char in utt:
+                    if char_dict.get_idx_for_item != 0:
+                        char_dict.add_item(char)
 
         lang_train, validtext = train_test_split(lang_text, random_state=42, test_size=.2)
         lang_val, lang_test = train_test_split(validtext, random_state=42, test_size=0.5)
