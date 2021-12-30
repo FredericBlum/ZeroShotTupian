@@ -25,13 +25,13 @@ language_model_back = LanguageModel(dictionary, is_backward_lm, hidden_size=512,
 ### Trainers                 ###
 ################################
 trainer = LanguageModelTrainer(language_model_for, corpus_3)
-trainer.train('models/resources/embeddings/tupi_3_for', sequence_length=30, mini_batch_size=16, max_epochs=100)
+trainer.train('models/resources/embeddings/tupi_3_for', sequence_length=50, mini_batch_size=16, learning_rate = 1, max_epochs=100)
 
 trainer = LanguageModelTrainer(language_model_back, corpus_3)
-trainer.train('models/resources/embeddings/tupi_3_back', sequence_length=30, mini_batch_size=16, max_epochs=100)
+trainer.train('models/resources/embeddings/tupi_3_back', sequence_length=50, mini_batch_size=16, learning_rate = 1, max_epochs=100)
 
 trainer = LanguageModelTrainer(language_model_for, corpus_7)
-trainer.train('models/resources/embeddings/tupi_7_for', sequence_length=30, mini_batch_size=16, max_epochs=100)
+trainer.train('models/resources/embeddings/tupi_7_for', sequence_length=50, mini_batch_size=16, learning_rate = 1, max_epochs=100)
 
 trainer = LanguageModelTrainer(language_model_back, corpus_7)
-trainer.train('models/resources/embeddings/tupi_7_back', sequence_length=30, mini_batch_size=16, max_epochs=100)
+trainer.train('models/resources/embeddings/tupi_7_back', sequence_length=50,learning_rate = 1, mini_batch_size=16, max_epochs=100)

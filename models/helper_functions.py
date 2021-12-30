@@ -181,3 +181,5 @@ def concat(languages: list, folder: str):
 
     dictionary: Dictionary = Dictionary.load('chars')
     corpus = TextCorpus(f'data/combi_emb/{folder}', dictionary, True, character_level=True)
+
+    return corpus
