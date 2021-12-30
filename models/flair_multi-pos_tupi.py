@@ -24,6 +24,7 @@ corpus = MultiCorpus([#akuntsu,
                         #makurap, 
                         #munduruku, 
                         tupinamba])
+print(corpus)
 
 label_type = 'upos'
 upos_dictionary = corpus.make_label_dictionary(label_type=label_type)

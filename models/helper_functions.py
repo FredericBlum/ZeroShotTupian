@@ -5,10 +5,9 @@ from flair.data import Corpus, Dictionary
 from flair.datasets import ColumnCorpus
 from flair.embeddings import FlairEmbeddings
 from flair.trainers.language_model_trainer import LanguageModelTrainer, TextCorpus
-from flair.visual.training_curves import Plotter
 
 def conllu_to_flair(path_in, lang, write_corpus: bool = False, write_raw: bool = False):
-    data_folder = f'./data/{lang}/flair'
+    data_folder = f'data/{lang}/flair'
     columns = {0: 'text', 1: 'upos', 2:'head', 3: 'deprel'}
 
     if write_corpus == True:
@@ -64,7 +63,7 @@ def conllu_to_flair(path_in, lang, write_corpus: bool = False, write_raw: bool =
 
     if write_raw == True:
         dev_raw, test_raw, train_raw = random_split(raw_text, [tenth, tenth, rest], generator=torch.Generator().manual_seed(1))
-        data_emb = f'./data/{lang}/embeddings'
+        data_emb = f'data/{lang}/embeddings'
         dev_raw = "\n\n".join(dev_raw)
         test_raw = "\n\n".join(test_raw)
         train_raw = "\n\n".join(train_raw)
@@ -76,7 +75,7 @@ def conllu_to_flair(path_in, lang, write_corpus: bool = False, write_raw: bool =
         with open(f'{data_emb}/train/train.txt', 'w') as f:
             f.write(train_raw)
 
-    print(f"The {lang} corpus contains {count} tokens in total.")
+    # print(f"The {lang} corpus contains {count} tokens in total.")
     print(corpus)
 
     return corpus
@@ -123,8 +122,6 @@ def finetune_multi(lang):
                     learning_rate=0.5,
                     mini_batch_size=1,
                     max_epochs=1)
-    plotter = Plotter()
-    plotter.plot_training_curves(f'models/resources/embeddings/{lang}/loss.tsv')
 
 def write_tupi():
     akuntsu = conllu_to_flair('../UD/UD_Akuntsu-TuDeT/aqz_tudet-ud-test.conllu', lang = 'Akuntsu', write_corpus = True, write_raw = True)
