@@ -5,6 +5,7 @@ from flair.data import Corpus, Dictionary
 from flair.datasets import ColumnCorpus
 from flair.embeddings import FlairEmbeddings
 from flair.trainers.language_model_trainer import LanguageModelTrainer, TextCorpus
+from sklearn.model_selection import train_test_split
 
 def conllu_to_flair(path_in, lang, write_corpus: bool = False, write_raw: bool = False):
     data_folder = f'data/{lang}/flair'
@@ -117,3 +118,66 @@ def make_testset(language):
                             test_file = 'all_in_one.txt',
                             dev_file = 'dev.txt')
     return corpus
+
+def rewrite(doc):
+    utt = doc.split("\n\n")
+    new_utt = []
+    for item in utt:
+        item = item.replace("\n", " ")
+        new_utt.append(item)
+
+    return new_utt
+
+def concat(languages: list, folder: str):
+    test = []
+    dev = []
+    train = []
+    for lang in languages:
+        lang_text = []
+        print(lang)
+        with open(f'data/{lang}/embeddings/train/train.txt') as file:
+            doc = file.read()
+            text = rewrite(doc)
+            for utt in text:
+                lang_text.append(utt)
+
+        with open(f'data/{lang}/embeddings/valid.txt') as file:
+            doc = file.read()
+            text = rewrite(doc)
+            for utt in text:
+                lang_text.append(utt)
+
+        with open(f'data/{lang}/embeddings/test.txt') as file:
+            doc = file.read()
+            text = rewrite(doc)
+            for utt in text:
+                lang_text.append(utt)
+
+        lang_train, validtext = train_test_split(lang_text, random_state=42, test_size=.2)
+        lang_val, lang_test = train_test_split(validtext, random_state=42, test_size=0.5)
+        lang_val.append("[SEP]")
+        lang_test.append("[SEP]")
+
+        train.append((lang_train, lang))
+
+        for sentence in lang_val:
+            dev.append(sentence)        
+        for sentence in lang_test:
+            test.append(sentence)
+    
+    data_emb = f'data/combi_emb/{folder}'
+    dev_raw = "\n".join(dev)
+    test_raw = "\n".join(test)
+
+    with open(f'{data_emb}/valid.txt', 'w') as f:
+        f.write(dev_raw)
+    with open(f'{data_emb}/test.txt', 'w') as f:
+        f.write(test_raw)
+
+    for corpus, lang in train:
+        train_raw = " ".join(corpus)
+        with open(f'{data_emb}/train/{lang}.txt', 'w') as f:
+            f.write(train_raw)
+
+    dictionary: Dictionary = Dictionary.load('chars')
+    corpus = TextCorpus(f'data/combi_emb/{folder}', dictionary, True, character_level=True)
