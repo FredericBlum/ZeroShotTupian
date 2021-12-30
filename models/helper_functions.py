@@ -33,14 +33,16 @@ def conllu_to_flair(path_in, lang, write_corpus: bool = False, write_raw: bool =
             data.append(utt_str)
             raw_text.append(sent_str)
 
+    data_folder = f'./data/{lang}/flair'
+    columns = {0: 'text', 1: 'upos', 2:'head', 3: 'deprel'}
+
     if write_corpus == True:
         overall = len(data)
         tenth = int(round((overall/10), 0))
         rest = int(overall - tenth - tenth)
         dev, test, train = random_split(data, [tenth, tenth, rest], generator=torch.Generator().manual_seed(1))
-        columns = {0: 'text', 1: 'upos', 2:'head', 3: 'deprel'}
-        data_folder = f'./data/{lang}/flair'
 
+        all_in_one = "\n\n".join(data)
         dev = "\n\n".join(dev)
         test = "\n\n".join(test)
         train = "\n\n".join(train)
@@ -51,9 +53,11 @@ def conllu_to_flair(path_in, lang, write_corpus: bool = False, write_raw: bool =
             f.write(test)
         with open(f'{data_folder}/train.txt', 'w') as f:
             f.write(train)
-
+        with open(f'{data_folder}/all_in_one.txt', 'w') as f:
+            f.write(all_in_one)
     corpus: Corpus = ColumnCorpus(data_folder, columns,
-                                train_file = 'train.txt',
+                                train_file = 'all_in_one.txt',
+                                #train_file = 'train.txt',
                                 test_file = 'test.txt',
                                 dev_file = 'dev.txt')
 
@@ -70,7 +74,6 @@ def conllu_to_flair(path_in, lang, write_corpus: bool = False, write_raw: bool =
             f.write(test_raw)
         with open(f'{data_emb}/train/train.txt', 'w') as f:
             f.write(train_raw)
-
 
     print(f"The {lang} corpus contains {count} tokens in total.")
     print(corpus)
@@ -111,14 +114,14 @@ def finetune_multi(lang):
     trainer_forward.train(f'models/resources/embeddings/{lang}/forward',
                     sequence_length=100,
                     learning_rate=0.5,
-                    mini_batch_size=16,
-                    max_epochs=40)
+                    mini_batch_size=1,
+                    max_epochs=1)
 
     trainer_backward.train(f'models/resources/embeddings/{lang}/backward',
                     sequence_length=100,
                     learning_rate=0.5,
-                    mini_batch_size=16,
-                    max_epochs=40)
+                    mini_batch_size=1,
+                    max_epochs=1)
     plotter = Plotter()
     plotter.plot_training_curves(f'models/resources/embeddings/{lang}/loss.tsv')
 

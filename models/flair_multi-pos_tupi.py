@@ -32,8 +32,6 @@ upos_dictionary = corpus.make_label_dictionary(label_type=label_type)
 ################################
 tf_embeddings = TransformerWordEmbeddings('bert-base-multilingual-cased', fine_tune=True, layers='-1')
 
-#flair_embedding_forward = FlairEmbeddings('models/resources/embeddings/sk_forward/best-lm.pt')
-#flair_embedding_backward = FlairEmbeddings('models/resources/embeddings/sk_backward/best-lm.pt')
 # flair_embedding_forward = FlairEmbeddings('multi-forward')
 # flair_embedding_backward = FlairEmbeddings('multi-backward')
 
@@ -52,7 +50,7 @@ tagger = SequenceTagger(hidden_size=512,
 
 trainer = ModelTrainer(tagger, corpus)
 
-trainer.train('models/resources/taggers/my-upos',
+trainer.train('models/resources/taggers/my-upos-3',
                 train_with_dev=True,
                 monitor_train=True,
                 monitor_test=True,
