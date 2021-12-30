@@ -3,6 +3,7 @@ from flair.embeddings import FlairEmbeddings, TransformerWordEmbeddings, Stacked
 from flair.models import SequenceTagger
 from flair.trainers import ModelTrainer
 from helper_functions import conllu_to_flair
+from flair.visual.training_curves import Plotter
 
 
 ################################
@@ -59,3 +60,9 @@ trainer.train('models/resources/taggers/my-upos-3',
                 learning_rate=0.5,
                 mini_batch_size=16,
                 max_epochs=100)
+
+###############################
+### Visualizations          ###
+###############################
+plotter = Plotter()
+plotter.plot_training_curves('models/resources/taggers/sk_pos/loss.tsv')
