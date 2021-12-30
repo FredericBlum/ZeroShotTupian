@@ -16,13 +16,15 @@ corpus_7, char_dict = concat(['Guajajara', 'Tupinamba', 'Karo', 'Munduruku', 'Ka
 ################################
 ### Language Model           ###
 ################################
+corpus = TextCorpus("data/Tupinamba/embeddings", char_dict, is_forward_lm, character_level = True)
+
 language_model_for = LanguageModel(char_dict, is_forward_lm, hidden_size=512, nlayers=1)
 language_model_back = LanguageModel(char_dict, is_backward_lm, hidden_size=512, nlayers=1)
 
 ################################
 ### Trainers                 ###
 ################################
-trainer = LanguageModelTrainer(language_model_for, corpus_3)
+trainer = LanguageModelTrainer(language_model_for, corpus)
 trainer.train('models/resources/embeddings/tupi_3_for', sequence_length=50, mini_batch_size=16, learning_rate = 1, max_epochs=100)
 
 trainer = LanguageModelTrainer(language_model_back, corpus_3)
