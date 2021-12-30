@@ -183,17 +183,19 @@ def concat(languages: list, folder: str):
 
         lang_val.append("[SEP]")
         lang_test.append("[SEP]")
-        train.append((lang_train, lang))
+        lang_train.append("[SEP]")
 
         for sentence in lang_val:
             dev.append(sentence)        
         for sentence in lang_test:
             test.append(sentence)
-    
+        for sentence in lang_train:
+            train.append(sentence)
+
     data_emb = f'data/combi_emb/{folder}'
     dev_raw = "\n".join(dev)
     test_raw = "\n".join(test)
-    train_raw = "\n".join(test)
+    train_raw = "\n".join(train)
 
     with open(f'{data_emb}/valid.txt', 'w') as f:
         f.write(dev_raw)
