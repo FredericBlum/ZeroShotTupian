@@ -1,39 +1,47 @@
-omapi NOUN 0 root
-ete ADP 1 case
-? PUNCT 1 punct
-
 kwaẽ NOUN 3 obl
 te PRON 3 nsubj
 ipitka NOUN 0 root
 
-okwako NOUN 2 nmod
-ikona NOUN 0 root
-
-koni NOUN 2 nsubj
-tʃe VERB 0 root
-okɨp NOUN 2 obl
+kwako NOUN 2 nsubj
+aj VERB 0 root
+ek NOUN 2 obl
 etʃe ADP 3 case
 
-tawtʃeri NOUN 2 obl
-mia VERB 0 root
-kɨjtpit NOUN 2 parataxis
-nõm ADV 3 advmod
+karã NOUN 2 nmod
+tepna NOUN 0 root
 
-orẽ PRON 2 discourse
-oerekwa VERB 0 root
+tebõ PRON 3 nmod
+kɨte NUM 3 nummod
+purururu NOUN 0 root
+, PUNCT 5 punct
+kebõ DET 3 parataxis
+nõm ADV 5 advmod
 
-kitʃetara VERB 0 root
-kom PART 1 advmod
+kɨpek NOUN 2 case
+atʃiri NOUN 3 obl
+aj VERB 0 root
 
-pero NOUN 2 nmod
-okwaj NOUN 3 dislocated
-tokwaj NOUN 0 root
-perek ADJ 3 amod
+otojẽpitin NOUN 7 nsubj
+ẽ DET 3 nmod
+tow NOUN 1 appos
+ẽ DET 5 nmod
+tow NOUN 7 nsubj
+ebapap NOUN 7 nmod
+ɨro NOUN 0 root
+tojẽpitin NOUN 7 appos
+
+tekwata VERB 0 root
+Buko PROPN 1 obl
+ete ADP 2 case
+
+ekõ NOUN 2 obl
+ka VERB 0 root
 
 itʃoke NOUN 2 obj
 tʃop VERB 0 root
 en PRON 2 nsubj
 
-aparapiat NOUN 2 nmod
-kwamoa NOUN 3 obj
-oirika VERB 0 root
+ɨkɨ NOUN 2 obj
+ata VERB 0 root
+en PRON 2 nsubj
+ɨkɨpe NOUN 2 obl

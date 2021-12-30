@@ -1,48 +1,38 @@
-Tuti PROPN 4 obj
-ke PART 1 discourse
-ʃaʔe PROPN 4 nsubj
-jukwa VERB 0 root
-
-Maíra PROPN 2 nsubj
-wata VERB 0 root
-
-aʔeke PRON 3 nsubj
-ipɪke NOUN 3 obj
-tukwa VERB 0 root
-
-aʔeke PRON 2 nsubj
-uʔuta VERB 0 root
-pɪpɪhu NOUN 2 obj
-ketĩ PART 2 discourse
+pe ADV 4 advmod
+aʔi NOUN 4 nsubj
+ai NOUN 2 amod
+tur VERB 0 root
+je PART 4 discourse
+tĩ ADV 4 advmod
 
 Tapiʔir NOUN 2 obj
 ujan VERB 0 root
+oho VERB 2 compound
 
-ko ADV 4 advmod
-riki ADP 1 case
-ihē PRON 4 nsubj
-ahɪk VERB 0 root
-ajur VERB 4 csubj
-jarupa NOUN 4 obl
-rehe ADP 6 case
+kujãtake NOUN 3 nsubj
+upa PART 1 discourse
+mupinim VERB 0 root
 
-taʔɪn NOUN 2 nsubj
-ukwerta VERB 9 advcl
-je PART 2 discourse
-tĩ PART 2 discourse
-, PUNCT 2 punct
-ko DET 7 nmod
-aʔi NOUN 9 nsubj
-iháike NOUN 9 obj
-piɾokhũ VERB 0 root
-je PART 9 discourse
-pe ADV 9 advmod
-iʔaɾpe ADV 13 advmod
-pɪnuhũ VERB 9 conj
+aʔe PRON 4 nsubj
+ta PART 1 nmod
+ke PART 1 nmod
+uʔuta VERB 0 root
+moj NOUN 4 obj
+ke PART 5 nmod
+tĩ PART 5 discourse
 
-ne PRON 3 nsubj
-ihẽke PRON 3 obj
-renupã VERB 6 advcl
-rahã SCONJ 3 mark
-ihẽ PRON 6 obj
-ahota VERB 0 root
+aʔe PRON 3 nsubj
+ʔokke NOUN 3 obj
+mujã VERB 0 root
+
+Pe ADV 4 advmod
+, PUNCT 1 punct
+imãi NOUN 4 obj
+ihĩ VERB 0 root
+
+neke PRON 3 nsubj
+uʔike NOUN 3 obj
+rekarãjta VERB 0 root
+
+Purutu PROPN 2 nsubj
+ahem VERB 0 root

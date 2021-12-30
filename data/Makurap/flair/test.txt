@@ -1,13 +1,15 @@
-etera VERB 0 root
-korop VERB 1 xcomp
+ama NOUN 0 root
+etera VERB 1 parataxis
+kurux VERB 2 xcomp
 
-ngot NOUN 2 dep
-xiaret NOUN 0 root
+kux NOUN 2 obj
+kixa VERB 3 advcl
+ngarap VERB 0 root
+, PUNCT 3 punct
+pit PRON 3 parataxis
 
-i INTJ 5 discourse
-eya PART 5 dep
-on PRON 5 nsubj
-wet ADV 5 advmod
-toa VERB 0 root
-ke PART 5 discourse
-pit ADV 5 advmod
+ã INTJ 2 discourse
+en PRON 0 root
+emẽ DET 5 obj
+xop DET 2 dep
+nẽnẽkaret NOUN 4 dep

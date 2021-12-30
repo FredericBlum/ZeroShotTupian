@@ -1,44 +1,47 @@
-pe ADV 2 advmod
+jane PRON 2 nsubj
+japikũj VERB 0 root
+mi PART 2 discourse
+? PUNCT 2 punct
+
+pe ADV 6 advmod
+saʔe NOUN 3 nmod
+aʔi NOUN 6 nsubj
+ihái NOUN 6 obj
+ʃirurke NOUN 4 amod
+pirokhũ VERB 0 root
+je PART 6 discourse
+ihai NOUN 6 obj
+aike NOUN 8 amod
+
+pe CCONJ 7 cc
+taramō ADV 7 advmod
+kaitā PROPN 7 nsubj
+juʔipape NOUN 5 nmod
+piʔa NOUN 7 iobj
+usak VERB 7 ccomp
 oho VERB 0 root
-je PART 2 discourse
-tĩ ADV 2 advmod
+tī ADV 7 advmod
+pɪtuniwe ADV 7 advmod
 
-Xõru PROPN 2 nsubj
-nixói VERB 0 root
-se NOUN 2 obj
-aʔe PRON 2 nmod
+a’eta PRON 2 nsubj
+ajengar VERB 0 root
 
-Tapiʔir NOUN 2 obj
+Pe ADV 4 advmod
+, PUNCT 1 punct
+ihẽ PRON 4 obj
+asak VERB 0 root
+
+Tuti PROPN 4 obj
+ke PART 1 discourse
+ʃaʔe PROPN 4 nsubj
+jukwa VERB 0 root
+
+panduʔɪmanu VERB 0 root
+taʔɪn NOUN 1 nsubj
+je PART 1 discourse
+tĩ ADV 1 advmod
+
+Pe ADV 4 advmod
+, PUNCT 1 punct
+taʔɪrer NOUN 4 obj
 ujan VERB 0 root
-oho VERB 2 compound
-
-Arahã ADV 6 advmod
-maʔe NOUN 6 obj
-Kaninde PROPN 6 obl
-rehe ADP 3 case
-ihẽ PRON 6 nsubj
-araho VERB 0 root
-
-pahar ADV 5 advmod
-pahar ADV 5 advmod
-je PART 5 discourse
-kɪse NOUN 5 obj
-meʔē VERB 0 root
-ngā PRON 5 nsubj
-
-Maiɾ PROPN 3 nsubj
-ɪwɪke NOUN 3 obj
-hapɪ VERB 0 root
-
-pe CCONJ 5 cc
-riki ADV 5 advmod
-katar NOUN 5 obj
-ngã PRON 5 nsubj
-muhɪk VERB 0 root
-
-a’eta PRON 6 nsubj
-ma’e NOUN 3 nmod
-jukwahá NOUN 6 obj
-ihẽke PRON 6 obl
-pe ADP 4 obl
-me’ẽ VERB 0 root

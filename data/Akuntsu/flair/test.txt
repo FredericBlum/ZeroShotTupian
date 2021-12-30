@@ -1,47 +1,61 @@
-Buko PROPN 4 nsubj
-kɨte NUM 3 nummod
-korakora NOUN 4 obj
-mi VERB 0 root
+imen NOUN 2 nmod
+iõ NOUN 4 nmod
+imepit NOUN 4 nmod
+menna NOUN 0 root
 
-erẽ PRON 3 nsubj
-epo NOUN 3 obj
-tʃoga VERB 0 root
-erẽ PRON 1 discourse
+poga NOUN 2 nmod
+pe NOUN 3 nmod
+pi NOUN 7 nsubj
+, PUNCT 3 punct
+ameko NOUN 7 nsubj
+ikora VERB 7 dep
+tʃe AUX 0 root
 
-Ariano PROPN 2 nsubj
-teita VERB 0 root
-kɨrẽ ADV 2 advmod
-
-omepit NOUN 2 nmod
-tek NOUN 3 nmod
-pi NOUN 4 obj
-tʃopa VERB 0 root
-on PRON 4 nsubj
-
-en PRON 2 nsubj
-aramĩra NOUN 0 root
-, PUNCT 4 punct
-aramĩra NOUN 5 nmod
-baba NOUN 2 nmod
+aparapia NOUN 2 nmod
+tet NOUN 0 root
+ete ADP 2 case
+? PUNCT 2 punct
 
 Patʃo PROPN 4 nsubj
 Patʃe PROPN 4 nsubj
 tɨɾɨ NUM 4 nummod
 tajtʃi NOUN 0 root
 
-Pura PROPN 3 nsubj
-te PART 3 discourse
-kɨte NUM 0 root
+okere NOUN 2 nsubj
+atʃi NOUN 0 root
+pibõ NOUN 2 obl
 
-Pupak PROPN 3 nsubj
-kɨjtpitatʃo NOUN 3 obj
-ata VERB 0 root
-kom PART 3 advmod
+tʃarimẽ NOUN 2 nmod
+okwaj NOUN 0 root
+, PUNCT 2 punct
+tokwajet NOUN 2 parataxis
 
-ek NOUN 3 obl
-etʃe ADP 1 case
-imaã VERB 0 root
+tʃoktʃok VERB 3 dep
+atiti NOUN 3 obj
+ta VERB 0 root
 
-ɨkɨ NOUN 2 nmod
-pekã NOUN 3 nsubj
-ana PART 0 root
+kwena NOUN 0 root
+, PUNCT 1 punct
+tawtʃena NOUN 1 conj
+, PUNCT 3 punct
+takɨrapna NOUN 3 conj
+, PUNCT 5 punct
+tawpɨkna NOUN 5 conj
+, PUNCT 7 punct
+tatona NOUN 7 conj
+, PUNCT 9 punct
+tato NOUN 12 obj
+kwakwa VERB 9 conj
+, PUNCT 12 punct
+takɨrap NOUN 15 obj
+kwakwa VERB 12 parataxis
+
+te PRON 3 nsubj
+aj NOUN 3 obj
+koa VERB 0 root
+, PUNCT 3 punct
+ajet NOUN 6 obj
+koa VERB 3 parataxis
+
+en PRON 2 nsubj
+ikoromka VERB 0 root
