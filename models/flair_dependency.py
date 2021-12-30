@@ -12,7 +12,7 @@ from helper_functions import conllu_to_flair
 ################################
 ### data and dictionaries    ###
 ################################
-corpus, gold_dict, word_dict = conllu_to_flair('./data/Shipibo/shipibo-2018jul4.converted.conllu', lang = "Shipibo")
+corpus = conllu_to_flair('./data/Shipibo/shipibo-2018jul4.converted.conllu', lang = "Shipibo")
 label_type = 'deprel'
 dictionary = corpus.make_label_dictionary(label_type='deprel')
 
@@ -31,7 +31,7 @@ embeddings = StackedEmbeddings(embeddings=[#transformer_embeddings,
 ################################
 ### Tagger and Trainer       ###
 ################################
-tagger = DependencyParser(lstm_hidden_size=256,
+tagger = DependencyParser(lstm_hidden_size=512,
                         token_embeddings=embeddings,
                         relations_dictionary=dictionary,
                         tag_type=label_type)
@@ -40,9 +40,16 @@ trainer = ModelTrainer(tagger, corpus)
 
 trainer.train('models/resources/taggers/sk_dep',
                 train_with_dev=True,
-                learning_rate=0.2,
-                mini_batch_size=8,
-                max_epochs=70)
+                learning_rate=0.1,
+                mini_batch_size=16,
+                max_epochs=100,
+                monitor_train=True,
+                monitor_test=True,
+                anneal_with_restarts=True,
+                # use_tensorboard=True,
+                # tensorboard_log_dir='models/resources/taggers/sk_pos/tensorboard',
+                # metrics_for_tensorboard=[("macro avg", "precision"), ("macro avg", "f1-score")],
+                patience=3)
 
 ###############################
 ### Visualizations          ###

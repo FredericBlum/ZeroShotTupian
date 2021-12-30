@@ -6,8 +6,6 @@ from flair.datasets import ColumnCorpus
 
 def conllu_to_flair(path_in, lang):
     data = []
-    word_dict = Dictionary()
-    gold_dict = {}
     count: int = 0
 
     with open(path_in) as file:
@@ -24,17 +22,13 @@ def conllu_to_flair(path_in, lang):
                     utterance.append(combined)
                     count += 1
 
-                    if tok['form'] not in gold_dict:
-                         gold_dict[tok['form']] = tok['deprel']
-                         word_dict.add_item(tok['form'])
-
             utt_str = "\n".join(utterance)
             data.append(utt_str)
 
     overall = len(data)
     tenth = int(round((overall/10), 0))
     rest = int(overall - tenth - tenth)
-    dev, test, train = random_split(data, [tenth, tenth, rest])
+    dev, test, train = random_split(data, [tenth, tenth, rest], generator=torch.Generator().manual_seed(1))
     columns = {0: 'text', 1: 'upos', 2:'head', 3: 'deprel'}
     data_folder = f'./data/{lang}/flair'
 
@@ -54,10 +48,10 @@ def conllu_to_flair(path_in, lang):
                                 test_file = 'test.txt',
                                 dev_file = 'dev.txt')
     
+    print(f"The {lang} corpus contains {count} tokens in total.")
     print(corpus)
-    print(f"The {lang} corpus contains {count} tokens in total. There are {len(word_dict)} lemmas.")
 
-    return corpus, gold_dict, word_dict
+    return corpus
 
 def make_dictionary(path_in, unk_threshold: int = 0):
     with open(path_in) as file:

@@ -8,7 +8,7 @@ from helper_functions import conllu_to_flair
 ################################
 ### data and dictionaries    ###
 ################################
-corpus, gold_dict, word_dict = conllu_to_flair('./data/Shipibo/shipibo-2018jul4.converted.conllu', lang = 'Shipibo')
+corpus = conllu_to_flair('./data/Shipibo/shipibo-2018jul4.converted.conllu', lang = 'Shipibo')
 upos_dictionary = corpus.make_label_dictionary(label_type='upos')
 label_type = 'upos'
 
