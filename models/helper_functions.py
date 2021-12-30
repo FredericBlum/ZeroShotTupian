@@ -136,33 +136,30 @@ def concat(languages: list, folder: str):
 
     for lang in languages:
         lang_text = []
-        print(lang)
         with open(f'data/{lang}/embeddings/train/train.txt') as file:
             doc = file.read()
             text = rewrite(doc)
             for utt in text:
                 lang_text.append(utt)
-                for char in utt:
-                    if char not in word_dict:
-                        word_dict.add_item(char)
-
+		for char in utt:
+                    if char_dict.get_idx_for_item != 0:
+			char_dict.add_item(char)
         with open(f'data/{lang}/embeddings/valid.txt') as file:
             doc = file.read()
             text = rewrite(doc)
             for utt in text:
                 lang_text.append(utt)
-                for char in utt:
-                    if char not in word_dict:
-                        word_dict.add_item(char)
-
+		for char in utt:
+		    if char_dict.get_idx_for_item != 0:
+			char_dict.add_item(char)
         with open(f'data/{lang}/embeddings/test.txt') as file:
             doc = file.read()
             text = rewrite(doc)
             for utt in text:
                 lang_text.append(utt)
-                for char in utt:
-                    if char not in word_dict:
-                        word_dict.add_item(char)
+		for char in utt:
+		    if char_dict.get_idx_for_item != 0:
+			char_dict.add_item(char)
 
         lang_train, validtext = train_test_split(lang_text, random_state=42, test_size=.2)
         lang_val, lang_test = train_test_split(validtext, random_state=42, test_size=0.5)
@@ -179,16 +176,14 @@ def concat(languages: list, folder: str):
     data_emb = f'data/combi_emb/{folder}'
     dev_raw = "\n".join(dev)
     test_raw = "\n".join(test)
+    train_raw = "\n".join(test)
 
     with open(f'{data_emb}/valid.txt', 'w') as f:
         f.write(dev_raw)
     with open(f'{data_emb}/test.txt', 'w') as f:
         f.write(test_raw)
-
-    for corpus, lang in train:
-        train_raw = " ".join(corpus)
-        with open(f'{data_emb}/train/{lang}.txt', 'w') as f:
-            f.write(train_raw)
+    with open(f'{data_emb}/train/train.txt', 'w') as f:
+        f.write(train_raw)
 
     corpus = TextCorpus(f'data/combi_emb/{folder}', char_dict, True, character_level=True)
 
