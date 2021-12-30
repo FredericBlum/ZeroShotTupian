@@ -32,14 +32,13 @@ upos_dictionary = corpus.make_label_dictionary(label_type=label_type)
 ################################
 ### Embeddings               ###
 ################################
-# tf_embeddings = TransformerWordEmbeddings('bert-base-multilingual-cased', fine_tune=True, layers='-1')
 
-flair_embedding_forward = FlairEmbeddings('multi-forward')
-flair_embedding_backward = FlairEmbeddings('multi-backward')
+flair_embedding_forward = FlairEmbeddings('models/resources/embeddings/tupi_3_for/best-lm.pt')
+flair_embedding_backward = FlairEmbeddings('models/resources/embeddings/tupi_3_back/best-lm.pt')
 
-embeddings = StackedEmbeddings(embeddings=[tf_embeddings,
+embeddings = StackedEmbeddings(embeddings=[#tf_embeddings,
                                            flair_embedding_forward, flair_embedding_backward])
-# embeddings = tf_embeddings
+embeddings = TransformerWordEmbeddings("bert-multilingual-base-cased", fine_tune=True, layers="-1")
 
 ################################
 ### Tagger and Trainer       ###
@@ -60,7 +59,7 @@ trainer.train('models/resources/taggers/my-upos-3',
                 anneal_with_restarts=True,
                 learning_rate=0.5,
                 mini_batch_size=16,
-                max_epochs=100)
+                max_epochs=150)
 
 ###############################
 ### Visualizations          ###
