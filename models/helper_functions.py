@@ -8,35 +8,35 @@ from flair.trainers.language_model_trainer import LanguageModelTrainer, TextCorp
 from flair.visual.training_curves import Plotter
 
 def conllu_to_flair(path_in, lang, write_corpus: bool = False, write_raw: bool = False):
-    data = []
-    raw_text = []
-    count: int = 0
-
-    with open(path_in) as file:
-        doc = file.read()
-        doc = parse(doc)
-
-        for line in doc:                           
-            utterance = []
-            sent = []
-            
-            for tok in line:
-                if tok['upos'] != "_":
-                    tok['form'] = tok['form'].replace("-", "")
-                    combined = tok['form'] + " " + tok['upos'] + " " + str(tok['head']) + " " + tok['deprel']
-                    utterance.append(combined)
-                    sent.append(tok['form'])
-                    count += 1
-
-            utt_str = "\n".join(utterance)
-            sent_str = "\n".join(sent)
-            data.append(utt_str)
-            raw_text.append(sent_str)
-
     data_folder = f'./data/{lang}/flair'
     columns = {0: 'text', 1: 'upos', 2:'head', 3: 'deprel'}
 
     if write_corpus == True:
+        data = []
+        raw_text = []
+        count: int = 0
+
+        with open(path_in) as file:
+            doc = file.read()
+            doc = parse(doc)
+
+            for line in doc:                           
+                utterance = []
+                sent = []
+                
+                for tok in line:
+                    if tok['upos'] != "_":
+                        tok['form'] = tok['form'].replace("-", "")
+                        combined = tok['form'] + " " + tok['upos'] + " " + str(tok['head']) + " " + tok['deprel']
+                        utterance.append(combined)
+                        sent.append(tok['form'])
+                        count += 1
+
+                utt_str = "\n".join(utterance)
+                sent_str = "\n".join(sent)
+                data.append(utt_str)
+                raw_text.append(sent_str)
+
         overall = len(data)
         tenth = int(round((overall/10), 0))
         rest = int(overall - tenth - tenth)
@@ -55,9 +55,10 @@ def conllu_to_flair(path_in, lang, write_corpus: bool = False, write_raw: bool =
             f.write(train)
         with open(f'{data_folder}/all_in_one.txt', 'w') as f:
             f.write(all_in_one)
+
     corpus: Corpus = ColumnCorpus(data_folder, columns,
-                                train_file = 'all_in_one.txt',
-                                #train_file = 'train.txt',
+                                #train_file = 'all_in_one.txt',
+                                train_file = 'train.txt',
                                 test_file = 'test.txt',
                                 dev_file = 'dev.txt')
 
