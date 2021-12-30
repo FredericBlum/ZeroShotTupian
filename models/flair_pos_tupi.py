@@ -24,8 +24,8 @@ corpus = MultiCorpus([akuntsu,
 ################################
 ### Tagger and Trainer       ###
 ################################
-tagger = SequenceTagger.load('multi-pos')
-# tagger = SequenceTagger('models/resources/taggers/my-upos-3')
+# tagger = SequenceTagger.load('multi-pos')
+tagger = SequenceTagger('models/resources/taggers/my-upos-3')
 # tagger = SequenceTagger('models/resources/taggers/dep_tupi')
 
 
