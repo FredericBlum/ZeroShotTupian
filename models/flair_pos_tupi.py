@@ -11,6 +11,9 @@ akuntsu = make_testset(language = 'Akuntsu')
 kaapor = make_testset(language = 'Kaapor')
 makurap = make_testset(language = 'Makurap')
 munduruku = make_testset(language = 'Munduruku')
+# guajajara = make_testset(language = 'Guajajara')
+# tupinamba = make_testset(language = 'Tupinamba')
+# karo = make_testset(language = 'Karo')
 
 corpus = MultiCorpus([akuntsu, 
                         kaapor, 
@@ -21,9 +24,9 @@ corpus = MultiCorpus([akuntsu,
 ################################
 ### Tagger and Trainer       ###
 ################################
-# tagger = SequenceTagger.load('multi-pos')
-tagger = SequenceTagger.load('models/resources/taggers/my-upos-3')
-# tagger = SequenceTagger.load('models/resources/taggers/dep_tupi')
+tagger = SequenceTagger.load('multi-pos')
+# tagger = SequenceTagger('models/resources/taggers/my-upos-3')
+# tagger = SequenceTagger('models/resources/taggers/dep_tupi')
 
 
 trainer = ModelTrainer(tagger, corpus)
