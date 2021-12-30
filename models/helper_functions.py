@@ -131,3 +131,13 @@ def write_tupi():
     makurap = conllu_to_flair('../UD/UD_Makurap-TuDeT/mpu_tudet-ud-test.conllu', lang = 'Makurap', write_corpus = True, write_raw = True)
     munduruku = conllu_to_flair('../UD/UD_Munduruku-TuDeT/myu_tudet-ud-test.conllu', lang = 'Munduruku', write_corpus = True, write_raw = True)
     tupinamba = conllu_to_flair('../UD/UD_Tupinamba-TuDeT/tpn_tudet-ud-test.conllu', lang = 'Tupinamba', write_corpus = True, write_raw = True)
+
+def make_testset(language):
+    data_folder = f'data/{language}/flair'
+    columns = {0: 'text', 1: 'upos', 2:'head', 3: 'deprel'}
+
+    corpus: Corpus = ColumnCorpus(data_folder, columns,
+                            train_file = 'train.txt',
+                            test_file = 'all_in_one.txt',
+                            dev_file = 'dev.txt')
+    return corpus

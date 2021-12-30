@@ -32,14 +32,14 @@ upos_dictionary = corpus.make_label_dictionary(label_type=label_type)
 ################################
 ### Embeddings               ###
 ################################
-tf_embeddings = TransformerWordEmbeddings('bert-base-multilingual-cased', fine_tune=True, layers='-1')
+# tf_embeddings = TransformerWordEmbeddings('bert-base-multilingual-cased', fine_tune=True, layers='-1')
 
-# flair_embedding_forward = FlairEmbeddings('multi-forward')
-# flair_embedding_backward = FlairEmbeddings('multi-backward')
+flair_embedding_forward = FlairEmbeddings('multi-forward')
+flair_embedding_backward = FlairEmbeddings('multi-backward')
 
-#embeddings = StackedEmbeddings(embeddings=[# tf_embeddings,
-#                                           flair_embedding_forward, flair_embedding_backward])
-embeddings = tf_embeddings
+embeddings = StackedEmbeddings(embeddings=[tf_embeddings,
+                                           flair_embedding_forward, flair_embedding_backward])
+# embeddings = tf_embeddings
 
 ################################
 ### Tagger and Trainer       ###
