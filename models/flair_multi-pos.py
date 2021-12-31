@@ -28,8 +28,8 @@ upos_dictionary = corpus.make_label_dictionary(label_type=label_type)
 ################################
 flair_embedding_forward = FlairEmbeddings('models/resources/embeddings/tupi_3_for/best-lm.pt')
 flair_embedding_backward = FlairEmbeddings('models/resources/embeddings/tupi_3_back/best-lm.pt')
-# embeddings = TransformerWordEmbeddings("bert-base-multilingual-cased", fine_tune=True, layers="-1")
-embeddings = StackedEmbeddings(embeddings=[flair_embedding_forward, flair_embedding_backward])
+embeddings = TransformerWordEmbeddings("bert-base-multilingual-cased", fine_tune=True, layers="-1")
+#embeddings = StackedEmbeddings(embeddings=[flair_embedding_forward, flair_embedding_backward])
 
 
 ################################
