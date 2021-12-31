@@ -1,3 +1,101 @@
+etera VERB 0 root
+korop VERB 1 xcomp
+
+op ADV 2 advmod
+ten VERB 0 root
+eya PART 2 dep
+õn PRON 2 nsubj
+
+Kito NOUN 7 nsubj
+nãkowut NOUN 7 obj
+moat NOUN 4 dep
+xauwet NOUN 2 nmod
+moke NOUN 4 conj
+kepit CCONJ 5 cc
+xagara VERB 0 root
+
+etera VERB 0 root
+kurux VERB 1 parataxis
+amang VERB 1 parataxis
+ngot NOUN 5 obj
+keya VERB 1 parataxis
+pīxe ADV 5 advmod
+
+mokat ADV 2 advmod
+etera VERB 0 root
+korop VERB 2 dep
+noa NOUN 3 obl
+pe ADP 4 case
+
+mokat ADV 2 advmod
+etera VERB 0 root
+kurux VERB 2 parataxis
+amang VERB 2 parataxis
+pīxe ADV 4 advmod
+
+xop DET 2 obj
+ten VERB 0 root
+eya PART 2 dep
+on PRON 2 nsubj
+ke PART 2 discourse
+
+nãpẽrenã ADV 3 advmod
+kito NOUN 3 nsubj
+eapītera VERB 0 root
+pīxe AUX 3 aux
+
+wotye VERB 0 root
+pukpuga VERB 1 advcl
+pit PRON 2 parataxis
+
+ngot NOUN 2 dep
+xiaret NOUN 0 root
+
+yãn ADV 3 advmod
+oxepngoret NOUN 3 obj
+oerã VERB 0 root
+kepit CCONJ 5 cc
+eta VERB 3 conj
+on PRON 5 nsubj
+toa VERB 5 dep
+
+kito NOUN 6 obj
+moke NOUN 3 nmod
+xiat NOUN 1 nmod
+ekuwaora VERB 1 dep
+kepit CCONJ 6 dep
+pukpuga VERB 0 root
+õn PRON 6 nsubj
+
+xeke PRON 0 root
+xēke PART 1 discourse
+ke PART 1 discourse
+
+mokat ADV 3 advmod
+peitõã ADV 3 advmod
+etera VERB 0 root
+amang VERB 3 parataxis
+korop VERB 3 parataxis
+kux NOUN 5 obl
+me ADP 6 case
+
+kepit CCONJ 5 cc
+eya PART 5 dep
+õn PRON 5 nsubj
+waokatmõ ADV 5 advmod
+papiknga VERB 0 root
+ke PART 5 discourse
+
+arimot NOUN 0 root
+urot NOUN 1 nmod
+arimot NOUN 1 discourse
+urot NOUN 3 nmod
+
+põrom ADV 2 advmod
+toa VERB 0 root
+, PUNCT 2 punct
+pit PRON 2 parataxis
+
 i INTJ 5 discourse
 eya PART 5 dep
 on PRON 5 nsubj
@@ -5,6 +103,21 @@ wet ADV 5 advmod
 toa VERB 0 root
 ke PART 5 discourse
 pit ADV 5 advmod
+
+woaret NOUN 0 root
+koa PART 1 discourse
+
+mokat ADV 2 advmod
+etera VERB 0 root
+kurux VERB 2 conj
+
+mawo NOUN 2 obj
+papīknga VERB 0 root
+mokat ADV 5 advmod
+etyenkuax NOUN 5 obj
+nã VERB 2 parataxis
+xoknga VERB 5 parataxis
+xok VERB 6 dep
 
 xop DET 4 obl
 me ADP 1 case
@@ -19,123 +132,8 @@ ten ADV 4 advmod
 nã VERB 5 xcomp
 peka VERB 0 root
 
-mawo NOUN 2 obj
-papīknga VERB 0 root
-mokat ADV 5 advmod
-etyenkuax NOUN 5 obj
-nã VERB 2 parataxis
-xoknga VERB 5 parataxis
-xok VERB 6 dep
-
-mokat ADV 2 advmod
-etera VERB 0 root
-kurux VERB 2 conj
-
-etera VERB 0 root
-kurux VERB 1 parataxis
-amang VERB 1 parataxis
-ngot NOUN 5 obj
-keya VERB 1 parataxis
-pīxe ADV 5 advmod
-
 ã INTJ 2 discourse
 en PRON 0 root
 emẽ DET 5 obj
 xop DET 2 dep
 nẽnẽkaret NOUN 4 dep
-
-xeke PRON 0 root
-xēke PART 1 discourse
-ke PART 1 discourse
-
-mokat ADV 3 advmod
-peitõã ADV 3 advmod
-etera VERB 0 root
-amang VERB 3 parataxis
-korop VERB 3 parataxis
-kux NOUN 5 obl
-me ADP 6 case
-
-mokat ADV 2 advmod
-etera VERB 0 root
-kurux VERB 2 parataxis
-amang VERB 2 parataxis
-pīxe ADV 4 advmod
-
-kux NOUN 2 obj
-kixa VERB 3 advcl
-ngarap VERB 0 root
-, PUNCT 3 punct
-pit PRON 3 parataxis
-
-putorot NOUN 0 root
-xēke PART 1 discourse
-ke PART 1 discourse
-xēt PART 1 dep
-
-ama ADV 4 advmod
-ngot NOUN 3 nmod
-xiaret NOUN 4 nsubj
-eya VERB 0 root
-kurux VERB 4 dep
-amang VERB 4 dep
-ngot NOUN 8 obj
-oen VERB 4 parataxis
-wimõ ADV 8 advmod
-nitēt PART 8 discourse
-
-yãn ADV 3 advmod
-oxepngoret NOUN 3 obj
-oerã VERB 0 root
-kepit CCONJ 5 cc
-eta VERB 3 conj
-on PRON 5 nsubj
-toa VERB 5 dep
-
-woaret NOUN 0 root
-koa PART 1 discourse
-
-ama NOUN 0 root
-etera VERB 1 parataxis
-kurux VERB 2 xcomp
-
-kito NOUN 6 obj
-moke NOUN 3 nmod
-xiat NOUN 1 nmod
-ekuwaora VERB 1 dep
-kepit CCONJ 6 dep
-pukpuga VERB 0 root
-õn PRON 6 nsubj
-
-arimot NOUN 0 root
-urot NOUN 1 nmod
-arimot NOUN 1 discourse
-urot NOUN 3 nmod
-
-nãpẽrenã ADV 3 advmod
-kito NOUN 3 nsubj
-eapītera VERB 0 root
-pīxe AUX 3 aux
-
-wotye VERB 0 root
-pukpuga VERB 1 advcl
-pit PRON 2 parataxis
-
-põrom ADV 2 advmod
-toa VERB 0 root
-, PUNCT 2 punct
-pit PRON 2 parataxis
-
-xop DET 2 obj
-ten VERB 0 root
-eya PART 2 dep
-on PRON 2 nsubj
-ke PART 2 discourse
-
-yeman ADV 3 advmod
-ngot NOUN 3 obj
-kana VERB 0 root
-oen VERB 3 dep
-
-etxekup NOUN 2 obj
-keya VERB 0 root

@@ -1,43 +1,38 @@
-Purutuke PROPN 2 nsubj
+ihẽ PRON 3 nsubj
+a’etake PRON 3 nsubj
+amujengar VERB 0 root
+
+pahar ADV 5 advmod
+pahar ADV 5 advmod
+je PART 5 discourse
+kɪse NOUN 5 obj
+meʔē VERB 0 root
+ngā PRON 5 nsubj
+
+ihẽke PRON 2 nsubj
+aʔar VERB 0 root
+
+pɪnupɪnuate VERB 0 root
+ehe ADP 1 case
+je PART 1 discourse
+
+Peteĩ PRON 4 nsubj
+Xõru PROPN 4 nsubj
+jahy NOUN 4 obj
+kanim VERB 0 root
+oho VERB 4 compound
+
+ɪmante ADV 4 advmod
+pe ADV 4 advmod
+aʔike NOUN 4 nsubj
+manõ VERB 0 root
+je‘ɪ PART 4 discourse
+
+ne PRON 4 nsubj
+ihẽ PRON 3 nmod
+miʔuke NOUN 4 obj
+reʔutĩ VERB 0 root
+
+Arauxu PROPN 2 nsubj
 ahem VERB 0 root
-
-aʔeke PRON 3 nsubj
-ehake NOUN 3 obj
-tukwatĩ VERB 0 root
-
-karai NOUN 4 nsubj
-riki ADV 1 advmod
-muka NOUN 4 obj
-mopok VERB 0 root
-
-pe CCONJ 3 cc
-ɪ NOUN 3 nmod
-rɪmɪʔɪ NOUN 0 root
-rehe ADP 3 obl
-riki ADP 3 case
-kamarar PROPN 8 nmod
-ta PRON 6 nmod
-pirer NOUN 3 obl
-pirā NOUN 8 amod
-
-Pe ADV 4 advmod
-, PUNCT 1 punct
-ihẽ PRON 4 obj
-asak VERB 0 root
-
-a’eta PRON 6 nsubj
-ma’e NOUN 3 nmod
-jukwahá NOUN 6 obj
-ihẽke PRON 6 obl
-pe ADP 4 obl
-me’ẽ VERB 0 root
-
-Arahã ADV 6 advmod
-maʔe NOUN 6 obj
-Kaninde PROPN 6 obl
-rehe ADP 3 case
-ihẽ PRON 6 nsubj
-araho VERB 0 root
-
-Maíra PROPN 2 nsubj
-wata VERB 0 root
+uhu ADV 2 advmod

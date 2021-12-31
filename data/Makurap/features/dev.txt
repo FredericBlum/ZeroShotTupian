@@ -1,22 +1,16 @@
-op ADV 2 advmod
-ten VERB 0 root
-eya PART 2 dep
-õn PRON 2 nsubj
+ama NOUN 0 root
+etera VERB 1 parataxis
+kurux VERB 2 xcomp
 
-Kito NOUN 7 nsubj
-nãkowut NOUN 7 obj
-moat NOUN 4 dep
-xauwet NOUN 2 nmod
-moke NOUN 4 conj
-kepit CCONJ 5 cc
-xagara VERB 0 root
+yeman ADV 3 advmod
+ngot NOUN 3 obj
+kana VERB 0 root
+oen VERB 3 dep
 
-etera VERB 0 root
-korop VERB 1 xcomp
+opũãtemwã VERB 0 root
+ota AUX 1 aux
 
-kepit CCONJ 5 cc
-eya PART 5 dep
-õn PRON 5 nsubj
-waokatmõ ADV 5 advmod
-papiknga VERB 0 root
-ke PART 5 discourse
+putorot NOUN 0 root
+xēke PART 1 discourse
+ke PART 1 discourse
+xēt PART 1 dep

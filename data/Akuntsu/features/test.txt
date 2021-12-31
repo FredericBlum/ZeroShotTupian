@@ -1,44 +1,40 @@
-tebõ PRON 3 nmod
-kɨte NUM 3 nummod
-purururu NOUN 0 root
-, PUNCT 5 punct
-kebõ DET 3 parataxis
-nõm ADV 5 advmod
+kɨp NOUN 2 nmod
+tep NOUN 0 root
+eanampe NOUN 2 obl
 
-on PRON 2 nsubj
-ita VERB 0 root
-tʃoktʃok VERB 2 dep
+ep NOUN 2 obj
+koa VERB 0 root
+jẽ DET 2 nsubj
 
-karã NOUN 2 nmod
-tepna NOUN 0 root
+niam NOUN 3 obj
+Tʃaruj PROPN 3 nmod
+imokwa NOUN 0 root
 
-kitʃe PRON 0 root
-aramĩra NOUN 1 nsubj
+omapi NOUN 0 root
+ete ADP 1 case
+? PUNCT 1 punct
 
-erape ADV 2 advmod
-tekwata VERB 0 root
+koro NOUN 2 nmod
+am NOUN 0 root
 , PUNCT 2 punct
-kɨrẽbõ NOUN 2 obl
-nõm ADV 2 advmod
+eme DET 5 nmod
+tetna NOUN 2 appos
 
-kitʃe PRON 3 nsubj
-kɨp NOUN 3 obj
-boja VERB 0 root
+aparapia NOUN 2 nmod
+tet NOUN 0 root
+ete ADP 2 case
+? PUNCT 2 punct
 
-okɨp NOUN 2 nmod
-atap NOUN 0 root
-erom ADV 2 advmod
-, PUNCT 2 punct
-ke DET 6 nmod
-kɨp NOUN 7 nmod
-atap NOUN 2 discourse
+Pura PROPN 2 nsubj
+ikoa VERB 0 root
+te PART 2 discourse
 
-kitʃetara VERB 0 root
-kom PART 1 advmod
+oiko NOUN 3 obj
+tokwa VERB 3 ccomp
+ojã AUX 0 root
 
-en PRON 2 nsubj
-ikoromka VERB 0 root
+okwako NOUN 2 nmod
+ikona NOUN 0 root
 
-tʃoktʃok VERB 3 dep
-atiti NOUN 3 obj
-ta VERB 0 root
+oetara VERB 0 root
+otoa AUX 1 aux

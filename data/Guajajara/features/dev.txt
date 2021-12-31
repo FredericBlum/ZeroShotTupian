@@ -1,5 +1,244 @@
-Awaxi NOUN 0 root
-ruʔu PART 1 discourse
+Taʔe SCONJ 2 mark
+amàno VERB 7 ccomp
+eteaʔi ADV 2 advmod
+ihe PRON 2 nsubj
+xe PART 2 discourse
+, PUNCT 2 punct
+iʔi VERB 0 root
+muaʔu ADV 7 advmod
+zekaipo ADV 7 advmod
+wanupe ADP 7 iobj
+. PUNCT 7 punct
+
+Oho VERB 0 root
+umaʔe NOUN 3 obj
+iputukapa VERB 1 advcl
+aʔe PART 1 discourse
+. PUNCT 1 punct
+
+Wexak VERB 0 root
+Fábio PROPN 1 nsubj
+Márcia PROPN 1 obj
+
+Mon PRON 0 root
+aipo PART 1 discourse
+
+Uzekok VERB 0 root
+ɨwɨok NOUN 1 obl
+rehe ADP 2 case
+
+Uhem VERB 0 root
+oho VERB 1 dep
+aʔepe PRON 1 obl
+wà PART 1 discourse
+kurɨ PART 1 discourse
+, PUNCT 1 punct
+tuaʔu NOUN 8 nsubj
+iʔi VERB 1 conj
+tɨkɨʔɨrpe NOUN 8 obl
+eziwà VERB 13 ccomp
+neno PART 10 discourse
+tɨ PART 10 discourse
+iʔi VERB 8 conj
+izupe ADP 13 iobj
+
+Maʔe NOUN 4 obl
+mehe ADP 1 case
+te PART 1 discourse
+uzɨwɨr VERB 0 root
+wà PART 4 discourse
+
+Umeʔe VERB 0 root
+Mari PROPN 1 nsubj
+pino NOUN 1 obl
+rehe ADP 3 case
+. PUNCT 1 punct
+
+Oho VERB 0 root
+hoko NOUN 1 nsubj
+kaʔape NOUN 1 obl
+kurɨ PART 1 discourse
+. PUNCT 1 punct
+
+Wekar VERB 0 root
+teko NOUN 1 nsubj
+kaʔa NOUN 1 obj
+te PART 3 discourse
+oho VERB 1 dep
+. PUNCT 1 punct
+
+Uhem VERB 0 root
+Zuze PROPN 1 nsubj
+oho VERB 1 dep
+kope NOUN 1 obl
+kurɨ PART 1 discourse
+. PUNCT 1 punct
+
+Heta VERB 0 root
+aguza NOUN 1 nsubj
+Zuze PROPN 4 nmod
+ràpuz NOUN 1 obl
+me ADP 4 case
+wà PART 1 discourse
+. PUNCT 1 punct
+
+Ɨrɨhupe NOUN 3 obl
+heta VERB 0 root
+maʔe NOUN 2 nsubj
+putɨr NOUN 3 nmod
+teteaʔu ADV 3 advmod
+iʔaromo ADV 2 advmod
+. PUNCT 2 punct
+
+Nuzapo VERB 0 root
+pixik NOUN 1 obl
+kwaw ADV 2 advmod
+agwer DET 5 det
+maʔe NOUN 1 obj
+amo DET 8 det
+ae PART 6 discourse
+awape NOUN 1 obl
+
+Naxigatu VERB 0 root
+kwaw ADV 1 advmod
+kurɨ PART 1 discourse
+. PUNCT 1 punct
+
+Uwagaw VERB 0 root
+ipɨ NOUN 1 obj
+zekaipo ADV 1 advmod
+uʔɨw NOUN 2 nmod
+wanehe ADP 1 obl
+, PUNCT 1 punct
+nomomorkwaw VERB 1 conj
+imono VERB 7 dep
+wanupe ADP 7 obl
+rihi PART 7 discourse
+. PUNCT 7 punct
+
+Tɨkɨʔɨr NOUN 2 nsubj
+oho VERB 0 root
+zekaipo ADV 2 advmod
+hapuz NOUN 2 obl
+me ADP 4 case
+, PUNCT 2 punct
+hehe ADP 8 obl
+puranupa VERB 2 advcl
+: PUNCT 8 punct
+
+Heta VERB 0 root
+muhu NOUN 1 nsubj
+aʔepe PRON 1 obl
+no PART 1 discourse
+. PUNCT 1 punct
+
+Pepaʔu NOUN 2 obl
+uʔar VERB 0 root
+oho VERB 2 dep
+, PUNCT 2 punct
+naʔe CCONJ 6 discourse
+umàno VERB 2 parataxis
+kurɨ PART 6 discourse
+. PUNCT 6 punct
+
+Umeʔe VERB 0 root
+akara NOUN 1 obl
+rehe ADP 2 case
+. PUNCT 1 punct
+
+Nan INTJ 0 root
+, PUNCT 1 punct
+pe NOUN 5 obl
+rupi ADP 3 case
+wata VERB 7 advcl
+mehe ADV 5 mark
+wenu VERB 1 parataxis
+aʔe PRON 7 nsubj
+. PUNCT 7 punct
+
+Uhɨk VERB 0 root
+hokope NOUN 1 obl
+kurɨ PART 1 discourse
+. PUNCT 1 punct
+
+Zuze PROPN 2 nsubj
+ukwaw VERB 0 root
+kwaxi NOUN 4 nmod
+remiʔu NOUN 2 obj
+aʔe PART 2 discourse
+. PUNCT 2 punct
+
+Oho VERB 0 root
+kara NOUN 1 obl
+ipiaromo ADP 2 case
+. PUNCT 1 punct
+
+Nan INTJ 3 discourse
+, PUNCT 1 punct
+nuhemkwaw VERB 0 root
+ur VERB 3 dep
+rihi PART 3 discourse
+ʔɨ PART 3 discourse
+. PUNCT 3 punct
+
+Erur VERB 9 ccomp
+maʔe NOUN 1 obj
+ihewe ADP 1 obl
+awaxi NOUN 5 nmod
+hɨruràm NOUN 1 obl
+romo ADP 5 case
+rihi PART 1 discourse
+, PUNCT 1 punct
+iʔi VERB 0 root
+Zuze PROPN 9 nsubj
+Karipe PROPN 9 obl
+. PUNCT 9 punct
+
+Umeʔe VERB 0 root
+Zuze PROPN 3 nmod
+reimaw NOUN 1 obl
+rehe ADP 3 case
+, PUNCT 6 punct
+zapukaz NOUN 3 appos
+aʔɨr NOUN 6 nmod
+rehe ADP 6 case
+. PUNCT 6 punct
+
+Kwarahɨ NOUN 2 nsubj
+haku VERB 0 root
+. PUNCT 2 punct
+
+Aikwez DET 2 det
+heraʔɨr NOUN 0 root
+aʔe DET 2 discourse
+
+Tueharupi NOUN 2 obl
+upɨta VERB 0 root
+uhɨ NOUN 2 obl
+ipɨr ADP 3 case
+. PUNCT 2 punct
+
+Aze SCONJ 3 mark
+zekaipo ADV 3 advmod
+uixe VERB 5 advcl
+oho VERB 5 dep
+uhem VERB 0 root
+zeiakpo ADV 5 advmod
+amo DET 8 det
+tawpe NOUN 5 obl
+. PUNCT 5 punct
+
+Pɨhaw NOUN 2 obl
+heta VERB 0 root
+teteaʔu ADV 4 advmod
+miar NOUN 2 obl
+izupe ADP 4 case
+kaʔape NOUN 2 obl
+. PUNCT 2 punct
+
+Uʔu VERB 0 root
+paku NOUN 1 nsubj
+no PART 1 discourse
 . PUNCT 1 punct
 
 Umeʔe VERB 0 root
@@ -10,274 +249,106 @@ aʔe DET 1 discourse
 no PART 1 discourse
 . PUNCT 1 punct
 
-Oho VERB 0 root
-Zuze PROPN 3 nmod
-ihɨ NOUN 1 nsubj
-kope NOUN 1 obl
-kaʔa NOUN 1 obl
-rupi ADP 5 case
-. PUNCT 1 punct
-
-Arapapa NOUN 2 nsubj
-ipira NOUN 0 root
-iʔuhar NOUN 2 obl
-romo ADP 3 case
-aʔe DET 2 discourse
-no PART 2 discourse
-. PUNCT 2 punct
-
-Arar NOUN 4 obj
-tɨ PART 1 discourse
-, PUNCT 1 punct
-iʔi VERB 0 root
-Zuze PROPN 4 nsubj
-upe NOUN 4 obl
-. PUNCT 4 punct
-
-Zapukaz NOUN 2 nsubj
-uʔu VERB 0 root
-awaxi NOUN 2 obj
-aʔe PART 2 discourse
-no PART 2 discourse
-. PUNCT 2 punct
-
-Nukwaw VERB 0 root
-kwaw ADV 1 advmod
-hehe ADP 4 obl
-uzekaiw NOUN 1 obj
-paw ADV 4 advmod
-. PUNCT 1 punct
-
-Azuka VERB 6 ccomp
-putar ADV 1 advmod
-ihe PRON 1 nsubj
+Aha VERB 0 root
+kaʔi NOUN 3 obj
+hexakpa VERB 1 advcl
 kurɨ PART 1 discourse
+
+Ou INTJ 4 discourse
+kwa PART 4 discourse
+, PUNCT 4 punct
+heremɨhar NOUN 6 ccomp
+, PUNCT 4 punct
+iʔi VERB 0 root
+Zuze PROPN 6 nsubj
+uhapukazta VERB 6 advcl
+. PUNCT 6 punct
+
+Ezur VERB 5 ccomp
+xe PART 1 discourse
+rihi PART 1 discourse
 , PUNCT 1 punct
 iʔi VERB 0 root
-izupe ADP 6 iobj
-. PUNCT 6 punct
+Zuze PROPN 5 nsubj
+wazɨrpe NOUN 5 obl
+, PUNCT 9 punct
+Karipe PROPN 7 appos
+. PUNCT 9 punct
 
-Aʔepe PRON 6 obl
-zekaipo ADV 1 advmod
-aʔe DET 4 det
-maʔe NOUN 6 nsubj
-wanekohaw NOUN 6 nmod
-ipiʔarà NOUN 0 root
-. PUNCT 6 punct
+Tu NOUN 2 nsubj
+upɨhɨk VERB 0 root
+mukaw NOUN 2 obj
+. PUNCT 2 punct
 
-Uhem VERB 0 root
-Kari PROPN 1 nsubj
-aʔe PART 1 discourse
-no PART 1 discourse
-, PUNCT 7 punct
-Mari PROPN 7 nmod
-memɨraʔi NOUN 2 appos
-aʔe PART 7 discourse
-no PART 7 discourse
-, PUNCT 7 punct
-uhɨ NOUN 1 obl
-rupi ADP 11 case
-aʔe PART 1 discourse
-no PART 1 discourse
-. PUNCT 1 punct
+Zuze PROPN 2 nmod
+hemireko NOUN 5 nsubj
+aʔe DET 2 discourse
+, PUNCT 5 punct
+Mari PROPN 0 root
+her NOUN 5 obl
+romo ADP 6 case
+aʔe DET 5 discourse
+. PUNCT 5 punct
 
-Tueharupi NOUN 2 obl
-oho VERB 0 root
-arapapa NOUN 2 nsubj
-ʔɨpe NOUN 2 obl
-, PUNCT 6 punct
-ɨrɨhupe NOUN 4 appos
-. PUNCT 6 punct
-
-Ikatu VERB 0 root
-ahɨ ADV 1 advmod
-kwarahɨ NOUN 1 nsubj
-Maripe PROPN 1 obl
-. PUNCT 1 punct
-
-Opoʔo VERB 0 root
-akaʔu NOUN 1 obj
-aʔe PRON 1 nsubj
+Ikuʔegwepe NOUN 2 obl
+ur VERB 0 root
+Zuze PROPN 4 nmod
+ihɨ NOUN 2 nsubj
+aʔepe PRON 2 obl
+, PUNCT 2 punct
+migaw NOUN 8 obj
+iapopa VERB 1 advcl
+. PUNCT 8 punct
 
 Pakuri NOUN 0 root
 ruʔu PART 1 discourse
 . PUNCT 1 punct
 
-Nukwaw VERB 0 root
-katu ADV 1 advmod
-kwaw ADV 1 advmod
-ipoztaw NOUN 1 obj
+Ikatu VERB 4 ccomp
+ʔɨ PART 1 discourse
 , PUNCT 1 punct
-ukwaw VERB 1 parataxis
-wewer ADV 6 advmod
-hemiʔu NOUN 6 obj
-. PUNCT 6 punct
-
-Waro VERB 0 root
-mahaw NOUN 3 nmod
-turhaw NOUN 1 obj
-. PUNCT 1 punct
-
-Uhaw VERB 0 root
-awaxi NOUN 1 obj
-paw DET 2 det
-aʔe PART 1 discourse
-wa PART 1 discourse
-. PUNCT 1 punct
-
-Mon PRON 3 nsubj
-aipo PART 1 discourse
-ur VERB 0 root
-iko AUX 3 aux
-aʔe DET 3 discourse
-
 iʔi VERB 0 root
-tɨkɨʔɨr NOUN 1 nsubj
-izupe ADP 2 iobj
-: PUNCT 5 punct
-Teʔe NOUN 1 parataxis
-ere PRON 5 nsubj
-tɨ PART 5 discourse
-? PUNCT 5 punct
-
-Uhem VERB 0 root
-pino NOUN 1 obl
-wi ADP 2 case
-. PUNCT 1 punct
-
-Ur VERB 0 root
-wira NOUN 1 nsubj
-hu NOUN 2 nmod
-kaʔa NOUN 1 obl
-wi ADP 4 case
-aʔe PART 1 discourse
-, PUNCT 1 punct
-Zuze PROPN 9 nmod
-rekohawpe NOUN 1 obl
-aʔe PART 9 discourse
-. PUNCT 9 punct
-
-Imunar VERB 0 root
-kwaxi NOUN 1 nsubj
-zapukaz NOUN 4 nmod
-rupiʔa NOUN 1 obl
-rehe ADP 4 case
-. PUNCT 1 punct
-
-Nuexak VERB 0 root
-kwaw ADV 1 advmod
-. PUNCT 1 punct
+umenpe NOUN 4 obl
+. PUNCT 4 punct
 
 Uʔu VERB 0 root
 kurɨ PART 1 discourse
 . PUNCT 1 punct
 
-Heta VERB 0 root
-amo DET 4 det
-ae PART 2 discourse
-imemɨr NOUN 1 nsubj
-Maripe PROPN 1 obl
-aʔe PART 1 discourse
-, PUNCT 8 punct
-kwarer NOUN 4 appos
-aʔe PART 8 discourse
-. PUNCT 8 punct
-
-Umeʔeg VERB 0 root
-awaxi NOUN 1 nsubj
-. PUNCT 1 punct
-
-Pemɨrɨpar NOUN 3 obl
-romo ADP 1 case
-aiko VERB 0 root
-ihe PRON 3 nsubj
-. PUNCT 3 punct
-
-zapukaz NOUN 3 nsubj
-aʔɨr NOUN 1 nmod
-heiheihem VERB 5 ccomp
-, PUNCT 3 punct
-iʔi VERB 0 root
-uzeupe ADP 5 iobj
-. PUNCT 5 punct
-
-Màràzàwe ADV 3 advmod
-tue PART 1 discourse
-neremɨhar NOUN 7 ccomp
-aipo PART 3 advmod
-ʔɨ PART 3 discourse
-, PUNCT 3 punct
-iʔi VERB 0 root
-Mari PROPN 7 nsubj
-izupe ADP 7 iobj
-, PUNCT 7 punct
-hehe ADP 12 obl
-upuranupa VERB 7 advcl
-. PUNCT 12 punct
-
-Naʔe PART 5 discourse
-aʔe DET 3 det
-tuaʔu NOUN 5 nsubj
-Mair PROPN 5 iobj
-uhapukaz VERB 0 root
-izupe ADP 4 case
-uwexakar VERB 5 advcl
-aʔe DET 9 det
-teko NOUN 10 nmod
-iziwàziwàpɨr NOUN 7 obj
-izupe ADP 7 mark
-. PUNCT 5 punct
-
-Aʔe PRON 3 obl
-rupi ADP 1 case
-uhaw VERB 0 root
-awa NOUN 3 nsubj
-awaxi NOUN 3 obj
-oho VERB 3 dep
-wa PART 3 discourse
-kurɨ PART 3 discourse
-. PUNCT 3 punct
-
-Maʔe NOUN 3 obj
+Tɨkɨʔɨr NOUN 2 nmod
+ipɨʔa NOUN 3 nsubj
+ukwaw VERB 0 root
 tuwe ADV 1 advmod
-erezapo VERB 8 ccomp
-iko AUX 3 aux
-xe ADV 3 advmod
-tɨ PART 3 discourse
-, PUNCT 3 punct
-iʔi VERB 0 root
-izupe ADP 8 iobj
-? PUNCT 8 punct
+maʔe NOUN 6 nmod
+uzeapomaʔekwer NOUN 3 obj
+izupe ADP 6 iobj
+aʔe PART 6 discourse
+. PUNCT 3 punct
+
+Hehɨ NOUN 2 nsubj
+umur VERB 0 root
+maʔe NOUN 4 nmod
+roʔokwer NOUN 2 obj
+hawe PRON 2 obl
+. PUNCT 2 punct
+
+Aʔeà PRON 2 nsubj
+uur VERB 0 root
+kwez PART 2 discourse
+hehɨ NOUN 2 obl
+iruramo ADP 4 case
+
+Wekar VERB 0 root
+teko NOUN 1 nsubj
+wakari NOUN 1 obj
+ita NOUN 1 obl
+rehe ADP 4 case
 
 Heta VERB 0 root
-awaxi NOUN 1 nsubj
-teteaʔu ADV 2 advmod
-aʔepe PRON 1 obl
-. PUNCT 1 punct
-
-Xo PART 2 discourse
-kok NOUN 4 nsubj
-zo PART 2 discourse
-heta VERB 0 root
-. PUNCT 4 punct
-
-Hekuzar VERB 5 ccomp
-katu ADV 1 advmod
-zapepo NOUN 1 obj
-, PUNCT 1 punct
-iʔi VERB 0 root
-Zuze PROPN 5 nsubj
-wemirekope NOUN 5 obl
-. PUNCT 5 punct
-
-Upɨhɨk VERB 0 root
-Zuze PROPN 3 nmod
-tu NOUN 1 nsubj
-umukaw NOUN 1 obj
-. PUNCT 1 punct
-
-Imaʔeahɨ VERB 0 root
-zekaipo ADV 1 advmod
+toʔotoʔom NOUN 1 nsubj
+pe NOUN 1 obl
+rupi ADP 3 case
+no PART 1 discourse
 . PUNCT 1 punct
 
 Uxiʔu VERB 0 root
@@ -289,88 +360,9 @@ tete ADV 5 advmod
 uzuka VERB 1 parataxis
 . PUNCT 7 punct
 
-Ikatu NOUN 0 root
-awaxi NOUN 1 nsubj
-izupe ADP 1 iobj
-. PUNCT 1 punct
-
-Xo PART 2 discourse
-xapat NOUN 4 obj
-zo PART 2 discourse
-umeʔeg VERB 0 root
-kar ADV 4 advmod
-. PUNCT 4 punct
-
-Uzemiʔi VERB 0 root
-kar ADV 1 advmod
-kaʔape NOUN 1 obl
-, PUNCT 1 punct
-arapuha NOUN 6 obj
-hekarpa VERB 1 advcl
-. PUNCT 6 punct
-
-Hurɨwete VERB 0 root
-ahɨ ADV 1 advmod
-Zuze PROPN 1 nsubj
-aʔe PART 1 discourse
-. PUNCT 1 punct
-
-Nuzapo VERB 0 root
-pixik NOUN 1 obl
-kwaw ADV 2 advmod
-agwer DET 5 det
-maʔe NOUN 1 obj
-amo DET 8 det
-ae PART 6 discourse
-awape NOUN 1 obl
-
-Oho VERB 0 root
-hoko NOUN 1 nsubj
-kaʔape NOUN 1 obl
-. PUNCT 1 punct
-
-Xo PART 3 discourse
-aʔe DET 3 det
-maʔe NOUN 5 obj
-zo PART 3 discourse
-umeʔeg VERB 0 root
-kar ADV 5 advmod
-uzeupe ADP 5 obl
-aʔe PART 5 discourse
-. PUNCT 5 punct
-
-Mari PROPN 2 nmod
-imemɨr NOUN 5 nsubj
-aʔe DET 2 discourse
-, PUNCT 5 punct
-Kari PROPN 0 root
-her NOUN 5 obl
-romo ADP 6 case
-aʔe DET 5 discourse
-. PUNCT 5 punct
-
-Zahɨ NOUN 2 nsubj
-uhɨape VERB 0 root
-iko AUX 2 aux
-kurɨ PART 2 discourse
+Zapukaz NOUN 2 nsubj
+uʔu VERB 0 root
+awaxi NOUN 2 obj
+aʔe PART 2 discourse
+no PART 2 discourse
 . PUNCT 2 punct
-
-Aʔe DET 2 det
-maʔe NOUN 4 nmod
-ʔɨw NOUN 2 compound
-iʔa NOUN 0 root
-ʔar NOUN 4 obl
-katu ADV 5 discourse
-mehe ADP 5 case
-
-Awa NOUN 2 nsubj
-wekar VERB 0 root
-tapiʔir NOUN 2 obj
-iko AUX 2 aux
-
-Wenuhem VERB 0 root
-uxapat NOUN 1 obj
-toʔom NOUN 1 obl
-wi ADP 3 case
-kurɨ PART 1 discourse
-. PUNCT 1 punct

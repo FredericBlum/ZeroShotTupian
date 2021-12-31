@@ -1,29 +1,5 @@
-kujãtake NOUN 3 nsubj
-upa PART 1 discourse
-mupinim VERB 0 root
-
-ihē PRON 3 nsubj
-ndeke PRON 3 obj
-araho VERB 0 root
-tar VERB 3 ccomp
-katu ADV 3 advmod
-tipe PART 3 discourse
-
-aʔe PRON 3 nsubj
-ikɪke NOUN 3 obj
-jiʔok VERB 0 root
-
-aʔeke PRON 3 nsubj
-ipɪke NOUN 3 obj
-tukwa VERB 0 root
-
-Oho VERB 0 root
-uĩ VERB 1 xcomp
-tipe PART 1 discourse
-ã PART 1 discourse
-
-a’eta PRON 2 nsubj
-ajengar VERB 0 root
+ihẽke PRON 2 nsubj
+ajumukahem VERB 0 root
 
 aʔe PRON 4 nsubj
 ta PART 1 nmod
@@ -33,11 +9,34 @@ moj NOUN 4 obj
 ke PART 5 nmod
 tĩ PART 5 discourse
 
-ihẽ PRON 3 nsubj
-neke PRON 3 obj
-akutukta VERB 0 root
+aʔeke PRON 3 nsubj
+ehake NOUN 3 obj
+tukwatĩ VERB 0 root
 
-Xõru PROPN 2 nsubj
-nixói VERB 0 root
-se NOUN 2 obj
-aʔe PRON 2 nmod
+Pe ADV 4 advmod
+, PUNCT 1 punct
+ihẽ PRON 4 obj
+asak VERB 0 root
+
+aʔe PRON 3 nsubj
+ʔokke NOUN 3 obj
+mujã VERB 0 root
+
+kujãtake NOUN 3 nsubj
+upa PART 1 discourse
+mupinim VERB 0 root
+
+aʔe PRON 3 nsubj
+ke PART 1 discourse
+uʔuta VERB 0 root
+pɪpɪhu NOUN 3 obj
+ke PART 4 discourse
+tĩ PART 3 discourse
+
+ihẽke PRON 3 nsubj
+uʔi NOUN 3 obj
+akarãj VERB 0 root
+
+neke PRON 3 nsubj
+uʔike NOUN 3 obj
+rekarãjta VERB 0 root
