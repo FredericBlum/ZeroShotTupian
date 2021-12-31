@@ -11,7 +11,7 @@ is_forward_lm = True
 is_backward_lm = False
 
 corpus_3, char_dict = concat(['Guajajara', 'Tupinamba', 'Karo'], folder = "3")
-#corpus_7, char_dict = concat(['Guajajara', 'Tupinamba', 'Karo', 'Munduruku', 'Kaapor', 'Akuntsu', 'Makurap'], folder = "7")
+corpus_7, char_dict = concat(['Guajajara', 'Tupinamba', 'Karo', 'Munduruku', 'Kaapor', 'Akuntsu', 'Makurap'], folder = "7")
 
 ################################
 ### Language Model           ###
