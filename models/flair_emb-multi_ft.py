@@ -1,23 +1,35 @@
-def finetune_multi(lang):
-    lm_forward = FlairEmbeddings('multi-forward').lm
-    lm_backward = FlairEmbeddings('multi-backward').lm
+from flair.data import Dictionary
+from flair.models import LanguageModel
+from flair.trainers.language_model_trainer import LanguageModelTrainer, TextCorpus
+from helper_functions import concat
 
-    dictionary: Dictionary = lm_forward.dictionary
+################################
+### data and dictionaries    ###
+################################
+is_forward_lm = True
+is_backward_lm = False
+lm_forward = FlairEmbeddings('multi-forward').lm
+lm_backward = FlairEmbeddings('multi-backward').lm
 
-    corpus_for = TextCorpus(f'data/{lang}/embeddings', dictionary, character_level=True)
-    corpus_back = TextCorpus(f'data/{lang}/embeddings', dictionary, False, character_level=True)
+dictionary: Dictionary = lm_forward.dictionary
 
-    trainer_forward = LanguageModelTrainer(lm_forward, corpus_for)
-    trainer_backward = LanguageModelTrainer(lm_backward, corpus_back)
+corpus_for = TextCorpus("data/combi_emb/3", dictionary, is_forward_lm, character_level = True)
+corpus_back = TextCorpus("data/combi_emb/3", dictionary, is_backward_lm, character_level = True)
 
-    trainer_forward.train(f'models/resources/embeddings/{lang}/forward',
-                    sequence_length=100,
-                    learning_rate=0.5,
-                    mini_batch_size=1,
-                    max_epochs=1)
+################################
+### Trainers                 ###
+################################
+trainer_forward = LanguageModelTrainer(lm_forward, corpus_for)
+trainer_backward = LanguageModelTrainer(lm_backward, corpus_back)
 
-    trainer_backward.train(f'models/resources/embeddings/{lang}/backward',
-                    sequence_length=100,
-                    learning_rate=0.5,
-                    mini_batch_size=1,
-                    max_epochs=1)
+trainer_forward.train(f'models/resources/embeddings/tupi_3_for_ft',
+                sequence_length=80,
+                learning_rate=20,
+                mini_batch_size=32,
+                max_epochs=10)
+
+trainer_backward.train(f'models/resources/embeddings/tupi_3_back_ft',
+                sequence_length=80,
+                learning_rate=20,
+                mini_batch_size=32,
+                max_epochs=10)
