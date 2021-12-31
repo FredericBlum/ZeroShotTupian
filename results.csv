@@ -1,16 +1,15 @@
-Model	Embeddings	Train Accuracy	Train F1	Akuntsu Accuracy	Akuntsu F1	Kaapor Accuracy	Kaapor F1	Makurap Accuracy	Makurap F1	Eval Accuracy	Eval F1
-upos-3	BERT	0.857									
-upos-3	multi	0.745	0.56								
-upos-3	multi+ft3										
-upos-3	multi+ft7										
-upos-3	tupi-3	0.81	0.656							0.465	0.19
-upos-3	tupi-7										
-upos-3+ft	multi										
-upos-3+ft	tupi-3										
-upos-3+ft	tupi-7										
-multi+ft	multi										
-multi+ft	tupi-3										
-multi+ft	tupi-7										
-multi+ft	multi										
-multi+ft	tupi-3										
-multi+ft	tupi-7										
+Model	Embeddings	Train Accuracy	Train F1	Eval Accuracy	Eval F1	Akuntsu Accuracy	Kaapor Accuracy	Makurap Accuracy	Munduruku Accuracy
+upos-3	BERT								
+upos-3	multi+ft3								
+upos-3	multi+ft7								
+upos-3	BERT+tupi-3								
+upos-3	tupi-3								
+upos-3	tupi-7								
+									
+upos-3+ft									
+multi									
+multi+ft-3									
+multi+ft-7									
+multi+ft-target									
+upos-7									
+upos-7+ft									

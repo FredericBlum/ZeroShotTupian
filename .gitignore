@@ -131,3 +131,6 @@ dmypy.json
 # large model files
 .pt
 *.pt
+
+# csv lock
+.~lock.results.csv#
