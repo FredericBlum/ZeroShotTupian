@@ -25,13 +25,13 @@ corpus = MultiCorpus([akuntsu,
 ### Tagger and Trainer       ###
 ################################
 # tagger = SequenceTagger.load('multi-pos')
-tagger = SequenceTagger('models/resources/taggers/my-upos-3')
-# tagger = SequenceTagger('models/resources/taggers/dep_tupi')
+tagger = SequenceTagger.load('models/resources/taggers/my-upos-3/best-model.pt')
+# tagger = SequenceTagger.load('models/resources/taggers/dep_tupi/best-model.pt')
 
 
 trainer = ModelTrainer(tagger, corpus)
 #trainer.fine_tune()
 trainer.final_test('models/resources/taggers/eval_multi_tupi',
                 main_evaluation_metric = ("micro avg", "f1-score"),
-                eval_mini_batch_size = 1
+                eval_mini_batch_size = 32
                 )

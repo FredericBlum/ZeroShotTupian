@@ -102,7 +102,7 @@ def write_tupi():
     tupinamba = conllu_to_flair('../UD/UD_Tupinamba-TuDeT/tpn_tudet-ud-test.conllu', lang = 'Tupinamba', write_corpus = True, write_raw = True)
 
 def make_testset(language):
-    data_folder = f'data/{language}/flair'
+    data_folder = f'data/{language}/features'
     columns = {0: 'text', 1: 'upos', 2:'head', 3: 'deprel'}
 
     corpus: Corpus = ColumnCorpus(data_folder, columns,
