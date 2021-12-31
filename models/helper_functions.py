@@ -36,8 +36,8 @@ def conllu_to_flair(path_in, lang, write_corpus: bool = False, write_raw: bool =
 
     
     if write_corpus == True:
-        train, validtext = train_test_split(data, random_state=42, test_size=.2)
-        test, dev = train_test_split(validtext, random_state=42, test_size=0.5)
+        train, validtext = train_test_split(data, random_state=1, test_size=.2)
+        test, dev = train_test_split(validtext, random_state=1, test_size=0.5)
 
         all_in_one = "\n\n".join(data)
         dev = "\n\n".join(dev)
@@ -92,14 +92,14 @@ def make_dictionary(path_in, unk_threshold: int = 0):
     print(f"At unk_threshold={unk_threshold}, the dictionary contains {len(word_dict)} words")
     return word_dict
 
-def write_tupi():
-    akuntsu = conllu_to_flair('../UD/UD_Akuntsu-TuDeT/aqz_tudet-ud-test.conllu', lang = 'Akuntsu', write_corpus = True, write_raw = True)
-    guajajara = conllu_to_flair('../UD/UD_Guajajara-TuDeT/gub_tudet-ud-test.conllu', lang = 'Guajajara', write_corpus = True, write_raw = True)
-    kaapor = conllu_to_flair('../UD/UD_Kaapor-TuDeT/urb_tudet-ud-test.conllu', lang = 'Kaapor', write_corpus = True, write_raw = True)
-    karo = conllu_to_flair('../UD/UD_Karo-TuDeT/arr_tudet-ud-test.conllu', lang = 'Karo', write_corpus = True, write_raw = True)
-    makurap = conllu_to_flair('../UD/UD_Makurap-TuDeT/mpu_tudet-ud-test.conllu', lang = 'Makurap', write_corpus = True, write_raw = True)
-    munduruku = conllu_to_flair('../UD/UD_Munduruku-TuDeT/myu_tudet-ud-test.conllu', lang = 'Munduruku', write_corpus = True, write_raw = True)
-    tupinamba = conllu_to_flair('../UD/UD_Tupinamba-TuDeT/tpn_tudet-ud-test.conllu', lang = 'Tupinamba', write_corpus = True, write_raw = True)
+def write_tupi(write_corpus: bool = False, write_raw: bool = True):
+    akuntsu = conllu_to_flair('../UD/UD_Akuntsu-TuDeT/aqz_tudet-ud-test.conllu', lang = 'Akuntsu', write_corpus = write_corpus, write_raw = write_raw)
+    guajajara = conllu_to_flair('../UD/UD_Guajajara-TuDeT/gub_tudet-ud-test.conllu', lang = 'Guajajara', write_corpus = write_corpus, write_raw = write_raw)
+    kaapor = conllu_to_flair('../UD/UD_Kaapor-TuDeT/urb_tudet-ud-test.conllu', lang = 'Kaapor', write_corpus = write_corpus, write_raw = write_raw)
+    karo = conllu_to_flair('../UD/UD_Karo-TuDeT/arr_tudet-ud-test.conllu', lang = 'Karo', write_corpus = write_corpus, write_raw = write_raw)
+    makurap = conllu_to_flair('../UD/UD_Makurap-TuDeT/mpu_tudet-ud-test.conllu', lang = 'Makurap', write_corpus = write_corpus, write_raw = write_raw)
+    munduruku = conllu_to_flair('../UD/UD_Munduruku-TuDeT/myu_tudet-ud-test.conllu', lang = 'Munduruku', write_corpus = write_corpus, write_raw = write_raw)
+    tupinamba = conllu_to_flair('../UD/UD_Tupinamba-TuDeT/tpn_tudet-ud-test.conllu', lang = 'Tupinamba', write_corpus = write_corpus, write_raw = write_raw)
 
 def make_testset(language):
     data_folder = f'data/{language}/features'

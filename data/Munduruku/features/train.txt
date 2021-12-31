@@ -1,112 +1,57 @@
-ẽn PRON 2 obl
-eg̃ũm VERB 0 root
-kise NOUN 2 obl
-ayacat NOUN 2 obl
-pe ADP 4 case
-
-Toxaw NOUN 3 obl
-tawe NOUN 3 obl
-o'tobuxik VERB 0 root
-
-Abu PRON 2 nsubj
-o'titobuxik VERB 0 root
-? PUNCT 2 punct
-
-Toxaw NOUN 3 obl
-i'it NOUN 3 obl
-o'tobuxik VERB 0 root
-uk NOUN 3 obl
-'a NOUN 4 nmod
-be ADP 4 case
-. PUNCT 3 punct
-
-kapedi NOUN 2 nsubj
-tidaxip NOUN 0 root
-
-Jeorog̃ VERB 3 xcomp
+oexexe VERB 0 root
 ip PART 1 dep
-cum VERB 0 root
-kapusu ADV 7 advmod
-daje NOUN 6 obj
-aoka VERB 7 ccomp
-ojuyiap NOUN 3 advcl
-tag̃ ADP 7 case
+uk NOUN 1 obj
+'a NOUN 3 nmod
+be ADP 3 case
+puybit NOUN 7 obj
+kukug̃ VERB 1 dep
 
-o'xet VERB 0 root
-io'e VERB 1 dep
-xiri NOUN 1 obl
+Awawa NOUN 2 nsubj
+cum VERB 0 root
+ako NOUN 2 obl
 xe ADP 3 case
 
-wida NOUN 3 obl
-ayacat NOUN 3 obl
-o’yaoka VERB 0 root
-Katõ PROPN 3 obl
+õn PRON 3 dep
+bekicat NOUN 3 obl
+ojoaat VERB 0 root
+puy NOUN 3 obl
+bu NOUN 4 clf
+be ADP 1 case
+
+Kog̃ũnpi NOUN 5 obl
+be ADP 1 case
+okapap NOUN 4 nmod
+kabuk NOUN 5 obl
+opop AUX 0 root
+
+Ag̃okatkat NOUN 4 obl
+acã ADV 4 advmod
+cũg̃'i X 4 dep
+osunuy AUX 0 root
+sũg̃tabi NOUN 4 obl
+eju ADP 5 case
+g̃axĩn ADV 9 advmod
+ma PART 7 discourse
+oajẽm VERB 4 advcl
+puye ADP 9 case
+
+wexey NOUN 5 obl
+bi ADP 1 case
+wida NOUN 5 obl
+biopak NOUN 5 obl
+o'yaoka VERB 0 root
+
+I'it NOUN 3 nsubj
+tak ADV 3 advmod
+uk'a NOUN 0 root
+be ADP 3 case
+
+xek NOUN 3 obl
+pu NOUN 1 clf
+o'subumõg̃mõg̃ VERB 0 root
+wita NOUN 3 obl
+'a NOUN 4 clf
 be ADP 4 case
-
-Awawa NOUN 2 obl
-oajẽm VERB 0 root
-ika NOUN 2 obl
-be ADP 3 case
-, PUNCT 4 punct
-jekibit NOUN 7 nmod
-ka NOUN 3 appos
-be ADP 7 case
-
-Idib NOUN 0 root
-dag̃ ADP 1 case
-soat DET 4 det
-axima NOUN 1 nsubj
-. PUNCT 1 punct
-Pũg̃pũg̃ PRON 7 nmod
-axima NOUN 8 nsubj
-yopit NOUN 1 parataxis
-ma PART 8 discourse
-. PUNCT 8 punct
-Pirãydup NOUN 14 nsubj
-, PUNCT 11 punct
-pirũm NOUN 11 conj
-yopit NOUN 1 parataxis
-ma PART 14 discourse
-. PUNCT 14 punct
-
-Abu PRON 3 obl
-jexat NOUN 3 obl
-o'tobuxik VERB 0 root
-? PUNCT 3 punct
-
-Tit NOUN 5 nsubj
-tak ADV 5 advmod
-iku NOUN 1 nmod
-be ADP 3 case
-opop VERB 0 root
-, PUNCT 5 punct
-awawa NOUN 8 nmod
-ku NOUN 3 appos
-be ADP 8 case
-. PUNCT 8 punct
-
-ixem PRON 3 obj
-õn PRON 3 obl
-wetaybit VERB 0 root
-g̃u PART 3 discourse
-ojojo VERB 3 advcl
-g̃u PART 5 discourse
-ma ADV 5 advmod
-buye SCONJ 5 mark
-
-jeorokap NOUN 4 obl
-wap ADP 1 case
-ip PRON 4 obl
-o'ju VERB 0 root
-
-Jexat NOUN 2 obl
-o'tobuxik VERB 0 root
-
-õn PRON 3 obl
-ag̃okatkat NOUN 3 obl
-o'sutayxidaat VERB 0 root
-wamõat NOUN 3 obl
-pe ADP 4 case
 
 Daje NOUN 3 obl
 ade PRON 1 nmod
@@ -119,348 +64,21 @@ kuka X 7 dep
 o'e VERB 7 dep
 ade PRON 7 nmod
 
-Tawe NOUN 2 obl
-oajẽm VERB 0 root
-ka NOUN 2 obl
-xe ADP 3 case
+ag̃okatkat NOUN 2 obl
+o'ju VERB 0 root
+puybit NOUN 4 obj
+aokam VERB 2 ccomp
 
-Awawa NOUN 0 root
-ixiwe NOUN 1 nmod
-kay ADP 2 case
+I'it NOUN 2 nsubj
+wa VERB 0 root
+du PART 2 discourse
+? PUNCT 2 punct
 
 wexik'a NOUN 0 root
 kake AUX 1 aux
 ixi NOUN 4 nmod
 duk'a NOUN 1 obl
 be ADP 4 case
-
-Awawa NOUN 3 obl
-awi NOUN 3 obl
-o'tobuxik VERB 0 root
-jekibit NOUN 5 nmod
-ka NOUN 3 obl
-be ADP 5 case
-
-Ade ADJ 2 amod
-tao NOUN 6 advcl
-bima SCONJ 2 mark
-, PUNCT 6 punct
-tao NOUN 6 obj
-uk'ug̃ VERB 0 root
-ip PRON 6 nsubj
-iwi NOUN 6 obl
-xe ADP 8 case
-. PUNCT 6 punct
-
-Awawa NOUN 0 root
-tawe NOUN 1 nmod
-kay ADP 2 case
-
-bekicat NOUN 2 obl
-o'akõm VERB 0 root
-wetabut VERB 2 dep
-pe ADP 3 case
-
-Soat PRON 3 obj
-ip PART 3 obl
-o'g̃u'ũm VERB 0 root
-iwipat NOUN 1 appos
-
-Tawe NOUN 2 obl
-oajẽm VERB 0 root
-iku NOUN 2 obl
-be ADP 3 case
-
-wetabut VERB 5 dep
-pe ADP 1 case
-obure NOUN 5 obl
-Wida NOUN 5 obl
-o'yaoka VERB 0 root
-
-wida NOUN 3 obl
-ayacat'ũm NOUN 3 obl
-o'yaoka VERB 0 root
-
-Akoba NOUN 4 nsubj
-iku NOUN 1 nmod
-be ADP 2 case
-opop VERB 0 root
-. PUNCT 4 punct
-
-Wexik NOUN 3 nsubj
-'a NOUN 1 nmod
-kake VERB 0 root
-wa'e NOUN 1 nmod
-be ADP 4 case
-
-Awawa NOUN 2 nsubj
-cum VERB 0 root
-ako NOUN 2 obl
-xe ADP 3 case
-
-Awi NOUN 3 nsubj
-awawa NOUN 1 nmod
-bubut VERB 0 root
-
-puy NOUN 4 obl
-bu NOUN 1 clf
-bekicat NOUN 4 obl
-o'joa VERB 0 root
-
-Ixiwe NOUN 0 root
-ako NOUN 1 nmod
-xe ADP 2 case
-
-Ibu VERB 4 advcl
-buje ADV 1 advmod
-, PUNCT 4 punct
-tujuxexem VERB 0 root
-ip PRON 4 nsubj
-uk’a NOUN 4 obl
-be ADP 6 case
-ayacayũ NOUN 4 obl
-be ADP 8 case
-, PUNCT 4 punct
-ta VERB 4 advcl
-am PART 11 mark
-. PUNCT 4 punct
-
-Xa NOUN 2 nsubj
-iku NOUN 0 root
-xe ADP 2 case
-
-Axima NOUN 3 obj
-yobog̃at NOUN 1 nmod
-mupurukpurug̃ VERB 0 root
-ip PRON 3 nsubj
-iwi NOUN 3 obl
-be ADP 5 case
-daxa NOUN 3 obl
-ase ADP 7 case
-. PUNCT 3 punct
-Ade NOUN 14 advcl
-bima SCONJ 10 mark
-, PUNCT 14 punct
-ade NOUN 14 obj
-imupurukpurug̃ VERB 3 parataxis
-ip PRON 14 nsubj
-iwi NOUN 14 obl
-be ADP 16 case
-. PUNCT 14 punct
-Ade NOUN 22 advcl
-bima SCONJ 19 mark
-, PUNCT 22 punct
-yobog̃ NOUN 3 parataxis
-iwi NOUN 22 nsubj
-e'em AUX 22 aux
-. PUNCT 22 punct
-Ade NOUN 31 advcl
-ũm ADV 26 advmod
-pima SCONJ 26 mark
-, PUNCT 31 punct
-iwi NOUN 31 nsubj
-yopit NOUN 3 parataxis
-ma PART 31 discourse
-e'em AUX 31 aux
-. PUNCT 31 punct
-
-Toxaw NOUN 2 obl
-oexe VERB 0 root
-
-ag̃okatkat NOUN 2 obl
-o'jetayxidaat VERB 0 root
-wamõat NOUN 2 obl
-pe ADP 3 case
-
-õn PRON 3 dep
-bekicat NOUN 3 obl
-ojoaat VERB 0 root
-puy NOUN 3 obl
-bu NOUN 4 clf
-be ADP 1 case
-
-Ag̃okatkayũ NOUN 3 nsubj
-axĩma NOUN 3 obj
-muyuhum VERB 0 root
-idibi NOUN 3 obj
-tag̃ ADP 4 case
-. PUNCT 3 punct
-Axĩma NOUN 8 obj
-muyuhum VERB 3 parataxis
-ip PRON 8 nsubj
-pig̃am NOUN 8 obl
-. PUNCT 8 punct
-
-xepxep NUM 2 nummod
-pa NOUN 3 nmod
-akoba NOUN 4 obl
-o'suba'o VERB 0 root
-
-Tawe NOUN 2 obl
-oajẽm VERB 0 root
-xa NOUN 2 obl
-xe ADP 3 case
-
-Xa NOUN 4 obl
-xe ADP 1 case
-tawe NOUN 4 obl
-o'tobuxik VERB 0 root
-
-Yopĩutayũ NOUN 2 obj
-muekabekbeg̃ VERB 0 root
-ip PRON 2 nsubj
-uktup NOUN 2 obl
-pe ADP 4 case
-. PUNCT 2 punct
-Ayacayũ NOUN 9 nsubj
-yopĩutayũ NOUN 9 obj
-muekabekbeg̃ VERB 2 parataxis
-ip PRON 9 dep
-uktup NOUN 9 obl
-pe ADP 11 case
-. PUNCT 2 punct
-
-Ka'ũma INTJ 0 root
-! PUNCT 1 punct
-
-Ite PRON 3 obl
-awi NOUN 3 obl
-o'tobuxik VERB 0 root
-
-Awawa NOUN 4 obl
-jeku NOUN 4 obl
-be ADP 2 case
-oajẽm VERB 0 root
-
-oxi NOUN 2 nmod
-eg̃ru NOUN 3 nsubj
-ipi NOUN 0 root
-tẽg̃ ADP 3 case
-
-ceebay NOUN 2 nsubj
-icokcok NOUN 0 root
-cicã ADV 4 advmod
-idip NOUN 2 advcl
-cicã ADV 4 advmod
-buye CCONJ 4 mark
-bekicat NOUN 4 nsubj
-yadappek NOUN 7 parataxis
-
-Jexat NOUN 2 obl
-o'tobuxik VERB 0 root
-iku NOUN 2 obl
-be ADP 3 case
-
-ey'at VERB 3 advcl
-pima ADP 1 case
-ocewayway VERB 0 root
-jĩjã ADV 3 advmod
-
-Tao NOUN 2 obj
-uk'ug̃ VERB 0 root
-iwi NOUN 2 obl
-xe ADP 3 case
-ãõyũ NOUN 2 nsubj
-. PUNCT 2 punct
-Tao NOUN 8 obj
-uk'ug̃ VERB 2 parataxis
-ip PRON 10 dep
-ayacayũ NOUN 8 nsubj
-, PUNCT 8 punct
-axima NOUN 13 nmod
-dao NOUN 7 appos
-. PUNCT 2 punct
-
-Kapusu ADV 2 advcl
-oajẽm VERB 0 root
-owag̃o NOUN 4 nmod
-duk'a NOUN 2 obl
-be ADP 4 case
-
-oexexe VERB 0 root
-ip PART 1 dep
-uk NOUN 1 obj
-'a NOUN 3 nmod
-be ADP 3 case
-puybit NOUN 7 obj
-kukug̃ VERB 1 dep
-
-Ixat NOUN 3 nsubj
-'a NOUN 1 nmod
-kake VERB 0 root
-wa'e NOUN 1 nmod
-be ADP 4 case
-, PUNCT 3 punct
-uk'a NOUN 1 nmod
-be ADP 7 case
-
-ejot VERB 0 root
-cuy PART 1 discourse
-, PUNCT 4 punct
-muto'o NOUN 1 advcl
-bima ADP 4 case
-, PUNCT 7 punct
-kaxi NOUN 4 nmod
-wuyase ADP 7 case
-bima ADP 7 case
-
-I'it NOUN 2 nsubj
-ixet VERB 0 root
-
-pug̃ NUM 3 obl
-em ADP 1 flat
-o'e VERB 0 root
-jeebay NOUN 3 obl
-be ADP 4 case
-
-taxit NOUN 0 root
-mẽnpit CCONJ 1 cc
-ikukpin'ũm NOUN 1 nmod
-osunuy X 3 dep
-ag̃okatkat NOUN 3 obl
-pe ADP 5 case
-, PUNCT 1 punct
-i'e'em VERB 1 dep
-ajojoyũ'ũm'ũm NOUN 8 nsubj
-
-Tao NOUN 2 nsubj
-uk NOUN 5 advcl
-puje SCONJ 2 mark
-, PUNCT 5 punct
-imõg̃mõg̃ VERB 0 root
-ip PRON 5 nsubj
-iwi NOUN 5 obl
-be ADP 7 case
-daxa NOUN 5 obl
-ase ADP 9 case
-. PUNCT 5 punct
-Tao NOUN 13 nmod
-uk NOUN 16 advcl
-puje SCONJ 13 mark
-axima NOUN 16 obj
-tatam VERB 5 parataxis
-ip PRON 16 nsubj
-uktup NOUN 16 obl
-pe ADP 18 case
-. PUNCT 5 punct
-
-ag̃okatkat NOUN 3 nsubj
-bio NOUN 3 obj
-dakat VERB 6 advcl
-puje ADP 3 mark
-bekicat NOUN 6 obl
-o'suẽn'o VERB 0 root
-
-ipi NOUN 2 nmod
-teg̃ ADP 5 advcl
-kaxi NOUN 2 nsubj
-bima SCONJ 3 advcl
-o'taxadig̃curug̃ VERB 0 root
-
-Ixi NOUN 2 nsubj
-uk NOUN 0 root
-'a NOUN 2 clf
-be ADP 2 case
 
 Karosakaybu PROPN 3 obl
 daje NOUN 3 obl
@@ -471,44 +89,165 @@ puye SCONJ 5 mark
 ip PART 5 nsubj
 . PUNCT 5 punct
 
-Wa'e NOUN 2 nsubj
-ibubut NOUN 0 root
-, PUNCT 2 punct
-ixi NOUN 5 nsubj
-bubut NOUN 2 appos
+Toxaw NOUN 2 obl
+oajẽm VERB 0 root
+ka NOUN 2 obl
+be ADP 3 case
 
-Kog̃ũnpi NOUN 5 obl
-be ADP 1 case
-okapap NOUN 4 nmod
-kabuk NOUN 5 obl
-opop AUX 0 root
-
-xek NOUN 3 obl
-pu NOUN 1 clf
-o'subumõg̃mõg̃ VERB 0 root
-wita NOUN 3 obl
-'a NOUN 4 clf
-be ADP 4 case
-
-Kabiam ADV 3 amod
-doa NOUN 5 nsubj
-iba'orere ADJ 2 amod
-jedoti NOUN 5 obl
-mug̃ẽg̃ẽm VERB 0 root
-daxa NOUN 5 obj
-xe ADP 6 case
-
-puybit NOUN 3 obl
-kug̃ ADP 1 case
-o'ju VERB 0 root
-bio NOUN 1 conj
-kug̃ ADP 4 case
-, PUNCT 5 punct
-dapsem NOUN 1 conj
-kug̃ ADP 7 case
+Pũg̃pũg̃ PRON 2 det
+axima NOUN 3 nsubj
+yobog̃ VERB 0 root
+ma PART 3 discourse
+. PUNCT 3 punct
+Wasũbu NOUN 10 nsubj
+, PUNCT 6 punct
+potip NOUN 6 conj
+, PUNCT 6 punct
+yobog̃ayũ VERB 3 parataxis
+. PUNCT 10 punct
+Ag̃okatkayũ NOUN 14 nsubj
+axima NOUN 14 obj
+muyuhum VERB 3 parataxis
+pig̃am NOUN 14 obl
+. PUNCT 14 punct
 
 Awawa NOUN 2 nsubj
 ixaxet NOUN 0 root
+
+ag̃okatkat NOUN 3 nsubj
+bio NOUN 3 obj
+aoka VERB 6 advcl
+buje SCONJ 3 mark
+wida NOUN 6 obl
+o'jenapõn VERB 0 root
+
+Awawa NOUN 4 obl
+jeku NOUN 4 obl
+be ADP 2 case
+oajẽm VERB 0 root
+
+Toxaw NOUN 3 obl
+tawe NOUN 3 obl
+o'tobuxik VERB 0 root
+tu PART 3 dep
+? PUNCT 3 punct
+
+Tõm NOUN 2 nsubj
+karaw VERB 7 advcl
+bima SCONJ 2 mark
+, PUNCT 2 punct
+tõm NOUN 6 nmod
+pi NOUN 7 obj
+riprim VERB 0 root
+pag̃eiro’a NOUN 7 obl
+be ADP 8 case
+. PUNCT 7 punct
+Tõm NOUN 12 nmod
+pi NOUN 13 nmod
+rip VERB 18 advcl
+puje SCONJ 13 mark
+, PUNCT 13 punct
+iwi NOUN 18 obl
+be ADP 16 case
+imõg̃mõg̃ VERB 2 parataxis
+ip PRON 18 nsubj
+daxa NOUN 18 obl
+ase ADP 20 case
+tõm NOUN 23 obj
+mudaxip VERB 18 advcl
+am SCONJ 23 mark
+. PUNCT 18 punct
+Imõg̃mõg̃ VERB 2 parataxis
+ip PRON 26 nsubj
+daxa NOUN 26 obl
+ase ADP 28 case
+tõm NOUN 31 obj
+mukaraw VERB 26 advcl
+am SCONJ 31 mark
+. PUNCT 26 punct
+
+Toxaw NOUN 3 obl
+dak ADV 3 advmod
+oexe VERB 0 root
+
+Ixiwe NOUN 2 obl
+o'tobuxik VERB 0 root
+ako NOUN 2 obl
+xe ADP 3 case
+
+Soat PRON 2 nmod
+bekitkit NOUN 0 root
+ibeg̃beg̃ ADJ 2 amod
+o'e VERB 2 dep
+ade PRON 6 nmod
+puybit NOUN 2 advcl
+puye ADP 6 case
+
+Akoba NOUN 4 nsubj
+iku NOUN 1 nmod
+be ADP 2 case
+opop VERB 0 root
+. PUNCT 4 punct
+
+ixe PRON 3 nsubj
+iẽn NOUN 3 obj
+'o'om VERB 0 root
+kaw NOUN 2 nmod
+ta NOUN 4 clf
+eju ADP 4 case
+
+Soat PRON 3 obj
+ip PART 3 obl
+o'g̃u'ũm VERB 0 root
+iwipat NOUN 1 appos
+
+wida NOUN 2 obl
+o'jeaokaat VERB 0 root
+ag̃okatkat NOUN 2 obl
+pe ADP 3 case
+
+Tit NOUN 5 nsubj
+tak ADV 5 advmod
+iku NOUN 1 nmod
+be ADP 3 case
+opop VERB 0 root
+, PUNCT 5 punct
+awawa NOUN 8 nmod
+ku NOUN 3 appos
+be ADP 8 case
+. PUNCT 8 punct
+
+pariwat NOUN 2 obj
+tomuwã VERB 6 dep
+buje ADV 2 advmod
+juy PART 6 discourse
+puybit NOUN 6 obj
+ejomõg̃ VERB 0 root
+mesa NOUN 6 obl
+jeje ADP 7 case
+
+bekicat NOUN 2 obl
+o'akõm VERB 0 root
+wetabut VERB 2 dep
+pe ADP 3 case
+
+Kapusu ADV 3 advmod
+dapsem NOUN 3 obl
+o'yaokaiat NOUN 0 root
+g̃oku DET 3 obl
+, PUNCT 3 punct
+Katõ PROPN 8 obl
+bewi ADP 6 case
+oajẽmiat NOUN 3 appos
+
+Abu PRON 2 nsubj
+awi NOUN 0 root
+kay ADP 2 case
+? PUNCT 2 punct
+
+Ixiwe NOUN 0 root
+ako NOUN 1 nmod
+xe ADP 2 case
 
 G̃ebuje ADV 3 advmod
 , PUNCT 3 punct
@@ -555,173 +294,156 @@ pe ADP 40 case
 ayacayũ NOUN 38 parataxis
 . PUNCT 38 punct
 
-pariwat NOUN 2 obj
-tomuwã VERB 6 dep
-buje ADV 2 advmod
-juy PART 6 discourse
-puybit NOUN 6 obj
-ejomõg̃ VERB 0 root
-mesa NOUN 6 obl
-jeje ADP 7 case
-
-oxi NOUN 2 nsubj
-uk NOUN 0 root
-‘a NOUN 2 clf
-be ADP 2 case
-
 ebubut NOUN 2 obj
 pupum VERB 4 ccomp
 tu PART 2 discourse
 epesot VERB 0 root
 ? PUNCT 4 punct
 
-cum VERB 0 root
-jeku NOUN 1 obl
-be ADP 2 case
-
-Toxaw NOUN 3 obl
-tawe NOUN 3 obl
-o'tobuxik VERB 0 root
-
-Ag̃okatkayũ NOUN 4 nsubj
-soat DET 3 det
-axima NOUN 4 obj
-muyuhum VERB 0 root
-: PUNCT 4 punct
-wasũbu NOUN 3 appos
-, PUNCT 6 punct
-potip NOUN 6 conj
-, PUNCT 6 punct
-potiprip NOUN 6 conj
-, PUNCT 6 punct
-pakodup NOUN 6 conj
-, PUNCT 6 punct
-pirãydup NOUN 6 conj
-, PUNCT 6 punct
-pirũm NOUN 6 conj
-. PUNCT 4 punct
-
-jexat NOUN 2 obl
-o'tobuxik VERB 0 root
-
-puybit NOUN 2 nsubj
-ka'ũmg̃u VERB 0 root
-o'e VERB 1 discourse
-
-Abu PRON 3 obl
-awi NOUN 3 obl
-o'tobuxik VERB 0 root
-? PUNCT 3 punct
-
-Tit NOUN 3 obl
-tak ADV 3 advmod
-o'titobuxik VERB 0 root
-tu PART 3 dep
-? PUNCT 3 punct
-
-Abu PRON 2 nsubj
-awi NOUN 0 root
-kay ADP 2 case
-? PUNCT 2 punct
+Ka'ũma INTJ 0 root
+! PUNCT 1 punct
 
 Kapusu ADV 3 advmod
 dapsem NOUN 3 nmod
 o'yaokaiat NOUN 4 nmod
 g̃oku DET 0 root
 
-Ag̃okatkat NOUN 4 obl
-acã ADV 4 advmod
-cũg̃'i X 4 dep
-osunuy AUX 0 root
-sũg̃tabi NOUN 4 obl
-eju ADP 5 case
-g̃axĩn ADV 9 advmod
-ma PART 7 discourse
-oajẽm VERB 4 advcl
-puye ADP 9 case
+Awawa NOUN 2 obl
+oajẽm VERB 0 root
+ika NOUN 2 obl
+be ADP 3 case
+, PUNCT 4 punct
+jekibit NOUN 7 nmod
+ka NOUN 3 appos
+be ADP 7 case
 
-kobe NOUN 5 obl
-xixi NOUN 1 nmod
-badi ADV 5 obl
-wi ADP 3 case
-o'jebuk VERB 0 root
+xepxep NUM 2 nummod
+pa NOUN 3 nmod
+akoba NOUN 4 obl
+o'suba'o VERB 0 root
 
-Pũg̃pũg̃ PRON 2 det
-axima NOUN 3 nsubj
-yobog̃ VERB 0 root
-ma PART 3 discourse
-. PUNCT 3 punct
-Wasũbu NOUN 10 nsubj
-, PUNCT 6 punct
-potip NOUN 6 conj
-, PUNCT 6 punct
-yobog̃ayũ VERB 3 parataxis
-. PUNCT 10 punct
-Ag̃okatkayũ NOUN 14 nsubj
-axima NOUN 14 obj
-muyuhum VERB 3 parataxis
-pig̃am NOUN 14 obl
-. PUNCT 14 punct
+Ixi NOUN 2 nsubj
+uk NOUN 0 root
+'a NOUN 2 clf
+be ADP 2 case
 
-ixe PRON 3 nsubj
-iẽn NOUN 3 obj
-'o'om VERB 0 root
-kaw NOUN 2 nmod
-ta NOUN 4 clf
-eju ADP 4 case
+puybit NOUN 2 nsubj
+ka'ũmg̃u VERB 0 root
+o'e VERB 1 discourse
 
-ag̃okatkat NOUN 2 obl
-itakomã VERB 0 root
-jijã ADV 2 advmod
-o'e AUX 2 aux
-wida NOUN 2 obl
-buxim ADP 5 case
+Oexe VERB 0 root
+awawa NOUN 1 obl
 
-ag̃okatkat NOUN 3 nsubj
-bio NOUN 3 obj
-aoka VERB 6 advcl
-buje SCONJ 3 mark
-wida NOUN 6 obl
-o'jenapõn VERB 0 root
+Toxaw NOUN 2 obl
+oexe VERB 0 root
 
-Tõm NOUN 2 nsubj
-karaw VERB 7 advcl
+Abu PRON 2 nsubj
+o'titobuxik VERB 0 root
+? PUNCT 2 punct
+
+ipi NOUN 2 nmod
+teg̃ ADP 5 advcl
+kaxi NOUN 2 nsubj
+bima SCONJ 3 advcl
+o'taxadig̃curug̃ VERB 0 root
+
+Ade ADJ 2 amod
+tao NOUN 6 advcl
 bima SCONJ 2 mark
-, PUNCT 2 punct
-tõm NOUN 6 nmod
-pi NOUN 7 obj
-riprim VERB 0 root
-pag̃eiro’a NOUN 7 obl
-be ADP 8 case
-. PUNCT 7 punct
-Tõm NOUN 12 nmod
-pi NOUN 13 nmod
-rip VERB 18 advcl
-puje SCONJ 13 mark
-, PUNCT 13 punct
-iwi NOUN 18 obl
-be ADP 16 case
-imõg̃mõg̃ VERB 2 parataxis
-ip PRON 18 nsubj
-daxa NOUN 18 obl
-ase ADP 20 case
-tõm NOUN 23 obj
-mudaxip VERB 18 advcl
-am SCONJ 23 mark
-. PUNCT 18 punct
-Imõg̃mõg̃ VERB 2 parataxis
-ip PRON 26 nsubj
-daxa NOUN 26 obl
-ase ADP 28 case
-tõm NOUN 31 obj
-mukaraw VERB 26 advcl
-am SCONJ 31 mark
-. PUNCT 26 punct
+, PUNCT 6 punct
+tao NOUN 6 obj
+uk'ug̃ VERB 0 root
+ip PRON 6 nsubj
+iwi NOUN 6 obl
+xe ADP 8 case
+. PUNCT 6 punct
+
+õn PRON 3 obl
+ag̃okatkat NOUN 3 obl
+o'sutayxidaat VERB 0 root
+wamõat NOUN 3 obl
+pe ADP 4 case
+
+Wexik NOUN 3 nsubj
+'a NOUN 1 nmod
+kake VERB 0 root
+wa'e NOUN 1 nmod
+be ADP 4 case
 
 Abu PRON 3 obl
-tawe NOUN 3 obl
+awi NOUN 3 obl
 o'tobuxik VERB 0 root
 ? PUNCT 3 punct
+
+wida NOUN 3 obl
+ayacat'ũm NOUN 3 obl
+o'yaoka VERB 0 root
+
+Ka'ũma INTJ 0 root
+! PUNCT 1 punct
+
+Idib NOUN 0 root
+dag̃ ADP 1 case
+soat DET 4 det
+axima NOUN 1 nsubj
+. PUNCT 1 punct
+Pũg̃pũg̃ PRON 7 nmod
+axima NOUN 8 nsubj
+yopit NOUN 1 parataxis
+ma PART 8 discourse
+. PUNCT 8 punct
+Pirãydup NOUN 14 nsubj
+, PUNCT 11 punct
+pirũm NOUN 11 conj
+yopit NOUN 1 parataxis
+ma PART 14 discourse
+. PUNCT 14 punct
+
+Jexat NOUN 2 obl
+o'tobuxik VERB 0 root
+
+Tao NOUN 2 nsubj
+uk NOUN 5 advcl
+puje SCONJ 2 mark
+, PUNCT 5 punct
+imõg̃mõg̃ VERB 0 root
+ip PRON 5 nsubj
+iwi NOUN 5 obl
+be ADP 7 case
+daxa NOUN 5 obl
+ase ADP 9 case
+. PUNCT 5 punct
+Tao NOUN 13 nmod
+uk NOUN 16 advcl
+puje SCONJ 13 mark
+axima NOUN 16 obj
+tatam VERB 5 parataxis
+ip PRON 16 nsubj
+uktup NOUN 16 obl
+pe ADP 18 case
+. PUNCT 5 punct
+
+Ixi NOUN 3 nsubj
+wa'e NOUN 3 obj
+kug̃ VERB 0 root
+
+wamõat NOUN 3 obl
+ag̃okatkat NOUN 3 obl
+o'sutayxida VERB 0 root
+
+Tawe NOUN 2 obl
+oajẽm VERB 0 root
+xa NOUN 2 obl
+xe ADP 3 case
+
+ixem PRON 3 obj
+õn PRON 3 obl
+wetaybit VERB 0 root
+g̃u PART 3 discourse
+ojojo VERB 3 advcl
+g̃u PART 5 discourse
+ma ADV 5 advmod
+buye SCONJ 5 mark
 
 kabido NOUN 3 nsubj
 xixi NOUN 1 nmod
@@ -730,33 +452,273 @@ puje ADP 3 mark
 soat PRON 6 obl
 o'at VERB 0 root
 
+Ajojot NOUN 4 nsubj
+jekobe NOUN 4 obl
+be ADP 2 case
+cum VERB 0 root
+
+Wara'at PRON 2 nmod
+axima NOUN 3 nsubj
+yobog̃bug̃ VERB 0 root
+. PUNCT 3 punct
+Potiprit NOUN 8 nsubj
+, PUNCT 5 punct
+pakodup NOUN 5 conj
+yobog̃bug̃yũ VERB 3 parataxis
+. PUNCT 8 punct
+Pig̃ãm NOUN 12 obj
+axima NOUN 12 nsubj
+muyhum VERB 3 parataxis
+ip PRON 12 nsubj
+. PUNCT 12 punct
+
+Kabiam ADV 3 amod
+doa NOUN 5 nsubj
+iba'orere ADJ 2 amod
+jedoti NOUN 5 obl
+mug̃ẽg̃ẽm VERB 0 root
+daxa NOUN 5 obj
+xe ADP 6 case
+
+Abu PRON 3 obl
+jexat NOUN 3 obl
+o'tobuxik VERB 0 root
+? PUNCT 3 punct
+
+taxit NOUN 0 root
+mẽnpit CCONJ 1 cc
+ikukpin'ũm NOUN 1 nmod
+osunuy X 3 dep
+ag̃okatkat NOUN 3 obl
+pe ADP 5 case
+, PUNCT 1 punct
+i'e'em VERB 1 dep
+ajojoyũ'ũm'ũm NOUN 8 nsubj
+
+oxi NOUN 2 nsubj
+uk NOUN 0 root
+‘a NOUN 2 clf
+be ADP 2 case
+
+Xa NOUN 2 nsubj
+iku NOUN 0 root
+xe ADP 2 case
+
+Tao NOUN 2 obj
+uk'ug̃ VERB 0 root
+iwi NOUN 2 obl
+xe ADP 3 case
+ãõyũ NOUN 2 nsubj
+. PUNCT 2 punct
+Tao NOUN 8 obj
+uk'ug̃ VERB 2 parataxis
+ip PRON 10 dep
+ayacayũ NOUN 8 nsubj
+, PUNCT 8 punct
+axima NOUN 13 nmod
+dao NOUN 7 appos
+. PUNCT 2 punct
+
+Xa NOUN 4 obl
+xe ADP 1 case
+tawe NOUN 4 obl
+o'tobuxik VERB 0 root
+
+ag̃okatkat NOUN 2 obl
+itakomã VERB 0 root
+jijã ADV 2 advmod
+o'e AUX 2 aux
+wida NOUN 2 obl
+buxim ADP 5 case
+
+ag̃okatkat NOUN 2 obl
+o'jetayxidaat VERB 0 root
+wamõat NOUN 2 obl
+pe ADP 3 case
+
+ceebay NOUN 2 nsubj
+icokcok NOUN 0 root
+cicã ADV 4 advmod
+idip NOUN 2 advcl
+cicã ADV 4 advmod
+buye CCONJ 4 mark
+bekicat NOUN 4 nsubj
+yadappek NOUN 7 parataxis
+
+kobe NOUN 5 obl
+xixi NOUN 1 nmod
+badi ADV 5 obl
+wi ADP 3 case
+o'jebuk VERB 0 root
+
+puy NOUN 4 obl
+bu NOUN 1 clf
+bekicat NOUN 4 obl
+o'joa VERB 0 root
+
+Tõm NOUN 0 root
+e'em AUX 1 aux
+ip PRON 1 nsubj
+. PUNCT 1 punct
+Ẽ NOUN 7 obl
+be ADP 5 case
+ijukjug̃ VERB 1 parataxis
+ip PRON 7 nsubj
+. PUNCT 7 punct
+Axima NOUN 11 nmod
+nõm NOUN 12 obj
+cukcug̃ VERB 1 parataxis
+ip PRON 12 nsubj
+ẽ NOUN 12 obl
+be ADP 14 case
+, PUNCT 12 punct
+wãẽn NOUN 18 nmod
+tuk'a NOUN 12 obl
+be ADP 18 case
+. PUNCT 12 punct
+Tõm NOUN 22 obj
+cuk NOUN 26 advcl
+puje SCONJ 22 mark
+, PUNCT 22 punct
+tõm NOUN 26 obj
+ipriprim VERB 1 parataxis
+pag̃eiro'a NOUN 26 obl
+be ADP 27 case
+. PUNCT 26 punct
+
+Ikibit NOUN 0 root
+awi NOUN 1 nmod
+kay ADP 2 case
+
+Toxaw NOUN 3 obl
+tawe NOUN 3 obl
+o'tobuxik VERB 0 root
+
+Awawa NOUN 0 root
+tawe NOUN 1 nmod
+kay ADP 2 case
+
+Toxaw NOUN 4 obl
+dak ADV 4 advmod
+jexat NOUN 4 obl
+o'tobuxik VERB 0 root
+
+pug̃ NUM 3 obl
+em ADP 1 flat
+o'e VERB 0 root
+jeebay NOUN 3 obl
+be ADP 4 case
+
+Awawa NOUN 2 obl
+o'tobuxik VERB 0 root
+
+Eg̃uycũg̃ NOUN 4 advcl
+pimap SCONJ 1 mark
+, PUNCT 1 punct
+ecepe VERB 0 root
+eg̃rũ NOUN 4 obl
+be ADP 5 case
+
+Abu PRON 3 obl
+tawe NOUN 3 obl
+o'tobuxik VERB 0 root
+? PUNCT 3 punct
+
+Ixat NOUN 3 nsubj
+'a NOUN 1 nmod
+kake VERB 0 root
+wa'e NOUN 1 nmod
+be ADP 4 case
+, PUNCT 3 punct
+uk'a NOUN 1 nmod
+be ADP 7 case
+
+Awawa NOUN 3 obl
+awi NOUN 3 obl
+o'tobuxik VERB 0 root
+jekibit NOUN 5 nmod
+ka NOUN 3 obl
+be ADP 5 case
+
+Jexat NOUN 2 obl
+o'tobuxik VERB 0 root
+iku NOUN 2 obl
+be ADP 3 case
+
+Ag̃okatkayũ NOUN 3 nsubj
+axĩma NOUN 3 obj
+muyuhum VERB 0 root
+idibi NOUN 3 obj
+tag̃ ADP 4 case
+. PUNCT 3 punct
+Axĩma NOUN 8 obj
+muyuhum VERB 3 parataxis
+ip PRON 8 nsubj
+pig̃am NOUN 8 obl
+. PUNCT 8 punct
+
 wekobe NOUN 5 obl
 wita NOUN 5 obl
 'a NOUN 2 clf
 kay ADP 2 case
 og̃uyjayjay VERB 0 root
 
-Uk'a NOUN 2 nsubj
-yadip NOUN 0 root
-o'yanuy AUX 2 cop
+xa NOUN 4 obl
+diot NOUN 1 nmod
+pe ADP 1 case
+o'xet VERB 0 root
 
-Ikibit NOUN 0 root
-awi NOUN 1 nmod
-kay ADP 2 case
+jexat NOUN 2 obl
+o'tobuxik VERB 0 root
 
-wamõat NOUN 3 obl
-ag̃okatkat NOUN 3 obl
-o'sutayxida VERB 0 root
+Awi NOUN 3 nsubj
+awawa NOUN 1 nmod
+bubut VERB 0 root
 
-Wa'e NOUN 4 nsubj
-uk'a NOUN 1 nmod
+wida NOUN 3 obl
+ayacat NOUN 3 obl
+o’yaoka VERB 0 root
+Katõ PROPN 3 obl
+be ADP 4 case
+
+ag̃okatkat NOUN 3 nsubj
+bio NOUN 3 obj
+dakat VERB 6 advcl
+puje ADP 3 mark
+bekicat NOUN 6 obl
+o'suẽn'o VERB 0 root
+
+Tawe NOUN 2 obl
+oajẽm VERB 0 root
+iku NOUN 2 obl
+be ADP 3 case
+
+puybit NOUN 3 obl
+kug̃ ADP 1 case
+o'ju VERB 0 root
+bio NOUN 1 conj
+kug̃ ADP 4 case
+, PUNCT 5 punct
+dapsem NOUN 1 conj
+kug̃ ADP 7 case
+
+Tawe NOUN 2 obl
+oajẽm VERB 0 root
+ka NOUN 2 obl
+xe ADP 3 case
+
+oxi NOUN 2 nmod
+eg̃ru NOUN 3 nsubj
+ipi NOUN 0 root
+tẽg̃ ADP 3 case
+
+Toxaw NOUN 3 obl
+tawe NOUN 3 obl
+o'tobuxik VERB 0 root
+
+kapedi NOUN 2 nsubj
+tidaxip NOUN 0 root
+
+cum VERB 0 root
+jeku NOUN 1 obl
 be ADP 2 case
-opop VERB 0 root
-
-Puybit NOUN 2 obj
-aoka'ũm VERB 6 advcl
-pima SCONJ 2 mark
-, PUNCT 2 punct
-irere NOUN 6 dep
-jeedop VERB 0 root
-ip PART 6 dep

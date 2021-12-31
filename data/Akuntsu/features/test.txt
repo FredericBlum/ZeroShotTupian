@@ -1,40 +1,47 @@
-kɨp NOUN 2 nmod
-tep NOUN 0 root
-eanampe NOUN 2 obl
+otojẽpitin NOUN 7 nsubj
+ẽ DET 3 nmod
+tow NOUN 1 appos
+ẽ DET 5 nmod
+tow NOUN 7 nsubj
+ebapap NOUN 7 nmod
+ɨro NOUN 0 root
+tojẽpitin NOUN 7 appos
 
-ep NOUN 2 obj
-koa VERB 0 root
-jẽ DET 2 nsubj
+kitʃe PRON 3 nsubj
+kɨp NOUN 3 obj
+boja VERB 0 root
 
-niam NOUN 3 obj
-Tʃaruj PROPN 3 nmod
-imokwa NOUN 0 root
+enõ PRON 2 obl
+kɨ NOUN 0 root
+pi NOUN 2 obl
+? PUNCT 2 punct
 
-omapi NOUN 0 root
-ete ADP 1 case
-? PUNCT 1 punct
+kotin NOUN 4 obj
+, PUNCT 3 punct
+eme DET 1 appos
+peka VERB 0 root
 
-koro NOUN 2 nmod
-am NOUN 0 root
-, PUNCT 2 punct
-eme DET 5 nmod
-tetna NOUN 2 appos
+Pupak PROPN 3 nsubj
+kɨjtpitatʃo NOUN 3 obj
+ata VERB 0 root
+kom PART 3 advmod
+
+otʃipap NOUN 3 nsubj
+tabɨtõ NOUN 3 obl
+ka VERB 0 root
+
+itʃoke NOUN 2 obj
+tʃop VERB 0 root
+en PRON 2 nsubj
+
+okwako NOUN 2 nmod
+ikona NOUN 0 root
 
 aparapia NOUN 2 nmod
 tet NOUN 0 root
 ete ADP 2 case
 ? PUNCT 2 punct
 
-Pura PROPN 2 nsubj
-ikoa VERB 0 root
-te PART 2 discourse
-
-oiko NOUN 3 obj
-tokwa VERB 3 ccomp
-ojã AUX 0 root
-
-okwako NOUN 2 nmod
-ikona NOUN 0 root
-
-oetara VERB 0 root
-otoa AUX 1 aux
+Pura PROPN 3 nsubj
+te PART 3 discourse
+kɨte NUM 0 root

@@ -1,38 +1,46 @@
-ihẽ PRON 3 nsubj
-a’etake PRON 3 nsubj
-amujengar VERB 0 root
-
-pahar ADV 5 advmod
-pahar ADV 5 advmod
-je PART 5 discourse
-kɪse NOUN 5 obj
-meʔē VERB 0 root
-ngā PRON 5 nsubj
-
-ihẽke PRON 2 nsubj
-aʔar VERB 0 root
-
-pɪnupɪnuate VERB 0 root
-ehe ADP 1 case
-je PART 1 discourse
-
-Peteĩ PRON 4 nsubj
-Xõru PROPN 4 nsubj
-jahy NOUN 4 obj
-kanim VERB 0 root
-oho VERB 4 compound
-
-ɪmante ADV 4 advmod
-pe ADV 4 advmod
-aʔike NOUN 4 nsubj
-manõ VERB 0 root
-je‘ɪ PART 4 discourse
-
-ne PRON 4 nsubj
-ihẽ PRON 3 nmod
-miʔuke NOUN 4 obj
-reʔutĩ VERB 0 root
-
 Arauxu PROPN 2 nsubj
 ahem VERB 0 root
 uhu ADV 2 advmod
+
+ihẽke PRON 3 nsubj
+uʔi NOUN 3 obj
+akarãj VERB 0 root
+
+aʔeke PRON 3 nsubj
+ipɪke NOUN 3 obj
+tukwa VERB 0 root
+
+Pe ADV 4 advmod
+, PUNCT 1 punct
+imãi NOUN 4 obj
+ihĩ VERB 0 root
+
+netawate VERB 0 root
+nekeã PRON 1 nsubj
+nejɪtɪʔɪmte VERB 1 conj
+amõ ADV 3 advmod
+ʔɪ PART 3 discourse
+
+ihẽ PRON 3 nsubj
+neke PRON 3 obj
+apɪhɪk VERB 0 root
+ʔɪ AUX 3 aux
+
+pe ADV 4 advmod
+aʔi NOUN 4 nsubj
+ai NOUN 2 amod
+tur VERB 0 root
+je PART 4 discourse
+tĩ ADV 4 advmod
+
+pe ADV 5 advmod
+imu NOUN 5 nsubj
+uʔɪ NOUN 5 obj
+raʔɪr NOUN 3 amod
+mujã VERB 0 root
+ipe PRON 5 iobj
+je PART 5 discourse
+uʔɪ NOUN 5 obl
+sepetu NOUN 10 nmod
+ɪrapar NOUN 8 nmod
+raʔɪr NOUN 10 amod

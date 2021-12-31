@@ -1,16 +1,21 @@
+i INTJ 5 discourse
+eya PART 5 dep
+on PRON 5 nsubj
+wet ADV 5 advmod
+toa VERB 0 root
+ke PART 5 discourse
+pit ADV 5 advmod
+
+xop DET 3 nmod
+koa PART 3 discourse
+ten ADV 4 advmod
+nã VERB 5 xcomp
+peka VERB 0 root
+
+xeke PRON 0 root
+xēke PART 1 discourse
+ke PART 1 discourse
+
 ama NOUN 0 root
 etera VERB 1 parataxis
 kurux VERB 2 xcomp
-
-yeman ADV 3 advmod
-ngot NOUN 3 obj
-kana VERB 0 root
-oen VERB 3 dep
-
-opũãtemwã VERB 0 root
-ota AUX 1 aux
-
-putorot NOUN 0 root
-xēke PART 1 discourse
-ke PART 1 discourse
-xēt PART 1 dep

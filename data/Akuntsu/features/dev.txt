@@ -1,22 +1,52 @@
-Patʃo PROPN 4 nsubj
-Patʃe PROPN 4 nsubj
-tɨɾɨ NUM 4 nummod
-tajtʃi NOUN 0 root
+okɨp NOUN 2 nmod
+atap NOUN 0 root
+erom ADV 2 advmod
+, PUNCT 2 punct
+ke DET 6 nmod
+kɨp NOUN 7 nmod
+atap NOUN 2 discourse
 
-otojẽpitin NOUN 7 nsubj
-ẽ DET 3 nmod
-tow NOUN 1 appos
-ẽ DET 5 nmod
-tow NOUN 7 nsubj
-ebapap NOUN 7 nmod
-ɨro NOUN 0 root
-tojẽpitin NOUN 7 appos
+orẽ PRON 2 discourse
+oerekwa VERB 0 root
 
-Tʃaruj PROPN 3 nsubj
-kɨjtpit NOUN 3 obj
-õa VERB 0 root
-te PART 3 dep
-Kanibõ PROPN 3 iobj
+Pupak PROPN 2 nmod
+ko NOUN 3 obj
+ata VERB 0 root
+kebõ DET 3 obl
+
+ke DET 2 nmod
+boroteatʃori NOUN 0 root
+tʃooo NOUN 2 obl
+, PUNCT 2 punct
+jẽrom DET 6 nmod
+barobaro NOUN 2 parataxis
+
+te PRON 3 nsubj
+aj NOUN 3 obj
+koa VERB 0 root
+, PUNCT 3 punct
+ajet NOUN 6 obj
+koa VERB 3 parataxis
+
+ɨkɨ NOUN 2 obj
+ata VERB 0 root
+en PRON 2 nsubj
+ɨkɨpe NOUN 2 obl
+
+kɨp NOUN 2 nmod
+tep NOUN 0 root
+eanampe NOUN 2 obl
+
+Karow PROPN 5 nsubj
+, PUNCT 1 punct
+omepirẽpitet NOUN 1 appos
+, PUNCT 3 punct
+kwep VERB 0 root
+te PART 5 discourse
+
+kopiba NOUN 2 obj
+mõatʃoa VERB 0 root
+on PRON 2 nsubj
 
 tebõ PRON 3 nmod
 kɨte NUM 3 nummod
@@ -25,33 +55,6 @@ purururu NOUN 0 root
 kebõ DET 3 parataxis
 nõm ADV 5 advmod
 
-pi NOUN 2 obj
-maã VERB 0 root
-en PRON 2 nsubj
-
-eboro NOUN 0 root
-etʃe ADP 1 case
-
-oko NOUN 4 nmod
-oko NOUN 1 dep
-te PART 1 discourse
-iw NOUN 0 root
-
-tʃarimẽ NOUN 2 nmod
-okwaj NOUN 0 root
-, PUNCT 2 punct
-tokwajet NOUN 2 parataxis
-
-Buko PROPN 4 nsubj
-kɨte NUM 3 nummod
-korakora NOUN 4 obj
-mi VERB 0 root
-
-kitʃe PRON 3 nsubj
-kɨp NOUN 3 obj
-boja VERB 0 root
-
-kotin NOUN 4 obj
-, PUNCT 3 punct
-eme DET 1 appos
-peka VERB 0 root
+koa VERB 0 root
+koa VERB 1 discourse
+tʃoke NOUN 1 parataxis
