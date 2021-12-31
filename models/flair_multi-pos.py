@@ -1,4 +1,5 @@
 from flair.data import MultiCorpus
+from flair.datasets import ColumnCorpus
 from flair.embeddings import FlairEmbeddings, TransformerWordEmbeddings, StackedEmbeddings
 from flair.models import SequenceTagger
 from flair.trainers import ModelTrainer
@@ -38,10 +39,11 @@ upos_dictionary = corpus.make_label_dictionary(label_type=label_type)
 
 flair_embedding_forward = FlairEmbeddings('models/resources/embeddings/tupi_3_for/best-lm.pt')
 flair_embedding_backward = FlairEmbeddings('models/resources/embeddings/tupi_3_back/best-lm.pt')
-
+#flair_embedding_forward = FlairEmbeddings("multi-forward")
+#flair_embedding_backward = FlairEmbeddings("multi-backward")
 embeddings = StackedEmbeddings(embeddings=[#tf_embeddings,
                                            flair_embedding_forward, flair_embedding_backward])
-embeddings = TransformerWordEmbeddings("bert-multilingual-base-cased", fine_tune=True, layers="-1")
+# embeddings = TransformerWordEmbeddings("bert-base-multilingual-cased", fine_tune=True, layers="-1")
 
 ################################
 ### Tagger and Trainer       ###
@@ -60,9 +62,9 @@ trainer.train('models/resources/taggers/my-upos-3',
                 monitor_test=True,
                 patience=3,
                 anneal_with_restarts=True,
-                learning_rate=0.5,
+                learning_rate=1,
                 mini_batch_size=16,
-                max_epochs=150)
+                max_epochs=300)
 
 ###############################
 ### Visualizations          ###
