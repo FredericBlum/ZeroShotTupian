@@ -51,10 +51,10 @@ trainer.train('models/resources/taggers/my-upos-3',
                 anneal_with_restarts=True,
                 learning_rate=4,
                 mini_batch_size=16,
-                max_epochs=300)
+                max_epochs=200)
 
 ###############################
 ### Visualizations          ###
 ###############################
 plotter = Plotter()
-plotter.plot_training_curves('models/resources/taggers/sk_pos/loss.tsv')
+plotter.plot_training_curves('models/resources/taggers/my-upos-3/loss.tsv')
