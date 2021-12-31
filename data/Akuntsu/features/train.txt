@@ -1,54 +1,114 @@
-erẽ PRON 2 nsubj
-ekoro NOUN 0 root
-nõm ADV 2 advmod
+Kɨte NUM 2 nummod
+babape NOUN 3 obj
+at VERB 0 root
 
-kwako NOUN 2 nsubj
-aj VERB 0 root
-ek NOUN 2 obl
-etʃe ADP 3 case
+kwiro NOUN 4 obl
+, PUNCT 1 punct
+on PRON 4 nsubj
+ikɨta VERB 0 root
 
-eboro NOUN 0 root
-etʃe ADP 1 case
+aparapia NOUN 2 nmod
+tet NOUN 0 root
+ete ADP 2 case
+? PUNCT 2 punct
 
-koni NOUN 2 nsubj
-tʃe VERB 0 root
-okɨp NOUN 2 obl
-etʃe ADP 3 case
+on PRON 2 nsubj
+ikiramka VERB 0 root
+, PUNCT 2 punct
+ɨkɨ NOUN 5 nsubj
+tʃooo VERB 2 parataxis
+, PUNCT 5 punct
+kɨpitʃik NOUN 8 nmod
+ɨkɨt NOUN 2 parataxis
+ãka PART 8 discourse
+
+pero NOUN 2 nmod
+okwaj NOUN 3 dislocated
+tokwaj NOUN 0 root
+perek ADJ 3 amod
+
+jẽ DET 3 nmod
+kem NOUN 3 nmod
+kɨ NOUN 0 root
+jẽ DET 6 nmod
+kem NOUN 6 nmod
+kɨ NOUN 3 parataxis
+rom ADV 6 advmod
+
+ɨkɨ NOUN 2 obj
+ata VERB 0 root
+en PRON 2 nsubj
+ɨkɨpe NOUN 2 obl
+
+aparapia NOUN 2 nmod
+kwamoa NOUN 3 nmod
+tekõ NOUN 0 root
+
+Pupak PROPN 3 nsubj
+kɨjtpitatʃo NOUN 3 obj
+ata VERB 0 root
+kom PART 3 advmod
+
+tʃopa VERB 0 root
+te PART 1 discourse
+parãap NOUN 1 obj
+
+apara NOUN 2 nmod
+tep NOUN 3 obj
+tʃopa VERB 0 root
+jẽ DET 3 nsubj
+
+Pura PROPN 2 nsubj
+ikoa VERB 0 root
+te PART 2 discourse
+
+on PRON 3 nsubj
+eni NOUN 3 obj
+erepe VERB 0 root
+, PUNCT 5 punct
+on PRON 6 nsubj
+terepe VERB 3 parataxis
+
+Karow PROPN 5 nsubj
+, PUNCT 1 punct
+omepirẽpitet NOUN 1 appos
+, PUNCT 3 punct
+kwep VERB 0 root
+te PART 5 discourse
+
+õjpe NOUN 2 nmod
+pajapna NOUN 0 root
+
+Ariano PROPN 2 nsubj
+teita VERB 0 root
+kɨrẽ ADV 2 advmod
+
+Patʃo PROPN 4 nsubj
+Patʃe PROPN 4 nsubj
+tɨɾɨ NUM 4 nummod
+tajtʃi NOUN 0 root
+
+on PRON 2 nsubj
+opoatʃo NOUN 0 root
+en PRON 5 nsubj
+te PART 5 discourse
+tʃokĩn NOUN 2 conj
 
 en PRON 2 nsubj
-baj NOUN 0 root
-ete ADP 2 case
-
-teatap NOUN 2 nmod
-nĩap NOUN 0 root
-ete ADP 2 case
+iata VERB 0 root
+ka VERB 2 dep
 
 pi NOUN 2 obj
 maã VERB 0 root
 en PRON 2 nsubj
 
-Konibu PROPN 3 nsubj
-apara NOUN 3 obj
-koa VERB 0 root
+Buko PROPN 4 nsubj
+kɨte NUM 3 nummod
+korakora NOUN 4 obj
+mi VERB 0 root
 
 ekõ NOUN 2 obl
 ka VERB 0 root
-
-tʃarimẽ NOUN 2 nmod
-okwaj NOUN 0 root
-, PUNCT 2 punct
-tokwajet NOUN 2 parataxis
-
-õjpe NOUN 2 nmod
-pajapna NOUN 0 root
-
-erape ADV 2 advmod
-okwata VERB 0 root
-kom PART 2 advmod
-
-on PRON 2 nsubj
-ita VERB 0 root
-tʃoktʃok VERB 2 dep
 
 omepit NOUN 2 nmod
 tek NOUN 3 nmod
@@ -56,79 +116,20 @@ pi NOUN 4 obj
 tʃopa VERB 0 root
 on PRON 4 nsubj
 
-pabapebõ NOUN 2 case
-ɨkɨ NOUN 3 obj
-kiramka VERB 0 root
-en PRON 3 nsubj
+ɨkɨ NOUN 2 nmod
+pekã NOUN 3 nsubj
+ana PART 0 root
 
-pea NOUN 4 obl
-, PUNCT 1 punct
-en PRON 4 nsubj
-ipoka VERB 0 root
-
-en PRON 3 nsubj
-ekem NOUN 3 nmod
-kɨ NOUN 0 root
-pi NOUN 3 nmod
-, PUNCT 3 punct
-jẽbõ DET 3 parataxis
-nõm ADV 6 advmod
-
-aparapia NOUN 2 nmod
-kwamoa NOUN 3 nmod
-tekõ NOUN 0 root
-
-okere NOUN 2 nsubj
-atʃi NOUN 0 root
-pibõ NOUN 2 obl
-
-tʃopa VERB 0 root
-te PART 1 discourse
-parãap NOUN 1 obj
-
-kwaẽ NOUN 3 obl
-te PRON 3 nsubj
-ipitka NOUN 0 root
-
-koro NOUN 3 obj
-, PUNCT 3 punct
-oerekwa VERB 0 root
+kirẽbõ NOUN 2 obl
+kipera VERB 0 root
 
 erẽ PRON 2 nsubj
-baba NOUN 0 root
-, PUNCT 4 punct
-oerekwa VERB 2 parataxis
+ekoro NOUN 0 root
+nõm ADV 2 advmod
 
-kojõpebõ NOUN 3 obl
-kɨjtpit NOUN 3 obj
-at VERB 0 root
-kom PART 3 advmod
-
-aparapiat NOUN 2 nmod
-kwamoa NOUN 3 obj
-oirika VERB 0 root
-
-Karow PROPN 2 nmod
-etap NOUN 3 nmod
-tek NOUN 0 root
-iw NOUN 3 amod
-
-Patʃo PROPN 4 nsubj
-Patʃe PROPN 4 nsubj
-tɨɾɨ NUM 4 nummod
-tajtʃi NOUN 0 root
-
-ek NOUN 3 obl
-etʃe ADP 1 case
-imaã VERB 0 root
-
-omapi NOUN 0 root
-ete ADP 1 case
-? PUNCT 1 punct
-
-en PRON 2 nsubj
-iata VERB 0 root
-ka VERB 2 dep
+erape ADV 2 advmod
+okwata VERB 0 root
+kom PART 2 advmod
 
 oatap NOUN 7 nsubj
 ãka PART 1 discourse
@@ -138,30 +139,6 @@ oatap NOUN 7 nsubj
 oatap NOUN 7 obj
 õkwa VERB 0 root
 on PRON 7 nsubj
-
-pero NOUN 4 nsubj
-jẽrom DET 1 nmod
-te PART 1 discourse
-aj VERB 0 root
-
-itoap NOUN 2 nmod
-atʃoap NOUN 0 root
-ete ADP 2 case
-
-kɨpek NOUN 2 case
-atʃiri NOUN 3 obl
-aj VERB 0 root
-
-erẽ PRON 3 nsubj
-epo NOUN 3 obj
-tʃoga VERB 0 root
-erẽ PRON 1 discourse
-
-Tʃaruj PROPN 3 nsubj
-kɨjtpit NOUN 3 obj
-õa VERB 0 root
-te PART 3 dep
-Kanibõ PROPN 3 iobj
 
 kwena NOUN 0 root
 , PUNCT 1 punct
@@ -179,85 +156,13 @@ kwakwa VERB 9 conj
 takɨrap NOUN 15 obj
 kwakwa VERB 12 parataxis
 
-kwiro NOUN 4 obl
-, PUNCT 1 punct
-on PRON 4 nsubj
-ikɨta VERB 0 root
+kojõpebõ NOUN 3 obl
+kɨjtpit NOUN 3 obj
+at VERB 0 root
+kom PART 3 advmod
 
-ojẽ NOUN 2 nmod
-pi NOUN 3 obj
-õkwa VERB 0 root
-
-en PRON 2 nsubj
-ikoromka VERB 0 root
-
-on PRON 3 nsubj
-eni NOUN 3 obj
-erepe VERB 0 root
-, PUNCT 5 punct
-on PRON 6 nsubj
-terepe VERB 3 parataxis
-
-kitʃe PRON 0 root
-aramĩra NOUN 1 nsubj
-
-kirẽbõ NOUN 2 obl
-kipera VERB 0 root
-
-oko NOUN 4 nmod
-oko NOUN 1 dep
-te PART 1 discourse
-iw NOUN 0 root
-
-tekwata VERB 0 root
-Buko PROPN 1 obl
-ete ADP 2 case
-
-oiko NOUN 3 obj
-tokwa VERB 3 ccomp
-ojã AUX 0 root
-
-Kani PROPN 0 root
-okɨpi NOUN 1 appos
-kem NOUN 1 nmod
-kɨ NOUN 3 nmod
-rom ADV 3 advmod
-
-tawtʃeri NOUN 2 obl
-mia VERB 0 root
-kɨjtpit NOUN 2 parataxis
-nõm ADV 3 advmod
-
-ep NOUN 2 obj
-koa VERB 0 root
-jẽ DET 2 nsubj
-
-temen NOUN 3 nsubj
-tekɨjt NOUN 3 obj
-ata VERB 0 root
-
-erape ADV 2 advmod
-tekwata VERB 0 root
-, PUNCT 2 punct
-kɨrẽbõ NOUN 2 obl
-nõm ADV 2 advmod
-
-oetara VERB 0 root
-otoa AUX 1 aux
-
-kɨrẽri NOUN 3 obl
-ta DET 3 nsubj
-paja VERB 0 root
-, PUNCT 3 punct
-kiwkiw VERB 3 parataxis
-
-imen NOUN 2 nmod
-iõ NOUN 4 nmod
-imepit NOUN 4 nmod
-menna NOUN 0 root
-
-kitʃe PRON 3 nsubj
-tawtʃe NOUN 3 obj
+kwako NOUN 3 nsubj
+kɨpek NOUN 3 obj
 koa VERB 0 root
 
 koro NOUN 2 nmod
@@ -266,45 +171,75 @@ am NOUN 0 root
 eme DET 5 nmod
 tetna NOUN 2 appos
 
-ep NOUN 2 obj
+kopiba NOUN 2 obj
+mõatʃoa VERB 0 root
+on PRON 2 nsubj
+
+kɨrẽri NOUN 3 obl
+ta DET 3 nsubj
+paja VERB 0 root
+, PUNCT 3 punct
+kiwkiw VERB 3 parataxis
+
+kɨpek NOUN 2 case
+atʃiri NOUN 3 obl
+aj VERB 0 root
+
+ek NOUN 3 obl
+etʃe ADP 1 case
+imaã VERB 0 root
+
+pero NOUN 4 nsubj
+jẽrom DET 1 nmod
+te PART 1 discourse
+aj VERB 0 root
+
+niam NOUN 3 obj
+Tʃaruj PROPN 3 nmod
+imokwa NOUN 0 root
+
+omapi NOUN 0 root
+ete ADP 1 case
+? PUNCT 1 punct
+
+pea NOUN 4 obl
+, PUNCT 1 punct
+en PRON 4 nsubj
+ipoka VERB 0 root
+
+Kani PROPN 0 root
+okɨpi NOUN 1 appos
+kem NOUN 1 nmod
+kɨ NOUN 3 nmod
+rom ADV 3 advmod
+
+en PRON 3 nsubj
+ekem NOUN 3 nmod
+kɨ NOUN 0 root
+pi NOUN 3 nmod
+, PUNCT 3 punct
+jẽbõ DET 3 parataxis
+nõm ADV 6 advmod
+
 koa VERB 0 root
-jẽ DET 2 nsubj
+koa VERB 1 discourse
+tʃoke NOUN 1 parataxis
 
-mepitet NOUN 0 root
-jẽ DET 1 nmod
-, PUNCT 2 punct
-jẽrom DET 1 parataxis
-tɨrɨ NUM 4 nummod
+temen NOUN 3 nsubj
+tekɨjt NOUN 3 obj
+ata VERB 0 root
 
-en PRON 2 nsubj
-aramĩra NOUN 0 root
+erẽ PRON 2 nsubj
+baba NOUN 0 root
 , PUNCT 4 punct
-aramĩra NOUN 5 nmod
-baba NOUN 2 nmod
+oerekwa VERB 2 parataxis
 
-kitʃetara VERB 0 root
-kom PART 1 advmod
-
-karã NOUN 2 nmod
-tepna NOUN 0 root
-
-tʃoktʃok VERB 3 dep
-atiti NOUN 3 obj
-ta VERB 0 root
-
-Kɨte NUM 2 nummod
-babape NOUN 3 obj
-at VERB 0 root
-
-Pura PROPN 2 nsubj
-ikoa VERB 0 root
-te PART 2 discourse
-
-potʃek NOUN 3 nsubj
-momo ADV 3 advmod
-tejã VERB 0 root
-otek NOUN 3 obl
-etʃe ADP 4 case
+ke DET 2 nmod
+boroteatʃori NOUN 0 root
+tʃooo NOUN 2 obl
+, PUNCT 2 punct
+jẽrom DET 6 nmod
+barobaro NOUN 2 parataxis
 
 poga NOUN 2 nmod
 pe NOUN 3 nmod
@@ -314,64 +249,136 @@ ameko NOUN 7 nsubj
 ikora VERB 7 dep
 tʃe AUX 0 root
 
-jẽ DET 3 nmod
-kem NOUN 3 nmod
-kɨ NOUN 0 root
-jẽ DET 6 nmod
-kem NOUN 6 nmod
-kɨ NOUN 3 parataxis
-rom ADV 6 advmod
+otʃipap NOUN 3 nsubj
+tabɨtõ NOUN 3 obl
+ka VERB 0 root
 
-Ariano PROPN 2 nsubj
-teita VERB 0 root
-kɨrẽ ADV 2 advmod
+kɨp NOUN 2 nmod
+tep NOUN 0 root
+eanampe NOUN 2 obl
 
-on PRON 2 nsubj
-ikiramka VERB 0 root
+en PRON 2 nsubj
+aramĩra NOUN 0 root
+, PUNCT 4 punct
+aramĩra NOUN 5 nmod
+baba NOUN 2 nmod
+
+te PRON 3 nsubj
+aj NOUN 3 obj
+koa VERB 0 root
+, PUNCT 3 punct
+ajet NOUN 6 obj
+koa VERB 3 parataxis
+
+en PRON 2 nsubj
+baj NOUN 0 root
+ete ADP 2 case
+
+mepitet NOUN 0 root
+jẽ DET 1 nmod
 , PUNCT 2 punct
-ɨkɨ NOUN 5 nsubj
-tʃooo VERB 2 parataxis
-, PUNCT 5 punct
-kɨpitʃik NOUN 8 nmod
-ɨkɨt NOUN 2 parataxis
-ãka PART 8 discourse
+jẽrom DET 1 parataxis
+tɨrɨ NUM 4 nummod
 
-niam NOUN 3 obj
-Tʃaruj PROPN 3 nmod
-imokwa NOUN 0 root
+aparapiat NOUN 2 nmod
+kwamoa NOUN 3 obj
+oirika VERB 0 root
 
-apara NOUN 2 nmod
-tep NOUN 3 obj
-tʃopa VERB 0 root
-jẽ DET 3 nsubj
+orẽ PRON 2 discourse
+oerekwa VERB 0 root
 
-teti NOUN 2 nsubj
-pururu VERB 0 root
-aj VERB 2 dep
-ɨmɨmere NOUN 2 obl
+pabapebõ NOUN 2 case
+ɨkɨ NOUN 3 obj
+kiramka VERB 0 root
+en PRON 3 nsubj
+
+kotin NOUN 4 obj
+, PUNCT 3 punct
+eme DET 1 appos
+peka VERB 0 root
+
+koni NOUN 2 nsubj
+tʃe VERB 0 root
+okɨp NOUN 2 obl
+etʃe ADP 3 case
+
+okere NOUN 2 nsubj
+atʃi NOUN 0 root
+pibõ NOUN 2 obl
+
+teatap NOUN 2 nmod
+nĩap NOUN 0 root
+ete ADP 2 case
+
+Tʃaruj PROPN 3 nsubj
+kɨjtpit NOUN 3 obj
+õa VERB 0 root
+te PART 3 dep
+Kanibõ PROPN 3 iobj
+
+tʃarimẽ NOUN 2 nmod
+okwaj NOUN 0 root
+, PUNCT 2 punct
+tokwajet NOUN 2 parataxis
+
+eboro NOUN 0 root
+etʃe ADP 1 case
+
+ke DET 2 nmod
+Kani PROPN 0 root
+
+potʃek NOUN 3 nsubj
+momo ADV 3 advmod
+tejã VERB 0 root
+otek NOUN 3 obl
 etʃe ADP 4 case
 
-ɨkɨ NOUN 2 nmod
-pekã NOUN 3 nsubj
-ana PART 0 root
+okwako NOUN 2 nmod
+ikona NOUN 0 root
 
-on PRON 2 nsubj
-opoatʃo NOUN 0 root
-en PRON 5 nsubj
-te PART 5 discourse
-tʃokĩn NOUN 2 conj
+imen NOUN 2 nmod
+iõ NOUN 4 nmod
+imepit NOUN 4 nmod
+menna NOUN 0 root
 
-pero NOUN 2 nmod
-okwaj NOUN 3 dislocated
-tokwaj NOUN 0 root
-perek ADJ 3 amod
+tekwata VERB 0 root
+Buko PROPN 1 obl
+ete ADP 2 case
+
+Pura PROPN 3 nsubj
+te PART 3 discourse
+kɨte NUM 0 root
+
+enõ PRON 2 obl
+kɨ NOUN 0 root
+pi NOUN 2 obl
+? PUNCT 2 punct
+
+ojẽ NOUN 2 nmod
+pi NOUN 3 obj
+õkwa VERB 0 root
+
+koro NOUN 3 obj
+, PUNCT 3 punct
+oerekwa VERB 0 root
+
+kitʃe PRON 3 nsubj
+tawtʃe NOUN 3 obj
+koa VERB 0 root
 
 tawtʃe NOUN 2 nmod
 tʃogaap NOUN 0 root
 
-kwako NOUN 3 nsubj
-kɨpek NOUN 3 obj
-koa VERB 0 root
+itʃoke NOUN 2 obj
+tʃop VERB 0 root
+en PRON 2 nsubj
+
+itoap NOUN 2 nmod
+atʃoap NOUN 0 root
+ete ADP 2 case
+
+oetara VERB 0 root
+otoa AUX 1 aux
 
 aramĩra NOUN 7 parataxis
 nõm ADV 1 nsubj
@@ -390,10 +397,12 @@ ape NOUN 15 nmod
 dow VERB 7 parataxis
 aparapiat NOUN 15 nsubj
 
-Buko PROPN 4 nsubj
-kɨte NUM 3 nummod
-korakora NOUN 4 obj
-mi VERB 0 root
+Karow PROPN 2 nmod
+etap NOUN 3 nmod
+tek NOUN 0 root
+iw NOUN 3 amod
 
-ke DET 2 nmod
-Kani PROPN 0 root
+kwako NOUN 2 nsubj
+aj VERB 0 root
+ek NOUN 2 obl
+etʃe ADP 3 case

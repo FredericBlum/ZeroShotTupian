@@ -1,46 +1,43 @@
-Arauxu PROPN 2 nsubj
+Purutuke PROPN 2 nsubj
 ahem VERB 0 root
-uhu ADV 2 advmod
-
-ihẽke PRON 3 nsubj
-uʔi NOUN 3 obj
-akarãj VERB 0 root
 
 aʔeke PRON 3 nsubj
-ipɪke NOUN 3 obj
-tukwa VERB 0 root
+ehake NOUN 3 obj
+tukwatĩ VERB 0 root
+
+karai NOUN 4 nsubj
+riki ADV 1 advmod
+muka NOUN 4 obj
+mopok VERB 0 root
+
+pe CCONJ 3 cc
+ɪ NOUN 3 nmod
+rɪmɪʔɪ NOUN 0 root
+rehe ADP 3 obl
+riki ADP 3 case
+kamarar PROPN 8 nmod
+ta PRON 6 nmod
+pirer NOUN 3 obl
+pirā NOUN 8 amod
 
 Pe ADV 4 advmod
 , PUNCT 1 punct
-imãi NOUN 4 obj
-ihĩ VERB 0 root
+ihẽ PRON 4 obj
+asak VERB 0 root
 
-netawate VERB 0 root
-nekeã PRON 1 nsubj
-nejɪtɪʔɪmte VERB 1 conj
-amõ ADV 3 advmod
-ʔɪ PART 3 discourse
+a’eta PRON 6 nsubj
+ma’e NOUN 3 nmod
+jukwahá NOUN 6 obj
+ihẽke PRON 6 obl
+pe ADP 4 obl
+me’ẽ VERB 0 root
 
-ihẽ PRON 3 nsubj
-neke PRON 3 obj
-apɪhɪk VERB 0 root
-ʔɪ AUX 3 aux
+Arahã ADV 6 advmod
+maʔe NOUN 6 obj
+Kaninde PROPN 6 obl
+rehe ADP 3 case
+ihẽ PRON 6 nsubj
+araho VERB 0 root
 
-pe ADV 4 advmod
-aʔi NOUN 4 nsubj
-ai NOUN 2 amod
-tur VERB 0 root
-je PART 4 discourse
-tĩ ADV 4 advmod
-
-pe ADV 5 advmod
-imu NOUN 5 nsubj
-uʔɪ NOUN 5 obj
-raʔɪr NOUN 3 amod
-mujã VERB 0 root
-ipe PRON 5 iobj
-je PART 5 discourse
-uʔɪ NOUN 5 obl
-sepetu NOUN 10 nmod
-ɪrapar NOUN 8 nmod
-raʔɪr NOUN 10 amod
+Maíra PROPN 2 nsubj
+wata VERB 0 root

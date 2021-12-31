@@ -1,16 +1,11 @@
-wotye VERB 0 root
-pukpuga VERB 1 advcl
-pit PRON 2 parataxis
+ngot NOUN 2 dep
+xiaret NOUN 0 root
 
-putorot NOUN 0 root
-xēke PART 1 discourse
-ke PART 1 discourse
-xēt PART 1 dep
+opũãtemwã VERB 0 root
+ota AUX 1 aux
 
-mokat ADV 3 advmod
-peitõã ADV 3 advmod
+mokat ADV 2 advmod
 etera VERB 0 root
-amang VERB 3 parataxis
-korop VERB 3 parataxis
-kux NOUN 5 obl
-me ADP 6 case
+korop VERB 2 dep
+noa NOUN 3 obl
+pe ADP 4 case

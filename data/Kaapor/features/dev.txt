@@ -1,46 +1,6 @@
-neke PRON 3 nsubj
-ihẽ PRON 3 obj
-remupuʔam VERB 0 root
-ʔɪ AUX 3 aux
-
-neke PRON 3 nsubj
-uʔike NOUN 3 obj
-rekarãjta VERB 0 root
-
-pe CCONJ 3 cc
-ɪ NOUN 3 nmod
-rɪmɪʔɪ NOUN 0 root
-rehe ADP 3 obl
-riki ADP 3 case
-kamarar PROPN 8 nmod
-ta PRON 6 nmod
-pirer NOUN 3 obl
-pirā NOUN 8 amod
-
-Xõru PROPN 2 nsubj
-nixói VERB 0 root
-se NOUN 2 obj
-aʔe PRON 2 nmod
-
-ihẽ PRON 3 nsubj
-ikɪ NOUN 3 obj
-ajiʔok VERB 0 root
-ʔɪ AUX 3 aux
-
-uʔike NOUN 4 obj
-wiraʔi PRON 3 nmod
-take PRON 4 nsubj
-uʔu VERB 0 root
-ɪm PART 4 discourse
-
-Tapiʔir NOUN 2 obj
-ujan VERB 0 root
-
-pe CCONJ 5 cc
-riki ADV 5 advmod
-katar NOUN 5 obj
-ngã PRON 5 nsubj
-muhɪk VERB 0 root
+kujãtake NOUN 3 nsubj
+upa PART 1 discourse
+mupinim VERB 0 root
 
 ihē PRON 3 nsubj
 ndeke PRON 3 obj
@@ -48,3 +8,36 @@ araho VERB 0 root
 tar VERB 3 ccomp
 katu ADV 3 advmod
 tipe PART 3 discourse
+
+aʔe PRON 3 nsubj
+ikɪke NOUN 3 obj
+jiʔok VERB 0 root
+
+aʔeke PRON 3 nsubj
+ipɪke NOUN 3 obj
+tukwa VERB 0 root
+
+Oho VERB 0 root
+uĩ VERB 1 xcomp
+tipe PART 1 discourse
+ã PART 1 discourse
+
+a’eta PRON 2 nsubj
+ajengar VERB 0 root
+
+aʔe PRON 4 nsubj
+ta PART 1 nmod
+ke PART 1 nmod
+uʔuta VERB 0 root
+moj NOUN 4 obj
+ke PART 5 nmod
+tĩ PART 5 discourse
+
+ihẽ PRON 3 nsubj
+neke PRON 3 obj
+akutukta VERB 0 root
+
+Xõru PROPN 2 nsubj
+nixói VERB 0 root
+se NOUN 2 obj
+aʔe PRON 2 nmod

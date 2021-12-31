@@ -1,110 +1,56 @@
-Tupãeté NOUN 0 root
-, PUNCT 1 punct
-apɨaβeté NOUN 1 conj
-, PUNCT 3 punct
-jandéjara NOUN 1 conj
-aβé ADV 5 advmod
+Nepoʃɨ NOUN 0 root
+wĩ PART 1 discourse
+! PUNCT 1 punct
+Nereʔui VERB 1 parataxis
+ʃo PART 4 dep
+kori ADV 4 advmod
+ʃereminuʔune NOUN 4 obj
+! PUNCT 4 punct
 
-Marãpe ADV 3 advmod
-judeus NOUN 3 nsubj
-reków NOUN 0 root
-aʔéreme ADV 3 advmod
+Opa PART 2 nmod
+sama NOUN 4 obj
+pupé ADP 2 case
+iapɨtĩw NOUN 0 root
+, PUNCT 4 punct
+sekɨjsekɨjetéβo VERB 4 advcl
+, PUNCT 6 punct
+ikanga NOUN 9 nmod
+jepotasaβa NOUN 10 obj
+peʔaβo VERB 6 parataxis
+ojoswi ADP 10 obl
+
+ʃerapiʃá NOUN 0 root
+sarawaia NOUN 1 nsubj
+, PUNCT 1 punct
+apɨaba NOUN 5 nsubj
+ʃepokwá NOUN 1 parataxis
+, PUNCT 5 punct
+sesé ADP 9 obl
+ɲe PART 9 discourse
+ajekotɨá VERB 1 parataxis
+
+Osoβasaβ VERB 0 root
+
+aʔepe PART 3 discourse
+ke ADV 3 advmod
+amoaé PRON 0 root
 ? PUNCT 3 punct
 
-Ajpotaretékatu VERB 0 root
-okɨbɨɲa NOUN 3 obj
-neiʃusupa VERB 1 obl
-; PUNCT 1 punct
-iʃuβ NOUN 7 obl
-iré ADP 5 case
-tereju VERB 1 parataxis
-
-Sekóte NOUN 2 nsubj
-ipoʃɨeté NOUN 0 root
-, PUNCT 2 punct
-seko NOUN 6 nsubj
-aʔe PART 6 discourse
-niporaŋi NOUN 2 parataxis
-
-ʃejɨβoja NOUN 0 root
-, PUNCT 1 punct
-ʃesokó NOUN 1 parataxis
-, PUNCT 3 punct
-ʃetamũjusu NOUN 1 parataxis
-Aimbiré PROPN 5 appos
-, PUNCT 5 punct
-sukuriju NOUN 1 parataxis
-, PUNCT 8 punct
-tawató NOUN 1 parataxis
+Itamina NOUN 4 obl
+pupé ADP 1 case
+iɨké NOUN 4 obj
+kutúki NOUN 0 root
+, PUNCT 4 punct
+iɲɨʔã NOUN 7 obj
+momboka VERB 4 xcomp
+, PUNCT 7 punct
+awɲeɲẽ ADV 15 advmod
+ʔɨ NOUN 15 obl
 , PUNCT 10 punct
-tamanwá NOUN 1 parataxis
-atɨraβeβó NOUN 12 nmod
-; PUNCT 12 punct
-ʃeaɲaŋa NOUN 1 parataxis
-moropé NOUN 15 nmod
-! PUNCT 15 punct
-
-Sesé ADP 3 case
-o PRON 3 nmod
-maʔendwáramo NOUN 0 root
-e PART 3 discourse
-asé PRON 7 nmod
-Tupã NOUN 7 nmod
-rawsúβi NOUN 3 ccomp
-o PRON 9 nmod
-pɨʔape NOUN 10 obl
-sekó NOUN 11 obj
-aβɨpotareʔɨma VERB 7 dep
-
-Ojaoβok VERB 0 root
-serã ADV 1 discourse
-ɨβɨá PART 1 dep
-ikatupe NOUN 6 nmod
-ɲẽ PART 4 discourse
-imoingóβo VERB 1 advcl
-inupãnupã NOUN 1 obl
-janondé ADP 7 case
-? PUNCT 1 punct
-
-ʃe PRON 3 nsubj
-ɲõ ADV 3 advmod
-aʔupakatune VERB 0 root
-. PUNCT 3 punct
-Kweiseβé ADV 8 advmod
-, PUNCT 5 punct
-nakó PART 8 discourse
-airumõ VERB 3 parataxis
-. PUNCT 8 punct
-Tasóne VERB 3 parataxis
-, PUNCT 10 punct
-wɨ INTJ 10 discourse
-! PUNCT 10 punct
-Takaʔune VERB 3 parataxis
-! PUNCT 14 punct
-
-Marã ADV 2 advmod
-eʔipe VERB 0 root
-supjarwera NOUN 2 nsubj
-osóβo VERB 2 advcl
-seʔõmbwera NOUN 6 obj
-rejá VERB 4 advcl
-? PUNCT 2 punct
-
-aʔe PRON 0 root
-! PUNCT 1 punct
-Bastião PROPN 1 conj
-abé ADV 1 cc
-! PUNCT 1 punct
-
-Ko DET 2 nmod
-Temiminó PROPN 5 obl
-poʃɨ NOUN 2 nmod
-janerekó NOUN 5 obl
-oweroɨrõ VERB 0 root
-
-Awjé INTJ 2 discourse
-ipó ADV 0 root
-! PUNCT 2 punct
+suwɨ NOUN 10 conj
+aβé ADV 12 advmod
+iʃwí ADP 10 case
+iẽawama NOUN 4 xcomp
 
 Marã ADV 2 advmod
 eʔipe VERB 0 root
@@ -115,157 +61,98 @@ oeʔõ NOUN 2 obj
 janondé ADP 6 case
 ? PUNCT 2 punct
 
-Nosaʔaŋitepe VERB 0 root
-akó DET 1 obl:subj
-ɲemoʔe NOUN 1 obl:obj
-koʔarapukui ADV 1 advmod
-? PUNCT 1 punct
-
-Tapujpé NOUN 3 obj
-wajβĩ NOUN 1 nmod
-aru VERB 0 root
-amõ ADV 3 obl
-Maweá PROPN 4 appos
-swi ADP 4 case
-
-Ejori VERB 0 root
-saʔaŋa VERB 1 xcomp
-, PUNCT 1 punct
-rõ PART 1 discourse
-, PUNCT 1 punct
-totupãɲeʔeŋaβɨ VERB 1 xcomp
-, PUNCT 1 punct
-tokaʔu VERB 1 xcomp
-, PUNCT 1 punct
-tomondarõ VERB 1 xcomp
-, PUNCT 1 punct
-toporepeɲan VERB 1 xcomp
-ojkóβo AUX 12 aux
-, PUNCT 1 punct
-tojpuru VERB 1 xcomp
-tekó NOUN 15 obj
-poʃɨ NOUN 16 nmod
-, PUNCT 1 punct
-tosó VERB 1 xcomp
-ko DET 21 det
-taβa NOUN 19 obl
-swi ADP 21 case
-. PUNCT 1 punct
-
-Marãpe ADV 3 advmod
-jandéjara NOUN 3 nmod
-rereków NOUN 0 root
-aʔe DET 3 obl
-rojré ADP 4 case
-? PUNCT 3 punct
-
-Jandéjara NOUN 2 nmod
-mombeʔureme NOUN 5 advcl
-, PUNCT 2 punct
-serobβjasareʔɨma NOUN 5 nsubj
-potɨrõw NOUN 0 root
-ijɨβõijjɨβõmo VERB 5 advcl
-, PUNCT 5 punct
-ijukáβo VERB 5 advcl
-
-Aβape PRON 0 root
-aʔe PRON 1 nsubj
-? PUNCT 1 punct
-
-Aɲe PART 7 discourse
-ijurupe NOUN 7 obl
-ɲõ ADV 7 advmod
-, PUNCT 7 punct
-Tupã PROPN 6 nmod
-rerobjara NOUN 7 nsubj
-ruj NOUN 0 root
-
-Angari ADV 3 advmod
-, PUNCT 1 punct
-ajosuβ VERB 0 root
-aβá NOUN 5 nmod
-kotɨ NOUN 3 obl
+Te INTJ 3 discourse
 , PUNCT 3 punct
-taʃereroβjar NOUN 8 obj
-wiʔiaβo VERB 3 advcl
-. PUNCT 3 punct
-0u VERB 3 parataxis
-teɲẽ ADV 10 advmod
-ʃepeʔaβo VERB 10 advcl
-aβaré NOUN 10 nsubj
-ʔiaβa DET 13 det
-, PUNCT 10 punct
-kori ADV 20 advmod
-, PUNCT 16 punct
-Tupã PROPN 19 nmod
-rekó NOUN 20 obj
-momewaβo VERB 10 advcl
-. PUNCT 10 punct
+awjékatuteɲe ADV 0 root
+! PUNCT 3 punct
 
-aʔe PART 2 discourse
-ipó ADV 5 discourse
-mbaʔe NOUN 4 nmod
-repɨ́ramo NOUN 5 obl
-ojmoariβeukar VERB 11 parataxis
-ʃeswi ADP 5 obl
-, PUNCT 5 punct
-ʃemombwerápane NOUN 5 dep
-reá PART 8 discourse
-, PUNCT 8 punct
+iʔárɨβo ADP 2 case
+omanõmo VERB 0 root
+jandéjara NOUN 2 nsubj
+jandérepɨmeʔengawera NOUN 2 obl
+resé ADP 4 case
+, PUNCT 2 punct
+Aɲanga PROPN 8 nmod
+ratá NOUN 10 obl
+swi ADP 8 case
+jandépɨsɨrõ NOUN 2 obl
+resé ADP 10 case
+βé ADV 10 advmod
+
+Taʃepɨsɨrõ NOUN 2 obj
+Tupã PROPN 6 ccomp
+, PUNCT 2 punct
+maʔendwasaβaiβa NOUN 2 obl
+swi ADP 4 case
 ojaβo VERB 0 root
 
-ʃeapɨsɨkatu NOUN 0 root
-sekoápe NOUN 1 obl
+Ojaratã VERB 0 root
+, PUNCT 1 punct
+neʔi ADV 7 advmod
+teʔe ADV 3 advmod
+aʔéreme ADV 7 advmod
+judeus NOUN 7 nsubj
+sekɨjatãmo VERB 1 parataxis
+ipira NOUN 10 nmod
+βe ADV 10 advcl
+reru NOUN 7 dep
+, PUNCT 10 punct
+suwɨ NOUN 13 obj
+mosɨrɨka VERB 7 dep
+iʃwi ADP 13 obl
+
+Seté NOUN 0 root
+jakatu ADP 1 case
 . PUNCT 1 punct
 
-Aani ADV 4 discourse
-ʃo INTJ 1 discourse
-! PUNCT 4 punct
-nepɨatã NOUN 0 root
-! PUNCT 4 punct
-
-Eresawsupe VERB 0 root
-Tupã PROPN 1 obl
-nderuβa NOUN 15 nmod
-, PUNCT 3 punct
-ndesɨ NOUN 3 conj
-, PUNCT 5 punct
-nderemirekó NOUN 5 conj
-, PUNCT 7 punct
-ndemena NOUN 7 conj
-, PUNCT 9 punct
-nderaʔɨra NOUN 9 conj
-, PUNCT 11 punct
-ndembaʔe NOUN 14 nmod
-katupaβẽ NOUN 11 conj
-ndesawsuβa NOUN 1 advcl
-sosé ADP 15 case
-? PUNCT 1 punct
-
-Marãnamope ADV 4 advmod
-asé PRON 4 nsubj
-ojurupe NOUN 4 obl
-saʔãngino NOUN 0 root
-? PUNCT 4 punct
-
-Erĩ PART 3 discourse
-, PUNCT 3 punct
-ʃerorɨ NOUN 0 root
-sesé ADP 3 obl
-. PUNCT 3 punct
-Tojepun VERB 3 parataxis
-ʃemaranwera NOUN 6 nsubj
-! PUNCT 6 punct
-
-Ojaseʔõerekó NOUN 0 root
-aβé ADV 1 advmod
+Natuβi NOUN 0 root
 , PUNCT 1 punct
-paʔi NOUN 5 compound
-Jesus PROPN 6 nmod
-rekoβejeβɨsawama NOUN 8 obj
-resé ADP 6 case
-oɲemosakojaβo VERB 1 advcl
-βéte ADV 8 conj
+oɲemoɲang VERB 1 parataxis
+e PART 3 discourse
+osɨ NOUN 7 nmod
+iatõjmbɨreʔɨma NOUN 7 nmod
+rɨgepe NOUN 3 obl
+
+Aɲanga PROPN 0 root
+. PUNCT 1 punct
+
+Marã PRON 2 nsubj
+eʔipe VERB 0 root
+saʔang NOUN 2 nmod
+iré ADP 3 case
+? PUNCT 2 punct
+
+Ajpó DET 2 nsubj
+sawsukatupɨra NOUN 0 root
+, PUNCT 2 punct
+ajpó DET 6 nsubj
+aɲẽ PART 6 discourse
+jamomeʔu VERB 2 conj
+ajpó DET 8 nsubj
+imomoraŋɨpɨra NOUN 2 conj
+. PUNCT 2 punct
+
+Ojmoʔɨʔu VERB 0 root
+
+Jaʔupá VERB 0 root
+Mosupɨroka PROPN 1 obj
+, PUNCT 1 punct
+jekeí PROPN 1 conj
+, PUNCT 1 punct
+Watapɨtɨβa PROPN 1 conj
+, PUNCT 1 punct
+ɲeterõja PROPN 1 conj
+, PUNCT 1 punct
+Paraíβa PROPN 1 conj
+, PUNCT 1 punct
+Wajajó PROPN 1 conj
+, PUNCT 1 punct
+Karijóoka PROPN 1 conj
+, PUNCT 1 punct
+Pakukaja PROPN 1 conj
+, PUNCT 1 punct
+Arasatɨβa PROPN 1 conj
+. PUNCT 1 punct
 
 Ojtɨ́kɨpe VERB 0 root
 ɨβɨɨá PART 1 obl
@@ -274,52 +161,142 @@ erimbaʔe ADV 1 advmod
 sesé ADP 4 case
 ? PUNCT 1 punct
 
-Turusukatupe NOUN 3 nmod
-aʔe DET 3 nmod
-cruz NOUN 0 root
-erimbaʔe ADV 3 advmod
+Marã ADV 2 advmod
+eʔipe VERB 0 root
+supjarwera NOUN 2 nsubj
+osóβo VERB 2 advcl
+seʔõmbwera NOUN 6 obj
+rejá VERB 4 advcl
+? PUNCT 2 punct
+
+Marãnamope ADV 0 root
+? PUNCT 1 punct
+
+Opá PRON 3 nmod
+umã ADV 4 advmod
+tamũja NOUN 4 nsubj
+sów NOUN 0 root
+, PUNCT 4 punct
+okaja VERB 4 advcl
+tatápe NOUN 6 obl
+oupa AUX 6 aux
+
+Niapɨsɨki NOUN 0 root
+ʃwémo PART 1 dep
+, PUNCT 1 punct
+omanõmo VERB 1 parataxis
+tiruã ADV 4 discourse
+seroβjámo NOUN 4 xcomp
+
+iaowérape NOUN 4 dep
+, PUNCT 4 punct
+marã ADV 4 advmod
+sereków NOUN 0 root
+? PUNCT 4 punct
+
+ɨβɨ NOUN 0 root
+rupi ADP 1 case
+βé ADV 1 advmod
+. PUNCT 1 punct
+
+Erĩ INTJ 0 root
+, PUNCT 1 punct
+awjé INTJ 1 parataxis
+. PUNCT 1 punct
+ʃemoorɨkatu NOUN 1 parataxis
+jepé PRON 5 obl
+, PUNCT 5 punct
+inã ADV 10 advmod
+tekó NOUN 10 obj
+momewaβo VERB 5 advcl
+. PUNCT 10 punct
+
+Marãnemetepe ADV 3 advmod
+asé PRON 3 nsubj
+joβasáβine NOUN 0 root
 ? PUNCT 3 punct
 
-Oɲenomũnomũ VERB 0 root
-soβá NOUN 1 obl
-resé ADP 2 case
+Ojpɨsó VERB 0 root
+ɨβɨrajoasaβa NOUN 1 obl
+ʔárɨβo NOUN 2 case
 , PUNCT 1 punct
-ipetépeteka NOUN 1 advcl
-, PUNCT 5 punct
-iakanga NOUN 11 obl
-resé ADP 7 case
-aʔe DET 10 nmod
-takwara NOUN 11 obj
-reropwá VERB 5 parataxis
-
-Erejupe VERB 0 root
-, PUNCT 1 punct
-Sarawaj PROPN 1 vocative
-? PUNCT 1 punct
-
-Ojmoasɨ VERB 0 root
-, PUNCT 1 punct
-iʔekatwaβa NOUN 5 obl
-kotɨ ADP 3 case
-ojkóβaʔe NOUN 1 acl
-ndʔeʔiteʔe ADV 8 advmod
-oapiʃara NOUN 8 obj
-akakapa VERB 1 dep
+itapɨwá NOUN 1 obl
+pupé ADP 5 case
+ipó DET 8 nsubj
+kutuka VERB 1 conj
 , PUNCT 8 punct
-sepɨka VERB 8 conj
+imojá VERB 1 dep
 
-Osapjar VERB 0 root
-, PUNCT 1 punct
+Okárɨpe NOUN 0 root
+moroepjakápe NOUN 1 appos
 judeus NOUN 5 obl
-swi ADP 3 case
-osɨkɨjéβo VERB 1 advcl
-ɲẽ PART 1 discourse
-, PUNCT 1 punct
-ʃekwaukámo NOUN 11 dep
-ʃeruβiʃaβa NOUN 8 obl
-supémo ADP 9 case
-ojaβo VERB 1 dep
+supé ADP 3 case
+sepjakuká VERB 1 dep
+, PUNCT 5 punct
+imondó NOUN 9 obj
+ɲẽ PART 9 discourse
+motá VERB 5 parataxis
 
-Ojmoʔɨʔupe VERB 0 root
-ɨβɨá PART 1 obl
+Marãnamope ADV 0 root
 ? PUNCT 1 punct
+
+Oemimotárɨβo NOUN 0 root
+épe PART 1 discourse
+erimbaʔe ADV 1 advmod
+iɲemeʔẽngi NOUN 1 appos
+ogupjarama NOUN 4 obl
+supé ADP 5 case
+oɲeraneʔɨma VERB 4 dep
+? PUNCT 1 punct
+
+Ojaβiʔõpe PRON 3 obj
+asé PRON 3 nsubj
+sereków NOUN 0 root
+? PUNCT 3 punct
+
+Osó VERB 0 root
+meémo PART 1 dep
+mamõ ADV 1 advmod
+? PUNCT 1 punct
+
+ʃepó NOUN 6 nmod
+ʃepɨ NOUN 1 conj
+aβá NOUN 4 nmod
+po NOUN 1 conj
+ipɨ NOUN 1 conj
+ʔara NOUN 14 advcl
+omembɨrawera NOUN 6 dep
+kwaβ NOUN 6 obl
+iré ADP 8 case
+, PUNCT 6 punct
+SantaMaria PROPN 14 nsubj
+omembɨra NOUN 14 obj
+Iesus PROPN 12 appos
+rerasow NOUN 0 root
+Tupã NOUN 16 nmod
+okɨpe NOUN 14 obl
+, PUNCT 14 punct
+Tupã PROPN 19 nmod
+tuβape NOUN 20 obl
+ikwaβeʔenga VERB 14 advcl
+judeus NOUN 22 nmod
+rekomoɲangaβa NOUN 20 advcl
+rupi ADP 22 case
+
+Itajuβa NOUN 5 nsubj
+moruβiʃaβa NOUN 4 nmod
+Rejamo NOUN 2 obl
+sekó NOUN 5 nmod
+mombewaβa NOUN 0 root
+, PUNCT 5 punct
+ɨsɨkatãsɨapwana NOUN 10 nsubj
+Tupanamo NOUN 9 obl
+sekó NOUN 10 nmod
+kwapaβa NOUN 5 parataxis
+, PUNCT 10 punct
+toʔo NOUN 14 nmod
+swi ADP 12 case
+mirra NOUN 17 nsubj
+moroesé NOUN 16 obj
+seʔõawama NOUN 17 nmod
+mombewaβa NOUN 10 parataxis

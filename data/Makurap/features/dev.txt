@@ -1,21 +1,22 @@
-i INTJ 5 discourse
+op ADV 2 advmod
+ten VERB 0 root
+eya PART 2 dep
+õn PRON 2 nsubj
+
+Kito NOUN 7 nsubj
+nãkowut NOUN 7 obj
+moat NOUN 4 dep
+xauwet NOUN 2 nmod
+moke NOUN 4 conj
+kepit CCONJ 5 cc
+xagara VERB 0 root
+
+etera VERB 0 root
+korop VERB 1 xcomp
+
+kepit CCONJ 5 cc
 eya PART 5 dep
-on PRON 5 nsubj
-wet ADV 5 advmod
-toa VERB 0 root
+õn PRON 5 nsubj
+waokatmõ ADV 5 advmod
+papiknga VERB 0 root
 ke PART 5 discourse
-pit ADV 5 advmod
-
-xop DET 3 nmod
-koa PART 3 discourse
-ten ADV 4 advmod
-nã VERB 5 xcomp
-peka VERB 0 root
-
-xeke PRON 0 root
-xēke PART 1 discourse
-ke PART 1 discourse
-
-ama NOUN 0 root
-etera VERB 1 parataxis
-kurux VERB 2 xcomp
