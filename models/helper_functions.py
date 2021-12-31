@@ -36,8 +36,8 @@ def conllu_to_flair(path_in, lang, write_corpus: bool = False, write_raw: bool =
 
     
     if write_corpus == True:
-        train, validtext = train_test_split(data, random_state=2, test_size=.2)
-        test, dev = train_test_split(validtext, random_state=2, test_size=0.5)
+        train, validtext = train_test_split(data, random_state=42, test_size=.2)
+        test, dev = train_test_split(validtext, random_state=42, test_size=0.5)
 
         all_in_one = "\n\n".join(data)
         dev = "\n\n".join(dev)
