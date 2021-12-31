@@ -1,25 +1,23 @@
 from flair.models import SequenceTagger
-from flair.data import Sentence
-from flair.datasets.conllu import CoNLLUCorpus
+from flair.data import MultiCorpus, Sentence
 from flair.embeddings import FlairEmbeddings, TransformerWordEmbeddings, StackedEmbeddings
 from flair.models import DependencyParser
 from flair.trainers import ModelTrainer
 from flair.visual.training_curves import Plotter
 
-from helper_functions import conllu_to_flair
-
 
 ################################
 ### data and dictionaries    ###
 ################################
-guajajara = conllu_to_flair('data/UD/UD_Guajajara-TuDeT/gub_tudet-ud-test.conllu', lang = 'Guajajara')
-#akuntsu = conllu_to_flair('data/UD/UD_Akuntsu-TuDeT/aqz_tudet-ud-test.conllu', lang = 'Akuntsu')
-#kaapor = conllu_to_flair('data/UD/UD_Kaapor-TuDeT/urb_tudet-ud-test.conllu', lang = 'Kaapor')
-#makurap = conllu_to_flair('data/UD/UD_Makurap-TuDeT/mpu_tudet-ud-test.conllu', lang = 'Makurap')
-#munduruku = conllu_to_flair('data/UD/UD_Munduruku-TuDeT/myu_tudet-ud-test.conllu', lang = 'Munduruku')
-karo = conllu_to_flair('data/UD/UD_Karo-TuDeT/arr_tudet-ud-test.conllu', lang = 'Karo')
+columns = {0: 'text', 1: 'upos', 2:'head', 3: 'deprel'}
 
-tupinamba = conllu_to_flair('data/UD/UD_Tupinamba-TuDeT/tpn_tudet-ud-test.conllu', lang = 'Tupinamba')
+guajajara = ColumnCorpus('data/Guajajara/features', columns, train_file = 'train.txt', test_file = 'test.txt', dev_file = 'dev.txt')
+karo = ColumnCorpus('data/Karo/features', columns, train_file = 'train.txt', test_file = 'test.txt', dev_file = 'dev.txt')
+tupinamba = ColumnCorpus('data/Tupinamba/features', columns, train_file = 'train.txt', test_file = 'test.txt', dev_file = 'dev.txt')
+
+corpus = MultiCorpus([guajajara, 
+                    karo, 
+                    tupinamba])
 
 label_type = 'deprel'
 dictionary = corpus.make_label_dictionary(label_type='deprel')
@@ -27,12 +25,10 @@ dictionary = corpus.make_label_dictionary(label_type='deprel')
 ################################
 ### Embeddings               ###
 ################################
-#transformer_embeddings = TransformerWordEmbeddings('bert-base-multilingual-cased', fine_tune=True, layers='-1')
-flair_embedding_forward = FlairEmbeddings('multi-forward')
-flair_embedding_backward = FlairEmbeddings('multi-backward')
-
-embeddings = StackedEmbeddings(embeddings=[#transformer_embeddings, 
-                                           flair_embedding_forward, flair_embedding_backward])
+flair_embedding_forward = FlairEmbeddings('models/resources/embeddings/tupi_3_for/best-lm.pt')
+flair_embedding_backward = FlairEmbeddings('models/resources/embeddings/tupi_3_back/best-lm.pt')
+embeddings = StackedEmbeddings(embeddings=[flair_embedding_forward, flair_embedding_backward])
+# embeddings = TransformerWordEmbeddings("bert-base-multilingual-cased", fine_tune=True, layers="-1")
 
 ################################
 ### Tagger and Trainer       ###
@@ -46,15 +42,12 @@ trainer = ModelTrainer(tagger, corpus)
 
 trainer.train('models/resources/taggers/dep_tupi',
                 train_with_dev=True,
-                learning_rate=1,
+                learning_rate=4,
                 mini_batch_size=16,
-                max_epochs=150,
+                max_epochs=500,
                 monitor_train=True,
                 monitor_test=True,
                 anneal_with_restarts=True,
-                # use_tensorboard=True,
-                # tensorboard_log_dir='models/resources/taggers/sk_pos/tensorboard',
-                # metrics_for_tensorboard=[("macro avg", "precision"), ("macro avg", "f1-score")],
                 patience=3)
 
 ###############################
