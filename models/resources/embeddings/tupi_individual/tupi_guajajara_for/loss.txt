@@ -1,0 +1,2 @@
+TEST: valid loss  2.52 | valid ppl    12.40
+TEST: valid loss  1.81 | valid ppl     6.12

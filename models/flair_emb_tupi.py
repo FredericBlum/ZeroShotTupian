@@ -16,9 +16,9 @@ corpus_3, char_dict = concat(['Guajajara', 'Tupinamba', 'Karo'], folder = "3")
 ################################
 ### Language Model           ###
 ################################
-tupinamba = TextCorpus("data/Tupinamba/embeddings_new", char_dict, is_forward_lm, character_level = True)
-karo = TextCorpus("data/Karo/embeddings_new", char_dict, is_forward_lm, character_level = True)
-guajajara = TextCorpus("data/Guajajara/embeddings_new", char_dict, is_forward_lm, character_level = True)
+tupinamba = TextCorpus("data/Tupinamba/embeddings", char_dict, is_forward_lm, character_level = True)
+guajajara = TextCorpus("data/Guajajara/embeddings", char_dict, is_forward_lm, character_level = True)
+karo = TextCorpus("data/Karo/embeddings", char_dict, is_forward_lm, character_level = True)
 corpus_3 = TextCorpus("data/combi_emb/3", char_dict, is_forward_lm, character_level = True)
 corpus_7 = TextCorpus("data/combi_emb/7", char_dict, is_forward_lm, character_level = True)
 
@@ -30,22 +30,37 @@ language_model_back = LanguageModel(char_dict, is_backward_lm, hidden_size=256, 
 ################################
 
 trainer = LanguageModelTrainer(language_model_for, corpus_3)
-trainer.train('models/resources/embeddings/tupi_3_for', sequence_length=80, mini_batch_size=16, learning_rate = 1, max_epochs=120)
-
-trainer = LanguageModelTrainer(language_model_back, corpus_3)
-trainer.train('models/resources/embeddings/tupi_3_back', sequence_length=80, mini_batch_size=16, learning_rate = 1, max_epochs=120)
+trainer.train('models/resources/embeddings/tupi_3_for', sequence_length=80, mini_batch_size=16, learning_rate=20, max_epochs=200)
 
 trainer = LanguageModelTrainer(language_model_for, corpus_7)
-trainer.train('models/resources/embeddings/tupi_7_for', sequence_length=80, mini_batch_size=16, learning_rate = 1, max_epochs=120)
-
-trainer = LanguageModelTrainer(language_model_back, corpus_7)
-trainer.train('models/resources/embeddings/tupi_7_back', sequence_length=80,learning_rate = 1, mini_batch_size=16, max_epochs=120)
-
-trainer = LanguageModelTrainer(language_model_for, tupinamba)
-trainer.train('models/resources/embeddings_new/tupi_tupinamba', sequence_length=80, mini_batch_size=16, learning_rate = 1, max_epochs=120)
-
-trainer = LanguageModelTrainer(language_model_for, karo)
-trainer.train('models/resources/embeddings_new/tupi_karo', sequence_length=80, mini_batch_size=16, learning_rate = 1, max_epochs=120)
+trainer.train('models/resources/embeddings/tupi_7_for', sequence_length=80, mini_batch_size=16, learning_rate=20, max_epochs=200)
 
 trainer = LanguageModelTrainer(language_model_for, guajajara)
-trainer.train('models/resources/embeddings_new/tupi_guajajara', sequence_length=80, mini_batch_size=16, learning_rate = 1, max_epochs=120)
+trainer.train('models/resources/embeddings/tupi_individual/tupi_guajajara_for', sequence_length=80, mini_batch_size=16, learning_rate=20, max_epochs=200)
+
+trainer = LanguageModelTrainer(language_model_for, tupinamba)
+trainer.train('models/resources/embeddings/tupi_individual/tupi_tupinamba_for', sequence_length=80, mini_batch_size=16, learning_rate=20, max_epochs=200)
+
+trainer = LanguageModelTrainer(language_model_for, karo)
+trainer.train('models/resources/embeddings/tupi_individual/tupi_karo_for', sequence_length=80, mini_batch_size=16, learning_rate=20, max_epochs=200)
+
+tupinamba = TextCorpus("data/Tupinamba/embeddings", char_dict, is_backward_lm, character_level = True)
+karo = TextCorpus("data/Karo/embeddings", char_dict, is_backward_lm, character_level = True)
+guajajara = TextCorpus("data/Guajajara/embeddings", char_dict, is_backward_lm, character_level = True)
+corpus_3 = TextCorpus("data/combi_emb/3", char_dict, is_backward_lm, character_level = True)
+corpus_7 = TextCorpus("data/combi_emb/7", char_dict, is_backward_lm, character_level = True)
+
+trainer = LanguageModelTrainer(language_model_back, guajajara)
+trainer.train('models/resources/embeddings/tupi_individual/tupi_guajajara_back', sequence_length=80, mini_batch_size=16, learning_rate=20, max_epochs=200)
+
+trainer = LanguageModelTrainer(language_model_back, tupinamba)
+trainer.train('models/resources/embeddings/tupi_individual/tupi_tupinamba_back', sequence_length=80, mini_batch_size=16, learning_rate=20, max_epochs=200)
+
+trainer = LanguageModelTrainer(language_model_back, karo)
+trainer.train('models/resources/embeddings/tupi_individual/tupi_karo_back', sequence_length=80, mini_batch_size=16, learning_rate=20, max_epochs=200)
+
+trainer = LanguageModelTrainer(language_model_back, corpus_3)
+trainer.train('models/resources/embeddings/tupi_3_back', sequence_length=80, mini_batch_size=16, learning_rate=20, max_epochs=200)
+
+trainer = LanguageModelTrainer(language_model_back, corpus_7)
+trainer.train('models/resources/embeddings/tupi_7_back', sequence_length=80,learning_rate=20, mini_batch_size=16, max_epochs=200)

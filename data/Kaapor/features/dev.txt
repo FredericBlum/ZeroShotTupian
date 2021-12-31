@@ -1,0 +1,42 @@
+ihẽke PRON 2 nsubj
+ajumukahem VERB 0 root
+
+aʔe PRON 4 nsubj
+ta PART 1 nmod
+ke PART 1 nmod
+uʔuta VERB 0 root
+moj NOUN 4 obj
+ke PART 5 nmod
+tĩ PART 5 discourse
+
+aʔeke PRON 3 nsubj
+ehake NOUN 3 obj
+tukwatĩ VERB 0 root
+
+Pe ADV 4 advmod
+, PUNCT 1 punct
+ihẽ PRON 4 obj
+asak VERB 0 root
+
+aʔe PRON 3 nsubj
+ʔokke NOUN 3 obj
+mujã VERB 0 root
+
+kujãtake NOUN 3 nsubj
+upa PART 1 discourse
+mupinim VERB 0 root
+
+aʔe PRON 3 nsubj
+ke PART 1 discourse
+uʔuta VERB 0 root
+pɪpɪhu NOUN 3 obj
+ke PART 4 discourse
+tĩ PART 3 discourse
+
+ihẽke PRON 3 nsubj
+uʔi NOUN 3 obj
+akarãj VERB 0 root
+
+neke PRON 3 nsubj
+uʔike NOUN 3 obj
+rekarãjta VERB 0 root

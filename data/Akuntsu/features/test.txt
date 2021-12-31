@@ -1,0 +1,40 @@
+kɨp NOUN 2 nmod
+tep NOUN 0 root
+eanampe NOUN 2 obl
+
+ep NOUN 2 obj
+koa VERB 0 root
+jẽ DET 2 nsubj
+
+niam NOUN 3 obj
+Tʃaruj PROPN 3 nmod
+imokwa NOUN 0 root
+
+omapi NOUN 0 root
+ete ADP 1 case
+? PUNCT 1 punct
+
+koro NOUN 2 nmod
+am NOUN 0 root
+, PUNCT 2 punct
+eme DET 5 nmod
+tetna NOUN 2 appos
+
+aparapia NOUN 2 nmod
+tet NOUN 0 root
+ete ADP 2 case
+? PUNCT 2 punct
+
+Pura PROPN 2 nsubj
+ikoa VERB 0 root
+te PART 2 discourse
+
+oiko NOUN 3 obj
+tokwa VERB 3 ccomp
+ojã AUX 0 root
+
+okwako NOUN 2 nmod
+ikona NOUN 0 root
+
+oetara VERB 0 root
+otoa AUX 1 aux

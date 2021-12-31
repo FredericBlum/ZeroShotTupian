@@ -8,14 +8,17 @@ from helper_functions import conllu_to_flair
 ################################
 ### data and dictionaries    ###
 ################################
-corpus = conllu_to_flair('./data/Shipibo/shipibo-2018jul4.converted.conllu', lang = 'Guajajara')
+guajajara = TextCorpus("data/Guajajara/embeddings", char_dict, is_forward_lm, character_level = True)
+
 upos_dictionary = corpus.make_label_dictionary(label_type='upos')
 label_type = 'upos'
 
 ################################
 ### Embeddings               ###
 ################################
-tf_embedding = TransformerWordEmbeddings('bert-base-multilingual-cased', fine_tune=True, layers='-1')
+tf_embedding = TransformerWordEmbeddings('bert-base-multilingual-cased'
+                                        #, fine_tune=True, layers='-1'
+                                        ) 
 
 #flair_embedding_forward = FlairEmbeddings('models/resources/embeddings/sk_forward/best-lm.pt')
 #flair_embedding_backward = FlairEmbeddings('models/resources/embeddings/sk_backward/best-lm.pt')

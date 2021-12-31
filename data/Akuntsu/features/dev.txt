@@ -1,0 +1,57 @@
+Patʃo PROPN 4 nsubj
+Patʃe PROPN 4 nsubj
+tɨɾɨ NUM 4 nummod
+tajtʃi NOUN 0 root
+
+otojẽpitin NOUN 7 nsubj
+ẽ DET 3 nmod
+tow NOUN 1 appos
+ẽ DET 5 nmod
+tow NOUN 7 nsubj
+ebapap NOUN 7 nmod
+ɨro NOUN 0 root
+tojẽpitin NOUN 7 appos
+
+Tʃaruj PROPN 3 nsubj
+kɨjtpit NOUN 3 obj
+õa VERB 0 root
+te PART 3 dep
+Kanibõ PROPN 3 iobj
+
+tebõ PRON 3 nmod
+kɨte NUM 3 nummod
+purururu NOUN 0 root
+, PUNCT 5 punct
+kebõ DET 3 parataxis
+nõm ADV 5 advmod
+
+pi NOUN 2 obj
+maã VERB 0 root
+en PRON 2 nsubj
+
+eboro NOUN 0 root
+etʃe ADP 1 case
+
+oko NOUN 4 nmod
+oko NOUN 1 dep
+te PART 1 discourse
+iw NOUN 0 root
+
+tʃarimẽ NOUN 2 nmod
+okwaj NOUN 0 root
+, PUNCT 2 punct
+tokwajet NOUN 2 parataxis
+
+Buko PROPN 4 nsubj
+kɨte NUM 3 nummod
+korakora NOUN 4 obj
+mi VERB 0 root
+
+kitʃe PRON 3 nsubj
+kɨp NOUN 3 obj
+boja VERB 0 root
+
+kotin NOUN 4 obj
+, PUNCT 3 punct
+eme DET 1 appos
+peka VERB 0 root

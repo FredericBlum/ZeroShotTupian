@@ -1,0 +1,38 @@
+ihẽ PRON 3 nsubj
+a’etake PRON 3 nsubj
+amujengar VERB 0 root
+
+pahar ADV 5 advmod
+pahar ADV 5 advmod
+je PART 5 discourse
+kɪse NOUN 5 obj
+meʔē VERB 0 root
+ngā PRON 5 nsubj
+
+ihẽke PRON 2 nsubj
+aʔar VERB 0 root
+
+pɪnupɪnuate VERB 0 root
+ehe ADP 1 case
+je PART 1 discourse
+
+Peteĩ PRON 4 nsubj
+Xõru PROPN 4 nsubj
+jahy NOUN 4 obj
+kanim VERB 0 root
+oho VERB 4 compound
+
+ɪmante ADV 4 advmod
+pe ADV 4 advmod
+aʔike NOUN 4 nsubj
+manõ VERB 0 root
+je‘ɪ PART 4 discourse
+
+ne PRON 4 nsubj
+ihẽ PRON 3 nmod
+miʔuke NOUN 4 obj
+reʔutĩ VERB 0 root
+
+Arauxu PROPN 2 nsubj
+ahem VERB 0 root
+uhu ADV 2 advmod

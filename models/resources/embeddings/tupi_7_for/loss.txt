@@ -123,3 +123,6 @@ TEST: valid loss  3.82 | valid ppl    45.38
 | end of split   1 /  1 | epoch 119 | time:  0.92s | valid loss  1.97 | valid ppl     7.17 | learning rate 0.0000
 | end of split   1 /  1 | epoch 120 | time:  0.92s | valid loss  1.97 | valid ppl     7.17 | learning rate 0.0000
 TEST: valid loss  2.05 | valid ppl     7.75
+| end of split   1 /  1 | epoch   1 | time:  3.52s | valid loss  3.16 | valid ppl    23.46 | learning rate 20.0000
+TEST: valid loss  2.86 | valid ppl    17.43
+TEST: valid loss  2.37 | valid ppl    10.66

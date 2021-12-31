@@ -6,16 +6,19 @@ from helper_functions import conllu_to_flair
 from flair.visual.training_curves import Plotter
 
 
+
 ################################
 ### data and dictionaries    ###
 ################################
-#akuntsu = conllu_to_flair('../UD/UD_Akuntsu-TuDeT/aqz_tudet-ud-test.conllu', lang = 'Akuntsu')
-guajajara = conllu_to_flair('../UD/UD_Guajajara-TuDeT/gub_tudet-ud-test.conllu', lang = 'Guajajara')
-#kaapor = conllu_to_flair('../UD/UD_Kaapor-TuDeT/urb_tudet-ud-test.conllu', lang = 'Kaapor')
-karo = conllu_to_flair('../UD/UD_Karo-TuDeT/arr_tudet-ud-test.conllu', lang = 'Karo')
-#makurap = conllu_to_flair('../UD/UD_Makurap-TuDeT/mpu_tudet-ud-test.conllu', lang = 'Makurap')
-#munduruku = conllu_to_flair('../UD/UD_Munduruku-TuDeT/myu_tudet-ud-test.conllu', lang = 'Munduruku')
-tupinamba = conllu_to_flair('../UD/UD_Tupinamba-TuDeT/tpn_tudet-ud-test.conllu', lang = 'Tupinamba')
+columns = {0: 'text', 1: 'upos', 2:'head', 3: 'deprel'}
+
+akuntsu = ColumnCorpus('data/Akuntsu/features', columns, train_file = 'train.txt', test_file = 'test.txt', dev_file = 'dev.txt')
+guajajara = ColumnCorpus('data/Guajajara/features', columns, train_file = 'train.txt', test_file = 'test.txt', dev_file = 'dev.txt')
+kaapor = ColumnCorpus('data/Kaapor/features', columns, train_file = 'train.txt', test_file = 'test.txt', dev_file = 'dev.txt')
+karo = ColumnCorpus('data/Karo/features', columns, train_file = 'train.txt', test_file = 'test.txt', dev_file = 'dev.txt')
+makurap = ColumnCorpus('data/Makurap/features', columns, train_file = 'train.txt', test_file = 'test.txt', dev_file = 'dev.txt')
+munduruku = ColumnCorpus('data/Munduruku/features', columns, train_file = 'train.txt', test_file = 'test.txt', dev_file = 'dev.txt')
+tupinamba = ColumnCorpus('data/Tupinamba/features', columns, train_file = 'train.txt', test_file = 'test.txt', dev_file = 'dev.txt')
 
 corpus = MultiCorpus([#akuntsu, 
                         guajajara, 
