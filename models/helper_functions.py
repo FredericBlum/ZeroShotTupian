@@ -92,6 +92,32 @@ def make_dictionary(path_in, unk_threshold: int = 0):
     print(f"At unk_threshold={unk_threshold}, the dictionary contains {len(word_dict)} words")
     return word_dict
 
+def make_word_dictionary(languages):
+    word_dict = Dictionary()
+    word_dict.add_item("<unk>")
+    word_dict.add_item("[SEP]")
+    word_dict.add_item(" ")
+
+    columns = {0: 'text', 1: 'upos', 2:'head', 3: 'deprel'}
+    sentences = []
+
+    for lang in languages:
+        corpus = ColumnCorpus(f'data/{lang}/features', columns, train_file = 'train.txt', test_file = 'test.txt', dev_file = 'dev.txt') 
+
+        for sentence in corpus.train:
+            sentences.append(sentence)
+        for sentence in corpus.test:
+            sentences.append(sentence)
+        for sentence in corpus.dev:
+            sentences.append(sentence)
+
+    for utterance in sentences:
+        strings = utterance.to_plain_string()
+        strings = strings.split(" ")
+        for word in strings:
+            word_dict.add_item(word)
+    return word_dict
+
 def write_tupi(write_corpus: bool = False, write_raw: bool = True):
     akuntsu = conllu_to_flair('../UD/UD_Akuntsu-TuDeT/aqz_tudet-ud-test.conllu', lang = 'Akuntsu', write_corpus = write_corpus, write_raw = write_raw)
     guajajara = conllu_to_flair('../UD/UD_Guajajara-TuDeT/gub_tudet-ud-test.conllu', lang = 'Guajajara', write_corpus = write_corpus, write_raw = write_raw)

@@ -1,7 +1,7 @@
 from flair.data import Dictionary
 from flair.models import LanguageModel
 from flair.trainers.language_model_trainer import LanguageModelTrainer, TextCorpus
-from helper_functions import conllu_to_flair, concat
+from helper_functions import make_word_dictionary, concat
 
 
 ################################
@@ -10,7 +10,7 @@ from helper_functions import conllu_to_flair, concat
 is_forward_lm = True
 is_backward_lm = False
 
-corpus_3, char_dict = concat(['Guajajara', 'Tupinamba', 'Karo'], folder = "3")
+""" corpus_3, char_dict = concat(['Guajajara', 'Tupinamba', 'Karo'], folder = "3")
 corpus_7, char_dict = concat(['Guajajara', 'Tupinamba', 'Karo', 'Munduruku', 'Kaapor', 'Akuntsu', 'Makurap'], folder = "7")
 
 ################################
@@ -44,6 +44,7 @@ trainer.train('models/resources/embeddings/tupi_individual/tupi_tupinamba_for', 
 trainer = LanguageModelTrainer(language_model_for, karo)
 trainer.train('models/resources/embeddings/tupi_individual/tupi_karo_for', sequence_length=80, mini_batch_size=16, learning_rate=20, max_epochs=200)
 
+################################
 tupinamba = TextCorpus("data/Tupinamba/embeddings", char_dict, is_backward_lm, character_level = True)
 karo = TextCorpus("data/Karo/embeddings", char_dict, is_backward_lm, character_level = True)
 guajajara = TextCorpus("data/Guajajara/embeddings", char_dict, is_backward_lm, character_level = True)
@@ -64,3 +65,36 @@ trainer.train('models/resources/embeddings/tupi_3_back', sequence_length=80, min
 
 trainer = LanguageModelTrainer(language_model_back, corpus_7)
 trainer.train('models/resources/embeddings/tupi_7_back', sequence_length=80,learning_rate=20, mini_batch_size=16, max_epochs=200)
+"""
+######################################################
+corpus_3, char_dict = concat(['Guajajara', 'Tupinamba', 'Karo'], folder = "3")
+
+word_dict = make_word_dictionary(["Guajajara", "Karo", "Tupinamba"])
+# print(word_dict)
+
+tupinamba = TextCorpus("data/Tupinamba/embeddings", word_dict, is_forward_lm, character_level = False)
+guajajara = TextCorpus("data/Guajajara/embeddings", word_dict, is_forward_lm, character_level = False)
+karo = TextCorpus("data/Karo/embeddings", word_dict, is_forward_lm, character_level = False)
+corpus_3 = TextCorpus("data/combi_emb/3", word_dict, is_forward_lm, character_level = False)
+corpus_7 = TextCorpus("data/combi_emb/7", word_dict, is_forward_lm, character_level = False)
+
+language_model_for = LanguageModel(word_dict, is_forward_lm, hidden_size=512, nlayers=1)
+
+################################
+### Trainers                 ###
+################################
+
+trainer = LanguageModelTrainer(language_model_for, corpus_3)
+trainer.train('models/resources/embeddings/tupi_3_lexical', sequence_length=10, mini_batch_size=16, learning_rate=20, max_epochs=200)
+
+trainer = LanguageModelTrainer(language_model_for, corpus_7)
+trainer.train('models/resources/embeddings/tupi_7_lexical', sequence_length=10, mini_batch_size=16, learning_rate=20, max_epochs=200)
+
+trainer = LanguageModelTrainer(language_model_for, guajajara)
+trainer.train('models/resources/embeddings/tupi_individual/tupi_guajajara_lexical', sequence_length=10, mini_batch_size=16, learning_rate=20, max_epochs=200)
+
+trainer = LanguageModelTrainer(language_model_for, tupinamba)
+trainer.train('models/resources/embeddings/tupi_individual/tupi_tupinamba_lexical', sequence_length=10, mini_batch_size=16, learning_rate=20, max_epochs=200)
+
+trainer = LanguageModelTrainer(language_model_for, karo)
+trainer.train('models/resources/embeddings/tupi_individual/tupi_karo_lexical', sequence_length=10, mini_batch_size=16, learning_rate=20, max_epochs=200)
