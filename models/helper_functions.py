@@ -7,7 +7,7 @@ from flair.embeddings import FlairEmbeddings
 from flair.trainers.language_model_trainer import LanguageModelTrainer, TextCorpus
 from sklearn.model_selection import train_test_split
 
-def conllu_to_flair(path_in, lang, write_corpus: bool = False, write_raw: bool = False):
+def conllu_to_flair(path_in, lang, write_corpus: bool = False, write_raw: bool = False, write_testset: bool = False):
     data = []
     raw_text = []
     count: int = 0
@@ -54,6 +54,18 @@ def conllu_to_flair(path_in, lang, write_corpus: bool = False, write_raw: bool =
             f.write(train)
         with open(f'{data_folder}/all_in_one.txt', 'w') as f:
             f.write(all_in_one)
+
+    if write_testset == True:
+        half_1, half_2 = train_test_split(data, random_state=42, test_size=0.5)
+        half_1 = "\n\n".join(half_1)
+        half_2 = "\n\n".join(half_2)
+
+        data_folder = f'data/{lang}/features'
+        
+        with open(f'{data_folder}/half_1.txt', 'w') as f:
+            f.write(half_1)
+        with open(f'{data_folder}/half_2.txt', 'w') as f:
+            f.write(half_2)
         
     if write_raw == True:
         train, validtext = train_test_split(raw_text, random_state=42, test_size=.2)
@@ -118,14 +130,14 @@ def make_word_dictionary(languages):
             word_dict.add_item(word)
     return word_dict
 
-def write_tupi(write_corpus: bool = False, write_raw: bool = True):
-    akuntsu = conllu_to_flair('../UD/UD_Akuntsu-TuDeT/aqz_tudet-ud-test.conllu', lang = 'Akuntsu', write_corpus = write_corpus, write_raw = write_raw)
-    guajajara = conllu_to_flair('../UD/UD_Guajajara-TuDeT/gub_tudet-ud-test.conllu', lang = 'Guajajara', write_corpus = write_corpus, write_raw = write_raw)
-    kaapor = conllu_to_flair('../UD/UD_Kaapor-TuDeT/urb_tudet-ud-test.conllu', lang = 'Kaapor', write_corpus = write_corpus, write_raw = write_raw)
-    karo = conllu_to_flair('../UD/UD_Karo-TuDeT/arr_tudet-ud-test.conllu', lang = 'Karo', write_corpus = write_corpus, write_raw = write_raw)
-    makurap = conllu_to_flair('../UD/UD_Makurap-TuDeT/mpu_tudet-ud-test.conllu', lang = 'Makurap', write_corpus = write_corpus, write_raw = write_raw)
-    munduruku = conllu_to_flair('../UD/UD_Munduruku-TuDeT/myu_tudet-ud-test.conllu', lang = 'Munduruku', write_corpus = write_corpus, write_raw = write_raw)
-    tupinamba = conllu_to_flair('../UD/UD_Tupinamba-TuDeT/tpn_tudet-ud-test.conllu', lang = 'Tupinamba', write_corpus = write_corpus, write_raw = write_raw)
+def write_tupi(write_corpus: bool = False, write_raw: bool = False, write_testset: bool = False):
+    akuntsu = conllu_to_flair('../UD/UD_Akuntsu-TuDeT/aqz_tudet-ud-test.conllu', lang = 'Akuntsu', write_corpus = write_corpus, write_raw = write_raw, write_testset = write_testset)
+    guajajara = conllu_to_flair('../UD/UD_Guajajara-TuDeT/gub_tudet-ud-test.conllu', lang = 'Guajajara', write_corpus = write_corpus, write_raw = write_raw, write_testset = write_testset)
+    kaapor = conllu_to_flair('../UD/UD_Kaapor-TuDeT/urb_tudet-ud-test.conllu', lang = 'Kaapor', write_corpus = write_corpus, write_raw = write_raw, write_testset = write_testset)
+    karo = conllu_to_flair('../UD/UD_Karo-TuDeT/arr_tudet-ud-test.conllu', lang = 'Karo', write_corpus = write_corpus, write_raw = write_raw, write_testset = write_testset)
+    makurap = conllu_to_flair('../UD/UD_Makurap-TuDeT/mpu_tudet-ud-test.conllu', lang = 'Makurap', write_corpus = write_corpus, write_raw = write_raw, write_testset = write_testset)
+    munduruku = conllu_to_flair('../UD/UD_Munduruku-TuDeT/myu_tudet-ud-test.conllu', lang = 'Munduruku', write_corpus = write_corpus, write_raw = write_raw, write_testset = write_testset)
+    tupinamba = conllu_to_flair('../UD/UD_Tupinamba-TuDeT/tpn_tudet-ud-test.conllu', lang = 'Tupinamba', write_corpus = write_corpus, write_raw = write_raw, write_testset = write_testset)
 
 def make_testset(language):
     data_folder = f'data/{language}/features'
@@ -134,6 +146,16 @@ def make_testset(language):
     corpus: Corpus = ColumnCorpus(data_folder, columns,
                             train_file = 'train.txt',
                             test_file = 'all_in_one.txt',
+                            dev_file = 'dev.txt')
+    return corpus
+
+def make_finetuneset(language):
+    data_folder = f'data/{language}/features'
+    columns = {0: 'text', 1: 'upos', 2:'head', 3: 'deprel'}
+
+    corpus: Corpus = ColumnCorpus(data_folder, columns,
+                            train_file = 'half_1.txt',
+                            test_file = 'half_2.txt',
                             dev_file = 'dev.txt')
     return corpus
 

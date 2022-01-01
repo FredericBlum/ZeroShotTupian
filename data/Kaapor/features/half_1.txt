@@ -1,0 +1,219 @@
+ihẽ PRON 3 nsubj
+narãjke NOUN 3 obj
+apirok VERB 0 root
+
+ajameʔẽ ADV 5 advmod
+ke PART 3 discourse
+Urupe PROPN 5 nsubj
+jeʔẽha NOUN 5 obj
+mondo VERB 0 root
+tĩ ADV 5 advmod
+
+ne PRON 3 nsubj
+ihẽke PRON 3 iobj
+remusak VERB 0 root
+ʔɪ AUX 3 aux
+
+netawate VERB 0 root
+nekeã PRON 1 nsubj
+nejɪtɪʔɪmte VERB 1 conj
+amõ ADV 3 advmod
+ʔɪ PART 3 discourse
+
+Tuti PROPN 4 obj
+ke PART 1 discourse
+ʃaʔe PROPN 4 nsubj
+jukwa VERB 0 root
+
+neke PRON 3 nsubj
+uʔike NOUN 3 obj
+rekarãjta VERB 0 root
+
+ihē PRON 3 nsubj
+ndeke PRON 3 obj
+araho VERB 0 root
+tar VERB 3 ccomp
+katu ADV 3 advmod
+tipe PART 3 discourse
+
+pe ADV 5 advmod
+imu NOUN 5 nsubj
+uʔɪ NOUN 5 obj
+raʔɪr NOUN 3 amod
+mujã VERB 0 root
+ipe PRON 5 iobj
+je PART 5 discourse
+uʔɪ NOUN 5 obl
+sepetu NOUN 10 nmod
+ɪrapar NOUN 8 nmod
+raʔɪr NOUN 10 amod
+
+Arahã ADV 6 advmod
+maʔe NOUN 6 obj
+Kaninde PROPN 6 obl
+rehe ADP 3 case
+ihẽ PRON 6 nsubj
+araho VERB 0 root
+
+Pe ADV 4 advmod
+, PUNCT 1 punct
+imãi NOUN 4 obj
+ihĩ VERB 0 root
+
+ko ADV 4 advmod
+riki ADP 1 case
+ihē PRON 4 nsubj
+ahɪk VERB 0 root
+ajur VERB 4 csubj
+jarupa NOUN 4 obl
+rehe ADP 6 case
+
+aʔerehe ADV 4 advmod
+tarũ PROPN 4 nsubj
+neʃĩke PROPN 4 obj
+joʔok VERB 0 root
+
+aʔeke PRON 3 nsubj
+ipɪke NOUN 3 obj
+tukwa VERB 0 root
+
+Tɪapu NOUN 0 root
+riki PART 1 discourse
+
+Anake PROPN 2 nmod
+heɁõɁɪ NOUN 0 root
+
+Xõru PROPN 2 nsubj
+nixói VERB 0 root
+se NOUN 2 obj
+aʔe PRON 2 nmod
+
+Maírake PROPN 2 nsubj
+wata VERB 0 root
+
+Tapiʔir NOUN 2 obj
+ujan VERB 0 root
+oho VERB 2 compound
+
+pāsɪkwer NOUN 3 obj
+riki ADV 3 advmod
+matɪr VERB 0 root
+uhu ADV 1 advmod
+ngā PRON 3 nsubj
+ipe ADP 1 case
+
+pe CCONJ 5 cc
+riki ADV 5 advmod
+katar NOUN 5 obj
+ngã PRON 5 nsubj
+muhɪk VERB 0 root
+
+neke PRON 3 nsubj
+ihẽ PRON 3 obj
+remupuʔam VERB 0 root
+ʔɪ AUX 3 aux
+
+a’eta PRON 2 nsubj
+ajengar VERB 0 root
+
+apo ADV 4 advmod
+pehẽ PRON 4 nsubj
+ihẽke PRON 4 obj
+peharõta VERB 0 root
+
+ihē PRON 2 nmod
+rãi NOUN 4 obj
+ihē PRON 4 nsubj
+amoīta VERB 0 root
+tipe PART 4 discourse
+
+aʔe PRON 3 nsubj
+ikɪke NOUN 3 obj
+jiʔok VERB 0 root
+
+Purutu PROPN 2 nsubj
+ahem VERB 0 root
+
+ihē PRON 3 nsubj
+ahota VERB 3 csubj
+asak VERB 0 root
+
+Oropo PROPN 3 nsubj
+huʔɨ NOUN 3 obj
+pɨhɨk VERB 0 root
+
+mɪra NOUN 5 nsubj
+pirerke NOUN 1 nmod
+teʔe ADV 5 advmod
+pirawan NOUN 5 obj
+muwak VERB 0 root
+
+jane PRON 2 nsubj
+japikũj VERB 0 root
+mi PART 2 discourse
+? PUNCT 2 punct
+
+ne PRON 3 nsubj
+ihẽke PRON 3 obj
+renupã VERB 6 advcl
+rahã SCONJ 3 mark
+ihẽ PRON 6 obj
+ahota VERB 0 root
+
+aʔeke PRON 2 nsubj
+uʔuta VERB 0 root
+pɪpɪhu NOUN 2 obj
+ketĩ PART 2 discourse
+
+Mataru PROPN 4 nsubj
+ʃaʔe PROPN 4 obj
+ke PART 2 discourse
+nupã VERB 0 root
+tĩ PART 4 discourse
+
+ihẽ PRON 3 nsubj
+neke PRON 3 obj
+akutukta VERB 0 root
+
+uʔike NOUN 4 obj
+wiraʔi PRON 3 nmod
+take PRON 4 nsubj
+uʔu VERB 0 root
+ɪm PART 4 discourse
+
+pe CCONJ 7 cc
+taramō ADV 7 advmod
+kaitā PROPN 7 nsubj
+juʔipape NOUN 5 nmod
+piʔa NOUN 7 iobj
+usak VERB 7 ccomp
+oho VERB 0 root
+tī ADV 7 advmod
+pɪtuniwe ADV 7 advmod
+
+ne PRON 3 nsubj
+taɁɪnke NOUN 3 obj
+eremuɁe VERB 0 root
+
+ihẽ PRON 3 nsubj
+ikɪ NOUN 3 obj
+ajiʔok VERB 0 root
+ʔɪ AUX 3 aux
+
+ko ADV 5 advmod
+ihē PRON 5 nsubj
+paper NOUN 5 obj
+pinim NOUN 3 amod
+amuwɪr VERB 0 root
+nde PRON 5 iobj
+pe ADP 6 case
+
+Oho VERB 0 root
+uĩ VERB 1 xcomp
+tipe PART 1 discourse
+ã PART 1 discourse
+
+mahem VERB 0 root
+arapuha NOUN 1 nsubj
+himiʔu NOUN 1 obj
+oho AUX 1 aux
