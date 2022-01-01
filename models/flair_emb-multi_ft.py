@@ -1,4 +1,5 @@
 from flair.data import Dictionary
+from flair.embeddings import FlairEmbeddings
 from flair.models import LanguageModel
 from flair.trainers.language_model_trainer import LanguageModelTrainer, TextCorpus
 from helper_functions import concat
@@ -26,10 +27,10 @@ trainer_forward.train(f'models/resources/embeddings/tupi_3_for_ft',
                 sequence_length=80,
                 learning_rate=20,
                 mini_batch_size=32,
-                max_epochs=10)
+                max_epochs=20)
 
 trainer_backward.train(f'models/resources/embeddings/tupi_3_back_ft',
                 sequence_length=80,
                 learning_rate=20,
                 mini_batch_size=32,
-                max_epochs=10)
+                max_epochs=20)

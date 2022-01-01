@@ -1,24 +1,24 @@
-Kito B-NOUN B-NOUN
-nãkowut B-NOUN B-PRON
-moat B-NOUN B-NOUN
+Kito B-NOUN B-PROPN
+nãkowut B-NOUN B-NOUN
+moat B-NOUN B-VERB
 xauwet B-NOUN B-NOUN
-moke B-NOUN B-NOUN
-kepit B-CCONJ B-VERB
-xagara B-VERB B-NOUN
+moke B-NOUN B-VERB
+kepit B-CCONJ B-NOUN
+xagara B-VERB B-VERB
 
 ngot B-NOUN B-NOUN
-xiaret B-NOUN B-VERB
+xiaret B-NOUN B-NOUN
 
 yãn B-ADV B-VERB
 oxepngoret B-NOUN B-NOUN
-oerã B-VERB B-VERB
+oerã B-VERB B-NOUN
 kepit B-CCONJ B-NOUN
 eta B-VERB B-VERB
-on B-PRON B-AUX
+on B-PRON B-NOUN
 toa B-VERB B-VERB
 
 xeke B-PRON B-NOUN
-xēke B-PART B-ADJ
+xēke B-PART B-NOUN
 ke B-PART B-PART
 
 etera B-VERB B-NOUN
@@ -32,12 +32,12 @@ mokat B-ADV B-NOUN
 etera B-VERB B-VERB
 kurux B-VERB B-NOUN
 amang B-VERB B-NOUN
-pīxe B-ADV B-VERB
+pīxe B-ADV B-ADJ
 
-ã B-INTJ B-NOUN
+ã B-INTJ B-ADV
 en B-PRON B-PRON
-emẽ B-DET B-VERB
-xop B-DET B-NOUN
+emẽ B-DET B-PART
+xop B-DET B-VERB
 nẽnẽkaret B-NOUN B-PART
 
 woaret B-NOUN B-PRON
@@ -53,19 +53,19 @@ mokat B-ADV B-NOUN
 etera B-VERB B-NOUN
 kurux B-VERB B-VERB
 
-nãpẽrenã B-ADV B-NOUN
+nãpẽrenã B-ADV B-PRON
 kito B-NOUN B-NOUN
 eapītera B-VERB B-NOUN
 pīxe B-AUX B-ADJ
 
 op B-ADV B-VERB
-ten B-VERB B-SCONJ
-eya B-PART B-AUX
+ten B-VERB B-AUX
+eya B-PART B-VERB
 õn B-PRON B-PRON
 
-xop B-DET B-NOUN
-ten B-VERB B-VERB
-eya B-PART B-NOUN
+xop B-DET B-VERB
+ten B-VERB B-AUX
+eya B-PART B-VERB
 on B-PRON B-VERB
 ke B-PART B-PART
 
@@ -73,13 +73,13 @@ mawo B-NOUN B-NOUN
 papīknga B-VERB B-NOUN
 mokat B-ADV B-NOUN
 etyenkuax B-NOUN B-VERB
-nã B-VERB B-NOUN
+nã B-VERB B-PART
 xoknga B-VERB B-NOUN
 xok B-VERB B-VERB
 
 yeman B-ADV B-VERB
 ngot B-NOUN B-NOUN
-kana B-VERB B-NOUN
+kana B-VERB B-VERB
 oen B-VERB B-VERB
 
 mokat B-ADV B-NOUN
@@ -105,9 +105,9 @@ arimot B-NOUN B-NOUN
 urot B-NOUN B-VERB
 
 xop B-DET B-NOUN
-koa B-PART B-NOUN
-ten B-ADV B-VERB
-nã B-VERB B-AUX
+koa B-PART B-VERB
+ten B-ADV B-AUX
+nã B-VERB B-PART
 peka B-VERB B-VERB
 
 i B-INTJ B-NOUN
@@ -123,7 +123,7 @@ peitõã B-ADV B-NOUN
 etera B-VERB B-VERB
 amang B-VERB B-NOUN
 korop B-VERB B-NOUN
-kux B-NOUN B-ADJ
+kux B-NOUN B-NOUN
 me B-ADP B-ADP
 
 wotye B-VERB B-NOUN
@@ -136,11 +136,11 @@ ke B-PART B-NOUN
 xēt B-PART B-ADJ
 
 etera B-VERB B-NOUN
-korop B-VERB B-ADJ
+korop B-VERB B-NOUN
 
 kito B-NOUN B-NOUN
 moke B-NOUN B-NOUN
-xiat B-NOUN B-NOUN
+xiat B-NOUN B-VERB
 ekuwaora B-VERB B-NOUN
 kepit B-CCONJ B-NOUN
 pukpuga B-VERB B-VERB
@@ -158,7 +158,7 @@ etera B-VERB B-NOUN
 kurux B-VERB B-VERB
 
 xop B-DET B-NOUN
-me B-ADP B-ADP
+me B-ADP B-NOUN
 pote B-ADV B-NOUN
 worawiget B-NOUN B-VERB
 xop B-DET B-NOUN

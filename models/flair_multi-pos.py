@@ -28,8 +28,7 @@ upos_dictionary = corpus.make_label_dictionary(label_type=label_type)
 ################################
 flair_embedding_forward = FlairEmbeddings('models/resources/embeddings/tupi_3_for/best-lm.pt')
 flair_embedding_backward = FlairEmbeddings('models/resources/embeddings/tupi_3_back/best-lm.pt')
-embeddings = TransformerWordEmbeddings("bert-base-multilingual-cased", fine_tune=True, layers="-1")
-#embeddings = StackedEmbeddings(embeddings=[flair_embedding_forward, flair_embedding_backward])
+embeddings = StackedEmbeddings(embeddings=[flair_embedding_forward, flair_embedding_backward])
 
 
 ################################
@@ -49,9 +48,9 @@ trainer.train('models/resources/taggers/my-upos-3',
                 monitor_test=True,
                 patience=3,
                 anneal_with_restarts=True,
-                learning_rate=4,
+                learning_rate=1,
                 mini_batch_size=16,
-                max_epochs=200)
+                max_epochs=300)
 
 ###############################
 ### Visualizations          ###

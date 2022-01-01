@@ -8,13 +8,13 @@ tĩ B-PART B-PART
 
 jane B-PRON B-NOUN
 japikũj B-VERB B-VERB
-mi B-PART B-ADV
+mi B-PART B-PART
 ? B-PUNCT B-PUNCT
 
-Mataru B-PROPN B-VERB
+Mataru B-PROPN B-NOUN
 ʃaʔe B-PROPN B-NOUN
 ke B-PART B-NOUN
-nupã B-VERB B-NOUN
+nupã B-VERB B-VERB
 tĩ B-PART B-PART
 
 aʔe B-PRON B-DET
@@ -29,35 +29,35 @@ pɪpɪhu B-NOUN B-NOUN
 ke B-PART B-PART
 tĩ B-PART B-PART
 
-sawaʔe B-NOUN B-NOUN
-panem B-ADJ B-ADJ
+sawaʔe B-NOUN B-VERB
+panem B-ADJ B-ADV
 ta B-PART B-PART
 ke B-PART B-PART
 upa B-DET B-VERB
 
 Tuti B-PROPN B-VERB
 ke B-PART B-PART
-ʃaʔe B-PROPN B-NOUN
+ʃaʔe B-PROPN B-PART
 jukwa B-VERB B-VERB
 
-taʔɪn B-NOUN B-NOUN
+taʔɪn B-NOUN B-PRON
 ukwerta B-VERB B-VERB
-je B-PART B-PART
+je B-PART B-ADV
 tĩ B-PART B-PART
 , B-PUNCT B-PUNCT
-ko B-DET B-DET
-aʔi B-NOUN B-NOUN
+ko B-DET B-CCONJ
+aʔi B-NOUN B-VERB
 iháike B-NOUN B-NOUN
-piɾokhũ B-VERB B-VERB
-je B-PART B-PART
-pe B-ADV B-ADV
+piɾokhũ B-VERB B-NOUN
+je B-PART B-NOUN
+pe B-ADV B-NOUN
 iʔaɾpe B-ADV B-NOUN
 pɪnuhũ B-VERB B-VERB
 
-ne B-PRON B-NOUN
+ne B-PRON B-PART
 ihẽke B-PRON B-NOUN
 remusak B-VERB B-NOUN
-ʔɪ B-AUX B-ADP
+ʔɪ B-AUX B-ADJ
 
 kakake B-NOUN B-NOUN
 kurumĩ B-NOUN B-NOUN
@@ -82,15 +82,15 @@ a’eta B-PRON B-NOUN
 ma’e B-NOUN B-NOUN
 jukwahá B-NOUN B-VERB
 ihẽke B-PRON B-NOUN
-pe B-ADP B-PART
-me’ẽ B-VERB B-PART
+pe B-ADP B-NOUN
+me’ẽ B-VERB B-VERB
 
 Oho B-VERB B-VERB
 uĩ B-VERB B-NOUN
 tipe B-PART B-NOUN
-ã B-PART B-PART
+ã B-PART B-PUNCT
 
-aʔerehe B-ADV B-PRON
+aʔerehe B-ADV B-NOUN
 tarũ B-PROPN B-NOUN
 neʃĩke B-PROPN B-NOUN
 joʔok B-VERB B-VERB
@@ -110,7 +110,7 @@ ihẽ B-PRON B-PRON
 taɁɪnke B-NOUN B-NOUN
 amuɁe B-VERB B-VERB
 
-ne B-PRON B-NOUN
+ne B-PRON B-PART
 taɁɪnke B-NOUN B-NOUN
 eremuɁe B-VERB B-VERB
 
@@ -130,7 +130,7 @@ akutukta B-VERB B-VERB
 Maírake B-PROPN B-NOUN
 wata B-VERB B-VERB
 
-Maíra B-PROPN B-PROPN
+Maíra B-PROPN B-NOUN
 wata B-VERB B-VERB
 
 Anake B-PROPN B-NOUN
@@ -145,8 +145,8 @@ ehake B-NOUN B-VERB
 tukwatĩ B-VERB B-ADV
 
 mɪra B-NOUN B-NOUN
-pirerke B-NOUN B-VERB
-teʔe B-ADV B-ADV
+pirerke B-NOUN B-NOUN
+teʔe B-ADV B-NOUN
 pirawan B-NOUN B-NOUN
 muwak B-VERB B-VERB
 
@@ -158,7 +158,7 @@ ihẽ B-PRON B-NOUN
 miʔuke B-NOUN B-NOUN
 reʔutĩ B-VERB B-VERB
 
-apo B-ADV B-DET
+apo B-ADV B-NOUN
 pehẽ B-PRON B-NOUN
 ihẽke B-PRON B-NOUN
 peharõta B-VERB B-VERB
@@ -168,8 +168,8 @@ aʔe B-PRON B-DET
 mujã B-VERB B-VERB
 
 ihẽ B-PRON B-NOUN
-ʔok B-NOUN B-NOUN
-amujã B-VERB B-VERB
+ʔok B-NOUN B-VERB
+amujã B-VERB B-NOUN
 
 ihẽke B-PRON B-NOUN
 uʔi B-NOUN B-VERB
@@ -185,12 +185,12 @@ pɨhɨk B-VERB B-VERB
 
 ajameʔẽ B-ADV B-VERB
 ke B-PART B-PART
-Urupe B-PROPN B-VERB
+Urupe B-PROPN B-NOUN
 jeʔẽha B-NOUN B-NOUN
 mondo B-VERB B-VERB
 tĩ B-ADV B-PART
 
-pe B-CCONJ B-NOUN
+pe B-CCONJ B-ADV
 kamarar B-NOUN B-NOUN
 jarusu B-NOUN B-NOUN
 raʔɪr B-NOUN B-NOUN
@@ -206,8 +206,8 @@ Tuktuktuk B-NOUN B-VERB
 aja B-ADV B-NOUN
 riki B-PART B-VERB
 
-Tapiʔir B-NOUN B-VERB
-ujan B-VERB B-NOUN
+Tapiʔir B-NOUN B-NOUN
+ujan B-VERB B-VERB
 oho B-VERB B-VERB
 
 Pe B-ADV B-INTJ
@@ -232,14 +232,14 @@ ajapi B-VERB B-NOUN
 indo B-NOUN B-VERB
 
 Xõru B-PROPN B-NOUN
-nixói B-VERB B-VERB
+nixói B-VERB B-NOUN
 se B-NOUN B-PART
 aʔe B-PRON B-PART
 
 Peteĩ B-PRON B-NOUN
 Xõru B-PROPN B-NOUN
-jahy B-NOUN B-VERB
-kanim B-VERB B-ADV
+jahy B-NOUN B-NOUN
+kanim B-VERB B-NOUN
 oho B-VERB B-VERB
 
 Arahã B-ADV B-NOUN
@@ -249,26 +249,26 @@ rehe B-ADP B-ADP
 ihẽ B-PRON B-PRON
 araho B-VERB B-VERB
 
-mahem B-VERB B-VERB
+mahem B-VERB B-NOUN
 arapuha B-NOUN B-NOUN
 himiʔu B-NOUN B-NOUN
 oho B-AUX B-VERB
 
 ne B-PRON B-PART
 ihẽke B-PRON B-NOUN
-renupã B-VERB B-ADP
-rahã B-SCONJ B-PART
+renupã B-VERB B-VERB
+rahã B-SCONJ B-ADV
 ihẽ B-PRON B-PRON
 ahota B-VERB B-VERB
 
-pɪnupɪnuate B-VERB B-VERB
-ehe B-ADP B-ADV
+pɪnupɪnuate B-VERB B-NOUN
+ehe B-ADP B-NOUN
 je B-PART B-PART
 
 pe B-ADV B-NOUN
 oho B-VERB B-VERB
 je B-PART B-PART
-tĩ B-ADV B-VERB
+tĩ B-ADV B-PART
 
 panduʔɪmanu B-VERB B-NOUN
 taʔɪn B-NOUN B-VERB
@@ -277,18 +277,18 @@ tĩ B-ADV B-PART
 
 karai B-NOUN B-NOUN
 riki B-ADV B-NOUN
-muka B-NOUN B-VERB
+muka B-NOUN B-NOUN
 mopok B-VERB B-VERB
 
 neke B-PRON B-NOUN
-ihẽ B-PRON B-NOUN
+ihẽ B-PRON B-PRON
 remupuʔam B-VERB B-NOUN
-ʔɪ B-AUX B-ADP
+ʔɪ B-AUX B-ADJ
 
 ihẽ B-PRON B-PRON
 neke B-PRON B-NOUN
-apɪhɪk B-VERB B-VERB
-ʔɪ B-AUX B-PART
+apɪhɪk B-VERB B-NOUN
+ʔɪ B-AUX B-VERB
 
 aʔe B-PRON B-DET
 ikɪke B-NOUN B-NOUN
@@ -296,8 +296,8 @@ jiʔok B-VERB B-VERB
 
 ihẽ B-PRON B-NOUN
 ikɪ B-NOUN B-NOUN
-ajiʔok B-VERB B-VERB
-ʔɪ B-AUX B-PART
+ajiʔok B-VERB B-NOUN
+ʔɪ B-AUX B-ADJ
 
 taʔin B-NOUN B-VERB
 hokwenke B-NOUN B-NOUN
@@ -305,10 +305,10 @@ nupã B-VERB B-NOUN
 uʔam B-ADV B-VERB
 
 Purutuke B-PROPN B-NOUN
-ahem B-VERB B-VERB
+ahem B-VERB B-ADJ
 
-Purutu B-PROPN B-NOUN
-ahem B-VERB B-VERB
+Purutu B-PROPN B-VERB
+ahem B-VERB B-NOUN
 
 taʔɪnke B-NOUN B-NOUN
 itawa B-NOUN B-NOUN
@@ -318,12 +318,12 @@ ipe B-PRON B-NOUN
 je B-PART B-PART
 
 netawate B-VERB B-NOUN
-nekeã B-PRON B-NOUN
-nejɪtɪʔɪmte B-VERB B-ADJ
+nekeã B-PRON B-VERB
+nejɪtɪʔɪmte B-VERB B-PART
 amõ B-ADV B-PRON
 ʔɪ B-PART B-ADP
 
-pe B-ADV B-NOUN
+pe B-ADV B-ADV
 imu B-NOUN B-NOUN
 uʔɪ B-NOUN B-VERB
 raʔɪr B-NOUN B-NOUN
@@ -332,11 +332,11 @@ ipe B-PRON B-NOUN
 je B-PART B-PART
 uʔɪ B-NOUN B-VERB
 sepetu B-NOUN B-NOUN
-ɪrapar B-NOUN B-NOUN
-raʔɪr B-NOUN B-VERB
+ɪrapar B-NOUN B-VERB
+raʔɪr B-NOUN B-NOUN
 
-pe B-ADV B-NOUN
-aʔi B-NOUN B-VERB
+pe B-ADV B-PART
+aʔi B-NOUN B-DET
 ai B-NOUN B-NOUN
 tur B-VERB B-VERB
 je B-PART B-PART
@@ -344,35 +344,35 @@ tĩ B-ADV B-PART
 
 pe B-ADV B-NOUN
 saʔe B-NOUN B-NOUN
-aʔi B-NOUN B-DET
+aʔi B-NOUN B-VERB
 ihái B-NOUN B-NOUN
 ʃirurke B-NOUN B-NOUN
-pirokhũ B-VERB B-NOUN
+pirokhũ B-VERB B-VERB
 je B-PART B-PART
 ihai B-NOUN B-NOUN
 aike B-NOUN B-VERB
 
-ɪmante B-ADV B-VERB
-pe B-ADV B-ADV
-aʔike B-NOUN B-NOUN
+ɪmante B-ADV B-NOUN
+pe B-ADV B-NOUN
+aʔike B-NOUN B-VERB
 manõ B-VERB B-NOUN
 je‘ɪ B-PART B-VERB
 
 kujãtake B-NOUN B-NOUN
 upa B-PART B-VERB
-mupinim B-VERB B-NOUN
+mupinim B-VERB B-PART
 
 ko B-ADV B-DET
 ihē B-PRON B-NOUN
 paper B-NOUN B-NOUN
-pinim B-NOUN B-NOUN
+pinim B-NOUN B-ADJ
 amuwɪr B-VERB B-VERB
 nde B-PRON B-PART
 pe B-ADP B-PART
 
-ne B-DET B-NOUN
+ne B-DET B-ADV
 raʔɪr B-NOUN B-NOUN
-ihē B-PRON B-NOUN
+ihē B-PRON B-VERB
 apɪhɪk B-VERB B-NOUN
 aʃo B-AUX B-VERB
 
@@ -389,40 +389,40 @@ juʔipape B-NOUN B-NOUN
 piʔa B-NOUN B-NOUN
 usak B-VERB B-VERB
 oho B-VERB B-VERB
-tī B-ADV B-NOUN
+tī B-ADV B-PART
 pɪtuniwe B-ADV B-NOUN
 
 pahar B-ADV B-NOUN
 pahar B-ADV B-NOUN
 je B-PART B-PART
 kɪse B-NOUN B-NOUN
-meʔē B-VERB B-VERB
-ngā B-PRON B-NOUN
+meʔē B-VERB B-ADJ
+ngā B-PRON B-ADJ
 
-ihē B-PRON B-NOUN
+ihē B-PRON B-VERB
 ndeke B-PRON B-NOUN
-araho B-VERB B-VERB
-tar B-VERB B-ADV
+araho B-VERB B-NOUN
+tar B-VERB B-VERB
 katu B-ADV B-ADV
 tipe B-PART B-NOUN
 
-uʔike B-NOUN B-NOUN
+uʔike B-NOUN B-VERB
 wiraʔi B-PRON B-NOUN
 take B-PRON B-NOUN
 uʔu B-VERB B-VERB
-ɪm B-PART B-PART
+ɪm B-PART B-ADV
 
 ihē B-PRON B-VERB
 rãi B-NOUN B-PART
 ihē B-PRON B-VERB
 amoīta B-VERB B-NOUN
-tipe B-PART B-VERB
+tipe B-PART B-NOUN
 
 pāsɪkwer B-NOUN B-NOUN
 riki B-ADV B-NOUN
 matɪr B-VERB B-NOUN
 uhu B-ADV B-NOUN
-ngā B-PRON B-NOUN
+ngā B-PRON B-ADJ
 ipe B-ADP B-VERB
 
 ihē B-PRON B-VERB
@@ -433,12 +433,12 @@ ko B-ADV B-DET
 riki B-ADP B-NOUN
 ihē B-PRON B-VERB
 ahɪk B-VERB B-NOUN
-ajur B-VERB B-VERB
+ajur B-VERB B-NOUN
 jarupa B-NOUN B-NOUN
 rehe B-ADP B-ADP
 
 pe B-CCONJ B-ADV
-ɪ B-NOUN B-NOUN
+ɪ B-NOUN B-PART
 rɪmɪʔɪ B-NOUN B-NOUN
 rehe B-ADP B-ADP
 riki B-ADP B-NOUN
