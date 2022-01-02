@@ -1,15 +1,38 @@
-Model	Embeddings	Train Accuracy	Train F1	Eval Accuracy	Eval F1	Akuntsu Accuracy	Kaapor Accuracy	Makurap Accuracy	Munduruku Accuracy
-upos-3	BERT								
-upos-3	multi+ft3								
-upos-3	multi+ft7								
-upos-3	BERT+tupi-3								
-upos-3	tupi-3								
-upos-3	tupi-7								
-									
-upos-3+ft									
-multi									
-multi+ft-3									
-multi+ft-7									
-multi+ft-target									
-upos-7									
-upos-7+ft									
+Model	Embeddings	Run	Train Acc	Train F1	Eval Acc	Eval F1	Akuntsu Acc	Kaapor Acc	Makurap Acc	Munduruku Acc
+upos-3	multi+ft3	1	0.8501	0.61	0.4519	0.1884	0.5172	0.4208	0.3836	0.4457
+upos-3	multi+ft3	2	0.8621	0.6464	0.4491	0.1911	0.5074	0.388	0.3562	0.4638
+upos-3	multi+ft3	3	0.8621	0.6049	0.4581	0.2152	0.5049	0.4153	0.3288	0.4771
+upos-3	multi+ft3	4	0.8549	0.6456	0.484	0.2091	0.4657	0.4454	0.3356	0.4867
+upos-3	multi+ft3	5								
+upos-3	multi+ft3	avg	0.857	0.627	0.461	0.201	0.499	0.417	0.351	0.468
+upos-3	tupi-3	1	0.82	0.665	0.462	0.186	0.485	0.448	0.356	0.475
+upos-3	tupi-3	2	0.808	0.647	0.453	0.18	0.468	0.42	0.328	0.48
+upos-3	tupi-3	3								
+upos-3	tupi-3	4								
+upos-3	tupi-3	5								
+upos-3	tupi-3	avg	0.814	0.656	0.458	0.183	0.477	0.434	0.342	0.478
+multi	NA	NA	NA	NA	0.3272	0.1341	0.3848	0.235	0.226	0.3575
+multi+ft-3	NA	1								
+multi+ft-3	NA	2								
+multi+ft-3	NA	3								
+multi+ft-3	NA	4								
+multi+ft-3	NA	5								
+multi+ft-3	NA	avg								
+Karo		1								
+Karo		2								
+Karo		3								
+Karo		4								
+Karo		5								
+Karo		avg								
+Guajajara		1								
+Guajajara		2								
+Guajajara		3								
+Guajajara		4								
+Guajajara		5								
+Guajajara		avg								
+Tupinamba		1								
+Tupinamba		2								
+Tupinamba		3								
+Tupinamba		4								
+Tupinamba		5								
+Tupinamba		avg								

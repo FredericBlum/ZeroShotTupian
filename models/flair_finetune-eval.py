@@ -17,23 +17,21 @@ guajajara = make_finetuneset(language = 'Guajajara')
 tupinamba = make_finetuneset(language = 'Tupinamba')
 
 corpus = MultiCorpus([guajajara, karo, tupinamba])
+eval_corpus = MultiCorpus([akuntsu, kaapor, makurap, munduruku])
 
 ################################
 ### Tagger and Trainer       ###
 ################################
-tagger = SequenceTagger.load('multi-pos')
+tagger = SequenceTagger.load('pos-multi')
 #tagger = SequenceTagger.load('models/resources/taggers/my-upos-3/best-model.pt')
 # tagger = SequenceTagger.load('models/resources/taggers/dep_tupi/best-model.pt')
 
-
 trainer = ModelTrainer(tagger, corpus)
+trainer.fine_tune('models/resources/taggers/finetune', 
+                learning_rate=0.001, mini_batch_size=4, max_epochs=20)
 
-trainer.fine_tune('models/resources/taggers/finetune',
-                learning_rate=1,
-                mini_batch_size=4,
-                max_epochs=30)
-
-trainer.final_test('models/resources/taggers/finetune',
+tagger = SequenceTagger.load('models/resources/taggers/finetune')
+eval_set = ModelTrainer(tagger, eval_corpus)
+eval_set.final_test('models/resources/taggers/eval_multi_tupi',
                 main_evaluation_metric = ("micro avg", "f1-score"),
-                eval_mini_batch_size = 32
-                )
+                eval_mini_batch_size = 32)
