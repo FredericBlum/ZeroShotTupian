@@ -1,9 +1,8 @@
 from flair.data import MultiCorpus
 from flair.datasets import ColumnCorpus
-from flair.embeddings import FlairEmbeddings, StackedEmbeddings, TransformerWordEmbeddings
+from flair.embeddings import FlairEmbeddings, StackedEmbeddings
 from flair.models import SequenceTagger
 from flair.trainers import ModelTrainer
-from helper_functions import conllu_to_flair
 from flair.visual.training_curves import Plotter
 
 
@@ -16,9 +15,7 @@ guajajara = ColumnCorpus('data/Guajajara/features', columns, train_file = 'train
 karo = ColumnCorpus('data/Karo/features', columns, train_file = 'train.txt', test_file = 'test.txt', dev_file = 'dev.txt')
 tupinamba = ColumnCorpus('data/Tupinamba/features', columns, train_file = 'train.txt', test_file = 'test.txt', dev_file = 'dev.txt')
 
-corpus = MultiCorpus([guajajara, 
-                    karo, 
-                    tupinamba])
+corpus = MultiCorpus([guajajara, karo, tupinamba])
 
 label_type = 'upos'
 upos_dictionary = corpus.make_label_dictionary(label_type=label_type)
@@ -30,7 +27,6 @@ flair_embedding_forward = FlairEmbeddings('models/resources/embeddings/tupi_3_fo
 flair_embedding_backward = FlairEmbeddings('models/resources/embeddings/tupi_3_back_ft/best-lm.pt')
 embeddings = StackedEmbeddings(embeddings=[flair_embedding_forward, flair_embedding_backward])
 
-#embeddings = TransformerWordEmbeddings('xlm-roberta-base', layers='-1', fine_tune=True)
 ################################
 ### Tagger and Trainer       ###
 ################################
