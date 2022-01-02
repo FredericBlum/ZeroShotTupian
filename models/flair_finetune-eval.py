@@ -27,10 +27,9 @@ tagger = SequenceTagger.load('pos-multi')
 # tagger = SequenceTagger.load('models/resources/taggers/dep_tupi/best-model.pt')
 
 trainer = ModelTrainer(tagger, corpus)
-trainer.fine_tune('models/resources/taggers/finetune', 
-                mini_batch_size=32, max_epochs=10)
+#trainer.fine_tune('models/resources/taggers/finetune', mini_batch_size=32, max_epochs=10)
 
-tagger = SequenceTagger.load('models/resources/taggers/finetune')
+tagger = SequenceTagger.load('models/resources/taggers/finetune/final-model.pt')
 eval_set = ModelTrainer(tagger, eval_corpus)
 eval_set.final_test('models/resources/taggers/eval_multi_tupi',
                 main_evaluation_metric=("micro avg", "f1-score"),

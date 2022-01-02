@@ -26,10 +26,9 @@ dictionary = corpus.make_label_dictionary(label_type='deprel')
 ################################
 ### Embeddings               ###
 ################################
-flair_embedding_forward = FlairEmbeddings('models/resources/embeddings/tupi_3_for/best-lm.pt')
-flair_embedding_backward = FlairEmbeddings('models/resources/embeddings/tupi_3_back/best-lm.pt')
+flair_embedding_forward = FlairEmbeddings('models/resources/embeddings/tupi_3_for_ft/best-lm.pt')
+flair_embedding_backward = FlairEmbeddings('models/resources/embeddings/tupi_3_back_ft/best-lm.pt')
 embeddings = StackedEmbeddings(embeddings=[flair_embedding_forward, flair_embedding_backward])
-# embeddings = TransformerWordEmbeddings("bert-base-multilingual-cased", fine_tune=True, layers="-1")
 
 ################################
 ### Tagger and Trainer       ###
