@@ -28,10 +28,11 @@ tagger = SequenceTagger.load('pos-multi')
 
 trainer = ModelTrainer(tagger, corpus)
 trainer.fine_tune('models/resources/taggers/finetune', 
-                learning_rate=0.001, mini_batch_size=4, max_epochs=20)
+                mini_batch_size=32, max_epochs=10)
 
 tagger = SequenceTagger.load('models/resources/taggers/finetune')
 eval_set = ModelTrainer(tagger, eval_corpus)
 eval_set.final_test('models/resources/taggers/eval_multi_tupi',
-                main_evaluation_metric = ("micro avg", "f1-score"),
-                eval_mini_batch_size = 32)
+                main_evaluation_metric=("micro avg", "f1-score"),
+                eval_mini_batch_size=32,
+                param_selection_mode=True)
