@@ -4,8 +4,7 @@ from flair.datasets import ColumnCorpus
 from flair.embeddings import FlairEmbeddings, TransformerWordEmbeddings, StackedEmbeddings
 from flair.models import DependencyParser
 from flair.trainers import ModelTrainer
-from flair.visual.training_curves import Plotter
-
+from helper_functions import make_testset
 
 ################################
 ### data and dictionaries    ###
@@ -15,6 +14,13 @@ columns = {0: 'text', 1: 'upos', 2:'head', 3: 'deprel'}
 guajajara = ColumnCorpus('data/Guajajara/features', columns, train_file = 'train.txt', test_file = 'test.txt', dev_file = 'dev.txt')
 karo = ColumnCorpus('data/Karo/features', columns, train_file = 'train.txt', test_file = 'test.txt', dev_file = 'dev.txt')
 tupinamba = ColumnCorpus('data/Tupinamba/features', columns, train_file = 'train.txt', test_file = 'test.txt', dev_file = 'dev.txt')
+
+akuntsu = make_testset(language = 'Akuntsu')
+kaapor = make_testset(language = 'Kaapor')
+makurap = make_testset(language = 'Makurap')
+munduruku = make_testset(language = 'Munduruku')
+
+eval_corpus = MultiCorpus([akuntsu, kaapor, makurap, munduruku])
 
 corpus = MultiCorpus([guajajara, 
                     karo, 
@@ -51,7 +57,11 @@ trainer.train('models/resources/taggers/dep_tupi',
                 patience=3)
 
 ###############################
-### Visualizations          ###
+### Evaluation              ###
 ###############################
-plotter = Plotter()
-plotter.plot_training_curves('models/resources/taggers/dep_tupi/loss.tsv')
+tagger = SequenceTagger.load('models/resources/taggers/dep_tupi/best-model.pt')
+
+trainer = ModelTrainer(tagger, eval_corpus)
+trainer.final_test('models/resources/taggers/eval_multi_tupi',
+                main_evaluation_metric = ("micro avg", "f1-score"),
+                eval_mini_batch_size = 32)
