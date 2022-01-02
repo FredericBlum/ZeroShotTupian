@@ -1,5 +1,6 @@
 from flair.models import SequenceTagger
-from flair.data import MultiCorpus, Sentence
+from flair.data import MultiCorpus
+from flair.datasets import ColumnCorpus
 from flair.embeddings import FlairEmbeddings, TransformerWordEmbeddings, StackedEmbeddings
 from flair.models import DependencyParser
 from flair.trainers import ModelTrainer

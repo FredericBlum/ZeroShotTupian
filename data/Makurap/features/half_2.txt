@@ -1,0 +1,86 @@
+ama NOUN 0 root
+etera VERB 1 parataxis
+kurux VERB 2 xcomp
+
+yeman ADV 3 advmod
+ngot NOUN 3 obj
+kana VERB 0 root
+oen VERB 3 dep
+
+putorot NOUN 0 root
+xēke PART 1 discourse
+ke PART 1 discourse
+xēt PART 1 dep
+
+ama ADV 4 advmod
+ngot NOUN 3 nmod
+xiaret NOUN 4 nsubj
+eya VERB 0 root
+kurux VERB 4 dep
+amang VERB 4 dep
+ngot NOUN 8 obj
+oen VERB 4 parataxis
+wimõ ADV 8 advmod
+nitēt PART 8 discourse
+
+etxekup NOUN 2 obj
+keya VERB 0 root
+
+opũãtemwã VERB 0 root
+ota AUX 1 aux
+
+kux NOUN 2 obj
+kixa VERB 3 advcl
+ngarap VERB 0 root
+, PUNCT 3 punct
+pit PRON 3 parataxis
+
+etera VERB 0 root
+korop VERB 1 xcomp
+
+op ADV 2 advmod
+ten VERB 0 root
+eya PART 2 dep
+õn PRON 2 nsubj
+
+Kito NOUN 7 nsubj
+nãkowut NOUN 7 obj
+moat NOUN 4 dep
+xauwet NOUN 2 nmod
+moke NOUN 4 conj
+kepit CCONJ 5 cc
+xagara VERB 0 root
+
+etera VERB 0 root
+kurux VERB 1 parataxis
+amang VERB 1 parataxis
+ngot NOUN 5 obj
+keya VERB 1 parataxis
+pīxe ADV 5 advmod
+
+mokat ADV 2 advmod
+etera VERB 0 root
+korop VERB 2 dep
+noa NOUN 3 obl
+pe ADP 4 case
+
+mokat ADV 2 advmod
+etera VERB 0 root
+kurux VERB 2 parataxis
+amang VERB 2 parataxis
+pīxe ADV 4 advmod
+
+xop DET 2 obj
+ten VERB 0 root
+eya PART 2 dep
+on PRON 2 nsubj
+ke PART 2 discourse
+
+nãpẽrenã ADV 3 advmod
+kito NOUN 3 nsubj
+eapītera VERB 0 root
+pīxe AUX 3 aux
+
+wotye VERB 0 root
+pukpuga VERB 1 advcl
+pit PRON 2 parataxis
