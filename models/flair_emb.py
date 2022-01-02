@@ -72,29 +72,29 @@ corpus_3, char_dict = concat(['Guajajara', 'Tupinamba', 'Karo'], folder = "3")
 word_dict = make_word_dictionary(["Guajajara", "Karo", "Tupinamba"])
 # print(word_dict)
 
-tupinamba = TextCorpus("data/Tupinamba/embeddings", word_dict, is_forward_lm, character_level = False)
+tupinamba = TextCorpus("data/Tupinamba/embeddings", word_dict, is_forward_lm, character_level = True)
 guajajara = TextCorpus("data/Guajajara/embeddings", word_dict, is_forward_lm, character_level = False)
 karo = TextCorpus("data/Karo/embeddings", word_dict, is_forward_lm, character_level = False)
 corpus_3 = TextCorpus("data/combi_emb/3", word_dict, is_forward_lm, character_level = False)
 corpus_7 = TextCorpus("data/combi_emb/7", word_dict, is_forward_lm, character_level = False)
 
-language_model_for = LanguageModel(word_dict, is_forward_lm, hidden_size=512, nlayers=1)
+language_model_for = LanguageModel(word_dict, is_forward_lm, hidden_size=256, nlayers=1)
 
 ################################
 ### Trainers                 ###
 ################################
 
 trainer = LanguageModelTrainer(language_model_for, corpus_3)
-trainer.train('models/resources/embeddings/tupi_3_lexical', sequence_length=10, mini_batch_size=16, learning_rate=20, max_epochs=200)
+trainer.train('models/resources/embeddings/tupi_3_lexical', sequence_length=10, mini_batch_size=32, learning_rate=20, max_epochs=200)
 
 trainer = LanguageModelTrainer(language_model_for, corpus_7)
-trainer.train('models/resources/embeddings/tupi_7_lexical', sequence_length=10, mini_batch_size=16, learning_rate=20, max_epochs=200)
+trainer.train('models/resources/embeddings/tupi_7_lexical', sequence_length=10, mini_batch_size=32, learning_rate=20, max_epochs=200)
 
 trainer = LanguageModelTrainer(language_model_for, guajajara)
-trainer.train('models/resources/embeddings/tupi_individual/tupi_guajajara_lexical', sequence_length=10, mini_batch_size=16, learning_rate=20, max_epochs=200)
+trainer.train('models/resources/embeddings/tupi_individual/tupi_guajajara_lexical', sequence_length=10, mini_batch_size=32, learning_rate=20, max_epochs=200)
 
 trainer = LanguageModelTrainer(language_model_for, tupinamba)
-trainer.train('models/resources/embeddings/tupi_individual/tupi_tupinamba_lexical', sequence_length=10, mini_batch_size=16, learning_rate=20, max_epochs=200)
+trainer.train('models/resources/embeddings/tupi_individual/tupi_tupinamba_lexical', sequence_length=10, mini_batch_size=32, learning_rate=20, max_epochs=200)
 
 trainer = LanguageModelTrainer(language_model_for, karo)
-trainer.train('models/resources/embeddings/tupi_individual/tupi_karo_lexical', sequence_length=10, mini_batch_size=16, learning_rate=20, max_epochs=200)
+trainer.train('models/resources/embeddings/tupi_individual/tupi_karo_lexical', sequence_length=10, mini_batch_size=32, learning_rate=20, max_epochs=200)

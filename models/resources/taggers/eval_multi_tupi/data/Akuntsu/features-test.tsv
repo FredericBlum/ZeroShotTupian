@@ -1,21 +1,21 @@
-ep B-NOUN B-NOUN
+ep B-NOUN B-PRON
 koa B-VERB B-NOUN
 jẽ B-DET B-PART
 
 apara B-NOUN B-NOUN
-tep B-NOUN B-ADJ
+tep B-NOUN B-NOUN
 tʃopa B-VERB B-VERB
 jẽ B-DET B-PART
 
-Konibu B-PROPN B-PROPN
+Konibu B-PROPN B-NOUN
 apara B-NOUN B-NOUN
 koa B-VERB B-VERB
 
 kitʃe B-PRON B-NOUN
 aramĩra B-NOUN B-VERB
 
-Tʃaruj B-PROPN B-VERB
-kɨjtpit B-NOUN B-ADV
+Tʃaruj B-PROPN B-NOUN
+kɨjtpit B-NOUN B-VERB
 õa B-VERB B-PART
 te B-PART B-PART
 Kanibõ B-PROPN B-VERB
@@ -25,48 +25,48 @@ okwaj B-NOUN B-VERB
 tokwaj B-NOUN B-NOUN
 perek B-ADJ B-VERB
 
-Ariano B-PROPN B-PROPN
+Ariano B-PROPN B-VERB
 teita B-VERB B-NOUN
-kɨrẽ B-ADV B-VERB
+kɨrẽ B-ADV B-NOUN
 
 kitʃe B-PRON B-NOUN
-tawtʃe B-NOUN B-VERB
-koa B-VERB B-PART
+tawtʃe B-NOUN B-NOUN
+koa B-VERB B-NOUN
 
-Kani B-PROPN B-ADV
-okɨpi B-NOUN B-NOUN
-kem B-NOUN B-ADJ
-kɨ B-NOUN B-NOUN
-rom B-ADV B-ADP
+Kani B-PROPN B-NOUN
+okɨpi B-NOUN B-VERB
+kem B-NOUN B-ADV
+kɨ B-NOUN B-PART
+rom B-ADV B-NOUN
 
 kwako B-NOUN B-NOUN
 kɨpek B-NOUN B-NOUN
-koa B-VERB B-VERB
+koa B-VERB B-NOUN
 
 pi B-NOUN B-NOUN
-maã B-VERB B-ADJ
-en B-PRON B-PRON
+maã B-VERB B-NOUN
+en B-PRON B-VERB
 
 Kɨte B-NUM B-NOUN
 babape B-NOUN B-VERB
 at B-VERB B-AUX
 
-Buko B-PROPN B-VERB
-kɨte B-NUM B-ADV
+Buko B-PROPN B-NOUN
+kɨte B-NUM B-NOUN
 korakora B-NOUN B-NOUN
-mi B-VERB B-VERB
+mi B-VERB B-NOUN
 
-ep B-NOUN B-NOUN
+ep B-NOUN B-PRON
 koa B-VERB B-NOUN
 jẽ B-DET B-PART
 
-kitʃetara B-VERB B-NOUN
-kom B-PART B-ADJ
+kitʃetara B-VERB B-VERB
+kom B-PART B-PART
 
 Karow B-PROPN B-NOUN
 etap B-NOUN B-VERB
 tek B-NOUN B-NOUN
-iw B-NOUN B-VERB
+iw B-NOUN B-ADP
 
 teti B-NOUN B-NOUN
 pururu B-VERB B-NOUN
@@ -75,8 +75,8 @@ aj B-VERB B-NOUN
 etʃe B-ADP B-VERB
 
 kopiba B-NOUN B-NOUN
-mõatʃoa B-VERB B-NOUN
-on B-PRON B-VERB
+mõatʃoa B-VERB B-VERB
+on B-PRON B-AUX
 
 Pura B-PROPN B-NOUN
 ikoa B-VERB B-VERB
@@ -84,11 +84,11 @@ te B-PART B-PART
 
 erape B-ADV B-NOUN
 okwata B-VERB B-VERB
-kom B-PART B-PART
+kom B-PART B-NOUN
 
 potʃek B-NOUN B-NOUN
-momo B-ADV B-NOUN
-tejã B-VERB B-NOUN
+momo B-ADV B-VERB
+tejã B-VERB B-ADV
 otek B-NOUN B-NOUN
 etʃe B-ADP B-VERB
 
@@ -102,27 +102,27 @@ kwaẽ B-NOUN B-NOUN
 te B-PRON B-PART
 ipitka B-NOUN B-VERB
 
-erẽ B-PRON B-NOUN
-epo B-NOUN B-VERB
-tʃoga B-VERB B-NOUN
-erẽ B-PRON B-NOUN
+erẽ B-PRON B-ADV
+epo B-NOUN B-NOUN
+tʃoga B-VERB B-VERB
+erẽ B-PRON B-PART
 
-jẽ B-DET B-NOUN
-kem B-NOUN B-ADJ
-kɨ B-NOUN B-NOUN
-jẽ B-DET B-NOUN
-kem B-NOUN B-ADJ
-kɨ B-NOUN B-NOUN
-rom B-ADV B-ADP
+jẽ B-DET B-PART
+kem B-NOUN B-ADV
+kɨ B-NOUN B-PART
+jẽ B-DET B-PART
+kem B-NOUN B-ADV
+kɨ B-NOUN B-PART
+rom B-ADV B-NOUN
 
 oatap B-NOUN B-NOUN
-ãka B-PART B-VERB
+ãka B-PART B-NOUN
 ẽ B-INTJ B-PART
 ẽ B-INTJ B-PART
 , B-PUNCT B-PUNCT
 oatap B-NOUN B-NOUN
-õkwa B-VERB B-NOUN
-on B-PRON B-VERB
+õkwa B-VERB B-VERB
+on B-PRON B-AUX
 
 on B-PRON B-PRON
 ita B-VERB B-NOUN
@@ -133,7 +133,7 @@ atiti B-NOUN B-VERB
 ta B-VERB B-PART
 
 karã B-NOUN B-ADV
-tepna B-NOUN B-PART
+tepna B-NOUN B-NOUN
 
 oko B-NOUN B-NOUN
 oko B-NOUN B-VERB
@@ -143,11 +143,11 @@ iw B-NOUN B-NOUN
 okwako B-NOUN B-NOUN
 ikona B-NOUN B-VERB
 
-erẽ B-PRON B-NOUN
-ekoro B-NOUN B-NOUN
-nõm B-ADV B-VERB
+erẽ B-PRON B-ADV
+ekoro B-NOUN B-VERB
+nõm B-ADV B-ADV
 
-kotin B-NOUN B-NOUN
+kotin B-NOUN B-VERB
 , B-PUNCT B-PUNCT
 eme B-DET B-NOUN
 peka B-VERB B-VERB
@@ -158,11 +158,11 @@ oerekwa B-VERB B-VERB
 
 okɨp B-NOUN B-NOUN
 atap B-NOUN B-NOUN
-erom B-ADV B-VERB
+erom B-ADV B-NOUN
 , B-PUNCT B-PUNCT
-ke B-DET B-NOUN
+ke B-DET B-ADV
 kɨp B-NOUN B-NOUN
-atap B-NOUN B-VERB
+atap B-NOUN B-AUX
 
 Karow B-PROPN B-NOUN
 , B-PUNCT B-PUNCT
@@ -171,64 +171,64 @@ omepirẽpitet B-NOUN B-NOUN
 kwep B-VERB B-NOUN
 te B-PART B-PART
 
-ke B-DET B-INTJ
-Kani B-PROPN B-PUNCT
+ke B-DET B-ADV
+Kani B-PROPN B-PROPN
 
 koni B-NOUN B-NOUN
 tʃe B-VERB B-NOUN
 okɨp B-NOUN B-NOUN
 etʃe B-ADP B-VERB
 
-eboro B-NOUN B-VERB
-etʃe B-ADP B-NOUN
+eboro B-NOUN B-NOUN
+etʃe B-ADP B-VERB
 
-kwako B-NOUN B-NOUN
+kwako B-NOUN B-DET
 aj B-VERB B-NOUN
-ek B-NOUN B-NOUN
+ek B-NOUN B-VERB
 etʃe B-ADP B-VERB
 
-ek B-NOUN B-NOUN
-etʃe B-ADP B-VERB
-imaã B-VERB B-PART
+ek B-NOUN B-VERB
+etʃe B-ADP B-NOUN
+imaã B-VERB B-NOUN
 
 teatap B-NOUN B-NOUN
 nĩap B-NOUN B-NOUN
-ete B-ADP B-PART
+ete B-ADP B-VERB
 
 itoap B-NOUN B-NOUN
 atʃoap B-NOUN B-VERB
-ete B-ADP B-PART
+ete B-ADP B-ADV
 
 aparapia B-NOUN B-VERB
 tet B-NOUN B-ADV
-ete B-ADP B-PART
+ete B-ADP B-NOUN
 ? B-PUNCT B-PUNCT
 
 omapi B-NOUN B-VERB
-ete B-ADP B-PART
+ete B-ADP B-ADV
 ? B-PUNCT B-PUNCT
 
 en B-PRON B-PRON
-baj B-NOUN B-VERB
-ete B-ADP B-PART
+baj B-NOUN B-NOUN
+ete B-ADP B-VERB
 
 tekwata B-VERB B-NOUN
-Buko B-PROPN B-VERB
-ete B-ADP B-PART
+Buko B-PROPN B-NOUN
+ete B-ADP B-VERB
 
 omepit B-NOUN B-VERB
 tek B-NOUN B-NOUN
 pi B-NOUN B-NOUN
-tʃopa B-VERB B-NOUN
-on B-PRON B-VERB
+tʃopa B-VERB B-VERB
+on B-PRON B-AUX
 
 ojẽ B-NOUN B-NOUN
 pi B-NOUN B-NOUN
 õkwa B-VERB B-VERB
 
-poga B-NOUN B-VERB
-pe B-NOUN B-ADV
-pi B-NOUN B-PART
+poga B-NOUN B-NOUN
+pe B-NOUN B-NOUN
+pi B-NOUN B-NOUN
 , B-PUNCT B-PUNCT
 ameko B-NOUN B-NOUN
 ikora B-VERB B-NOUN
@@ -243,68 +243,68 @@ tabɨtõ B-NOUN B-NOUN
 ka B-VERB B-ADJ
 
 aparapia B-NOUN B-NOUN
-kwamoa B-NOUN B-NOUN
-tekõ B-NOUN B-VERB
+kwamoa B-NOUN B-VERB
+tekõ B-NOUN B-NOUN
 
 ekõ B-NOUN B-NOUN
-ka B-VERB B-ADJ
+ka B-VERB B-VERB
 
 tebõ B-PRON B-NOUN
 kɨte B-NUM B-NOUN
 purururu B-NOUN B-NOUN
 , B-PUNCT B-PUNCT
-kebõ B-DET B-NOUN
-nõm B-ADV B-VERB
+kebõ B-DET B-ADV
+nõm B-ADV B-ADP
 
 kojõpebõ B-NOUN B-NOUN
 kɨjtpit B-NOUN B-VERB
-at B-VERB B-AUX
-kom B-PART B-PART
+at B-VERB B-PRON
+kom B-PART B-NOUN
 
 erape B-ADV B-NOUN
-tekwata B-VERB B-NOUN
+tekwata B-VERB B-VERB
 , B-PUNCT B-PUNCT
 kɨrẽbõ B-NOUN B-NOUN
-nõm B-ADV B-VERB
+nõm B-ADV B-ADP
 
 pabapebõ B-NOUN B-NOUN
 ɨkɨ B-NOUN B-NOUN
-kiramka B-VERB B-NOUN
-en B-PRON B-VERB
+kiramka B-VERB B-VERB
+en B-PRON B-AUX
 
 kɨpek B-NOUN B-NOUN
 atʃiri B-NOUN B-VERB
-aj B-VERB B-PART
+aj B-VERB B-NOUN
 
 tawtʃeri B-NOUN B-NOUN
-mia B-VERB B-VERB
-kɨjtpit B-NOUN B-ADV
-nõm B-ADV B-VERB
+mia B-VERB B-NOUN
+kɨjtpit B-NOUN B-VERB
+nõm B-ADV B-ADV
 
-kɨrẽri B-NOUN B-NOUN
-ta B-DET B-NOUN
+kɨrẽri B-NOUN B-ADV
+ta B-DET B-PART
 paja B-VERB B-NOUN
 , B-PUNCT B-PUNCT
 kiwkiw B-VERB B-NOUN
 
-kwena B-NOUN B-NOUN
+kwena B-NOUN B-INTJ
 , B-PUNCT B-PUNCT
-tawtʃena B-NOUN B-VERB
+tawtʃena B-NOUN B-NOUN
 , B-PUNCT B-PUNCT
 takɨrapna B-NOUN B-NOUN
 , B-PUNCT B-PUNCT
 tawpɨkna B-NOUN B-NOUN
 , B-PUNCT B-PUNCT
-tatona B-NOUN B-VERB
+tatona B-NOUN B-NOUN
 , B-PUNCT B-PUNCT
 tato B-NOUN B-NOUN
 kwakwa B-VERB B-NOUN
 , B-PUNCT B-PUNCT
 takɨrap B-NOUN B-NOUN
-kwakwa B-VERB B-VERB
+kwakwa B-VERB B-NOUN
 
 imen B-NOUN B-NOUN
-iõ B-NOUN B-VERB
+iõ B-NOUN B-NOUN
 imepit B-NOUN B-NOUN
 menna B-NOUN B-VERB
 
@@ -313,45 +313,45 @@ pekã B-NOUN B-NOUN
 ana B-PART B-VERB
 
 ɨkɨ B-NOUN B-NOUN
-ata B-VERB B-VERB
-en B-PRON B-PART
-ɨkɨpe B-NOUN B-VERB
+ata B-VERB B-NOUN
+en B-PRON B-NOUN
+ɨkɨpe B-NOUN B-NOUN
 
-kɨp B-NOUN B-NOUN
+kɨp B-NOUN B-ADJ
 tep B-NOUN B-ADJ
-eanampe B-NOUN B-VERB
+eanampe B-NOUN B-NOUN
 
 tʃarimẽ B-NOUN B-NOUN
 okwaj B-NOUN B-VERB
 , B-PUNCT B-PUNCT
 tokwajet B-NOUN B-VERB
 
-mepitet B-NOUN B-NOUN
+mepitet B-NOUN B-VERB
 jẽ B-DET B-PART
 , B-PUNCT B-PUNCT
 jẽrom B-DET B-NOUN
-tɨrɨ B-NUM B-VERB
+tɨrɨ B-NUM B-NOUN
 
-aparapiat B-NOUN B-NOUN
+aparapiat B-NOUN B-VERB
 kwamoa B-NOUN B-NOUN
 oirika B-VERB B-VERB
 
-te B-PRON B-PRON
-aj B-NOUN B-NOUN
+te B-PRON B-PART
+aj B-NOUN B-VERB
 koa B-VERB B-NOUN
 , B-PUNCT B-PUNCT
-ajet B-NOUN B-NOUN
-koa B-VERB B-VERB
+ajet B-NOUN B-PRON
+koa B-VERB B-NOUN
 
 on B-PRON B-PRON
-ikiramka B-VERB B-NOUN
+ikiramka B-VERB B-VERB
 , B-PUNCT B-PUNCT
 ɨkɨ B-NOUN B-NOUN
 tʃooo B-VERB B-VERB
 , B-PUNCT B-PUNCT
 kɨpitʃik B-NOUN B-NOUN
-ɨkɨt B-NOUN B-ADJ
-ãka B-PART B-VERB
+ɨkɨt B-NOUN B-NOUN
+ãka B-PART B-NOUN
 
 aramĩra B-NOUN B-NOUN
 nõm B-ADV B-NOUN
@@ -362,11 +362,11 @@ aparapia B-NOUN B-NOUN
 dow B-VERB B-NOUN
 , B-PUNCT B-PUNCT
 nako B-NOUN B-NOUN
-ata B-VERB B-VERB
+ata B-VERB B-NOUN
 ãka B-PART B-NOUN
 , B-PUNCT B-PUNCT
 ɨkɨ B-NOUN B-NOUN
-ape B-NOUN B-PART
+ape B-NOUN B-NOUN
 dow B-VERB B-NOUN
 aparapiat B-NOUN B-VERB
 
@@ -375,7 +375,7 @@ pajapna B-NOUN B-VERB
 
 tʃopa B-VERB B-VERB
 te B-PART B-PART
-parãap B-NOUN B-VERB
+parãap B-NOUN B-NOUN
 
 tawtʃe B-NOUN B-NOUN
 tʃogaap B-NOUN B-VERB
@@ -384,12 +384,12 @@ niam B-NOUN B-NOUN
 Tʃaruj B-PROPN B-NOUN
 imokwa B-NOUN B-VERB
 
-oiko B-NOUN B-VERB
+oiko B-NOUN B-NOUN
 tokwa B-VERB B-NOUN
 ojã B-AUX B-VERB
 
 otojẽpitin B-NOUN B-VERB
-ẽ B-DET B-ADV
+ẽ B-DET B-PART
 tow B-NOUN B-NOUN
 ẽ B-DET B-PART
 tow B-NOUN B-NOUN
@@ -398,22 +398,22 @@ ebapap B-NOUN B-ADJ
 tojẽpitin B-NOUN B-VERB
 
 on B-PRON B-PRON
-opoatʃo B-NOUN B-NOUN
-en B-PRON B-VERB
+opoatʃo B-NOUN B-VERB
+en B-PRON B-AUX
 te B-PART B-PART
 tʃokĩn B-NOUN B-VERB
 
 Pupak B-PROPN B-VERB
 kɨjtpitatʃo B-NOUN B-NOUN
-ata B-VERB B-NOUN
-kom B-PART B-ADJ
+ata B-VERB B-VERB
+kom B-PART B-NOUN
 
-ke B-DET B-NOUN
+ke B-DET B-ADV
 boroteatʃori B-NOUN B-NOUN
 tʃooo B-NOUN B-VERB
 , B-PUNCT B-PUNCT
 jẽrom B-DET B-NOUN
-barobaro B-NOUN B-VERB
+barobaro B-NOUN B-NOUN
 
 itʃoke B-NOUN B-NOUN
 tʃop B-VERB B-VERB
@@ -421,16 +421,16 @@ en B-PRON B-AUX
 
 koa B-VERB B-NOUN
 koa B-VERB B-NOUN
-tʃoke B-NOUN B-NOUN
+tʃoke B-NOUN B-VERB
 
-Patʃo B-PROPN B-PROPN
+Patʃo B-PROPN B-NOUN
 Patʃe B-PROPN B-NOUN
 tɨɾɨ B-NUM B-NOUN
 tajtʃi B-NOUN B-VERB
 
-Pura B-PROPN B-VERB
+Pura B-PROPN B-NOUN
 te B-PART B-PART
-kɨte B-NUM B-PART
+kɨte B-NUM B-ADV
 
 en B-PRON B-PRON
 aramĩra B-NOUN B-NOUN
@@ -438,50 +438,50 @@ aramĩra B-NOUN B-NOUN
 aramĩra B-NOUN B-NOUN
 baba B-NOUN B-VERB
 
-erẽ B-PRON B-NOUN
+erẽ B-PRON B-ADV
 baba B-NOUN B-NOUN
 , B-PUNCT B-PUNCT
 oerekwa B-VERB B-VERB
 
-on B-PRON B-VERB
-eni B-NOUN B-PART
+on B-PRON B-PRON
+eni B-NOUN B-NOUN
 erepe B-VERB B-NOUN
 , B-PUNCT B-PUNCT
-on B-PRON B-VERB
-terepe B-VERB B-ADV
+on B-PRON B-PRON
+terepe B-VERB B-NOUN
 
 kwiro B-NOUN B-NOUN
 , B-PUNCT B-PUNCT
-on B-PRON B-VERB
+on B-PRON B-PRON
 ikɨta B-VERB B-NOUN
 
-pea B-NOUN B-NOUN
+pea B-NOUN B-INTJ
 , B-PUNCT B-PUNCT
 en B-PRON B-PRON
 ipoka B-VERB B-VERB
 
-temen B-NOUN B-PRON
-tekɨjt B-NOUN B-NOUN
+temen B-NOUN B-NOUN
+tekɨjt B-NOUN B-VERB
 ata B-VERB B-VERB
 
 en B-PRON B-PRON
 iata B-VERB B-VERB
-ka B-VERB B-PART
+ka B-VERB B-SCONJ
 
 kitʃe B-PRON B-NOUN
 kɨp B-NOUN B-ADJ
-boja B-VERB B-VERB
+boja B-VERB B-NOUN
 
-enõ B-PRON B-NOUN
+enõ B-PRON B-ADV
 kɨ B-NOUN B-PART
-pi B-NOUN B-PART
+pi B-NOUN B-VERB
 ? B-PUNCT B-PUNCT
 
 orẽ B-PRON B-NOUN
 oerekwa B-VERB B-VERB
 
-kirẽbõ B-NOUN B-NOUN
-kipera B-VERB B-NOUN
+kirẽbõ B-NOUN B-ADV
+kipera B-VERB B-VERB
 
 koro B-NOUN B-NOUN
 am B-NOUN B-NOUN
@@ -492,18 +492,18 @@ tetna B-NOUN B-VERB
 en B-PRON B-PRON
 ekem B-NOUN B-VERB
 kɨ B-NOUN B-PART
-pi B-NOUN B-PART
+pi B-NOUN B-VERB
 , B-PUNCT B-PUNCT
-jẽbõ B-DET B-NOUN
-nõm B-ADV B-VERB
+jẽbõ B-DET B-VERB
+nõm B-ADV B-ADV
 
 pero B-NOUN B-NOUN
 jẽrom B-DET B-VERB
 te B-PART B-PART
-aj B-VERB B-PART
+aj B-VERB B-VERB
 
 Pupak B-PROPN B-VERB
-ko B-NOUN B-PART
+ko B-NOUN B-DET
 ata B-VERB B-NOUN
-kebõ B-DET B-VERB
+kebõ B-DET B-NOUN
 

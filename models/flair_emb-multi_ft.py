@@ -27,10 +27,10 @@ trainer_forward.train(f'models/resources/embeddings/tupi_3_for_ft',
                 sequence_length=80,
                 learning_rate=20,
                 mini_batch_size=32,
-                max_epochs=20)
+                max_epochs=40)
 
 trainer_backward.train(f'models/resources/embeddings/tupi_3_back_ft',
                 sequence_length=80,
                 learning_rate=20,
                 mini_batch_size=32,
-                max_epochs=20)
+                max_epochs=40)

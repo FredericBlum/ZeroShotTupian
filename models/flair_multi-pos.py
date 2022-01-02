@@ -1,6 +1,6 @@
 from flair.data import MultiCorpus
 from flair.datasets import ColumnCorpus
-from flair.embeddings import FlairEmbeddings, TransformerWordEmbeddings, StackedEmbeddings
+from flair.embeddings import FlairEmbeddings, StackedEmbeddings, TransformerWordEmbeddings
 from flair.models import SequenceTagger
 from flair.trainers import ModelTrainer
 from helper_functions import conllu_to_flair
@@ -26,11 +26,11 @@ upos_dictionary = corpus.make_label_dictionary(label_type=label_type)
 ################################
 ### Embeddings               ###
 ################################
-flair_embedding_forward = FlairEmbeddings('models/resources/embeddings/tupi_3_for/best-lm.pt')
-flair_embedding_backward = FlairEmbeddings('models/resources/embeddings/tupi_3_back/best-lm.pt')
+flair_embedding_forward = FlairEmbeddings('models/resources/embeddings/tupi_3_for_ft/best-lm.pt')
+flair_embedding_backward = FlairEmbeddings('models/resources/embeddings/tupi_3_back_ft/best-lm.pt')
 embeddings = StackedEmbeddings(embeddings=[flair_embedding_forward, flair_embedding_backward])
 
-
+#embeddings = TransformerWordEmbeddings('xlm-roberta-base', layers='-1', fine_tune=True)
 ################################
 ### Tagger and Trainer       ###
 ################################
