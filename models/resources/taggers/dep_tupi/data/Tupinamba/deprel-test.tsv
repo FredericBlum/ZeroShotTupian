@@ -1,0 +1,302 @@
+token gold_tag gold_arc predicted_tag predicted_arc
+Awjé obj None root 0
+ã discourse None obl 0
+koʔɨté advmod None obl 2
+eʔi root None obl 0
+
+ɨgasápe obl None root 0
+kawi nmod None obl 9
+tuja obl:subj None obl 9
+, punct None punct 8
+aʔe advmod None obl 9
+ré goeswith None obl 9
+iamomotá root None obl 9
+, punct None punct 0
+ojojá advmod None obl 0
+waibĩ nmod None obl 9
+rekuia conj None obl 0
+
+Ojaoβok root None root 0
+serã discourse None obl 0
+ɨβɨá dep None obl 2
+ikatupe nmod None obl 2
+ɲẽ discourse None obl 2
+imoingóβo advcl None obl 2
+inupãnupã obl None obl 0
+janondé case None obl 0
+? punct None punct 0
+
+Marã obj None root 0
+eʔipe root None obl 0
+jandéjara nsubj None obl 2
+iʃupé obl None obl 0
+? punct None punct 0
+
+Itajuβa nsubj None root 0
+moruβiʃaβa nmod None obl 0
+Rejamo obl None obl 2
+sekó nmod None obl 2
+mombewaβa root None obl 2
+, punct None punct 0
+ɨsɨkatãsɨapwana nsubj None obl 2
+Tupanamo obl None obl 2
+sekó nmod None obl 2
+kwapaβa parataxis None obl 15
+, punct None punct 6
+toʔo nmod None obl 2
+swi case None obl 2
+mirra nsubj None obl 2
+moroesé obj None obl 2
+seʔõawama nmod None obl 0
+mombewaβa parataxis None obl 0
+
+SantaCruz nmod None root 0
+raʔangaβa advcl None obl 0
+resé case None obl 18
+, punct None punct 17
+orépɨsɨrõ ccomp None obl 18
+jepé nsubj None obl 18
+, punct None punct 17
+Tupã nsubj None obl 18
+oréjar appos None obl 18
+, punct None punct 17
+oréamotareʔɨmbara obl None obl 18
+swi obl None obl 20
+. punct None punct 17
+Tuβa nmod None obl 18
+, punct None punct 17
+Taʔɨra conj None obl 18
+, punct None punct 0
+EspíritoSanto conj None obl 0
+rera parataxis None obl 18
+pupé case None obl 0
+eʔi root None obl 0
+
+Marãnamo advmod None root 0
+βépe advmod None obl 0
+asé nsubj None obl 2
+joβasáβi root None obl 0
+? punct None punct 0
+
+Akó det None root 0
+ʃeremiɨβõmbúera root None root 0
+? punct None punct 0
+
+Marã obj None root 0
+eʔipe root None obl 0
+asé nmod None obl 2
+karaiβeβe obj None obl 2
+oarõana appos None obl 0
+mongetábo advcl None obl 0
+? punct None punct 0
+
+jamongwá root None root 0
+moʃɨ nmod None obl 0
+ruʔuba obj None obl 5
+, punct None punct 0
+iʃupé obl None obl 0
+iaiemoitɨamo advcl None obl 0
+
+Marãpe advmod None root 0
+ɨβɨá nsubj None obl 0
+sereków root None obl 2
+aʔe obl None obl 0
+riré case None obl 0
+? punct None punct 0
+
+Sajkatu root None root 0
+
+Marãnamope root None root 0
+? punct None punct 0
+
+Marãpe advmod None root 0
+judeus nsubj None obl 0
+reków root None obl 2
+aʔéreme advmod None obl 0
+? punct None punct 0
+
+Ojerokɨ root None root 0
+. punct None punct 0
+
+Owatá root None root 0
+jepé discourse None obl 0
+serã advmod None obl 2
+ijɨβamokõja obj None obl 2
+itapɨwá nmod None obl 2
+soarama obj None obl 0
+resé case None obl 0
+? punct None punct 0
+
+Marã advmod None root 0
+eʔipe root None obl 0
+jandéjara nsubj None obl 2
+ojukasara obl None obl 2
+ri case None obl 2
+oguβa obj None obl 0
+mongetáβo dep None obl 0
+? punct None punct 0
+
+Asé nmod None root 0
+sumarã root None root 0
+swi obl None obl 0
+
+Sesé case None root 0
+o nmod None obl 0
+maʔendwáramo root None obl 2
+e discourse None obl 2
+asé nmod None obl 2
+Tupã nmod None obl 2
+rawsúβi ccomp None obl 2
+o nmod None obl 2
+pɨʔape obl None obl 10
+sekó obj None obl 0
+aβɨpotareʔɨma dep None obl 0
+
+ʃejɨβoja root None root 0
+, punct None punct 0
+ʃesokó parataxis None obl 0
+, punct None punct 2
+ʃetamũjusu parataxis None obl 3
+Aimbiré appos None obl 15
+, punct None punct 2
+sukuriju parataxis None obl 15
+, punct None punct 2
+tawató parataxis None obl 3
+, punct None punct 2
+tamanwá parataxis None obl 3
+atɨraβeβó nmod None obl 15
+; punct None punct 2
+ʃeaɲaŋa parataxis None obl 0
+moropé nmod None obl 0
+! punct None punct 0
+
+Marã nsubj None root 0
+eʔipe root None obl 0
+oguβa obl None obl 2
+supé case None obl 2
+ojekɨj obl None obl 0
+janondé case None obl 0
+? punct None punct 0
+
+Ojkoβé root None root 0
+ʃepɨtɨβõanameté nsubj None obl 0
+, punct None punct 12
+ʃepɨri case None obl 2
+marãtekoara appos None obl 13
+, punct None punct 12
+ʃeirunamo case None obl 2
+okajβaʔe appos None obl 13
+, punct None punct 12
+tuβiʃákatu nmod None obl 2
+Aimbiré appos None obl 13
+, punct None punct 0
+apɨaβa nmod None obl 0
+moaŋaipapara appos None obl 0
+. punct None punct 0
+
+Marã advmod None root 0
+eʔipe root None obl 0
+Jesus nsubj None obl 2
+osɨ obl None obl 2
+supé case None obl 2
+oeʔõ obj None obl 0
+janondé case None obl 0
+? punct None punct 0
+
+asé nmod None root 0
+rarõawama nmod None root 0
+resé root None obl 0
+
+janemaɲana obl None root 0
+raɲe advmod None obl 0
+tosó root None obl 6
+janerenoné obl None obl 6
+, punct None punct 0
+opá nmod None obl 2
+ok nmod None obl 6
+ɨbɨ̃ja obj None obl 0
+supa advcl None obl 0
+
+Nitɨβetéi root None root 0
+semɨrwera nsubj None root 0
+
+Marãnamope root None root 0
+? punct None punct 0
+
+Ajpó nsubj None root 0
+sawsukatupɨra root None obl 0
+, punct None punct 0
+ajpó nsubj None obl 0
+aɲẽ discourse None obl 4
+jamomeʔu conj None obl 2
+ajpó nsubj None obl 0
+imomoraŋɨpɨra conj None obl 0
+. punct None punct 0
+
+ʃe nsubj None root 0
+ɲõ advmod None obl 0
+aʔupakatune root None obl 2
+. punct None punct 6
+Kweiseβé advmod None obl 2
+, punct None punct 0
+nakó discourse None obl 2
+airumõ parataxis None obl 12
+. punct None punct 6
+Tasóne parataxis None obl 2
+, punct None punct 6
+wɨ discourse None obl 2
+! punct None punct 11
+Takaʔune parataxis None obl 0
+! punct None punct 0
+
+Marãpe advmod None root 0
+sereków root None obl 0
+itɨmɨ obl None obl 2
+janondé case None obl 0
+? punct None punct 0
+
+Taʃepɨsɨrõ ccomp None root 0
+Tupã nsubj None obl 0
+ʃesumarã obl None obl 2
+swi case None obl 6
+, punct None punct 9
+kwépe advmod None obl 2
+marã nmod None obl 6
+ʃerekoápe advcl None obl 0
+, punct None punct 0
+ojaβo root None obl 0
+
+Mamõpe advmod None root 0
+ɨβɨá dep None obl 0
+jandéjara nmod None obl 2
+reroβasẽmi root None obl 0
+koʔɨté advmod None obl 0
+? punct None punct 0
+
+kuɲãangaturama nmod None root 0
+aβá nmod None obl 0
+βɨkawereʔɨma appos None obl 2
+SantaMaria appos None obl 2
+sérɨβaʔe acl None obl 2
+membɨ́ramo obl None obl 0
+sekóreme root None obl 0
+
+Aopiranga obj None root 0
+, punct None punct 0
+ju conj None obl 0
+aβé cc None obl 3
+owerur root None obl 3
+ojoesé obl None obl 5
+, punct None punct 0
+oporeawsuβetekatúramo obl None obl 0
+
+Ajepɨk root None root 0
+aɲe advmod None obl 0
+sesé obl None obl 8
+, punct None punct 7
+ianamakatu obl None obl 2
+riré case None obl 8
+, punct None punct 0
+ʃeremiaramo obl None obl 0
+ipeʔaβo advcl None obl 0
+

@@ -1,178 +1,178 @@
 token gold_tag gold_arc predicted_tag predicted_arc
 Kito  None root 0
-nãkowut  None root 0
-moat  None root 0
-xauwet  None advmod 0
-moke  None root 0
-kepit  None root 0
-xagara  None root 0
+nãkowut  None obl 3
+moat  None obl 4
+xauwet  None obl 5
+moke  None obl 0
+kepit  None obl 0
+xagara  None punct 0
 
-ngot  None root 0
-xiaret  None root 0
+ngot  None root 3
+xiaret  None punct 0
 
-yãn  None nsubj 0
-oxepngoret  None root 0
-oerã  None aux 0
-kepit  None aux 0
-eta  None root 0
-on  None root 0
-toa  None aux 0
+yãn  None root 0
+oxepngoret  None obl 3
+oerã  None obl 4
+kepit  None obl 5
+eta  None obl 0
+on  None obl 0
+toa  None punct 0
 
 xeke  None root 0
-xēke  None root 0
-ke  None discourse 0
+xēke  None obl 0
+ke  None punct 0
 
 etera  None root 0
-kurux  None advmod 0
-amang  None obl 0
-ngot  None aux 0
-keya  None root 0
-pīxe  None aux 0
+kurux  None obl 3
+amang  None obl 4
+ngot  None obl 0
+keya  None obl 0
+pīxe  None punct 0
 
 mokat  None root 0
-etera  None root 0
+etera  None obl 6
 kurux  None obl 0
-amang  None discourse 0
-pīxe  None root 0
+amang  None obl 0
+pīxe  None punct 0
 
-ã  None discourse 0
-en  None nsubj 0
-emẽ  None root 0
-xop  None root 0
-nẽnẽkaret  None root 0
+ã  None root 0
+en  None obl 6
+emẽ  None obl 0
+xop  None obl 0
+nẽnẽkaret  None punct 0
 
-woaret  None root 0
-koa  None root 0
+woaret  None root 3
+koa  None punct 0
 
-etxekup  None root 0
-keya  None root 0
+etxekup  None root 3
+keya  None punct 0
 
-opũãtemwã  None root 0
-ota  None root 0
+opũãtemwã  None root 3
+ota  None punct 0
 
-mokat  None nsubj 0
-etera  None root 0
-kurux  None aux 0
+mokat  None root 0
+etera  None obl 0
+kurux  None punct 0
 
 nãpẽrenã  None root 0
-kito  None root 0
-eapītera  None root 0
-pīxe  None root 0
+kito  None obl 0
+eapītera  None obl 0
+pīxe  None punct 0
 
-op  None nsubj 0
-ten  None discourse 0
-eya  None root 0
-õn  None advmod 0
-
-xop  None discourse 0
-ten  None root 0
-eya  None root 0
-on  None root 0
-ke  None discourse 0
-
-mawo  None nsubj 0
-papīknga  None root 0
-mokat  None obl 0
-etyenkuax  None obl 0
-nã  None discourse 0
-xoknga  None root 0
-xok  None clf 0
-
-yeman  None root 0
-ngot  None aux 0
-kana  None discourse 0
-oen  None root 0
-
-mokat  None root 0
-etera  None root 0
-korop  None aux 0
-noa  None discourse 0
-pe  None discourse 0
-
-ama  None nsubj 0
-ngot  None root 0
-xiaret  None discourse 0
-eya  None root 0
-kurux  None discourse 0
-amang  None root 0
-ngot  None aux 0
-oen  None root 0
-wimõ  None aux 0
-nitēt  None root 0
-
-arimot  None root 0
-urot  None root 0
-arimot  None root 0
-urot  None root 0
-
-xop  None discourse 0
-koa  None root 0
-ten  None root 0
-nã  None discourse 0
-peka  None root 0
-
-i  None discourse 0
-eya  None root 0
-on  None root 0
-wet  None aux 0
-toa  None root 0
-ke  None discourse 0
-pit  None root 0
-
-mokat  None root 0
-peitõã  None advmod 0
-etera  None root 0
-amang  None advmod 0
-korop  None root 0
-kux  None aux 0
-me  None discourse 0
-
-wotye  None root 0
-pukpuga  None root 0
-pit  None clf 0
-
-putorot  None root 0
-xēke  None discourse 0
-ke  None discourse 0
-xēt  None root 0
-
-etera  None root 0
-korop  None aux 0
-
-kito  None root 0
-moke  None root 0
-xiat  None nsubj 0
-ekuwaora  None root 0
-kepit  None aux 0
-pukpuga  None root 0
-õn  None advmod 0
-
-kepit  None root 0
-eya  None root 0
-õn  None nsubj 0
-waokatmõ  None root 0
-papiknga  None root 0
-ke  None discourse 0
-
-ama  None nsubj 0
-etera  None root 0
-kurux  None aux 0
+op  None root 0
+ten  None obl 5
+eya  None obl 0
+õn  None punct 0
 
 xop  None root 0
-me  None discourse 0
-pote  None root 0
-worawiget  None root 0
-xop  None aux 0
-me  None discourse 0
+ten  None obl 6
+eya  None obl 0
+on  None obl 0
+ke  None punct 0
 
-kux  None advmod 0
-kixa  None root 0
-ngarap  None discourse 0
-,  None punct 0
-pit  None advmod 0
+mawo  None root 0
+papīknga  None obl 3
+mokat  None obl 5
+etyenkuax  None obl 5
+nã  None obl 0
+xoknga  None obl 0
+xok  None punct 0
 
-põrom  None discourse 0
-toa  None discourse 0
-,  None punct 0
-pit  None advmod 0
+yeman  None root 0
+ngot  None obl 0
+kana  None obl 0
+oen  None punct 0
+
+mokat  None root 0
+etera  None obl 6
+korop  None obl 0
+noa  None obl 0
+pe  None punct 0
+
+ama  None root 0
+ngot  None obl 3
+xiaret  None obl 4
+eya  None obl 8
+kurux  None obl 8
+amang  None obl 8
+ngot  None obl 8
+oen  None obl 0
+wimõ  None obl 0
+nitēt  None punct 0
+
+arimot  None root 0
+urot  None obl 5
+arimot  None obl 0
+urot  None punct 0
+
+xop  None root 0
+koa  None obl 6
+ten  None obl 0
+nã  None obl 0
+peka  None punct 0
+
+i  None root 0
+eya  None obl 3
+on  None obl 4
+wet  None obl 0
+toa  None obl 0
+ke  None obl 5
+pit  None punct 0
+
+mokat  None root 0
+peitõã  None obl 3
+etera  None obl 4
+amang  None obl 5
+korop  None obl 0
+kux  None obl 0
+me  None punct 0
+
+wotye  None root 4
+pukpuga  None obl 0
+pit  None punct 0
+
+putorot  None root 0
+xēke  None obl 5
+ke  None obl 0
+xēt  None punct 0
+
+etera  None root 3
+korop  None punct 0
+
+kito  None root 0
+moke  None obl 3
+xiat  None obl 4
+ekuwaora  None obl 5
+kepit  None obl 0
+pukpuga  None obl 0
+õn  None punct 0
+
+kepit  None root 0
+eya  None obl 7
+õn  None obl 7
+waokatmõ  None obl 0
+papiknga  None obl 0
+ke  None punct 0
+
+ama  None root 0
+etera  None obl 0
+kurux  None punct 0
+
+xop  None root 0
+me  None obl 3
+pote  None obl 4
+worawiget  None obl 0
+xop  None obl 0
+me  None punct 0
+
+kux  None root 6
+kixa  None obl 6
+ngarap  None obl 0
+,  None obl 0
+pit  None punct 0
+
+põrom  None root 0
+toa  None obl 0
+,  None obl 0
+pit  None punct 0
 

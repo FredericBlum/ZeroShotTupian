@@ -1,0 +1,450 @@
+token gold_tag gold_arc predicted_tag predicted_arc
+aʔe  None root 0
+ta  None obl 0
+ke  None obl 2
+uʔuta  None obl 2
+moj  None obl 0
+ke  None obl 0
+tĩ  None obl 0
+
+jane  None root 0
+japikũj  None obl 0
+mi  None obl 0
+?  None punct 0
+
+Mataru  None root 0
+ʃaʔe  None obl 0
+ke  None obl 2
+nupã  None obl 0
+tĩ  None obl 0
+
+aʔe  None root 0
+tatu  None obl 0
+ke  None obl 2
+uʔuta  None obl 0
+
+aʔe  None root 0
+ke  None obl 0
+uʔuta  None obl 2
+pɪpɪhu  None obl 2
+ke  None obl 0
+tĩ  None obl 0
+
+sawaʔe  None root 0
+panem  None obl 0
+ta  None obl 2
+ke  None obl 0
+upa  None obl 0
+
+Tuti  None root 0
+ke  None obl 0
+ʃaʔe  None obl 2
+jukwa  None obl 0
+
+taʔɪn  None root 0
+ukwerta  None obl 0
+je  None obl 6
+tĩ  None obl 6
+,  None punct 0
+ko  None obl 2
+aʔi  None obl 6
+iháike  None obl 6
+piɾokhũ  None obl 6
+je  None obl 6
+pe  None obl 6
+iʔaɾpe  None obl 0
+pɪnuhũ  None obl 0
+
+ne  None root 0
+ihẽke  None obl 0
+remusak  None obl 0
+ʔɪ  None obl 0
+
+kakake  None root 0
+kurumĩ  None obl 0
+uʔu  None obl 2
+rahã  None obl 2
+aʔe  None obl 2
+hãʔĩmke  None obl 0
+matɪr  None obl 0
+
+Arauxu  None root 0
+ahem  None obl 0
+uhu  None obl 0
+
+a’eta  None root 0
+ajengar  None root 0
+
+ihẽ  None root 0
+a’etake  None obl 0
+amujengar  None obl 0
+
+a’eta  None root 0
+ma’e  None obl 0
+jukwahá  None obl 2
+ihẽke  None obl 2
+pe  None obl 0
+me’ẽ  None obl 0
+
+Oho  None root 0
+uĩ  None obl 0
+tipe  None obl 2
+ã  None obl 0
+
+aʔerehe  None root 0
+tarũ  None obl 0
+neʃĩke  None obl 2
+joʔok  None obl 0
+
+Maiɾ  None root 0
+ɪwɪke  None obl 0
+hapɪ  None obl 0
+
+ihẽ  None root 0
+narãjke  None obl 0
+apirok  None obl 0
+
+ihẽke  None root 0
+aʔar  None root 0
+
+ihẽ  None root 0
+taɁɪnke  None obl 0
+amuɁe  None obl 0
+
+ne  None root 0
+taɁɪnke  None obl 0
+eremuɁe  None obl 0
+
+aʔeke  None root 0
+uʔuta  None obl 0
+pɪpɪhu  None obl 2
+ketĩ  None obl 0
+
+neke  None root 0
+uʔike  None obl 0
+rekarãjta  None obl 0
+
+ihẽ  None root 0
+neke  None root 0
+akutukta  None obl 0
+
+Maírake  None root 0
+wata  None root 0
+
+Maíra  None root 0
+wata  None root 0
+
+Anake  None root 0
+heɁõɁɪ  None root 0
+
+aʔeke  None root 0
+ipɪke  None obl 0
+tukwa  None obl 0
+
+aʔeke  None root 0
+ehake  None obl 0
+tukwatĩ  None obl 0
+
+mɪra  None root 0
+pirerke  None obl 0
+teʔe  None obl 2
+pirawan  None obl 0
+muwak  None obl 0
+
+ihẽke  None root 0
+ajumukahem  None root 0
+
+ne  None root 0
+ihẽ  None obl 0
+miʔuke  None obl 2
+reʔutĩ  None obl 0
+
+apo  None root 0
+pehẽ  None obl 0
+ihẽke  None obl 2
+peharõta  None obl 0
+
+aʔe  None root 0
+ʔokke  None obl 0
+mujã  None obl 0
+
+ihẽ  None root 0
+ʔok  None obl 0
+amujã  None obl 0
+
+ihẽke  None root 0
+uʔi  None obl 0
+akarãj  None obl 0
+
+neke  None root 0
+uʔike  None obl 0
+rekarãjta  None obl 0
+
+Oropo  None root 0
+huʔɨ  None root 0
+pɨhɨk  None obl 0
+
+ajameʔẽ  None root 0
+ke  None obl 0
+Urupe  None obl 2
+jeʔẽha  None obl 2
+mondo  None obl 0
+tĩ  None obl 0
+
+pe  None root 0
+kamarar  None obl 0
+jarusu  None obl 2
+raʔɪr  None obl 0
+raho  None obl 0
+
+Tapiʔir  None root 0
+ujan  None root 0
+
+Tɪapu  None root 0
+riki  None root 0
+
+Tuktuktuk  None root 0
+aja  None obl 0
+riki  None obl 0
+
+Tapiʔir  None root 0
+ujan  None root 0
+oho  None obl 0
+
+Pe  None root 0
+,  None punct 0
+taʔɪrer  None obl 0
+ujan  None obl 0
+
+Pe  None root 0
+,  None punct 0
+ihẽ  None obl 0
+asak  None obl 0
+
+Pe  None root 0
+,  None punct 0
+imãi  None obl 0
+ihĩ  None obl 0
+
+Pe  None root 0
+,  None punct 0
+ihẽ  None obl 0
+ajapi  None obl 0
+indo  None obl 0
+
+Xõru  None root 0
+nixói  None obl 0
+se  None obl 2
+aʔe  None obl 0
+
+Peteĩ  None root 0
+Xõru  None obl 0
+jahy  None obl 2
+kanim  None obl 0
+oho  None obl 0
+
+Arahã  None root 0
+maʔe  None obl 0
+Kaninde  None obl 2
+rehe  None obl 2
+ihẽ  None obl 0
+araho  None obl 0
+
+mahem  None root 0
+arapuha  None obl 0
+himiʔu  None obl 2
+oho  None obl 0
+
+ne  None root 0
+ihẽke  None obl 0
+renupã  None obl 2
+rahã  None obl 2
+ihẽ  None obl 0
+ahota  None obl 0
+
+pɪnupɪnuate  None root 0
+ehe  None obl 0
+je  None obl 0
+
+pe  None root 0
+oho  None obl 0
+je  None obl 2
+tĩ  None obl 0
+
+panduʔɪmanu  None root 0
+taʔɪn  None obl 0
+je  None obl 2
+tĩ  None obl 0
+
+karai  None root 0
+riki  None obl 0
+muka  None obl 2
+mopok  None obl 0
+
+neke  None root 0
+ihẽ  None obl 0
+remupuʔam  None obl 0
+ʔɪ  None obl 0
+
+ihẽ  None root 0
+neke  None obl 0
+apɪhɪk  None obl 2
+ʔɪ  None obl 0
+
+aʔe  None root 0
+ikɪke  None obl 0
+jiʔok  None obl 0
+
+ihẽ  None root 0
+ikɪ  None obl 0
+ajiʔok  None obl 2
+ʔɪ  None obl 0
+
+taʔin  None root 0
+hokwenke  None obl 0
+nupã  None obl 2
+uʔam  None obl 0
+
+Purutuke  None root 0
+ahem  None root 0
+
+Purutu  None root 0
+ahem  None root 0
+
+taʔɪnke  None root 0
+itawa  None obl 0
+imu  None obl 2
+parahɪahɪ  None obl 2
+ipe  None obl 0
+je  None obl 0
+
+netawate  None root 0
+nekeã  None obl 0
+nejɪtɪʔɪmte  None obl 2
+amõ  None obl 0
+ʔɪ  None obl 0
+
+pe  None root 0
+imu  None obl 0
+uʔɪ  None obl 2
+raʔɪr  None obl 2
+mujã  None obl 2
+ipe  None obl 2
+je  None obl 2
+uʔɪ  None obl 2
+sepetu  None obl 0
+ɪrapar  None obl 0
+raʔɪr  None obl 0
+
+pe  None root 0
+aʔi  None obl 0
+ai  None obl 2
+tur  None obl 2
+je  None obl 0
+tĩ  None obl 0
+
+pe  None root 0
+saʔe  None obl 0
+aʔi  None obl 2
+ihái  None obl 2
+ʃirurke  None obl 2
+pirokhũ  None obl 2
+je  None obl 0
+ihai  None obl 0
+aike  None obl 0
+
+ɪmante  None root 0
+pe  None obl 0
+aʔike  None obl 2
+manõ  None obl 0
+je‘ɪ  None obl 0
+
+kujãtake  None root 0
+upa  None obl 0
+mupinim  None obl 0
+
+ko  None root 0
+ihē  None obl 0
+paper  None obl 2
+pinim  None obl 2
+amuwɪr  None obl 2
+nde  None obl 0
+pe  None obl 0
+
+ne  None root 0
+raʔɪr  None obl 0
+ihē  None obl 2
+apɪhɪk  None obl 0
+aʃo  None obl 0
+
+pe  None root 0
+riki  None obl 0
+katar  None obl 2
+ngã  None obl 0
+muhɪk  None obl 0
+
+pe  None root 0
+taramō  None obl 0
+kaitā  None obl 2
+juʔipape  None obl 2
+piʔa  None obl 2
+usak  None obl 2
+oho  None obl 8
+tī  None obl 0
+pɪtuniwe  None obl 0
+
+pahar  None root 0
+pahar  None obl 0
+je  None obl 2
+kɪse  None obl 2
+meʔē  None obl 0
+ngā  None obl 0
+
+ihē  None root 0
+ndeke  None obl 0
+araho  None obl 2
+tar  None obl 2
+katu  None obl 0
+tipe  None obl 0
+
+uʔike  None root 0
+wiraʔi  None obl 0
+take  None obl 2
+uʔu  None obl 0
+ɪm  None obl 0
+
+ihē  None root 0
+rãi  None obl 0
+ihē  None obl 2
+amoīta  None obl 0
+tipe  None obl 0
+
+pāsɪkwer  None root 0
+riki  None obl 0
+matɪr  None obl 2
+uhu  None obl 2
+ngā  None obl 0
+ipe  None obl 0
+
+ihē  None root 0
+ahota  None obl 0
+asak  None obl 0
+
+ko  None root 0
+riki  None obl 0
+ihē  None obl 2
+ahɪk  None obl 2
+ajur  None obl 2
+jarupa  None obl 0
+rehe  None obl 0
+
+pe  None root 0
+ɪ  None obl 0
+rɪmɪʔɪ  None obl 2
+rehe  None obl 2
+riki  None obl 2
+kamarar  None obl 2
+ta  None obl 0
+pirer  None obl 0
+pirā  None obl 0
+

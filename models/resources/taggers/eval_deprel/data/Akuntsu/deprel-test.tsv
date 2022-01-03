@@ -1,0 +1,510 @@
+token gold_tag gold_arc predicted_tag predicted_arc
+ep  None root 0
+koa  None obl 0
+jẽ  None obl 0
+
+apara  None root 0
+tep  None obl 0
+tʃopa  None obl 0
+jẽ  None obl 0
+
+Konibu  None root 0
+apara  None root 0
+koa  None obl 0
+
+kitʃe  None root 0
+aramĩra  None root 0
+
+Tʃaruj  None root 0
+kɨjtpit  None obl 0
+õa  None obl 2
+te  None obl 0
+Kanibõ  None obl 0
+
+pero  None root 0
+okwaj  None obl 0
+tokwaj  None obl 2
+perek  None obl 0
+
+Ariano  None root 0
+teita  None root 0
+kɨrẽ  None obl 0
+
+kitʃe  None root 0
+tawtʃe  None obl 0
+koa  None obl 0
+
+Kani  None root 0
+okɨpi  None obl 0
+kem  None obl 2
+kɨ  None obl 0
+rom  None obl 0
+
+kwako  None root 0
+kɨpek  None obl 0
+koa  None obl 0
+
+pi  None root 0
+maã  None obl 0
+en  None obl 0
+
+Kɨte  None root 0
+babape  None obl 0
+at  None obl 0
+
+Buko  None root 0
+kɨte  None obl 0
+korakora  None obl 2
+mi  None obl 0
+
+ep  None root 0
+koa  None obl 0
+jẽ  None obl 0
+
+kitʃetara  None root 0
+kom  None root 0
+
+Karow  None root 0
+etap  None obl 0
+tek  None obl 0
+iw  None obl 0
+
+teti  None root 0
+pururu  None obl 0
+aj  None obl 2
+ɨmɨmere  None obl 2
+etʃe  None obl 0
+
+kopiba  None root 0
+mõatʃoa  None obl 0
+on  None obl 0
+
+Pura  None root 0
+ikoa  None obl 0
+te  None obl 0
+
+erape  None root 0
+okwata  None root 0
+kom  None obl 0
+
+potʃek  None root 0
+momo  None obl 0
+tejã  None obl 2
+otek  None obl 0
+etʃe  None obl 0
+
+en  None root 0
+ikoromka  None root 0
+
+oetara  None root 0
+otoa  None root 0
+
+kwaẽ  None root 0
+te  None obl 0
+ipitka  None obl 0
+
+erẽ  None root 0
+epo  None obl 0
+tʃoga  None obl 2
+erẽ  None obl 0
+
+jẽ  None root 0
+kem  None obl 0
+kɨ  None obl 2
+jẽ  None obl 2
+kem  None obl 0
+kɨ  None obl 0
+rom  None obl 0
+
+oatap  None root 0
+ãka  None obl 0
+ẽ  None obl 6
+ẽ  None obl 6
+,  None punct 0
+oatap  None obl 0
+õkwa  None obl 0
+on  None obl 0
+
+on  None root 0
+ita  None obl 0
+tʃoktʃok  None obl 0
+
+tʃoktʃok  None root 0
+atiti  None obl 0
+ta  None obl 0
+
+karã  None root 0
+tepna  None root 0
+
+oko  None root 0
+oko  None obl 0
+te  None obl 2
+iw  None obl 0
+
+okwako  None root 0
+ikona  None root 0
+
+erẽ  None root 0
+ekoro  None obl 0
+nõm  None obl 0
+
+kotin  None root 0
+,  None punct 0
+eme  None obl 0
+peka  None obl 0
+
+koro  None root 0
+,  None punct 0
+oerekwa  None root 0
+
+okɨp  None root 0
+atap  None obl 0
+erom  None obl 5
+,  None punct 0
+ke  None obl 0
+kɨp  None obl 0
+atap  None obl 0
+
+Karow  None root 0
+,  None punct 0
+omepirẽpitet  None obl 0
+,  None punct 2
+kwep  None obl 0
+te  None obl 0
+
+ke  None root 0
+Kani  None root 0
+
+koni  None root 0
+tʃe  None obl 0
+okɨp  None obl 2
+etʃe  None obl 0
+
+eboro  None root 0
+etʃe  None root 0
+
+kwako  None root 0
+aj  None obl 0
+ek  None obl 2
+etʃe  None obl 0
+
+ek  None root 0
+etʃe  None obl 0
+imaã  None obl 0
+
+teatap  None root 0
+nĩap  None obl 0
+ete  None obl 0
+
+itoap  None root 0
+atʃoap  None obl 0
+ete  None obl 0
+
+aparapia  None root 0
+tet  None obl 0
+ete  None obl 0
+?  None punct 0
+
+omapi  None root 0
+ete  None root 0
+?  None punct 0
+
+en  None root 0
+baj  None obl 0
+ete  None obl 0
+
+tekwata  None root 0
+Buko  None obl 0
+ete  None obl 0
+
+omepit  None root 0
+tek  None obl 0
+pi  None obl 2
+tʃopa  None obl 0
+on  None obl 0
+
+ojẽ  None root 0
+pi  None root 0
+õkwa  None obl 0
+
+poga  None root 0
+pe  None obl 5
+pi  None obl 5
+,  None punct 0
+ameko  None obl 0
+ikora  None obl 0
+tʃe  None obl 0
+
+okere  None root 0
+atʃi  None obl 0
+pibõ  None obl 0
+
+otʃipap  None root 0
+tabɨtõ  None obl 0
+ka  None obl 0
+
+aparapia  None root 0
+kwamoa  None obl 0
+tekõ  None obl 0
+
+ekõ  None root 0
+ka  None root 0
+
+tebõ  None root 0
+kɨte  None obl 0
+purururu  None obl 5
+,  None punct 0
+kebõ  None obl 0
+nõm  None obl 0
+
+kojõpebõ  None root 0
+kɨjtpit  None obl 0
+at  None obl 0
+kom  None obl 0
+
+erape  None root 0
+tekwata  None obl 4
+,  None punct 0
+kɨrẽbõ  None obl 0
+nõm  None obl 0
+
+pabapebõ  None root 0
+ɨkɨ  None obl 0
+kiramka  None obl 2
+en  None obl 0
+
+kɨpek  None root 0
+atʃiri  None obl 0
+aj  None obl 0
+
+tawtʃeri  None root 0
+mia  None obl 0
+kɨjtpit  None obl 0
+nõm  None obl 0
+
+kɨrẽri  None root 0
+ta  None obl 0
+paja  None obl 2
+,  None punct 0
+kiwkiw  None obl 0
+
+kwena  None root 0
+,  None punct 0
+tawtʃena  None obl 0
+,  None punct 2
+takɨrapna  None obl 3
+,  None punct 2
+tawpɨkna  None obl 14
+,  None punct 2
+tatona  None obl 14
+,  None punct 2
+tato  None obl 3
+kwakwa  None obl 14
+,  None punct 2
+takɨrap  None obl 0
+kwakwa  None obl 0
+
+imen  None root 0
+iõ  None obl 0
+imepit  None obl 2
+menna  None obl 0
+
+ɨkɨ  None root 0
+pekã  None obl 0
+ana  None obl 0
+
+ɨkɨ  None root 0
+ata  None obl 0
+en  None obl 2
+ɨkɨpe  None obl 0
+
+kɨp  None root 0
+tep  None obl 0
+eanampe  None obl 0
+
+tʃarimẽ  None root 0
+okwaj  None obl 0
+,  None punct 0
+tokwajet  None obl 0
+
+mepitet  None root 0
+jẽ  None obl 4
+,  None punct 0
+jẽrom  None obl 0
+tɨrɨ  None obl 0
+
+aparapiat  None root 0
+kwamoa  None obl 0
+oirika  None obl 0
+
+te  None root 0
+aj  None obl 0
+koa  None obl 5
+,  None punct 0
+ajet  None obl 0
+koa  None obl 0
+
+on  None root 0
+ikiramka  None obl 7
+,  None punct 0
+ɨkɨ  None obl 7
+tʃooo  None obl 7
+,  None punct 3
+kɨpitʃik  None obl 0
+ɨkɨt  None obl 0
+ãka  None obl 0
+
+aramĩra  None root 0
+nõm  None obl 0
+,  None punct 0
+aramĩra  None obl 2
+,  None punct 3
+aparapia  None obl 2
+dow  None obl 13
+,  None punct 3
+nako  None obl 2
+ata  None obl 13
+ãka  None obl 13
+,  None punct 3
+ɨkɨ  None obl 2
+ape  None obl 13
+dow  None obl 0
+aparapiat  None obl 0
+
+õjpe  None root 0
+pajapna  None root 0
+
+tʃopa  None root 0
+te  None obl 0
+parãap  None obl 0
+
+tawtʃe  None root 0
+tʃogaap  None root 0
+
+niam  None root 0
+Tʃaruj  None root 0
+imokwa  None obl 0
+
+oiko  None root 0
+tokwa  None obl 0
+ojã  None obl 0
+
+otojẽpitin  None root 0
+ẽ  None obl 0
+tow  None obl 2
+ẽ  None obl 2
+tow  None obl 2
+ebapap  None obl 0
+ɨro  None obl 0
+tojẽpitin  None obl 0
+
+on  None root 0
+opoatʃo  None obl 0
+en  None obl 2
+te  None obl 0
+tʃokĩn  None obl 0
+
+Pupak  None root 0
+kɨjtpitatʃo  None obl 0
+ata  None obl 2
+kom  None obl 0
+
+ke  None root 0
+boroteatʃori  None obl 0
+tʃooo  None obl 5
+,  None punct 0
+jẽrom  None obl 0
+barobaro  None obl 0
+
+itʃoke  None root 0
+tʃop  None obl 0
+en  None obl 0
+
+koa  None root 0
+koa  None obl 0
+tʃoke  None obl 0
+
+Patʃo  None root 0
+Patʃe  None obl 0
+tɨɾɨ  None obl 2
+tajtʃi  None obl 0
+
+Pura  None root 0
+te  None obl 0
+kɨte  None obl 0
+
+en  None nmod 0
+aramĩra  None obl 0
+,  None punct 0
+aramĩra  None obl 0
+baba  None obl 0
+
+erẽ  None root 0
+baba  None obl 0
+,  None punct 0
+oerekwa  None obl 0
+
+on  None root 0
+eni  None obl 0
+erepe  None obl 5
+,  None punct 0
+on  None obl 0
+terepe  None obl 0
+
+kwiro  None root 0
+,  None punct 0
+on  None obl 0
+ikɨta  None obl 0
+
+pea  None root 0
+,  None punct 0
+en  None obl 0
+ipoka  None obl 0
+
+temen  None root 0
+tekɨjt  None obl 0
+ata  None obl 0
+
+en  None root 0
+iata  None obl 0
+ka  None obl 0
+
+kitʃe  None root 0
+kɨp  None obl 0
+boja  None obl 0
+
+enõ  None root 0
+kɨ  None obl 0
+pi  None obl 0
+?  None punct 0
+
+orẽ  None root 0
+oerekwa  None root 0
+
+kirẽbõ  None root 0
+kipera  None root 0
+
+koro  None root 0
+am  None obl 4
+,  None punct 0
+eme  None obl 0
+tetna  None obl 0
+
+en  None nmod 0
+ekem  None obl 0
+kɨ  None obl 2
+pi  None obl 6
+,  None punct 0
+jẽbõ  None obl 0
+nõm  None obl 0
+
+pero  None root 0
+jẽrom  None obl 0
+te  None obl 2
+aj  None obl 0
+
+Pupak  None root 0
+ko  None obl 0
+ata  None obl 2
+kebõ  None obl 0
+
