@@ -4,6 +4,7 @@ from flair.embeddings import FlairEmbeddings, StackedEmbeddings
 from flair.models import SequenceTagger
 from flair.trainers import ModelTrainer
 from flair.visual.training_curves import Plotter
+from helper_functions import make_testset
 
 
 ################################
@@ -45,7 +46,7 @@ tagger = SequenceTagger(hidden_size=512,
 trainer = ModelTrainer(tagger, corpus)
 
 trainer.train('models/resources/taggers/my-upos-3',
-                train_with_dev=True,
+                train_with_test=True,
                 monitor_train=True,
                 monitor_test=True,
                 patience=3,
@@ -53,17 +54,14 @@ trainer.train('models/resources/taggers/my-upos-3',
                 mini_batch_size=32,
                 max_epochs=300)
 
-################################
-### Tagger and Trainer       ###
-################################
-#tagger = SequenceTagger.load('multi-pos')
-tagger = SequenceTagger.load('models/resources/taggers/my-upos-3/best-model.pt')
-
 ###############################
 ### Evaluation              ###
 ###############################
+#tagger = SequenceTagger.load('multi-pos')
+tagger = SequenceTagger.load('models/resources/taggers/my-upos-3/best-model.pt')
+
 trainer = ModelTrainer(tagger, eval_corpus)
 #trainer.fine_tune()
 trainer.final_test('models/resources/taggers/eval_multi_tupi',
-                main_evaluation_metric = ("micro avg", "f1-score"),
+                main_evaluation_metric = ("macro avg", "f1-score"),
                 eval_mini_batch_size = 32)
