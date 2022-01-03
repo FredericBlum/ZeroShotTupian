@@ -1,0 +1,738 @@
+ocorah NOUN 2 nsubj
+wét VERB 0 root
+
+õn PRON 3 nsubj
+cĩm NOUN 3 obj
+yegat VERB 0 root
+yat PART 3 mark
+co PART 3 dep
+
+wirik NOUN 2 compound
+kanã NOUN 0 root
+
+taykit PART 3 advmod
+yawbe NOUN 3 nsubj
+bewĩa VERB 0 root
+
+oyaʔwan VERB 0 root
+aʔkera VERB 1 conj
+kanãp SCONJ 1 mark
+
+Petɨp PROPN 2 nsubj
+petõn VERB 0 root
+iʔke PART 2 advmod
+matet ADV 2 obl
+
+púŋ VERB 0 root
+wa AUX 1 aux
+iʔke PART 1 advmod
+wet AUX 1 aux
+
+maʔwɨt NOUN 3 nsubj
+ip NOUN 3 obj
+ʔɨy VERB 0 root
+matet ADV 3 obl
+cagárokõmnem NUM 2 nummod
+
+yep VERB 0 root
+at AUX 1 aux
+
+məy ADV 8 advmod
+maʔpəy NOUN 8 nsubj
+ŋa PRON 2 clf
+ʔet AUX 8 aux
+at PRON 6 nmod
+chapéu NOUN 8 obj
+káʔ ADJ 6 clf
+tiga VERB 0 root
+ɨgana NOUN 8 obl
+peʔ ADP 9 case
+
+õn PRON 2 nsubj
+amaken VERB 0 root
+
+mãygãra NOUN 4 obj
+roba VERB 4 xcomp
+at AUX 4 aux
+towɨya VERB 0 root
+
+opábe NOUN 3 compound
+cú ADJ 1 amod
+cigá NOUN 0 root
+
+apəy NOUN 4 nsubj
+ŋa PRON 1 clf
+ʔet AUX 4 aux
+topaba VERB 0 root
+mɨy ADV 4 advmod
+mãm PART 4 discourse
+
+nãn PRON 4 obl
+mihmãm ADP 1 case
+ekab AUX 4 aux
+eyaʔwara VERB 0 root
+
+at PRON 3 nsubj
+mãygãra NOUN 3 obj
+wĩn VERB 0 root
+coke PART 3 mark
+
+at PRON 3 nsubj
+mãygãra NOUN 3 obj
+wĩn VERB 0 root
+coke PART 3 advmod
+
+kõm ADV 0 root
+at AUX 1 aux
+iʔkɨy PART 1 discourse
+menə PART 1 discourse
+
+tuŋnoʔ NOUN 0 root
+
+agóaʔpət NOUN 0 root
+aʔnãn AUX 1 cop
+igã PART 1 discourse
+
+maʔwɨt NOUN 0 root
+cú ADJ 1 amod
+
+war PRON 2 nmod
+owẽ NOUN 0 root
+rab PART 2 case
+iʔke PART 2 advmod
+baʔpiktem ADJ 2 advmod
+
+tanaká NOUN 2 compound
+peon NOUN 0 root
+
+aʔcey NOUN 0 root
+ŋa PRON 1 clf
+yat PART 1 mark
+
+maʔpəy NOUN 0 root
+ŋa PRON 1 clf
+para ADJ 1 amod
+ŋa PRON 1 clf
+
+cĩm NOUN 2 obj
+cára VERB 0 root
+iʔke PART 2 advmod
+aʔkay AUX 2 aux
+
+iyãy NOUN 0 root
+gap ADJ 1 clf
+
+kaʔa NOUN 0 root
+ʔaʔtoʔ ADJ 1 clf
+
+oti VERB 0 root
+gán PART 1 dep
+
+Noep PROPN 3 nmod
+at PART 1 case
+tágɨp NOUN 0 root
+
+aʔtóy VERB 0 root
+
+wayo NOUN 2 compound
+naká NOUN 0 root
+bap PART 1 clf
+
+owakán VERB 0 root
+aʔkəy PRON 1 obl
+
+maʔpəy NOUN 3 nsubj
+icɨ NOUN 3 obj
+téy VERB 0 root
+
+aʔken VERB 0 root
+pə PART 1 discourse
+menə PART 1 discourse
+
+agóaʔpət NOUN 3 nsubj
+mãygãra NOUN 3 obj
+roy VERB 0 root
+iʔke PART 3 clf
+
+agóaʔpət NOUN 2 nsubj
+paraʔkət VERB 0 root
+
+ibeon NOUN 0 root
+meʔ ADJ 1 clf
+kĩn ADJ 1 amod
+meʔ ADJ 1 clf
+
+cibekonnoʔ NOUN 0 root
+
+iyõm NOUN 0 root
+ŋõm ADP 1 case
+
+mõm VERB 0 root
+aʔwaʔye AUX 1 aux
+[péŋ NOUN 5 nsubj
+manẽ ADJ 3 amod
+ya VERB 1 dep
+kanãp] SCONJ 5 mark
+
+õn PRON 4 nsubj
+wat PRON 4 obj
+tap PART 2 case
+yaʔti VERB 0 root
+nãn AUX 4 cop
+cúrem ADV 4 advmod
+
+owaʔpan VERB 0 root
+aʔpẽya VERB 1 xcomp
+gán PART 1 dep
+
+ipá NOUN 0 root
+gáʔ ADJ 1 clf
+
+õn PRON 3 nsubj
+ĩriŋ NOUN 3 obj
+macéri VERB 0 root
+gán PART 3 dep
+
+ei NOUN 2 compound
+nãk NOUN 0 root
+káʔ ADJ 2 clf
+cú NOUN 2 amod
+gáʔ ADJ 2 clf
+
+ŋaramãya VERB 0 root
+
+icapop NOUN 0 root
+pɨʔ ADJ 1 clf
+
+wayo NOUN 2 compound
+nak NOUN 0 root
+pap ADJ 2 clf
+cú ADJ 2 amod
+bap ADJ 2 clf
+
+kanãy ADV 4 advmod
+yét PRON 3 nmod
+péŋ NOUN 4 nsubj
+[ʔet] AUX 0 root
+
+aʔken VERB 0 root
+
+cãn NOUN 2 obj
+meʔŋen VERB 0 root
+
+õn PRON 2 nsubj
+aʔtoy VERB 0 root
+
+yét PRON 2 nmod
+maʔpəy NOUN 4 obj
+bat ADJ 2 amod
+toba VERB 0 root
+ẽn PRON 4 appos
+
+pattem ADJ 4 amod
+cúrem ADJ 1 conj
+wat PRON 4 nmod
+owe NOUN 0 root
+tap PART 4 case
+
+owaraʔkət VERB 0 root
+
+kõm ADV 3 advmod
+aʔcat NOUN 3 obj
+menə PART 0 root
+
+tuy VERB 6 obl
+Babesáya PROPN 6 nsubj
+ŋa PRON 2 clf
+ʔet AUX 6 aux
+yate NOUN 6 obj
+taʔwara VERB 0 root
+
+at PRON 4 nsubj
+toat PRON 3 nmod
+makãri NOUN 4 obj
+rakət VERB 0 root
+
+[õn PRON 4 nsubj
+iʔke] PART 1 advmod
+mãygãra NOUN 4 obj
+roy VERB 0 root
+
+maʔɨp NOUN 0 root
+cakot ADJ 1 amod
+
+yate NOUN 2 nmod
+gap NOUN 0 root
+
+ameko NOUN 2 nmod
+ʔora NOUN 0 root
+
+karo NOUN 2 nmod
+nãg NOUN 0 root
+aʔ ADJ 1 clf
+
+taptoba VERB 0 root
+kaʔto PRON 1 appos
+
+cãn NOUN 2 obj
+nakəga VERB 0 root
+
+aʔkun NOUN 0 root
+
+wat PRON 2 nmod
+ip NOUN 3 nmod
+ʔɨya VERB 0 root
+kanã PART 3 dep
+
+wat PRON 2 nmod
+kaʔa NOUN 4 nmod
+ʔa ADJ 2 clf
+pɨk=toʔ NOUN 0 root
+
+maʔpəy NOUN 0 root
+rap PART 1 case
+
+õn PRON 2 nsubj
+aʔwĩn VERB 0 root
+aʔ=to VERB 2 advcl
+kanãp SCONJ 3 mark
+
+wayo NOUN 2 nmod
+nakira NOUN 0 root
+beʔ ADJ 1 clf
+
+maʔpəy NOUN 6 nsubj
+rap PART 1 case
+pat ADJ 1 amod
+tah PART 1 case
+mõm ADV 1 advmod
+ikérat VERB 0 root
+
+at PRON 2 nsubj
+aʔpɨy VERB 0 root
+gahmõmnem ADV 2 advmod
+
+õn PRON 4 nsubj
+er PRON 3 nmod
+iyõm NOUN 4 obj
+noy VERB 0 root
+matet ADV 4 obl
+
+karokérara VERB 0 root
+
+maʔwɨr NOUN 3 nmod
+at PART 1 case
+pewit NOUN 0 root
+, PUNCT 3 punct
+ŋaat PRON 6 nmod
+pewit NOUN 3 appos
+koãm PART 6 mark
+
+owakán VERB 0 root
+matet ADV 1 advmod
+wat PRON 4 nmod
+iyõm NOUN 1 obl
+pihmãm ADP 4 case
+
+pattem ADJ 0 root
+maʔpəy NOUN 1 nsubj
+
+war PRON 2 nmod
+icɨ NOUN 3 obj
+ʔara VERB 0 root
+okay AUX 3 aux
+co PART 3 mark
+
+kanãy ADV 3 advmod
+wep AUX 3 aux
+okera VERB 0 root
+
+ayaʔwan VERB 0 root
+topə PART 1 discourse
+nãnin PART 1 discourse
+
+mɨrɨrɨy NOUN 2 nsubj
+imatẽran VERB 0 root
+nãnin PART 2 advmod
+toʔwa AUX 2 aux
+
+taykit PART 3 advmod
+péŋ NOUN 3 nsubj
+ekɨga VERB 0 root
+
+tẽna ADV 5 advmod
+iʔke PART 5 advmod
+maʔpəy NOUN 5 nsubj
+icɨ NOUN 5 obj
+arap VERB 0 root
+
+cán NOUN 0 root
+nãʔ ADJ 1 clf
+
+iyõm NOUN 0 root
+mãt ADJ 1 amod
+
+nãm NOUN 2 nmod
+naká NOUN 0 root
+
+aʔwét VERB 0 root
+tokõna ADP 1 case
+
+kanãy ADV 3 advmod
+iʔkap AUX 3 aux
+aʔwĩa VERB 0 root
+
+at PRON 2 nsubj
+otoy VERB 0 root
+
+ip NOUN 2 obj
+ʔɨya VERB 0 root
+aʔkay AUX 2 aux
+yahmãm PART 2 advmod
+
+õn PRON 3 nsubj
+ŋa PRON 3 obj
+tati VERB 0 root
+ẽn PRON 5 nsubj
+ŋato VERB 3 dep
+nãt SCONJ 5 mark
+wa AUX 5 aux
+
+móa NOUN 4 obj
+rokõna ADP 4 mark
+ẽn PRON 4 nsubj
+ibeʔtɨn VERB 0 root
+ahyə PART 4 mark
+
+at PRON 2 nsubj
+ecapét VERB 0 root
+ahyə PART 2 mark
+
+pattem ADJ 3 advmod
+ahyə PART 3 mark
+ekerap VERB 0 root
+
+ŋit VERB 0 root
+toʔwa AUX 1 aux
+aʔkay AUX 1 aux
+yahmãm PART 1 advmod
+
+ameko NOUN 2 nsubj
+aʔkɨgat VERB 0 root
+tpu VERB 2 obl
+toʔwa AUX 2 aux
+
+õn PRON 4 nsubj
+wat PRON 3 nmod
+owẽ NOUN 4 obj
+raken VERB 0 root
+
+agóaʔpət NOUN 3 nmod
+at PART 1 case
+tágɨp NOUN 0 root
+
+were NOUN 0 root
+bɨʔ ADJ 1 clf
+
+maʔwit NOUN 4 nsubj
+tah PART 1 case
+mõm ADV 1 advmod
+wɨy VERB 0 root
+
+agóaʔpət NOUN 3 nmod
+at PRON 1 nmod
+kaʔa NOUN 0 root
+ʔaʔ PART 3 clf
+
+tokera VERB 0 root
+at AUX 1 aux
+igã PART 1 discourse
+
+maʔpəy NOUN 2 nsubj
+ken VERB 0 root
+
+maʔpəy NOUN 7 nsubj
+ŋa PRON 1 clf
+ʔet AUX 7 aux
+at PRON 5 nmod
+chapéu NOUN 7 obj
+káʔ ADJ 5 clf
+tiga VERB 0 root
+menə PART 7 mark
+
+kɨgomət PRON 7 dep
+ĩyá NOUN 7 dep
+naká NOUN 2 compound
+mã ADP 2 case
+at PRON 7 nsubj
+yate NOUN 7 obj
+wĩm VERB 0 root
+
+kaʔmep VERB 0 root
+wet AUX 1 aux
+(aʔkəy) ADP 1 obj
+
+at AUX 0 root
+
+oken VERB 0 root
+iʔke PART 1 advmod
+
+õn PRON 2 nsubj
+omãmnoy VERB 0 root
+
+naʔcap NOUN 0 root
+yatep ADJ 1 amod
+
+at PRON 3 nsubj
+mãygãra NOUN 3 obj
+wĩn VERB 0 root
+igã PART 3 mark
+
+Kokõ PROPN 0 root
+rap PART 1 case
+
+owicorop ADJ 2 xcomp
+ken VERB 0 root
+
+maʔpəy NOUN 4 nsubj
+bat ADJ 1 amod
+óra NOUN 4 compound
+wɨy VERB 0 root
+
+kɨganapət ADV 4 advmod
+ahyə PART 1 discourse
+at PRON 4 nsubj
+etop VERB 0 root
+
+maʔwɨt NOUN 2 nsubj
+yaʔwan VERB 0 root
+ŋapik PRON 2 obl
+
+wat PRON 0 root
+tap PART 1 case
+
+wagag NOUN 2 nmod
+naká NOUN 0 root
+
+maʔpəy NOUN 3 nmod
+at PART 1 case
+icɨ NOUN 0 root
+
+kahyep VERB 0 root
+wet AUX 1 aux
+aʔkəy ADP 1 obj
+
+õn PRON 2 nsubj
+aʔtoy VERB 0 root
+nãnin PART 2 discourse
+coke PART 2 discourse
+
+õn PRON 3 nsubj
+ameko NOUN 3 obj
+toy VERB 0 root
+
+onaká NOUN 2 obj
+yakoy VERB 0 root
+wenwen VERB 2 xcomp
+kanãp ADV 3 advmod
+cúrem ADV 3 advmod
+
+õn PRON 5 nsubj
+maʔwɨt NOUN 4 nmod
+at PART 2 nmod
+kaʔa NOUN 5 obj
+toy VERB 0 root
+
+wat PRON 2 nmod
+owẽ NOUN 4 nsubj
+ŋa PRON 2 clf
+kət VERB 0 root
+yat PART 4 mark
+iʔke PART 4 advmod
+menə PART 4 mark
+
+owagon PRON 2 nsubj
+oyakay VERB 0 root
+tokõna ADP 2 case
+
+opábeʔ NOUN 0 root
+, PUNCT 1 punct
+epábeʔ NOUN 1 conj
+koãm PART 3 mark
+
+kõm ADV 4 advmod
+ahyə PART 1 discourse
+mãygãra NOUN 4 nsubj
+etóp VERB 0 root
+
+aoro NOUN 2 nmod
+cagá NOUN 0 root
+
+boi NOUN 3 nsubj
+ʔet AUX 3 aux
+towaʔpara VERB 0 root
+towewĩa VERB 3 conj
+
+cárarem ADJ 0 root
+õn PRON 1 nsubj
+
+maʔteg NOUN 0 root
+iʔke PART 1 advmod
+
+ʔittem ADJ 3 advmod
+õn PRON 3 nsubj
+aʔtop VERB 0 root
+
+õn PRON 3 nsubj
+yaracewag NOUN 3 obj
+yaʔti VERB 0 root
+nãn AUX 3 cop
+
+wayo NOUN 2 compound
+yogá NOUN 0 root
+beʔ ADJ 2 clf
+cára ADJ 2 amod
+beʔ ADJ 2 clf
+
+abeʔnan VERB 0 root
+
+agóaʔpət NOUN 2 nsubj
+amagahmõm VERB 0 root
+nãn AUX 2 cop
+
+at PRON 2 nmod
+kaʔa NOUN 0 root
+ʔa ADJ 2 clf
+peʔ ADP 2 case
+iʔke PART 2 advmod
+wep AUX 7 aux
+aʔtoba VERB 2 ccomp
+
+cĩm NOUN 2 obj
+ʔoa VERB 0 root
+okay AUX 2 aux
+cak ADV 2 obl
+mam X 2 dep
+
+nãn AUX 3 nsubj
+ikap AUX 3 aux
+púŋpúŋ VERB 0 root
+toʔwa AUX 3 aux
+
+õn PRON 2 nsubj
+ŋabean VERB 0 root
+ya SCONJ 5 mark
+ŋa PRON 5 nsubj
+oyaʔti VERB 2 dep
+nãn AUX 5 cop
+
+wayo NOUN 2 nmod
+biru NOUN 0 root
+
+púŋ VERB 0 root
+wet AUX 1 aux
+péŋ NOUN 1 obj
+kəy ADP 1 case
+
+maʔpəy NOUN 0 root
+pat ADJ 1 amod
+ŋanãn AUX 1 cop
+
+nãya NOUN 3 compound
+gap ADJ 1 clf
+peʔwap NOUN 0 root
+paʔpik ADJ 3 amod
+kap ADJ 3 clf
+
+at PRON 2 nmod
+tágɨp NOUN 0 root
+
+ŋa PRON 4 nsubj
+toat PRON 3 nmod
+owẽ NOUN 4 obj
+tanogat VERB 0 root
+
+õn PRON 2 nsubj
+aʔtoy VERB 0 root
+iʔke PART 2 advmod
+at PRON 5 nmod
+kaʔa NOUN 2 obl
+ʔa ADJ 5 clf
+peʔ ADP 5 case
+
+ẽn PRON 4 nsubj
+ekera VERB 4 xcomp
+kanã PART 2 mark
+yaʔti VERB 0 root
+nãn AUX 4 cop
+ahyə PART 4 mark
+
+owakán VERB 0 root
+iʔke PART 1 advmod
+ekəy ADP 1 obl
+
+taraptem ADV 2 advmod
+õn PRON 0 root
+okõna ADP 2 case
+
+at PRON 2 nsubj
+aʔwĩn VERB 0 root
+pə PART 2 advmod
+
+abaʔpan VERB 0 root
+
+ẽn PRON 3 nsubj
+yaw NOUN 3 obj
+rati VERB 0 root
+
+amãn NOUN 4 nsubj
+yat PART 4 mark
+nãnin PART 4 discourse
+tə PART 0 root
+
+cat NOUN 3 compound
+pap ADJ 1 clf
+cakɨ NOUN 0 root
+
+ip NOUN 4 nsubj
+tokõna ADP 1 mark
+õn PRON 4 nsubj
+yɨy VERB 0 root
+
+ʔiriŋ NOUN 2 obj
+nakəga VERB 0 root
+
+nãn PRON 0 root
+ahyə PART 1 discourse
+
+mẽt ADV 3 advmod
+wep AUX 3 aux
+púŋ VERB 0 root
+wa AUX 3 aux
+
+maʔpəy NOUN 3 nmod
+at PRON 1 nmod
+manikap NOUN 0 root
+
+opábe NOUN 2 compound
+cigá NOUN 0 root
+
+icap NOUN 0 root
+pɨʔ ADJ 1 clf
+cára ADJ 1 amod
+bɨʔ ADJ 1 clf
+
+õn PRON 3 nsubj
+iʔke PART 1 advmod
+iket VERB 0 root
+
+mõm VERB 0 root
+at AUX 1 aux
+okəy ADP 1 obj
+
+maʔwɨt NOUN 2 nsubj
+ken VERB 0 root
+
+karam NOUN 2 nmod
+yogá NOUN 0 root
+bɨʔ ADJ 1 clf

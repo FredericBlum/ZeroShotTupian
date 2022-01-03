@@ -1,0 +1,112 @@
+taʔɪnke NOUN 3 nmod
+itawa NOUN 1 amod
+imu NOUN 4 nsubj
+parahɪahɪ VERB 0 root
+ipe PRON 4 iobj
+je PART 1 discourse
+
+ihẽke PRON 3 nsubj
+uʔi NOUN 3 obj
+akarãj VERB 0 root
+
+aʔe PRON 3 nsubj
+ke PART 1 discourse
+uʔuta VERB 0 root
+pɪpɪhu NOUN 3 obj
+ke PART 4 discourse
+tĩ PART 3 discourse
+
+Tuktuktuk NOUN 0 root
+aja ADV 1 advmod
+riki PART 1 discourse
+
+ihẽke PRON 2 nsubj
+aʔar VERB 0 root
+
+a’eta PRON 6 nsubj
+ma’e NOUN 3 nmod
+jukwahá NOUN 6 obj
+ihẽke PRON 6 obl
+pe ADP 4 obl
+me’ẽ VERB 0 root
+
+Tapiʔir NOUN 2 obj
+ujan VERB 0 root
+
+pe CCONJ 5 cc
+kamarar NOUN 5 nsubj
+jarusu NOUN 4 nmod
+raʔɪr NOUN 5 obj
+raho VERB 0 root
+
+Purutuke PROPN 2 nsubj
+ahem VERB 0 root
+
+Arauxu PROPN 2 nsubj
+ahem VERB 0 root
+uhu ADV 2 advmod
+
+panduʔɪmanu VERB 0 root
+taʔɪn NOUN 1 nsubj
+je PART 1 discourse
+tĩ ADV 1 advmod
+
+ɪmante ADV 4 advmod
+pe ADV 4 advmod
+aʔike NOUN 4 nsubj
+manõ VERB 0 root
+je‘ɪ PART 4 discourse
+
+pe ADV 4 advmod
+aʔi NOUN 4 nsubj
+ai NOUN 2 amod
+tur VERB 0 root
+je PART 4 discourse
+tĩ ADV 4 advmod
+
+ihẽ PRON 3 nsubj
+a’etake PRON 3 nsubj
+amujengar VERB 0 root
+
+Pe ADV 4 advmod
+, PUNCT 1 punct
+ihẽ PRON 4 obj
+asak VERB 0 root
+
+pe CCONJ 3 cc
+ɪ NOUN 3 nmod
+rɪmɪʔɪ NOUN 0 root
+rehe ADP 3 obl
+riki ADP 3 case
+kamarar PROPN 8 nmod
+ta PRON 6 nmod
+pirer NOUN 3 obl
+pirā NOUN 8 amod
+
+pahar ADV 5 advmod
+pahar ADV 5 advmod
+je PART 5 discourse
+kɪse NOUN 5 obj
+meʔē VERB 0 root
+ngā PRON 5 nsubj
+
+pe ADV 6 advmod
+saʔe NOUN 3 nmod
+aʔi NOUN 6 nsubj
+ihái NOUN 6 obj
+ʃirurke NOUN 4 amod
+pirokhũ VERB 0 root
+je PART 6 discourse
+ihai NOUN 6 obj
+aike NOUN 8 amod
+
+ihẽ PRON 3 nsubj
+taɁɪnke NOUN 3 obj
+amuɁe VERB 0 root
+
+ihẽke PRON 2 nsubj
+ajumukahem VERB 0 root
+
+ihẽ PRON 3 nsubj
+ʔok NOUN 3 obj
+amujã VERB 0 root

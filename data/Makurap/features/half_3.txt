@@ -1,0 +1,41 @@
+ama NOUN 0 root
+etera VERB 1 parataxis
+kurux VERB 2 xcomp
+
+yeman ADV 3 advmod
+ngot NOUN 3 obj
+kana VERB 0 root
+oen VERB 3 dep
+
+opũãtemwã VERB 0 root
+ota AUX 1 aux
+
+nãpẽrenã ADV 3 advmod
+kito NOUN 3 nsubj
+eapītera VERB 0 root
+pīxe AUX 3 aux
+
+xop DET 2 obj
+ten VERB 0 root
+eya PART 2 dep
+on PRON 2 nsubj
+ke PART 2 discourse
+
+mokat ADV 2 advmod
+etera VERB 0 root
+korop VERB 2 dep
+noa NOUN 3 obl
+pe ADP 4 case
+
+op ADV 2 advmod
+ten VERB 0 root
+eya PART 2 dep
+õn PRON 2 nsubj
+
+Kito NOUN 7 nsubj
+nãkowut NOUN 7 obj
+moat NOUN 4 dep
+xauwet NOUN 2 nmod
+moke NOUN 4 conj
+kepit CCONJ 5 cc
+xagara VERB 0 root

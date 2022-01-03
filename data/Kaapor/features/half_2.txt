@@ -1,5 +1,15 @@
-ihẽke PRON 2 nsubj
-ajumukahem VERB 0 root
+aʔeke PRON 3 nsubj
+ehake NOUN 3 obj
+tukwatĩ VERB 0 root
+
+aʔe PRON 3 nsubj
+ʔokke NOUN 3 obj
+mujã VERB 0 root
+
+ihẽ PRON 3 nsubj
+neke PRON 3 obj
+apɪhɪk VERB 0 root
+ʔɪ AUX 3 aux
 
 aʔe PRON 4 nsubj
 ta PART 1 nmod
@@ -9,155 +19,20 @@ moj NOUN 4 obj
 ke PART 5 nmod
 tĩ PART 5 discourse
 
-neke PRON 3 nsubj
-uʔike NOUN 3 obj
-rekarãjta VERB 0 root
-
-ne PRON 4 nsubj
-ihẽ PRON 3 nmod
-miʔuke NOUN 4 obj
-reʔutĩ VERB 0 root
-
-ihẽke PRON 2 nsubj
-aʔar VERB 0 root
-
-aʔeke PRON 3 nsubj
-ehake NOUN 3 obj
-tukwatĩ VERB 0 root
-
-Arauxu PROPN 2 nsubj
-ahem VERB 0 root
-uhu ADV 2 advmod
-
-pɪnupɪnuate VERB 0 root
-ehe ADP 1 case
-je PART 1 discourse
-
-aʔe PRON 3 nsubj
-ke PART 1 discourse
-uʔuta VERB 0 root
-pɪpɪhu NOUN 3 obj
-ke PART 4 discourse
-tĩ PART 3 discourse
-
-ihẽ PRON 3 nsubj
-a’etake PRON 3 nsubj
-amujengar VERB 0 root
-
-Peteĩ PRON 4 nsubj
-Xõru PROPN 4 nsubj
-jahy NOUN 4 obj
-kanim VERB 0 root
-oho VERB 4 compound
-
-aʔe PRON 3 nsubj
-ʔokke NOUN 3 obj
-mujã VERB 0 root
-
-ɪmante ADV 4 advmod
-pe ADV 4 advmod
-aʔike NOUN 4 nsubj
-manõ VERB 0 root
-je‘ɪ PART 4 discourse
-
-ihẽke PRON 3 nsubj
-uʔi NOUN 3 obj
-akarãj VERB 0 root
-
-kujãtake NOUN 3 nsubj
-upa PART 1 discourse
-mupinim VERB 0 root
-
-Pe ADV 4 advmod
-, PUNCT 1 punct
-ihẽ PRON 4 obj
-asak VERB 0 root
-
-pahar ADV 5 advmod
-pahar ADV 5 advmod
-je PART 5 discourse
-kɪse NOUN 5 obj
-meʔē VERB 0 root
-ngā PRON 5 nsubj
-
-pe ADV 4 advmod
-aʔi NOUN 4 nsubj
-ai NOUN 2 amod
-tur VERB 0 root
-je PART 4 discourse
-tĩ ADV 4 advmod
-
-karai NOUN 4 nsubj
-riki ADV 1 advmod
-muka NOUN 4 obj
-mopok VERB 0 root
-
-Tapiʔir NOUN 2 obj
-ujan VERB 0 root
-
-kakake NOUN 3 obj
-kurumĩ NOUN 3 nsubj
-uʔu VERB 7 advcl
-rahã SCONJ 3 mark
-aʔe PRON 7 nsubj
-hãʔĩmke NOUN 7 obj
-matɪr VERB 0 root
+ne DET 2 nmod
+raʔɪr NOUN 4 obj
+ihē PRON 4 nsubj
+apɪhɪk VERB 0 root
+aʃo AUX 4 aux
 
 taʔin NOUN 3 nsubj
 hokwenke NOUN 3 obj
 nupã VERB 0 root
 uʔam ADV 3 advmod
 
-sawaʔe NOUN 0 root
-panem ADJ 1 amod
-ta PART 1 nmod
-ke PART 1 discourse
-upa DET 1 det
-
-Pe ADV 4 advmod
-, PUNCT 1 punct
-ihẽ PRON 4 nsubj
-ajapi VERB 0 root
-indo NOUN 4 obl
-
-ihẽ PRON 3 nsubj
-ʔok NOUN 3 obj
-amujã VERB 0 root
-
-taʔɪnke NOUN 3 nmod
-itawa NOUN 1 amod
-imu NOUN 4 nsubj
-parahɪahɪ VERB 0 root
-ipe PRON 4 iobj
-je PART 1 discourse
-
-Tuktuktuk NOUN 0 root
-aja ADV 1 advmod
-riki PART 1 discourse
-
-panduʔɪmanu VERB 0 root
-taʔɪn NOUN 1 nsubj
-je PART 1 discourse
-tĩ ADV 1 advmod
-
-Maiɾ PROPN 3 nsubj
-ɪwɪke NOUN 3 obj
-hapɪ VERB 0 root
-
-pe CCONJ 5 cc
-kamarar NOUN 5 nsubj
-jarusu NOUN 4 nmod
-raʔɪr NOUN 5 obj
-raho VERB 0 root
-
-Purutuke PROPN 2 nsubj
-ahem VERB 0 root
-
-ne DET 2 nmod
-raʔɪr NOUN 4 obj
-ihē PRON 4 nsubj
-apɪhɪk VERB 0 root
-aʃo AUX 4 aux
+neke PRON 3 nsubj
+uʔike NOUN 3 obj
+rekarãjta VERB 0 root
 
 taʔɪn NOUN 2 nsubj
 ukwerta VERB 9 advcl
@@ -173,56 +48,68 @@ pe ADV 9 advmod
 iʔaɾpe ADV 13 advmod
 pɪnuhũ VERB 9 conj
 
-pe CCONJ 3 cc
-ɪ NOUN 3 nmod
-rɪmɪʔɪ NOUN 0 root
-rehe ADP 3 obl
-riki ADP 3 case
-kamarar PROPN 8 nmod
-ta PRON 6 nmod
-pirer NOUN 3 obl
-pirā NOUN 8 amod
+aʔe PRON 4 nsubj
+tatu NOUN 4 obj
+ke PART 4 nmod
+uʔuta VERB 0 root
 
-pe ADV 2 advmod
-oho VERB 0 root
-je PART 2 discourse
-tĩ ADV 2 advmod
-
-ihẽ PRON 3 nsubj
-taɁɪnke NOUN 3 obj
-amuɁe VERB 0 root
-
-pe ADV 6 advmod
-saʔe NOUN 3 nmod
-aʔi NOUN 6 nsubj
-ihái NOUN 6 obj
-ʃirurke NOUN 4 amod
-pirokhũ VERB 0 root
-je PART 6 discourse
-ihai NOUN 6 obj
-aike NOUN 8 amod
+ne PRON 4 nsubj
+ihẽ PRON 3 nmod
+miʔuke NOUN 4 obj
+reʔutĩ VERB 0 root
 
 Maíra PROPN 2 nsubj
 wata VERB 0 root
 
 Pe ADV 4 advmod
 , PUNCT 1 punct
+ihẽ PRON 4 nsubj
+ajapi VERB 0 root
+indo NOUN 4 obl
+
+pe ADV 2 advmod
+oho VERB 0 root
+je PART 2 discourse
+tĩ ADV 2 advmod
+
+Peteĩ PRON 4 nsubj
+Xõru PROPN 4 nsubj
+jahy NOUN 4 obj
+kanim VERB 0 root
+oho VERB 4 compound
+
+sawaʔe NOUN 0 root
+panem ADJ 1 amod
+ta PART 1 nmod
+ke PART 1 discourse
+upa DET 1 det
+
+karai NOUN 4 nsubj
+riki ADV 1 advmod
+muka NOUN 4 obj
+mopok VERB 0 root
+
+kakake NOUN 3 obj
+kurumĩ NOUN 3 nsubj
+uʔu VERB 7 advcl
+rahã SCONJ 3 mark
+aʔe PRON 7 nsubj
+hãʔĩmke NOUN 7 obj
+matɪr VERB 0 root
+
+pɪnupɪnuate VERB 0 root
+ehe ADP 1 case
+je PART 1 discourse
+
+kujãtake NOUN 3 nsubj
+upa PART 1 discourse
+mupinim VERB 0 root
+
+Maiɾ PROPN 3 nsubj
+ɪwɪke NOUN 3 obj
+hapɪ VERB 0 root
+
+Pe ADV 4 advmod
+, PUNCT 1 punct
 taʔɪrer NOUN 4 obj
 ujan VERB 0 root
-
-a’eta PRON 6 nsubj
-ma’e NOUN 3 nmod
-jukwahá NOUN 6 obj
-ihẽke PRON 6 obl
-pe ADP 4 obl
-me’ẽ VERB 0 root
-
-ihẽ PRON 3 nsubj
-neke PRON 3 obj
-apɪhɪk VERB 0 root
-ʔɪ AUX 3 aux
-
-aʔe PRON 4 nsubj
-tatu NOUN 4 obj
-ke PART 4 nmod
-uʔuta VERB 0 root
