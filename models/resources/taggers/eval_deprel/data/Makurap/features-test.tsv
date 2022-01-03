@@ -1,8 +1,8 @@
 token gold_tag gold_arc predicted_tag predicted_arc
 Kito  None root 0
 nãkowut  None root 0
-moat  None obj 0
-xauwet  None root 0
+moat  None root 0
+xauwet  None advmod 0
 moke  None root 0
 kepit  None root 0
 xagara  None root 0
@@ -10,33 +10,33 @@ xagara  None root 0
 ngot  None root 0
 xiaret  None root 0
 
-yãn  None root 0
+yãn  None nsubj 0
 oxepngoret  None root 0
-oerã  None root 0
-kepit  None root 0
+oerã  None aux 0
+kepit  None aux 0
 eta  None root 0
 on  None root 0
-toa  None root 0
+toa  None aux 0
 
 xeke  None root 0
 xēke  None root 0
-ke  None root 0
+ke  None discourse 0
 
 etera  None root 0
-kurux  None root 0
-amang  None root 0
-ngot  None root 0
+kurux  None advmod 0
+amang  None obl 0
+ngot  None aux 0
 keya  None root 0
-pīxe  None root 0
+pīxe  None aux 0
 
 mokat  None root 0
 etera  None root 0
-kurux  None root 0
-amang  None root 0
+kurux  None obl 0
+amang  None discourse 0
 pīxe  None root 0
 
-ã  None root 0
-en  None root 0
+ã  None discourse 0
+en  None nsubj 0
 emẽ  None root 0
 xop  None root 0
 nẽnẽkaret  None root 0
@@ -50,54 +50,54 @@ keya  None root 0
 opũãtemwã  None root 0
 ota  None root 0
 
-mokat  None root 0
+mokat  None nsubj 0
 etera  None root 0
-kurux  None root 0
+kurux  None aux 0
 
 nãpẽrenã  None root 0
 kito  None root 0
 eapītera  None root 0
 pīxe  None root 0
 
-op  None root 0
-ten  None root 0
+op  None nsubj 0
+ten  None discourse 0
 eya  None root 0
-õn  None root 0
+õn  None advmod 0
 
-xop  None root 0
+xop  None discourse 0
 ten  None root 0
 eya  None root 0
 on  None root 0
-ke  None root 0
+ke  None discourse 0
 
-mawo  None root 0
+mawo  None nsubj 0
 papīknga  None root 0
-mokat  None root 0
-etyenkuax  None root 0
-nã  None root 0
+mokat  None obl 0
+etyenkuax  None obl 0
+nã  None discourse 0
 xoknga  None root 0
-xok  None root 0
+xok  None clf 0
 
 yeman  None root 0
-ngot  None root 0
-kana  None root 0
+ngot  None aux 0
+kana  None discourse 0
 oen  None root 0
 
 mokat  None root 0
 etera  None root 0
-korop  None root 0
-noa  None aux 0
-pe  None root 0
+korop  None aux 0
+noa  None discourse 0
+pe  None discourse 0
 
-ama  None root 0
+ama  None nsubj 0
 ngot  None root 0
-xiaret  None root 0
+xiaret  None discourse 0
 eya  None root 0
-kurux  None root 0
+kurux  None discourse 0
 amang  None root 0
-ngot  None root 0
+ngot  None aux 0
 oen  None root 0
-wimõ  None root 0
+wimõ  None aux 0
 nitēt  None root 0
 
 arimot  None root 0
@@ -105,74 +105,74 @@ urot  None root 0
 arimot  None root 0
 urot  None root 0
 
-xop  None root 0
+xop  None discourse 0
 koa  None root 0
 ten  None root 0
-nã  None root 0
+nã  None discourse 0
 peka  None root 0
 
-i  None root 0
+i  None discourse 0
 eya  None root 0
 on  None root 0
-wet  None root 0
+wet  None aux 0
 toa  None root 0
-ke  None root 0
+ke  None discourse 0
 pit  None root 0
 
 mokat  None root 0
-peitõã  None root 0
+peitõã  None advmod 0
 etera  None root 0
-amang  None root 0
+amang  None advmod 0
 korop  None root 0
-kux  None root 0
-me  None root 0
+kux  None aux 0
+me  None discourse 0
 
 wotye  None root 0
 pukpuga  None root 0
-pit  None root 0
+pit  None clf 0
 
 putorot  None root 0
-xēke  None root 0
-ke  None root 0
+xēke  None discourse 0
+ke  None discourse 0
 xēt  None root 0
 
 etera  None root 0
-korop  None root 0
+korop  None aux 0
 
 kito  None root 0
 moke  None root 0
-xiat  None root 0
+xiat  None nsubj 0
 ekuwaora  None root 0
-kepit  None root 0
+kepit  None aux 0
 pukpuga  None root 0
-õn  None root 0
+õn  None advmod 0
 
 kepit  None root 0
 eya  None root 0
 õn  None nsubj 0
 waokatmõ  None root 0
 papiknga  None root 0
-ke  None root 0
+ke  None discourse 0
 
-ama  None root 0
+ama  None nsubj 0
 etera  None root 0
-kurux  None root 0
+kurux  None aux 0
 
 xop  None root 0
-me  None root 0
+me  None discourse 0
 pote  None root 0
 worawiget  None root 0
-xop  None root 0
-me  None root 0
+xop  None aux 0
+me  None discourse 0
 
-kux  None root 0
+kux  None advmod 0
 kixa  None root 0
-ngarap  None root 0
+ngarap  None discourse 0
 ,  None punct 0
-pit  None root 0
+pit  None advmod 0
 
-põrom  None root 0
-toa  None root 0
+põrom  None discourse 0
+toa  None discourse 0
 ,  None punct 0
-pit  None root 0
+pit  None advmod 0
 

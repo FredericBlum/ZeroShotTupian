@@ -1,0 +1,953 @@
+token gold_tag gold_arc predicted_tag predicted_arc
+Ajojot  None root 0
+jekobe  None root 0
+be  None discourse 0
+cum  None root 0
+
+jexat  None nsubj 0
+o'tobuxik  None root 0
+
+Tit  None nsubj 0
+tak  None root 0
+o'titobuxik  None root 0
+tu  None discourse 0
+?  None punct 0
+
+Ka'ũma  None discourse 0
+!  None punct 0
+
+Ka'ũma  None discourse 0
+!  None punct 0
+
+Tawe  None nsubj 0
+oajẽm  None root 0
+iku  None root 0
+be  None discourse 0
+
+Jexat  None nsubj 0
+o'tobuxik  None root 0
+iku  None aux 0
+be  None discourse 0
+
+Xa  None discourse 0
+iku  None root 0
+xe  None discourse 0
+
+Tawe  None discourse 0
+oajẽm  None root 0
+xa  None discourse 0
+xe  None discourse 0
+
+Tawe  None nsubj 0
+oajẽm  None root 0
+ka  None aux 0
+xe  None discourse 0
+
+Toxaw  None nsubj 0
+oajẽm  None root 0
+ka  None aux 0
+be  None discourse 0
+
+Toxaw  None root 0
+dak  None advmod 0
+jexat  None root 0
+o'tobuxik  None root 0
+
+Toxaw  None nsubj 0
+tawe  None discourse 0
+o'tobuxik  None root 0
+
+Xa  None discourse 0
+xe  None discourse 0
+tawe  None discourse 0
+o'tobuxik  None root 0
+
+Ikibit  None root 0
+awi  None root 0
+kay  None clf 0
+
+Awawa  None root 0
+oajẽm  None root 0
+ika  None root 0
+be  None discourse 0
+,  None punct 0
+jekibit  None root 0
+ka  None aux 0
+be  None discourse 0
+
+Awi  None discourse 0
+awawa  None root 0
+bubut  None root 0
+
+Ite  None discourse 0
+awi  None discourse 0
+o'tobuxik  None root 0
+
+Awawa  None nsubj 0
+o'tobuxik  None root 0
+
+Toxaw  None root 0
+tawe  None discourse 0
+o'tobuxik  None root 0
+tu  None discourse 0
+?  None punct 0
+
+Abu  None nsubj 0
+tawe  None discourse 0
+o'tobuxik  None root 0
+?  None punct 0
+
+Abu  None nsubj 0
+awi  None discourse 0
+o'tobuxik  None root 0
+?  None punct 0
+
+Abu  None nsubj 0
+jexat  None root 0
+o'tobuxik  None root 0
+?  None punct 0
+
+Abu  None root 0
+awi  None root 0
+kay  None root 0
+?  None punct 0
+
+Abu  None nsubj 0
+o'titobuxik  None root 0
+?  None punct 0
+
+Awawa  None root 0
+awi  None nsubj 0
+o'tobuxik  None root 0
+jekibit  None aux 0
+ka  None aux 0
+be  None discourse 0
+
+Oexe  None discourse 0
+awawa  None root 0
+
+Toxaw  None root 0
+dak  None aux 0
+oexe  None root 0
+
+Awawa  None root 0
+tawe  None root 0
+kay  None clf 0
+
+Toxaw  None nsubj 0
+tawe  None discourse 0
+o'tobuxik  None root 0
+
+Jexat  None nsubj 0
+o'tobuxik  None root 0
+
+Tawe  None discourse 0
+ixat  None discourse 0
+,  None punct 0
+toxaw  None root 0
+xat  None advmod 0
+
+Awawa  None root 0
+ixaxet  None root 0
+
+Awawa  None root 0
+ixiwe  None root 0
+kay  None root 0
+
+Ixiwe  None root 0
+ako  None discourse 0
+xe  None discourse 0
+
+Awawa  None root 0
+cum  None root 0
+ako  None discourse 0
+xe  None discourse 0
+
+Ixiwe  None nsubj 0
+o'tobuxik  None root 0
+ako  None discourse 0
+xe  None discourse 0
+
+cum  None advmod 0
+jeku  None root 0
+be  None discourse 0
+
+Awawa  None root 0
+jeku  None root 0
+be  None discourse 0
+oajẽm  None root 0
+
+Akoba  None root 0
+iku  None root 0
+be  None discourse 0
+opop  None root 0
+.  None punct 0
+
+Tit  None nsubj 0
+tak  None root 0
+iku  None root 0
+be  None discourse 0
+opop  None root 0
+,  None punct 0
+awawa  None advmod 0
+ku  None discourse 0
+be  None discourse 0
+.  None punct 0
+
+Ixi  None root 0
+uk  None root 0
+'a  None discourse 0
+be  None discourse 0
+
+I'it  None nsubj 0
+tak  None root 0
+uk'a  None root 0
+be  None mark 0
+
+Toxaw  None nsubj 0
+oexe  None root 0
+
+I'it  None root 0
+wa  None discourse 0
+du  None discourse 0
+?  None punct 0
+
+Toxaw  None nsubj 0
+i'it  None nsubj 0
+o'tobuxik  None root 0
+uk  None obl 0
+'a  None discourse 0
+be  None discourse 0
+.  None punct 0
+
+I'it  None nsubj 0
+ixet  None root 0
+
+Ixi  None root 0
+wa'e  None nsubj 0
+kug̃  None root 0
+
+Wa'e  None discourse 0
+ibubut  None root 0
+,  None punct 0
+ixi  None discourse 0
+bubut  None root 0
+
+Wexik  None root 0
+'a  None discourse 0
+kake  None root 0
+wa'e  None discourse 0
+be  None discourse 0
+
+Ixat  None nsubj 0
+'a  None discourse 0
+kake  None discourse 0
+wa'e  None discourse 0
+be  None discourse 0
+,  None punct 0
+uk'a  None root 0
+be  None mark 0
+
+Wa'e  None nsubj 0
+uk'a  None root 0
+be  None discourse 0
+opop  None root 0
+
+puybit  None root 0
+ka'ũmg̃u  None root 0
+o'e  None root 0
+
+ag̃okatkat  None root 0
+o'ju  None root 0
+puybit  None discourse 0
+aokam  None root 0
+
+oexexe  None root 0
+ip  None aux 0
+uk  None root 0
+'a  None aux 0
+be  None discourse 0
+puybit  None root 0
+kukug̃  None root 0
+
+Daje  None discourse 0
+ade  None discourse 0
+o'yaoka  None root 0
+ip  None discourse 0
+pima  None root 0
+,  None punct 0
+puybit  None obl 0
+kuka  None obl 0
+o'e  None discourse 0
+ade  None discourse 0
+
+Soat  None nsubj 0
+bekitkit  None root 0
+ibeg̃beg̃  None root 0
+o'e  None obl 0
+ade  None discourse 0
+puybit  None root 0
+puye  None discourse 0
+
+Kabiam  None root 0
+doa  None root 0
+iba'orere  None root 0
+jedoti  None root 0
+mug̃ẽg̃ẽm  None root 0
+daxa  None root 0
+xe  None discourse 0
+
+Karosakaybu  None root 0
+daje  None discourse 0
+o'g̃uju  None root 0
+,  None punct 0
+tacup  None advmod 0
+puye  None discourse 0
+ip  None discourse 0
+.  None punct 0
+
+pariwat  None root 0
+tomuwã  None advmod 0
+buje  None root 0
+juy  None root 0
+puybit  None advmod 0
+ejomõg̃  None root 0
+mesa  None root 0
+jeje  None discourse 0
+
+kabido  None root 0
+xixi  None root 6
+ajẽm  None discourse 0
+puje  None discourse 0
+soat  None root 0
+o'at  None root 0
+
+taxit  None root 0
+mẽnpit  None root 0
+ikukpin'ũm  None root 0
+osunuy  None root 0
+ag̃okatkat  None obl 0
+pe  None discourse 0
+,  None punct 0
+i'e'em  None discourse 0
+ajojoyũ'ũm'ũm  None root 0
+
+wexik'a  None root 0
+kake  None discourse 0
+ixi  None root 0
+duk'a  None root 0
+be  None discourse 0
+
+oxi  None root 0
+uk  None root 0
+‘a  None discourse 0
+be  None discourse 0
+
+wida  None root 0
+ayacat  None advmod 0
+o’yaoka  None root 0
+Katõ  None aux 0
+be  None discourse 0
+
+wetabut  None root 0
+pe  None discourse 0
+obure  None root 0
+Wida  None discourse 0
+o'yaoka  None root 0
+
+bekicat  None root 0
+o'akõm  None obl 0
+wetabut  None root 0
+pe  None discourse 0
+
+ẽn  None nsubj 0
+eg̃ũm  None root 0
+kise  None root 0
+ayacat  None aux 0
+pe  None discourse 0
+
+puy  None root 0
+bu  None aux 0
+bekicat  None root 0
+o'joa  None root 0
+
+õn  None nsubj 0
+bekicat  None root 0
+ojoaat  None obj 0
+puy  None aux 0
+bu  None discourse 0
+be  None discourse 0
+
+wida  None root 0
+ayacat'ũm  None aux 0
+o'yaoka  None root 0
+
+wekobe  None root 0
+wita  None root 0
+'a  None aux 0
+kay  None discourse 0
+og̃uyjayjay  None root 0
+
+oxi  None root 0
+eg̃ru  None advmod 0
+ipi  None root 0
+tẽg̃  None root 0
+
+o'xet  None root 0
+io'e  None discourse 0
+xiri  None root 0
+xe  None discourse 0
+
+ixe  None discourse 0
+iẽn  None root 0
+'o'om  None root 0
+kaw  None discourse 0
+ta  None discourse 0
+eju  None root 0
+
+puybit  None root 0
+kug̃  None root 0
+o'ju  None root 0
+bio  None discourse 0
+kug̃  None discourse 0
+,  None punct 0
+dapsem  None discourse 0
+kug̃  None root 0
+
+xa  None discourse 0
+diot  None root 0
+pe  None discourse 0
+o'xet  None root 0
+
+wexey  None root 0
+bi  None aux 0
+wida  None root 0
+biopak  None aux 0
+o'yaoka  None root 0
+
+kat  None advmod 0
+pujeat  None nsubj 0
+ocemudirem  None root 0
+
+ag̃okatkat  None root 0
+bio  None root 3
+dakat  None root 0
+puje  None advmod 0
+bekicat  None root 0
+o'suẽn'o  None root 0
+
+ey'at  None nsubj 0
+pima  None root 0
+ocewayway  None root 0
+jĩjã  None root 0
+
+ixem  None advmod 0
+õn  None nsubj 0
+wetaybit  None root 0
+g̃u  None discourse 0
+ojojo  None root 3
+g̃u  None aux 0
+ma  None aux 0
+buye  None root 0
+
+ag̃okatkat  None root 0
+bio  None discourse 0
+aoka  None root 0
+buje  None aux 0
+wida  None root 0
+o'jenapõn  None root 0
+
+ejot  None root 0
+cuy  None discourse 0
+,  None punct 0
+muto'o  None discourse 0
+bima  None discourse 8
+,  None punct 0
+kaxi  None advmod 0
+wuyase  None discourse 0
+bima  None root 0
+
+pug̃  None root 0
+em  None advmod 0
+o'e  None discourse 0
+jeebay  None root 0
+be  None clf 0
+
+jeorokap  None root 0
+wap  None clf 0
+ip  None discourse 0
+o'ju  None root 0
+
+ag̃okatkat  None root 0
+itakomã  None obl 0
+jijã  None discourse 0
+o'e  None discourse 0
+wida  None root 0
+buxim  None root 0
+
+kobe  None root 0
+xixi  None discourse 0
+badi  None root 0
+wi  None discourse 0
+o'jebuk  None root 0
+
+Kog̃ũnpi  None root 0
+be  None advmod 0
+okapap  None root 0
+kabuk  None aux 0
+opop  None root 0
+
+Jeorog̃  None root 0
+ip  None advmod 0
+cum  None root 0
+kapusu  None root 0
+daje  None advmod 0
+aoka  None root 0
+ojuyiap  None root 0
+tag̃  None root 0
+
+Kapusu  None root 0
+dapsem  None discourse 0
+o'yaokaiat  None root 0
+g̃oku  None discourse 0
+,  None punct 0
+Katõ  None advmod 0
+bewi  None root 0
+oajẽmiat  None root 0
+
+Soat  None nsubj 0
+ip  None discourse 0
+o'g̃u'ũm  None root 0
+iwipat  None root 0
+
+wamõat  None nsubj 0
+ag̃okatkat  None nsubj 0
+o'sutayxida  None root 0
+
+õn  None nsubj 0
+ag̃okatkat  None root 0
+o'sutayxidaat  None root 0
+wamõat  None obl 0
+pe  None discourse 0
+
+ag̃okatkat  None root 0
+o'jetayxidaat  None root 0
+wamõat  None obl 0
+pe  None discourse 0
+
+wida  None root 0
+o'jeaokaat  None obl 0
+ag̃okatkat  None obl 0
+pe  None discourse 0
+
+ceebay  None root 0
+icokcok  None root 0
+cicã  None aux 0
+idip  None root 0
+cicã  None root 0
+buye  None advmod 0
+bekicat  None root 0
+yadappek  None root 0
+
+ipi  None root 0
+teg̃  None root 0
+kaxi  None advmod 0
+bima  None root 0
+o'taxadig̃curug̃  None root 0
+
+Kapusu  None root 0
+oajẽm  None nsubj 0
+owag̃o  None root 0
+duk'a  None obl 0
+be  None discourse 0
+
+Ag̃okatkat  None nsubj 0
+acã  None discourse 0
+cũg̃'i  None root 0
+osunuy  None root 0
+sũg̃tabi  None aux 8
+eju  None aux 0
+g̃axĩn  None root 0
+ma  None aux 0
+oajẽm  None root 0
+puye  None root 0
+
+Wuy'adapmude'o'onapti  None root 0
+dak  None aux 0
+otibu  None root 0
+
+Eg̃uycũg̃  None root 0
+pimap  None discourse 0
+,  None punct 0
+ecepe  None advmod 0
+eg̃rũ  None root 0
+be  None aux 0
+
+Puybit  None discourse 0
+aoka'ũm  None root 0
+pima  None discourse 0
+,  None punct 0
+irere  None discourse 0
+jeedop  None root 0
+ip  None aux 0
+
+Kapusu  None root 0
+dapsem  None advmod 0
+o'yaokaiat  None root 0
+g̃oku  None root 0
+
+xepxep  None root 0
+pa  None discourse 0
+akoba  None root 0
+o'suba'o  None root 0
+
+xek  None root 0
+pu  None discourse 0
+o'subumõg̃mõg̃  None root 0
+wita  None root 0
+'a  None discourse 0
+be  None discourse 0
+
+Uk'a  None root 0
+yadip  None aux 0
+o'yanuy  None root 0
+
+kapedi  None root 0
+tidaxip  None root 0
+
+ebubut  None root 0
+pupum  None obl 0
+tu  None discourse 0
+epesot  None root 0
+?  None punct 0
+
+Ag̃okatkayũ  None root 0
+axĩma  None advmod 0
+muyuhum  None root 0
+idibi  None root 0
+tag̃  None root 0
+.  None punct 0
+Axĩma  None advmod 0
+muyuhum  None root 0
+ip  None discourse 0
+pig̃am  None root 0
+.  None punct 0
+
+Ag̃okatkayũ  None root 0
+soat  None root 0
+axima  None root 0
+muyuhum  None root 0
+:  None punct 0
+wasũbu  None discourse 0
+,  None punct 11
+potip  None discourse 0
+,  None punct 0
+potiprip  None discourse 0
+,  None punct 0
+pakodup  None discourse 0
+,  None punct 0
+pirãydup  None discourse 10
+,  None punct 11
+pirũm  None discourse 0
+.  None punct 0
+
+Idib  None nsubj 0
+dag̃  None root 0
+soat  None advmod 0
+axima  None root 0
+.  None punct 16
+Pũg̃pũg̃  None root 0
+axima  None root 0
+yopit  None obl 0
+ma  None discourse 0
+.  None punct 0
+Pirãydup  None discourse 0
+,  None punct 0
+pirũm  None advmod 0
+yopit  None obl 0
+ma  None discourse 0
+.  None punct 0
+
+Pũg̃pũg̃  None root 0
+axima  None root 0
+yobog̃  None root 0
+ma  None discourse 0
+.  None punct 0
+Wasũbu  None discourse 0
+,  None punct 0
+potip  None discourse 0
+,  None punct 0
+yobog̃ayũ  None discourse 0
+.  None punct 0
+Ag̃okatkayũ  None obl 0
+axima  None obl 0
+muyuhum  None root 0
+pig̃am  None discourse 0
+.  None punct 0
+
+Wara'at  None nsubj 0
+axima  None root 0
+yobog̃bug̃  None discourse 0
+.  None punct 0
+Potiprit  None discourse 0
+,  None punct 0
+pakodup  None advmod 0
+yobog̃bug̃yũ  None discourse 0
+.  None punct 0
+Pig̃ãm  None advmod 0
+axima  None root 0
+muyhum  None root 0
+ip  None discourse 0
+.  None punct 0
+
+Ibu  None root 0
+buje  None discourse 0
+,  None punct 0
+tujuxexem  None advmod 0
+ip  None discourse 0
+uk’a  None root 0
+be  None discourse 0
+ayacayũ  None root 0
+be  None discourse 0
+,  None punct 0
+ta  None discourse 0
+am  None discourse 0
+.  None punct 0
+
+Yopĩutayũ  None nsubj 0
+muekabekbeg̃  None root 0
+ip  None advmod 0
+uktup  None root 0
+pe  None discourse 0
+.  None punct 13
+Ayacayũ  None advmod 0
+yopĩutayũ  None root 0
+muekabekbeg̃  None root 0
+ip  None obl 0
+uktup  None root 4
+pe  None discourse 5
+.  None punct 0
+
+G̃ebuje  None discourse 0
+,  None punct 0
+yobog̃ayũ  None advmod 0
+wuywuy  None advmod 0
+ip  None discourse 0
+baseya'a  None root 0
+be  None discourse 29
+.  None punct 30
+Yobog̃ayũ  None discourse 31
+uk  None root 0
+kakam  None obl 17
+ip  None discourse 18
+e'em  None discourse 0
+.  None punct 30
+Axima  None discourse 31
+uk  None root 10
+kakam  None advmod 0
+ip  None discourse 0
+pima  None root 0
+,  None punct 0
+ixep  None advmod 0
+uk'ug̃  None root 0
+ip  None discourse 0
+.  None punct 0
+Ixep  None discourse 31
+muekabekbeg̃  None root 0
+ip  None advmod 0
+uktup  None root 6
+pe  None discourse 0
+.  None punct 0
+Ade  None discourse 0
+axima  None root 0
+uk  None root 0
+kakam  None obl 0
+ip  None discourse 0
+.  None punct 30
+Ixep  None advmod 0
+muekabekbeg̃  None root 0
+ip  None aux 0
+uktup  None root 0
+pe  None discourse 0
+,  None punct 0
+ayacayũ  None root 0
+.  None punct 0
+
+Axima  None root 0
+yobog̃at  None root 0
+mupurukpurug̃  None root 0
+ip  None discourse 0
+iwi  None discourse 0
+be  None discourse 0
+daxa  None root 0
+ase  None discourse 0
+.  None punct 0
+Ade  None discourse 19
+bima  None root 20
+,  None punct 0
+ade  None advmod 0
+imupurukpurug̃  None root 0
+ip  None discourse 32
+iwi  None root 0
+be  None discourse 0
+.  None punct 0
+Ade  None discourse 0
+bima  None root 0
+,  None punct 0
+yobog̃  None advmod 0
+iwi  None discourse 15
+e'em  None discourse 0
+.  None punct 0
+Ade  None discourse 0
+ũm  None discourse 19
+pima  None discourse 0
+,  None punct 0
+iwi  None discourse 13
+yopit  None root 0
+ma  None aux 0
+e'em  None discourse 0
+.  None punct 0
+
+Ade  None discourse 0
+tao  None discourse 0
+bima  None root 0
+,  None punct 0
+tao  None discourse 0
+uk'ug̃  None root 0
+ip  None discourse 0
+iwi  None discourse 0
+xe  None discourse 0
+.  None punct 0
+
+Tao  None root 0
+uk'ug̃  None root 0
+iwi  None discourse 0
+xe  None discourse 0
+ãõyũ  None root 0
+.  None punct 14
+Tao  None discourse 0
+uk'ug̃  None root 0
+ip  None discourse 0
+ayacayũ  None root 0
+,  None punct 0
+axima  None obl 0
+dao  None discourse 0
+.  None punct 0
+
+Tao  None root 0
+uk  None root 0
+puje  None discourse 0
+,  None punct 0
+imõg̃mõg̃  None advmod 0
+ip  None discourse 0
+iwi  None discourse 0
+be  None discourse 0
+daxa  None root 0
+ase  None discourse 0
+.  None punct 0
+Tao  None advmod 0
+uk  None root 0
+puje  None obl 0
+axima  None root 0
+tatam  None root 0
+ip  None root 0
+uktup  None root 0
+pe  None discourse 0
+.  None punct 0
+
+Iwi  None root 0
+be  None discourse 0
+imõg̃mõg̃  None root 0
+ip  None discourse 0
+ta  None root 0
+am  None discourse 0
+.  None punct 0
+Tao  None root 0
+uk  None root 0
+puje  None aux 0
+axima  None root 0
+nõm  None discourse 0
+e'em  None discourse 0
+ip  None discourse 0
+.  None punct 31
+Axima  None root 0
+tatam  None root 0
+ip  None aux 0
+uktup  None root 0
+pe  None discourse 0
+.  None punct 31
+Iwi  None root 0
+be  None advmod 0
+imõg̃mõg̃  None root 0
+ip  None aux 0
+uktup  None root 0
+pe  None discourse 0
+axima  None root 0
+mupuruk  None root 0
+am  None discourse 0
+.  None punct 0
+
+Tõm  None nsubj 0
+e'em  None discourse 0
+ip  None discourse 0
+.  None punct 0
+Ẽ  None discourse 0
+be  None discourse 0
+ijukjug̃  None root 0
+ip  None discourse 0
+.  None punct 0
+Axima  None advmod 0
+nõm  None advmod 0
+cukcug̃  None root 0
+ip  None aux 0
+ẽ  None discourse 0
+be  None discourse 0
+,  None punct 0
+wãẽn  None advmod 0
+tuk'a  None discourse 0
+be  None discourse 0
+.  None punct 9
+Tõm  None advmod 0
+cuk  None advmod 0
+puje  None discourse 0
+,  None punct 0
+tõm  None advmod 0
+ipriprim  None root 0
+pag̃eiro'a  None obl 0
+be  None discourse 0
+.  None punct 0
+
+Tõm  None nsubj 0
+karaw  None nsubj 0
+bima  None root 0
+,  None punct 0
+tõm  None advmod 0
+pi  None advmod 0
+riprim  None root 0
+pag̃eiro’a  None root 0
+be  None discourse 0
+.  None punct 33
+Tõm  None discourse 0
+pi  None root 0
+rip  None discourse 0
+puje  None discourse 0
+,  None punct 0
+iwi  None discourse 0
+be  None discourse 0
+imõg̃mõg̃  None root 0
+ip  None aux 0
+daxa  None root 0
+ase  None root 29
+tõm  None discourse 0
+mudaxip  None root 0
+am  None discourse 0
+.  None punct 0
+Imõg̃mõg̃  None root 0
+ip  None advmod 0
+daxa  None root 20
+ase  None root 0
+tõm  None discourse 0
+mukaraw  None root 23
+am  None discourse 0
+.  None punct 0
+

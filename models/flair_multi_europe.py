@@ -55,4 +55,5 @@ trainer = ModelTrainer(tagger, corpus)
 # 7. run training
 trainer.train('resources/taggers/upos-multi',
               train_with_dev=True,
-              max_epochs=150)
+              max_epochs=150,
+              mini_batch_size=32)

@@ -1,29 +1,29 @@
 token gold_tag gold_arc predicted_tag predicted_arc
-ep  None root 0
+ep  None nsubj 0
 koa  None root 0
-jẽ  None root 0
+jẽ  None discourse 0
 
 apara  None root 0
 tep  None root 0
 tʃopa  None root 0
-jẽ  None root 0
+jẽ  None discourse 0
 
 Konibu  None root 0
 apara  None root 0
 koa  None root 0
 
-kitʃe  None root 0
+kitʃe  None nsubj 0
 aramĩra  None root 0
 
 Tʃaruj  None root 0
-kɨjtpit  None root 0
-õa  None root 0
-te  None root 0
+kɨjtpit  None advmod 0
+õa  None discourse 0
+te  None discourse 0
 Kanibõ  None root 0
 
 pero  None root 0
 okwaj  None root 0
-tokwaj  None root 0
+tokwaj  None aux 0
 perek  None root 0
 
 Ariano  None root 0
@@ -36,8 +36,8 @@ koa  None root 0
 
 Kani  None root 0
 okɨpi  None root 0
-kem  None root 0
-kɨ  None root 0
+kem  None advmod 0
+kɨ  None discourse 0
 rom  None root 0
 
 kwako  None root 0
@@ -45,7 +45,7 @@ kɨpek  None root 0
 koa  None root 0
 
 pi  None root 0
-maã  None root 0
+maã  None discourse 0
 en  None root 0
 
 Kɨte  None root 0
@@ -53,25 +53,25 @@ babape  None root 0
 at  None root 0
 
 Buko  None root 0
-kɨte  None root 0
+kɨte  None obl 0
 korakora  None root 0
-mi  None root 0
+mi  None discourse 0
 
-ep  None root 0
+ep  None nsubj 0
 koa  None root 0
-jẽ  None root 0
+jẽ  None discourse 0
 
 kitʃetara  None root 0
-kom  None root 0
+kom  None aux 0
 
-Karow  None root 0
+Karow  None nsubj 0
 etap  None root 0
 tek  None root 0
 iw  None root 0
 
-teti  None root 0
+teti  None discourse 0
 pururu  None root 0
-aj  None root 0
+aj  None advmod 0
 ɨmɨmere  None root 0
 etʃe  None root 0
 
@@ -81,64 +81,64 @@ on  None root 0
 
 Pura  None root 0
 ikoa  None root 0
-te  None case 0
+te  None discourse 0
 
 erape  None root 0
 okwata  None root 0
-kom  None root 0
+kom  None aux 0
 
 potʃek  None root 0
-momo  None root 0
-tejã  None root 0
+momo  None advmod 0
+tejã  None discourse 0
 otek  None root 0
 etʃe  None root 0
 
-en  None root 0
+en  None nsubj 0
 ikoromka  None root 0
 
 oetara  None root 0
 otoa  None root 0
 
-kwaẽ  None root 0
+kwaẽ  None discourse 0
 te  None discourse 0
 ipitka  None root 0
 
 erẽ  None root 0
-epo  None root 0
+epo  None discourse 0
 tʃoga  None root 0
 erẽ  None root 0
 
 jẽ  None root 0
 kem  None root 0
-kɨ  None root 0
-jẽ  None root 0
+kɨ  None advmod 0
+jẽ  None discourse 0
 kem  None root 0
 kɨ  None root 0
 rom  None root 0
 
 oatap  None root 0
 ãka  None root 0
-ẽ  None root 0
-ẽ  None root 0
+ẽ  None discourse 0
+ẽ  None discourse 0
 ,  None punct 0
-oatap  None root 0
-õkwa  None root 0
+oatap  None advmod 0
+õkwa  None aux 0
 on  None root 0
 
-on  None root 0
+on  None nsubj 0
 ita  None root 0
 tʃoktʃok  None root 0
 
 tʃoktʃok  None root 0
 atiti  None root 0
-ta  None root 0
+ta  None discourse 0
 
-karã  None root 0
+karã  None nsubj 0
 tepna  None root 0
 
 oko  None root 0
 oko  None root 0
-te  None advmod 0
+te  None discourse 0
 iw  None root 0
 
 okwako  None root 0
@@ -146,37 +146,37 @@ ikona  None root 0
 
 erẽ  None root 0
 ekoro  None root 0
-nõm  None root 0
+nõm  None aux 0
 
 kotin  None root 0
 ,  None punct 0
-eme  None root 0
+eme  None discourse 0
 peka  None root 0
 
-koro  None root 0
+koro  None discourse 0
 ,  None punct 0
 oerekwa  None root 0
 
 okɨp  None root 0
-atap  None root 0
-erom  None root 0
+atap  None advmod 0
+erom  None discourse 0
 ,  None punct 0
-ke  None root 0
-kɨp  None root 0
+ke  None advmod 0
+kɨp  None aux 0
 atap  None root 0
 
-Karow  None root 0
+Karow  None discourse 0
 ,  None punct 0
-omepirẽpitet  None root 0
+omepirẽpitet  None discourse 0
 ,  None punct 0
-kwep  None root 0
+kwep  None discourse 0
 te  None discourse 0
 
-ke  None root 0
+ke  None discourse 0
 Kani  None root 0
 
 koni  None root 0
-tʃe  None root 0
+tʃe  None discourse 0
 okɨp  None root 0
 etʃe  None root 0
 
@@ -184,7 +184,7 @@ eboro  None root 0
 etʃe  None root 0
 
 kwako  None root 0
-aj  None root 0
+aj  None nsubj 0
 ek  None root 0
 etʃe  None root 0
 
@@ -193,80 +193,80 @@ etʃe  None root 0
 imaã  None root 0
 
 teatap  None root 0
-nĩap  None root 0
+nĩap  None discourse 0
 ete  None root 0
 
-itoap  None root 0
+itoap  None nsubj 0
 atʃoap  None root 0
 ete  None root 0
 
 aparapia  None root 0
-tet  None root 0
-ete  None root 0
+tet  None discourse 0
+ete  None discourse 0
 ?  None punct 0
 
 omapi  None root 0
 ete  None root 0
 ?  None punct 0
 
-en  None root 0
+en  None nsubj 0
 baj  None root 0
 ete  None root 0
 
 tekwata  None root 0
-Buko  None root 0
+Buko  None discourse 0
 ete  None root 0
 
 omepit  None root 0
-tek  None root 0
-pi  None root 0
+tek  None aux 0
+pi  None discourse 0
 tʃopa  None root 0
 on  None root 0
 
 ojẽ  None root 0
-pi  None root 0
+pi  None discourse 0
 õkwa  None root 0
 
 poga  None root 0
-pe  None case 0
-pi  None root 0
+pe  None discourse 0
+pi  None discourse 0
 ,  None punct 0
-ameko  None root 0
-ikora  None root 0
-tʃe  None root 0
+ameko  None advmod 0
+ikora  None discourse 0
+tʃe  None discourse 0
 
 okere  None root 0
 atʃi  None root 0
-pibõ  None root 0
+pibõ  None aux 0
 
 otʃipap  None root 0
 tabɨtõ  None root 0
-ka  None root 0
+ka  None aux 0
 
 aparapia  None root 0
-kwamoa  None root 0
+kwamoa  None aux 0
 tekõ  None root 0
 
 ekõ  None root 0
 ka  None root 0
 
-tebõ  None root 0
-kɨte  None root 0
+tebõ  None discourse 0
+kɨte  None discourse 0
 purururu  None root 0
 ,  None punct 0
-kebõ  None root 0
-nõm  None root 0
+kebõ  None obl 0
+nõm  None advmod 0
 
 kojõpebõ  None root 0
-kɨjtpit  None root 0
-at  None aux 0
-kom  None root 0
+kɨjtpit  None advmod 0
+at  None obl 0
+kom  None discourse 0
 
-erape  None root 0
+erape  None nsubj 0
 tekwata  None root 0
 ,  None punct 0
-kɨrẽbõ  None root 0
-nõm  None root 0
+kɨrẽbõ  None obl 0
+nõm  None advmod 0
 
 pabapebõ  None root 0
 ɨkɨ  None root 0
@@ -275,37 +275,37 @@ en  None root 0
 
 kɨpek  None root 0
 atʃiri  None root 0
-aj  None root 0
+aj  None aux 0
 
 tawtʃeri  None root 0
 mia  None root 0
 kɨjtpit  None root 0
-nõm  None root 0
+nõm  None discourse 0
 
 kɨrẽri  None root 0
-ta  None root 0
-paja  None root 0
+ta  None discourse 0
+paja  None discourse 0
 ,  None punct 0
 kiwkiw  None root 0
 
-kwena  None root 0
+kwena  None discourse 0
 ,  None punct 0
-tawtʃena  None root 0
+tawtʃena  None discourse 0
+,  None punct 6
+takɨrapna  None discourse 0
 ,  None punct 0
-takɨrapna  None root 0
-,  None punct 8
-tawpɨkna  None root 12
+tawpɨkna  None discourse 0
 ,  None punct 0
-tatona  None root 0
+tatona  None discourse 7
 ,  None punct 0
-tato  None root 0
-kwakwa  None root 0
-,  None punct 8
-takɨrap  None root 0
-kwakwa  None root 0
+tato  None obl 0
+kwakwa  None discourse 0
+,  None punct 0
+takɨrap  None discourse 0
+kwakwa  None aux 0
 
 imen  None root 0
-iõ  None root 0
+iõ  None discourse 0
 imepit  None root 0
 menna  None root 0
 
@@ -322,66 +322,66 @@ kɨp  None root 0
 tep  None root 0
 eanampe  None root 0
 
-tʃarimẽ  None root 0
+tʃarimẽ  None discourse 0
 okwaj  None root 0
 ,  None punct 0
-tokwajet  None root 0
+tokwajet  None obl 0
 
-mepitet  None root 0
-jẽ  None root 0
+mepitet  None nsubj 0
+jẽ  None discourse 0
 ,  None punct 0
-jẽrom  None root 0
-tɨrɨ  None root 0
+jẽrom  None discourse 0
+tɨrɨ  None discourse 0
 
 aparapiat  None root 0
-kwamoa  None root 0
+kwamoa  None aux 0
 oirika  None root 0
 
-te  None root 0
-aj  None root 0
-koa  None root 0
+te  None discourse 0
+aj  None discourse 0
+koa  None discourse 0
 ,  None punct 0
-ajet  None root 0
-koa  None root 0
+ajet  None discourse 0
+koa  None discourse 0
 
-on  None root 0
+on  None nsubj 0
 ikiramka  None root 0
 ,  None punct 0
-ɨkɨ  None root 0
-tʃooo  None root 0
+ɨkɨ  None advmod 0
+tʃooo  None discourse 0
 ,  None punct 0
-kɨpitʃik  None root 0
-ɨkɨt  None root 0
+kɨpitʃik  None advmod 0
+ɨkɨt  None aux 0
 ãka  None root 0
 
 aramĩra  None root 0
-nõm  None root 0
+nõm  None discourse 0
 ,  None punct 0
-aramĩra  None root 0
+aramĩra  None discourse 0
 ,  None punct 0
-aparapia  None root 0
-dow  None root 0
+aparapia  None advmod 0
+dow  None discourse 0
 ,  None punct 0
-nako  None root 13
-ata  None root 0
-ãka  None root 0
-,  None punct 0
-ɨkɨ  None root 0
-ape  None advmod 0
+nako  None advmod 0
+ata  None discourse 0
+ãka  None discourse 0
+,  None punct 8
+ɨkɨ  None advmod 9
+ape  None discourse 0
 dow  None root 0
 aparapiat  None root 0
 
-õjpe  None root 0
+õjpe  None nsubj 0
 pajapna  None root 0
 
 tʃopa  None root 0
-te  None aux 0
+te  None discourse 0
 parãap  None root 0
 
 tawtʃe  None root 0
 tʃogaap  None root 0
 
-niam  None root 0
+niam  None nsubj 0
 Tʃaruj  None root 0
 imokwa  None root 0
 
@@ -390,121 +390,121 @@ tokwa  None root 0
 ojã  None root 0
 
 otojẽpitin  None root 0
-ẽ  None root 0
-tow  None root 0
 ẽ  None aux 0
 tow  None root 0
+ẽ  None discourse 0
+tow  None root 0
 ebapap  None root 0
-ɨro  None root 0
+ɨro  None aux 0
 tojẽpitin  None root 0
 
-on  None root 0
+on  None nsubj 0
 opoatʃo  None root 0
-en  None root 0
-te  None aux 0
+en  None discourse 0
+te  None discourse 0
 tʃokĩn  None root 0
 
-Pupak  None root 0
+Pupak  None nsubj 0
 kɨjtpitatʃo  None root 0
 ata  None root 0
-kom  None root 0
+kom  None aux 0
 
-ke  None root 0
+ke  None discourse 0
 boroteatʃori  None root 0
-tʃooo  None root 0
+tʃooo  None discourse 0
 ,  None punct 0
-jẽrom  None root 0
-barobaro  None root 0
+jẽrom  None discourse 0
+barobaro  None advmod 0
 
 itʃoke  None root 0
-tʃop  None root 0
+tʃop  None discourse 0
 en  None root 0
 
-koa  None root 0
+koa  None discourse 0
 koa  None root 0
 tʃoke  None root 0
 
 Patʃo  None root 0
 Patʃe  None root 0
-tɨɾɨ  None root 0
+tɨɾɨ  None discourse 0
 tajtʃi  None root 0
 
 Pura  None root 0
-te  None advmod 0
+te  None discourse 0
 kɨte  None root 0
 
-en  None root 0
+en  None nsubj 0
 aramĩra  None root 0
 ,  None punct 0
-aramĩra  None root 0
-baba  None root 0
+aramĩra  None discourse 0
+baba  None aux 0
 
 erẽ  None root 0
-baba  None root 0
+baba  None discourse 0
 ,  None punct 0
 oerekwa  None root 0
 
-on  None root 0
-eni  None root 0
-erepe  None root 0
+on  None nsubj 0
+eni  None discourse 0
+erepe  None discourse 0
 ,  None punct 0
 on  None root 0
-terepe  None root 0
+terepe  None discourse 0
 
-kwiro  None root 0
+kwiro  None discourse 0
 ,  None punct 0
-on  None root 0
+on  None discourse 0
 ikɨta  None root 0
 
-pea  None root 0
+pea  None discourse 0
 ,  None punct 0
-en  None root 0
+en  None discourse 0
 ipoka  None root 0
 
 temen  None root 0
-tekɨjt  None root 0
+tekɨjt  None discourse 0
 ata  None root 0
 
-en  None root 0
+en  None nsubj 0
 iata  None root 0
-ka  None root 0
+ka  None aux 0
 
 kitʃe  None root 0
-kɨp  None root 0
+kɨp  None aux 0
 boja  None root 0
 
 enõ  None root 0
-kɨ  None root 0
-pi  None root 0
+kɨ  None discourse 0
+pi  None discourse 0
 ?  None punct 0
 
 orẽ  None root 0
 oerekwa  None root 0
 
-kirẽbõ  None root 0
+kirẽbõ  None discourse 0
 kipera  None root 0
 
-koro  None root 0
-am  None root 0
+koro  None discourse 0
+am  None discourse 0
 ,  None punct 0
-eme  None root 0
+eme  None discourse 0
 tetna  None root 0
 
-en  None root 0
+en  None nsubj 0
 ekem  None root 0
-kɨ  None root 0
-pi  None root 0
+kɨ  None discourse 0
+pi  None discourse 0
 ,  None punct 0
-jẽbõ  None root 0
-nõm  None root 0
+jẽbõ  None discourse 0
+nõm  None advmod 0
 
-pero  None root 0
+pero  None nsubj 0
 jẽrom  None root 0
-te  None aux 0
+te  None discourse 0
 aj  None root 0
 
 Pupak  None root 0
-ko  None root 0
+ko  None discourse 0
 ata  None root 0
 kebõ  None root 0
 

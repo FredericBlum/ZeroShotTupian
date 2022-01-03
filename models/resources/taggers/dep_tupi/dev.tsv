@@ -1,0 +1,978 @@
+token gold_tag gold_arc predicted_tag predicted_arc
+Taʔe mark None discourse 0
+amàno ccomp None discourse 0
+eteaʔi advmod None root 0
+ihe nsubj None discourse 0
+xe discourse None discourse 0
+, punct None punct 0
+iʔi root None root 0
+muaʔu advmod None advmod 0
+zekaipo advmod None obl 0
+wanupe iobj None discourse 0
+. punct None punct 0
+
+Oho root None root 0
+umaʔe obj None advmod 0
+iputukapa advcl None discourse 0
+aʔe discourse None discourse 0
+. punct None punct 0
+
+Wexak root None root 0
+Fábio nsubj None nsubj 0
+Márcia obj None root 0
+
+Mon root None root 0
+aipo discourse None root 0
+
+Uzekok root None root 0
+ɨwɨok obl None obl 0
+rehe case None discourse 0
+
+Uhem root None root 13
+oho dep None discourse 0
+aʔepe obl None discourse 0
+wà discourse None discourse 0
+kurɨ discourse None discourse 0
+, punct None punct 0
+tuaʔu nsubj None discourse 0
+iʔi conj None root 0
+tɨkɨʔɨrpe obl None obl 0
+eziwà ccomp None discourse 0
+neno discourse None discourse 0
+tɨ discourse None discourse 0
+iʔi conj None root 0
+izupe iobj None discourse 0
+
+Maʔe obl None nsubj 0
+mehe case None discourse 0
+te discourse None discourse 0
+uzɨwɨr root None root 0
+wà discourse None discourse 0
+
+Umeʔe root None root 0
+Mari nsubj None nsubj 0
+pino obl None root 0
+rehe case None discourse 0
+. punct None punct 0
+
+Oho root None root 0
+hoko nsubj None advmod 0
+kaʔape obl None discourse 0
+kurɨ discourse None discourse 0
+. punct None punct 0
+
+Wekar root None root 0
+teko nsubj None root 0
+kaʔa obj None obl 0
+te discourse None discourse 0
+oho dep None discourse 0
+. punct None punct 0
+
+Uhem root None root 0
+Zuze nsubj None nsubj 0
+oho dep None root 0
+kope obl None discourse 0
+kurɨ discourse None discourse 0
+. punct None punct 0
+
+Heta root None root 0
+aguza nsubj None advmod 0
+Zuze nmod None nsubj 0
+ràpuz obl None root 0
+me case None discourse 0
+wà discourse None discourse 0
+. punct None punct 0
+
+Ɨrɨhupe obl None discourse 0
+heta root None root 0
+maʔe nsubj None advmod 0
+putɨr nmod None root 0
+teteaʔu advmod None root 0
+iʔaromo advmod None discourse 0
+. punct None punct 0
+
+Nuzapo root None nsubj 0
+pixik obl None root 0
+kwaw advmod None advmod 0
+agwer det None root 0
+maʔe obj None nsubj 0
+amo det None nsubj 0
+ae discourse None discourse 0
+awape obl None discourse 0
+
+Naxigatu root None root 0
+kwaw advmod None discourse 0
+kurɨ discourse None discourse 0
+. punct None punct 0
+
+Uwagaw root None root 0
+ipɨ obj None advmod 0
+zekaipo advmod None discourse 0
+uʔɨw nmod None root 0
+wanehe obl None discourse 0
+, punct None punct 0
+nomomorkwaw conj None root 0
+imono dep None obl 0
+wanupe obl None discourse 0
+rihi discourse None discourse 0
+. punct None punct 0
+
+Tɨkɨʔɨr nsubj None root 0
+oho root None root 0
+zekaipo advmod None advmod 0
+hapuz obl None root 0
+me case None discourse 0
+, punct None punct 0
+hehe obl None discourse 0
+puranupa advcl None root 0
+: punct None punct 0
+
+Heta root None root 0
+muhu nsubj None nsubj 0
+aʔepe obl None discourse 0
+no discourse None discourse 0
+. punct None punct 0
+
+Pepaʔu obl None nsubj 0
+uʔar root None root 0
+oho dep None discourse 0
+, punct None punct 0
+naʔe discourse None discourse 0
+umàno parataxis None discourse 0
+kurɨ discourse None discourse 0
+. punct None punct 0
+
+Umeʔe root None root 0
+akara obl None nsubj 0
+rehe case None discourse 0
+. punct None punct 0
+
+Nan root None discourse 0
+, punct None punct 0
+pe obl None discourse 0
+rupi case None discourse 0
+wata advcl None root 0
+mehe mark None discourse 0
+wenu parataxis None discourse 0
+aʔe nsubj None discourse 0
+. punct None punct 0
+
+Uhɨk root None root 0
+hokope obl None obl 0
+kurɨ discourse None discourse 0
+. punct None punct 0
+
+Zuze nsubj None nsubj 0
+ukwaw root None root 0
+kwaxi nmod None advmod 0
+remiʔu obj None discourse 0
+aʔe discourse None discourse 0
+. punct None punct 0
+
+Oho root None root 0
+kara obl None advmod 0
+ipiaromo case None discourse 0
+. punct None punct 0
+
+Nan discourse None discourse 0
+, punct None punct 0
+nuhemkwaw root None root 0
+ur dep None obl 0
+rihi discourse None discourse 0
+ʔɨ discourse None discourse 0
+. punct None punct 0
+
+Erur ccomp None root 0
+maʔe obj None nsubj 0
+ihewe obl None root 0
+awaxi nmod None nsubj 0
+hɨruràm obl None discourse 0
+romo case None discourse 0
+rihi discourse None discourse 0
+, punct None punct 0
+iʔi root None root 0
+Zuze nsubj None nsubj 0
+Karipe obl None discourse 0
+. punct None punct 0
+
+Umeʔe root None root 0
+Zuze nmod None nsubj 0
+reimaw obl None nsubj 0
+rehe case None discourse 0
+, punct None punct 0
+zapukaz appos None advmod 0
+aʔɨr nmod None obl 0
+rehe case None discourse 0
+. punct None punct 0
+
+Kwarahɨ nsubj None discourse 0
+haku root None discourse 0
+. punct None punct 0
+
+Aikwez det None nsubj 0
+heraʔɨr root None nsubj 0
+aʔe discourse None discourse 0
+
+Tueharupi obl None discourse 0
+upɨta root None root 0
+uhɨ obl None root 0
+ipɨr case None discourse 0
+. punct None punct 0
+
+Aze mark None discourse 0
+zekaipo advmod None advmod 0
+uixe advcl None root 0
+oho dep None root 0
+uhem root None root 0
+zeiakpo advmod None advmod 0
+amo det None root 0
+tawpe obl None discourse 0
+. punct None punct 0
+
+Pɨhaw obl None discourse 0
+heta root None root 0
+teteaʔu advmod None advmod 0
+miar obl None obl 0
+izupe case None discourse 0
+kaʔape obl None discourse 0
+. punct None punct 0
+
+Uʔu root None root 0
+paku nsubj None discourse 0
+no discourse None discourse 0
+. punct None punct 0
+
+Umeʔe root None root 0
+amo det None advmod 0
+pira obl None root 0
+rehe case None discourse 0
+aʔe discourse None discourse 0
+no discourse None discourse 0
+. punct None punct 0
+
+Aha root None root 0
+kaʔi obj None nsubj 0
+hexakpa advcl None root 0
+kurɨ discourse None discourse 0
+
+Ou discourse None discourse 0
+kwa discourse None discourse 0
+, punct None punct 0
+heremɨhar ccomp None discourse 0
+, punct None punct 0
+iʔi root None root 0
+Zuze nsubj None nsubj 0
+uhapukazta advcl None root 0
+. punct None punct 0
+
+Ezur ccomp None discourse 0
+xe discourse None discourse 0
+rihi discourse None discourse 0
+, punct None punct 0
+iʔi root None root 0
+Zuze nsubj None nsubj 0
+wazɨrpe obl None discourse 0
+, punct None punct 0
+Karipe appos None discourse 0
+. punct None punct 0
+
+Tu nsubj None discourse 0
+upɨhɨk root None root 0
+mukaw obj None obl 0
+. punct None punct 0
+
+Zuze nmod None nsubj 0
+hemireko nsubj None nsubj 0
+aʔe discourse None discourse 0
+, punct None punct 0
+Mari root None root 0
+her obl None nsubj 0
+romo case None discourse 0
+aʔe discourse None discourse 0
+. punct None punct 0
+
+Ikuʔegwepe obl None discourse 0
+ur root None root 0
+Zuze nmod None nsubj 0
+ihɨ nsubj None discourse 0
+aʔepe obl None discourse 0
+, punct None punct 0
+migaw obj None root 0
+iapopa advcl None discourse 0
+. punct None punct 0
+
+Pakuri root None discourse 0
+ruʔu discourse None discourse 0
+. punct None punct 0
+
+Ikatu ccomp None root 0
+ʔɨ discourse None discourse 0
+, punct None punct 0
+iʔi root None root 0
+umenpe obl None discourse 0
+. punct None punct 0
+
+Uʔu root None root 0
+kurɨ discourse None discourse 0
+. punct None punct 0
+
+Tɨkɨʔɨr nmod None root 0
+ipɨʔa nsubj None root 0
+ukwaw root None root 0
+tuwe advmod None discourse 0
+maʔe nmod None nsubj 0
+uzeapomaʔekwer obj None root 0
+izupe iobj None discourse 0
+aʔe discourse None discourse 0
+. punct None punct 0
+
+Hehɨ nsubj None discourse 0
+umur root None root 0
+maʔe nmod None advmod 0
+roʔokwer obj None discourse 0
+hawe obl None discourse 0
+. punct None punct 0
+
+Aʔeà nsubj None discourse 0
+uur root None root 0
+kwez discourse None advmod 0
+hehɨ obl None root 0
+iruramo case None root 0
+
+Wekar root None root 0
+teko nsubj None advmod 0
+wakari obj None root 0
+ita obl None obl 0
+rehe case None discourse 0
+
+Heta root None root 0
+toʔotoʔom nsubj None obl 0
+pe obl None discourse 0
+rupi case None discourse 0
+no discourse None discourse 0
+. punct None punct 0
+
+Uxiʔu root None root 0
+kurɨ discourse None discourse 0
+, punct None punct 0
+nan advmod None discourse 0
+kwehe advmod None discourse 0
+tete advmod None discourse 0
+uzuka parataxis None root 0
+. punct None punct 0
+
+Zapukaz nsubj None root 0
+uʔu root None root 0
+awaxi obj None nsubj 0
+aʔe discourse None discourse 0
+no discourse None discourse 0
+. punct None punct 0
+
+karo nmod None nsubj 0
+yogá root None root 0
+ʔaʔ clf None clf 0
+
+cĩm obj None advmod 0
+ʔoa root None nsubj 0
+okay aux None root 0
+cak obl None root 0
+mam dep None aux 0
+
+caropaptem root None nsubj 0
+gaʔto nsubj None root 0
+garo=kõna clf None root 0
+
+onaká obj None root 0
+yakoy root None aux 0
+wenwen xcomp None root 0
+kanãp advmod None aux 0
+cúrem advmod None aux 0
+
+mõm root None root 0
+aʔwaʔye aux None advmod 0
+[péŋ nsubj None nsubj 0
+manẽ amod None root 0
+ya dep None aux 0
+kanãp] mark None root 0
+
+inãw obj None discourse 0
+beʔnogat root None root 0
+
+ŋaʔóa root None root 0
+
+ameko nmod None nsubj 0
+ʔora root None root 0
+
+wayo nmod None nsubj 0
+biru root None root 0
+
+púŋ root None root 0
+wa aux None aux 0
+okay aux None root 0
+yahmãm advmod None aux 0
+
+weriweri root None root 0
+at aux None nsubj 0
+cahwíptem advmod None root 0
+
+púŋpúŋ root None root 0
+wet aux None advmod 0
+péŋ obj None discourse 0
+kəy case None root 0
+
+karo root None root 0
+ʔaʔ clf None clf 0
+
+məy advmod None advmod 0
+mõm root None root 0
+aʔwaʔye aux None root 0
+yét det None discourse 0
+kanã advmod None discourse 0
+cit obj None discourse 0
+toba conj None root 0
+
+tẽna advmod None root 0
+iʔke advmod None advmod 0
+maʔpəy nsubj None nsubj 0
+icɨ obj None discourse 0
+arap root None root 0
+
+móa obj None root 0
+rokõna mark None advmod 0
+ẽn nsubj None nsubj 0
+ibeʔtɨn root None root 0
+ahyə mark None discourse 0
+
+õn nsubj None nsubj 0
+púŋ obl None root 0
+kanã mark None discourse 0
+yaʔti root None root 0
+nãn aux None mark 0
+
+õn nsubj None nsubj 0
+ip obj None obj 0
+ʔɨy root None root 0
+okõna mark None aux 0
+
+wayo nmod None nsubj 0
+nakira root None root 0
+beʔ clf None clf 0
+
+kɨganapət advmod None root 0
+ahyə discourse None discourse 0
+at nsubj None discourse 0
+etop root None root 0
+
+ewét root None root 0
+yahmãm advmod None advmod 0
+
+péŋ nsubj None nsubj 0
+aʔwĩn ccomp None root 0
+menə root None discourse 0
+aket discourse None discourse 0
+
+yate nmod None root 0
+gap root None clf 0
+
+õn nsubj None nsubj 0
+maʔwɨt nmod None nsubj 0
+at nmod None nsubj 0
+kaʔa obj None obj 0
+toy root None root 0
+
+Kokõ root None root 0
+rap case None clf 0
+
+pattem amod None root 0
+cúrem conj None advmod 0
+wat nmod None nsubj 0
+owe root None root 0
+tap case None root 0
+
+yét nmod None advmod 0
+maʔpəy obj None nsubj 0
+bat amod None aux 0
+toba root None root 0
+ẽn appos None aux 0
+
+õn nsubj None nsubj 0
+aʔtigat root None root 0
+
+abeʔŋət root None root 0
+
+toyãy obj None root 0
+ʔa clf None aux 0
+binõ compound None root 0
+ya root None root 0
+
+maʔpəy nmod None nsubj 0
+at case None nsubj 0
+icɨ root None root 0
+
+ayowan root None root 0
+yahmãm advmod None advmod 0
+
+mɨy amod None root 0
+mãm discourse None advmod 0
+péŋ root None discourse 0
+ʔep aux None root 0
+toʔwa aux None aux 0
+
+púŋ xcomp None root 0
+ahyə mark None discourse 0
+ekay root None root 0
+eʔa aux None root 0
+
+wayo compound None nsubj 0
+yogá root None root 0
+beʔ clf None clf 0
+cára amod None root 0
+beʔ clf None clf 0
+
+naʔcap root None root 0
+yatep amod None clf 0
+
+pattem root None root 0
+maʔpəy nsubj None root 0
+
+oyaʔwan root None root 0
+aʔkera conj None aux 0
+kanãp mark None aux 0
+
+cĩm obj None discourse 0
+cára root None root 0
+iʔke advmod None advmod 0
+aʔkay aux None root 0
+
+kõm root None advmod 0
+at aux None nsubj 0
+iʔkɨy discourse None root 0
+menə discourse None discourse 0
+
+agóaʔpət nmod None advmod 0
+at nmod None nsubj 0
+kaʔa root None root 0
+ʔaʔ clf None clf 0
+
+wat nmod None nsubj 0
+owẽ nsubj None root 0
+ŋa clf None aux 0
+kət root None root 0
+yat mark None root 2
+iʔke advmod None discourse 0
+menə mark None discourse 0
+
+wat root None nsubj 0
+tap case None root 0
+
+at root None nsubj 0
+
+maʔpəy nsubj None nsubj 0
+icɨ obj None root 0
+an root None root 0
+iʔke advmod None aux 0
+rẽna advmod None root 0
+
+boi nsubj None root 0
+ʔet aux None advmod 0
+towaʔpara root None root 0
+towewĩa conj None root 0
+
+kɨgomət dep None nsubj 0
+ĩyá dep None root 0
+naká compound None root 0
+mã case None discourse 0
+at nsubj None nsubj 1
+yate obj None discourse 0
+wĩm root None root 0
+
+paya root None root 0
+bab clf None clf 0
+aʔ clf None root 0
+
+kaʔmep root None root 0
+wet aux None aux 0
+(aʔkəy) obj None root 0
+
+tuŋnoʔ root None root 0
+
+owagon nsubj None root 0
+oyakay root None root 0
+tokõna case None mark 0
+
+at nsubj None nsubj 0
+mãygãra obj None nsubj 0
+wĩn root None root 0
+coke advmod None aux 0
+
+ei compound None nsubj 0
+nãk root None root 0
+káʔ clf None clf 0
+cú amod None clf 0
+gáʔ clf None clf 0
+
+maʔwɨt nsubj None nsubj 0
+pekey root None root 0
+tokõna case None aux 0
+
+taykit advmod None root 0
+yawbe nsubj None aux 0
+bewĩa root None root 0
+
+kaʔa root None root 0
+ʔaʔtoʔ clf None clf 0
+
+wat nmod None nsubj 0
+owẽ nsubj None nsubj 0
+wét root None root 0
+
+at nsubj None nsubj 0
+aʔpɨy root None root 0
+gahmõmnem advmod None root 0
+
+aʔ=ken root None root 0
+
+ʔittem advmod None advmod 0
+õn nsubj None nsubj 0
+aʔtop root None root 0
+
+wayo nmod None nsubj 0
+nãk root None root 0
+pap clf None clf 0
+
+Noep nmod None root 0
+at case None nsubj 0
+tágɨp root None root 0
+
+iʔca nmod None root 0
+macahmərəba root None root 0
+rokõna mark None root 0
+
+owaʔpan root None root 0
+aʔpẽya xcomp None aux 0
+gán dep None aux 0
+
+apəy nsubj None nsubj 0
+ŋa clf None aux 0
+ʔet aux None root 0
+topaba root None root 0
+mɨy advmod None root 0
+mãm discourse None discourse 0
+
+péŋ nsubj None nsubj 0
+yaʔi root None root 0
+toat nmod None advmod 0
+mok obj None root 0
+peʔ clf None clf 0
+cán xcomp None root 0
+iga mark None clf 0
+
+owẽ nmod None nsubj 0
+nakɨra nmod None root 0
+cop root None root 0
+
+õn nsubj None nsubj 0
+aʔ=rati root None root 0
+
+Ndeʔí root None discourse 0
+teʔe goeswith None discourse 0
+, punct None punct 0
+ipó advmod None discourse 0
+, punct None punct 0
+koʔɨ advmod None advmod 0
+opá nmod None obl 0
+nerawsuparwera obl None obl 0
+pɨsɨrõmo advcl None root 0
+neswí obl None root 0
+
+Eresawsupe root None discourse 0
+Tupã obl None discourse 0
+nderuβa nmod None root 0
+, punct None punct 0
+ndesɨ conj None discourse 0
+, punct None punct 8
+nderemirekó conj None discourse 0
+, punct None punct 0
+ndemena conj None discourse 0
+, punct None punct 0
+nderaʔɨra conj None discourse 0
+, punct None punct 0
+ndembaʔe nmod None obl 0
+katupaβẽ conj None obl 0
+ndesawsuβa advcl None root 0
+sosé case None discourse 0
+? punct None punct 0
+
+Aβá root None root 0
+serã discourse None nsubj 0
+ʃejaβé obl None root 0
+? punct None punct 0
+
+Aβá obl None discourse 2
+swipe case None discourse 0
+Cristãos nsubj None root 0
+ajpó nmod None root 0
+owerama obj None root 0
+rári root None discourse 0
+? punct None punct 0
+
+Kwarasɨ obl None discourse 0
+oɲemopɨtun root None root 0
+, punct None punct 0
+ɨβɨ obj None advmod 0
+oβuoβur parataxis None discourse 0
+, punct None punct 0
+otumũtumunga advcl None discourse 0
+, punct None punct 0
+itá obl None advmod 0
+ojekájeká parataxis None obl 0
+ojopɨtérɨβo advcl None root 0
+
+Nd'ojkójpe root None root 0
+amõ nmod None advmod 0
+aβá obl None advmod 0
+sakɨpwéri obl None root 0
+iporeawsuβerekosáramo obl None root 0
+? punct None punct 0
+
+Ojaoβok root None root 0
+, punct None punct 0
+ita nmod None advmod 0
+okɨtá obl None obl 0
+resé case None discourse 0
+ipopwá advcl None root 0
+, punct None punct 0
+imoʔama advcl None obl 0
+
+Petéumẽ dep None advmod 0
+ʃerapirõmo advcl None discourse 0
+eʔi root None root 0
+peẽ obl None advmod 0
+aéte discourse None root 0
+pejeapirõ parataxis None discourse 0
+eʔi parataxis None root 0
+pemembɨrate obl None advmod 0
+pesapirõ dep None discourse 0
+eʔi advcl None root 0
+
+Niapɨsɨki root None root 0
+ʃwémo dep None discourse 0
+, punct None punct 0
+omanõmo parataxis None obl 0
+tiruã discourse None discourse 0
+seroβjámo xcomp None root 0
+
+Naʃeremimotara discourse None root 0
+rupi case None discourse 0
+ruã dep None discourse 0
+ajukaukáne root None root 0
+ojaβo parataxis None root 0
+; punct None punct 0
+naʃeresé obl None obl 0
+ruã dep None discourse 0
+ijukasaβa nsubj None root 0
+ʔárine parataxis None discourse 0
+ojaβo parataxis None root 0
+. punct None punct 0
+
+oporomboʔeβo advcl None root 0
+ã discourse None discourse 0
+sekóû root None root 0
+
+Ojaoβok root None root 0
+
+ɨβákɨpe obl None advmod 5
+ojkóβaʔe acl None root 0
+moeté obl None root 0
+jaβépe advcl None advmod 0
+asé nsubj None advmod 0
+saʔangaβa obj None root 0
+moetéw root None root 0
+? punct None punct 0
+
+iʃɨ root None discourse 0
+, punct None punct 0
+S.João conj None discourse 0
+aβé advmod None discourse 0
+, punct None punct 0
+kuɲãangaturametá conj None obl 0
+aβé advmod None aux 0
+
+Karaiβeβe vocative None root 0
+ʃeraroã appos None root 0
+ʃepeʔá root None root 0
+jepe nsubj None obl 0
+maʔeaiβa obj None root 0
+swi case None discourse 0
+kori advmod None discourse 0
+Tupã nmod None root 0
+remimomotara obl None root 0
+rupi case None discourse 0
+ʃemoingóβo advcl None discourse 0
+, punct None punct 0
+eʔi parataxis None root 0
+
+Turusukatu root None root 0
+, punct None punct 0
+ndʔeʔiteʔe parataxis None obl 0
+seroʔaroʔa advcl None obl 0
+serasóβo dep None obl 0
+iposɨja obj None root 0
+swi case None discourse 0
+
+Sajkatupe root None root 0
+? punct None punct 0
+
+Aʔãni discourse None discourse 0
+, punct None punct 0
+saʔangaβɨjara root None obl 0
+supé case None discourse 0
+e discourse None discourse 0
+sesé case None root 0
+omaʔendwáramo advcl None root 0
+
+Aɲanga root None root 0
+swi case None discourse 0
+tekoangajpaβa parataxis None root 0
+swi case None discourse 0
+maʔeaiβa parataxis None root 0
+swi case None discourse 0
+βe advmod None discourse 0
+
+Oikó root None root 3
+βe advmod None discourse 0
+ʃetaɨgaɨβa obl None root 0
+
+Aβaaβape root None advmod 0
+asé obl None nsubj 0
+resé case None root 0
+Tupã nmod None advmod 0
+mongetasaramo nsubj None root 0
+seków aux None root 0
+? punct None punct 0
+
+Takwara root None root 0
+, punct None punct 6
+oendɨpɨãeʔɨjβo advmod None obl 0
+soβaké case None discourse 0
+omemwãnamo advcl None discourse 0
+, punct None punct 0
+imouβiʃáβiʃaβa obj None obl 0
+aʔupa parataxis None obl 0
+
+Ikó nmod None root 0
+aβá obj None advmod 0
+arur root None root 0
+iké obl None root 0
+okárɨpe appos None root 0
+senosema advcl None discourse 0
+, punct None punct 14
+tapejkwaβ parataxis None advmod 0
+sekopwera obj None obl 0
+amõ nmod None discourse 0
+iʃé nsubj None root 0
+sekara ccomp None root 5
+jepé advmod None discourse 0
+, punct None punct 0
+ijukaukar advcl None obl 0
+janondé case None obl 0
+wijaβo dep None discourse 0
+eʔi parataxis None root 0
+
+mbaʔe nmod None root 0
+ɨpɨrunga root None nsubj 0
+jaβiʔõ nmod None root 0
+, punct None punct 0
+kwépe advmod None advmod 0
+marãtekó nmod None obl 0
+omoʔangekoaíme parataxis None root 0
+
+jandéjara root None root 0
+JesusCristo appos None discourse 0
+swi case None discourse 0
+
+Karaí root None root 0
+βeβé nmod None discourse 0
+serã advmod None discourse 0
+, punct None punct 0
+ko nmod None advmod 0
+taβa nmod None discourse 0
+rarõaneté appos None root 0
+
+Iaβaí root None root 0
+ʃeβo obl None discourse 0
+saʔaŋa nsubj None root 0
+; punct None punct 0
+serekóara nsubj None advmod 0
+iaβaeté parataxis None discourse 0
+, punct None punct 0
+ʃemondɨja advcl None discourse 0
+. punct None punct 0
+
+Omaʔe obj None discourse 0
+, punct None punct 0
+nipó advmod None discourse 0
+, punct None punct 0
+asé nsubj None advmod 0
+opɨʔa obl None root 0
+pupé case None discourse 0
+sawsuβi root None root 0
+
+Jandéjara nmod None root 0
+mombeʔureme advcl None root 0
+, punct None punct 7
+serobβjasareʔɨma nsubj None obl 0
+potɨrõw root None obl 0
+ijɨβõijjɨβõmo advcl None discourse 0
+, punct None punct 0
+ijukáβo advcl None obl 0
+
+Ko nmod None discourse 0
+Temiminó obl None root 0
+poʃɨ nmod None root 0
+janerekó obl None root 0
+oweroɨrõ root None root 0
+
+Mamõpe obl None advmod 0
+Pilatos nsubj None nsubj 0
+senosemi root None root 0
+aʔéreme advmod None root 0
+? punct None punct 0
+
+ndemaʔendwar ccomp None root 0
+ʃeresé obl None root 0
+nderorɨpápe nmod None obl 0
+nderekó advcl None root 0
+rojré case None discourse 0
+eʔi root None root 0
+
+Oemimotárɨβo root None root 0
+épe discourse None advmod 0
+erimbaʔe advmod None root 0
+iɲemeʔẽngi appos None root 0
+ogupjarama obl None obl 0
+supé case None discourse 0
+oɲeraneʔɨma dep None root 0
+? punct None punct 0
+
+Owatá root None root 0
+jepé discourse None root 0
+
+Amõ nmod None root 0
+mokõj nummod None root 0
+jandéjara nmod None root 0
+βojá obl None discourse 0
+, punct None punct 0
+José appos None discourse 0
+, punct None punct 0
+Nicodemos appos None advmod 0
+serɨβaʔe acl None discourse 0
+, punct None punct 0
+oso root None root 0
+aʔepe advmod None obl 0
+
+mbaʔe obl None root 0
+resépe case None discourse 0
+iʃów root None root 0
+? punct None punct 0
+

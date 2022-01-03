@@ -47,7 +47,7 @@ tagger = SequenceTagger(hidden_size=512,
 trainer = ModelTrainer(tagger, corpus)
 
 trainer.train('models/resources/taggers/my-upos-3',
-                train_with_test=True,
+                train_with_dev=True,
                 monitor_train=True,
                 monitor_test=True,
                 patience=3,

@@ -44,10 +44,10 @@ tagger = DependencyParser(lstm_hidden_size=512,
 trainer = ModelTrainer(tagger, corpus)
 
 trainer.train('models/resources/taggers/dep_tupi',
-                train_with_dev=True,
+                train_with_test=True,
                 learning_rate=1,
                 mini_batch_size=32,
-                max_epochs=500,
+                max_epochs=10,
                 monitor_train=True,
                 monitor_test=True,
                 patience=3)
@@ -55,9 +55,9 @@ trainer.train('models/resources/taggers/dep_tupi',
 ###############################
 ### Evaluation              ###
 ###############################
-tagger = SequenceTagger.load('models/resources/taggers/dep_tupi/final-model.pt')
+tagger = DependencyParser.load('models/resources/taggers/dep_tupi/best-model.pt')
 
 trainer = ModelTrainer(tagger, eval_corpus)
-trainer.final_test('models/resources/taggers/eval_multi_tupi',
+trainer.final_test('models/resources/taggers/eval_deprel',
                 main_evaluation_metric = ("macro avg", "f1-score"),
                 eval_mini_batch_size = 32)

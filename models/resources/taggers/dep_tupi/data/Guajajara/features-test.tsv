@@ -1,0 +1,424 @@
+token gold_tag gold_arc predicted_tag predicted_arc
+ʔAromo advmod None root 0
+uker root None root 0
+. punct None punct 0
+
+Oho root None root 0
+kaʔa obl None obl 0
+rupi case None case 0
+pe obl None obl 0
+rupi case None root 0
+. punct None punct 0
+
+Ezapo root None root 0
+arapuk obj None root 0
+wiràmiripe obl None obl 0
+nehe discourse None root 0
+
+Màràzàwe advmod None root 0
+tue discourse None advmod 0
+neremɨhar ccomp None root 0
+aipo advmod None root 0
+ʔɨ discourse None root 0
+, punct None punct 0
+iʔi root None root 0
+Mari nsubj None root 0
+izupe iobj None obl 0
+, punct None punct 0
+hehe obl None root 0
+upuranupa advcl None root 0
+. punct None punct 0
+
+Uhem root None root 0
+pino obl None root 0
+wi case None root 0
+. punct None punct 0
+
+Tueharupi obl None root 0
+uputuka root None root 0
+umaʔe obj None root 0
+iko aux None root 0
+aʔe discourse None discourse 0
+. punct None punct 0
+
+Waro root None root 0
+mahaw nmod None root 0
+turhaw obj None root 0
+. punct None punct 0
+
+Uhɨape root None root 0
+katu advmod None root 0
+zahɨ nsubj None root 0
+aʔepe obl None root 0
+izupe obl None root 0
+kurɨ discourse None discourse 0
+. punct None punct 0
+
+Tuweharupi obl None root 0
+uzuka root None root 0
+kateteaʔu advmod None root 0
+wiràmiri nsubj None obl 0
+aʔepe obl None root 0
+. punct None punct 0
+
+Aʔe det None root 0
+Tentehar nmod None root 0
+tɨkɨʔɨr nsubj None root 0
+maizu flat None root 0
+umumeʔu root None root 0
+parupi obl None case 0
+maʔe nmod None root 0
+uzeapomaʔe obj None root 0
+izupe iobj None root 0
+. punct None punct 0
+
+Taʔe discourse None root 0
+ameʔeg root None root 0
+putar advmod None root 0
+awaxi obj None root 0
+heraha obj None root 0
+tawpe obl None obl 0
+har advmod None root 0
+wanupe obl None root 0
+nehe discourse None root 0
+xe discourse None root 0
+. punct None punct 0
+
+Azapo ccomp None root 0
+uken obj None root 0
+uhu nmod None root 0
+zumen obl None root 0
+wi case None root 0
+, punct None punct 0
+iʔi root None root 0
+izupe iobj None root 0
+. punct None punct 0
+
+Aʔe det None root 0
+maʔe nmod None nsubj 0
+ʔɨw compound None root 0
+iʔa root None root 0
+ʔar obl None root 0
+katu discourse None root 0
+mehe case None root 0
+
+Ikatu root None root 0
+ahɨ advmod None root 0
+Karipe obl None root 0
+iʔu advcl None root 0
+mehe mark None root 0
+no discourse None discourse 0
+. punct None punct 0
+
+Aʔepe obl None root 0
+uwexak root None root 0
+zekaipo advmod None advmod 0
+amo det None root 0
+mainumɨ nmod None root 0
+we discourse None case 0
+zepe discourse None root 0
+tentehar nmod None root 0
+tuaʔu obj None root 0
+zepe discourse None root 0
+zekaipo advmod None root 0
+raʔa discourse None root 0
+
+Amo det None root 0
+maʔe nmod None nsubj 0
+putɨr nmod None root 0
+ʔɨpehar nsubj None root 0
+aʔe discourse None root 0
+, punct None punct 0
+mururu root None root 0
+her obl None root 0
+romo case None case 0
+aʔe discourse None root 0
+. punct None punct 0
+
+Zumen nsubj None root 0
+uʔu ccomp None root 0
+hemaʔe obj None advmod 0
+, punct None punct 0
+iʔi root None root 0
+izupe iobj None root 0
+, punct None punct 0
+wemirekope appos None root 0
+. punct None punct 0
+
+Umaʔe obj None root 0
+mumeʔu root None root 0
+waiko aux None root 0
+uzeupeupe obl None root 0
+wà discourse None discourse 0
+kurɨ discourse None discourse 0
+. punct None punct 0
+
+Hete root None root 0
+katu advmod None root 0
+Karipe obl None root 0
+aʔe discourse None discourse 0
+no discourse None discourse 0
+. punct None punct 0
+
+Pixikaʔi root None root 0
+aʔe nsubj None root 0
+
+Te discourse None root 0
+umeʔe root None root 0
+aguza nmod None root 0
+iàkàgwer obl None root 0
+ɨwɨ nmod None root 0
+rehe case None case 0
+har advmod None root 0
+rehe case None root 0
+. punct None punct 0
+
+Omowok ccomp None root 0
+xu nsubj None root 0
+aipo discourse None advmod 0
+pa discourse None root 0
+, punct None punct 0
+pe obl None root 0
+iwɨr case None root 0
+pa discourse None root 0
+, punct None punct 0
+iʔi root None root 0
+izupe iobj None root 0
+. punct None punct 0
+
+Ikatu root None root 0
+ahɨ advmod None root 0
+kwarahɨ nsubj None root 0
+Maripe obl None root 0
+. punct None punct 0
+
+Mari nmod None root 0
+imemɨr nsubj None root 0
+aʔe discourse None advmod 0
+, punct None punct 0
+Kari root None root 0
+her obl None root 0
+romo case None case 0
+aʔe discourse None root 0
+. punct None punct 0
+
+Wenu root None root 0
+wiwi discourse None root 0
+maʔe nmod None nsubj 0
+ipuipuhaw obj None root 0
+pino nmod None root 0
+rehe case None case 0
+har advmod None root 0
+. punct None punct 0
+
+Amo nsubj None root 0
+uzuka root None root 0
+miar obj None nsubj 0
+kaʔape obl None obl 0
+? punct None punct 0
+
+Weraha root None root 0
+awaxi obj None root 0
+tawpe obl None obl 0
+wa discourse None root 0
+. punct None punct 0
+
+Uwewe root None root 0
+oho dep None root 0
+kaʔape obl None obl 0
+wa discourse None case 0
+kurɨ discourse None discourse 0
+. punct None punct 0
+
+Wexak root None root 0
+amo det None root 0
+awa obj None nsubj 0
+aʔepe obl None root 0
+
+Kwa discourse None root 0
+namono root None root 0
+wer advmod None advmod 0
+kwaw advmod None root 0
+zepe discourse None root 0
+herukaz obl None root 0
+rehe case None case 0
+newe obl None root 0
+tɨ discourse None discourse 0
+, punct None punct 0
+taʔe mark None root 0
+reta ccomp None root 0
+amo det None root 0
+maʔe nsubj None nsubj 0
+aʔepe obl None root 0
+wà discourse None discourse 0
+xe discourse None root 0
+. punct None punct 0
+
+Izipɨ obl None root 0
+mehe case None root 0
+Tentehar nsubj None root 0
+wazegarhaw nmod None root 0
+herurawer root None root 0
+
+Aipo discourse None root 0
+iazu ccomp None root 0
+nànà nsubj None root 0
+raʔe discourse None discourse 0
+, punct None punct 0
+iʔi root None root 0
+wiwi discourse None root 0
+Kari nsubj None root 0
+izupe iobj None obl 0
+, punct None punct 0
+hehe obl None root 0
+upuranupa advcl None root 0
+. punct None punct 0
+
+Uzapi root None root 0
+kurɨ discourse None discourse 0
+. punct None punct 0
+
+Heta root None root 0
+maʔe nsubj None nsubj 0
+putɨr nmod None root 0
+ʔɨ obl None root 0
+ʔaromo case None root 0
+. punct None punct 0
+
+Oho root None root 0
+maʔe obl None nsubj 0
+putɨr nmod None obl 0
+rehe case None case 0
+, punct None punct 0
+mururu appos None root 0
+rehe case None discourse 0
+. punct None punct 0
+
+xapat nmod None root 0
+xigmaʔe obj None root 0
+umeʔeg root None root 0
+kar advmod None root 0
+no discourse None discourse 0
+. punct None punct 0
+
+Naʔe discourse None root 0
+Maizu nsubj None root 0
+iziwà root None root 0
+uiwɨrɨ nmod None root 0
+hetekwer obj None root 0
+ikwapar obl None root 0
+ʔɨmaz advmod None root 0
+. punct None punct 0
+
+Taʔe mark None root 0
+zekaipo advmod None root 0
+wetun root None root 0
+hekwen obj None root 0
+xe discourse None advmod 0
+. punct None punct 0
+
+Oho root None root 0
+kaʔapiʔi obl None nsubj 0
+rehe case None case 0
+. punct None punct 0
+
+Uhem root None root 0
+toʔoʔtoʔom obl None root 0
+me case None obl 0
+. punct None punct 0
+
+Oho root None root 0
+putar advmod None root 0
+uhɨ obl None root 0
+rupi case None case 0
+umaʔe obj None root 0
+iputukapa advcl None root 0
+kurɨ discourse None discourse 0
+. punct None punct 0
+
+Maʔe obj None root 0
+te discourse None advmod 0
+awa nsubj None root 0
+uzuka root None root 0
+kaʔape obl None root 0
+? punct None punct 0
+
+Eraha root None root 0
+kok obj None root 0
+ne nsubj None case 0
+nehe discourse None root 0
+. punct None punct 0
+
+Heta root None root 0
+awaxi nsubj None root 0
+teteaʔu advmod None root 0
+aʔepe obl None root 0
+. punct None punct 0
+
+Upuranu root None root 0
+tuaʔu obl None root 0
+hehe case None obl 0
+: punct None punct 0
+
+Ipururuhu ccomp None root 0
+zanekɨhaw nsubj None root 0
+, punct None punct 0
+aʔe obl None root 0
+rupi case None case 0
+ximono conj None root 0
+kwarahɨ obl None root 0
+rupi case None case 0
+zane nsubj None root 0
+, punct None punct 0
+imukàgkarpa advcl None root 0
+zane nsubj None root 0
+, punct None punct 0
+iʔi root None root 0
+Mari nsubj None nsubj 0
+Karipe obl None obl 0
+. punct None punct 0
+
+Amo det None root 0
+awa nsubj None root 0
+aʔe discourse None advmod 0
+, punct None punct 0
+Zuze nmod None root 0
+tu appos None root 0
+aʔe discourse None root 0
+, punct None punct 0
+uputar root None root 0
+awaxi nmod None root 0
+Zuze nmod None nsubj 0
+kopehar obj None obl 0
+aʔe discourse None discourse 0
+. punct None punct 0
+
+Wiko root None root 0
+aʔepe obl None root 0
+
+Umeʔe root None root 0
+hoko nsubj None root 0
+iko aux None root 0
+ipira obl None root 0
+rehe case None case 0
+kurɨ discourse None discourse 0
+. punct None punct 0
+
+Uzemaraz root None root 0
+iko aux None root 0
+hehe obl None advmod 0
+kurɨ discourse None discourse 11
+, punct None punct 0
+uzàn parataxis None root 0
+wi discourse None root 0
+aguza nsubj None root 0
+oho dep None root 0
+izuwi obl None advmod 3
+no discourse None discourse 0
+, punct None punct 0
+pixàn nsubj None root 0
+upɨhɨk parataxis None root 0
+wi discourse None obl 0
+no discourse None discourse 11
+. punct None punct 0
+

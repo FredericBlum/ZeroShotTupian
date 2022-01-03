@@ -16,9 +16,9 @@ munduruku = make_finetuneset(language = 'Munduruku')
 tagger = SequenceTagger.load('models/resources/taggers/my-upos-3/final-model.pt')
 # tagger = SequenceTagger.load('models/resources/taggers/dep_tupi/best-model.pt')
 
-corpus = akuntsu
+corpus = munduruku
 trainer = ModelTrainer(tagger, corpus)
-trainer.fine_tune('models/resources/taggers/finetune', mini_batch_size=32, max_epochs=10, use_final_model_for_eval=False)
+trainer.fine_tune('models/resources/taggers/finetune', mini_batch_size=32, max_epochs=30, use_final_model_for_eval=False)
 
 akuntsu = make_testset(language = 'Akuntsu')
 kaapor = make_testset(language = 'Kaapor')
