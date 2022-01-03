@@ -55,17 +55,17 @@ kurɨ B-PART B-PART
 
 Tuweharupi B-NOUN B-NOUN
 uzuka B-VERB B-VERB
-kateteaʔu B-ADV B-ADV
+kateteaʔu B-ADV B-NOUN
 wiràmiri B-NOUN B-NOUN
 aʔepe B-PRON B-PRON
 . B-PUNCT B-PUNCT
 
-Aʔe B-DET B-DET
+Aʔe B-DET B-PRON
 Tentehar B-NOUN B-NOUN
 tɨkɨʔɨr B-NOUN B-NOUN
 maizu B-NOUN B-NOUN
 umumeʔu B-VERB B-VERB
-parupi B-PRON B-NOUN
+parupi B-PRON B-ADP
 maʔe B-NOUN B-NOUN
 uzeapomaʔe B-NOUN B-NOUN
 izupe B-ADP B-ADP
@@ -97,9 +97,9 @@ Aʔe B-DET B-DET
 maʔe B-NOUN B-NOUN
 ʔɨw B-NOUN B-NOUN
 iʔa B-NOUN B-NOUN
-ʔar B-NOUN B-VERB
+ʔar B-NOUN B-NOUN
 katu B-ADV B-ADV
-mehe B-ADP B-ADP
+mehe B-ADP B-ADV
 
 Ikatu B-VERB B-VERB
 ahɨ B-ADV B-ADV
@@ -117,8 +117,8 @@ mainumɨ B-NOUN B-NOUN
 we B-PART B-PART
 zepe B-PART B-NOUN
 tentehar B-NOUN B-NOUN
-tuaʔu B-NOUN B-VERB
-zepe B-PART B-ADV
+tuaʔu B-NOUN B-NOUN
+zepe B-PART B-NOUN
 zekaipo B-ADV B-ADV
 raʔa B-PART B-NOUN
 
@@ -144,7 +144,7 @@ izupe B-ADP B-ADP
 wemirekope B-NOUN B-NOUN
 . B-PUNCT B-PUNCT
 
-Umaʔe B-NOUN B-NOUN
+Umaʔe B-NOUN B-VERB
 mumeʔu B-VERB B-NOUN
 waiko B-AUX B-AUX
 uzeupeupe B-ADP B-ADP
@@ -159,8 +159,8 @@ aʔe B-DET B-PART
 no B-PART B-PART
 . B-PUNCT B-PUNCT
 
-Pixikaʔi B-NOUN B-VERB
-aʔe B-PRON B-PART
+Pixikaʔi B-NOUN B-NOUN
+aʔe B-PRON B-PRON
 
 Te B-PART B-PART
 umeʔe B-VERB B-VERB
@@ -174,7 +174,7 @@ rehe B-ADP B-ADP
 
 Omowok B-VERB B-VERB
 xu B-NOUN B-NOUN
-aipo B-PART B-ADV
+aipo B-PART B-PART
 pa B-PART B-PART
 , B-PUNCT B-PUNCT
 pe B-NOUN B-NOUN
@@ -232,13 +232,13 @@ kurɨ B-PART B-PART
 Wexak B-VERB B-VERB
 amo B-DET B-DET
 awa B-NOUN B-NOUN
-aʔepe B-PRON B-PART
+aʔepe B-PRON B-PRON
 
-Kwa B-PART B-PART
+Kwa B-PART B-NOUN
 namono B-VERB B-VERB
 wer B-ADV B-ADV
 kwaw B-ADV B-ADV
-zepe B-PART B-NOUN
+zepe B-PART B-PRON
 herukaz B-NOUN B-NOUN
 rehe B-ADP B-ADP
 newe B-ADP B-ADP
@@ -253,11 +253,11 @@ wà B-PART B-PART
 xe B-PART B-PART
 . B-PUNCT B-PUNCT
 
-Izipɨ B-NOUN B-VERB
-mehe B-ADP B-ADV
-Tentehar B-PROPN B-PROPN
+Izipɨ B-NOUN B-NOUN
+mehe B-ADP B-ADP
+Tentehar B-PROPN B-NOUN
 wazegarhaw B-NOUN B-NOUN
-herurawer B-NOUN B-VERB
+herurawer B-NOUN B-NOUN
 
 Aipo B-PART B-PART
 iazu B-VERB B-NOUN
@@ -305,7 +305,7 @@ Maizu B-PROPN B-PROPN
 iziwà B-VERB B-NOUN
 uiwɨrɨ B-NOUN B-NOUN
 hetekwer B-NOUN B-NOUN
-ikwapar B-NOUN B-VERB
+ikwapar B-NOUN B-NOUN
 ʔɨmaz B-ADV B-NOUN
 . B-PUNCT B-PUNCT
 
@@ -335,7 +335,7 @@ iputukapa B-VERB B-VERB
 kurɨ B-PART B-PART
 . B-PUNCT B-PUNCT
 
-Maʔe B-NOUN B-PRON
+Maʔe B-NOUN B-NOUN
 te B-PART B-PART
 awa B-NOUN B-NOUN
 uzuka B-VERB B-VERB
@@ -344,7 +344,7 @@ kaʔape B-NOUN B-NOUN
 
 Eraha B-VERB B-VERB
 kok B-NOUN B-NOUN
-ne B-PRON B-PART
+ne B-PRON B-PRON
 nehe B-PART B-PART
 . B-PUNCT B-PUNCT
 
@@ -370,7 +370,7 @@ rupi B-ADP B-ADP
 zane B-PRON B-PRON
 , B-PUNCT B-PUNCT
 imukàgkarpa B-VERB B-VERB
-zane B-PRON B-PRON
+zane B-PRON B-PART
 , B-PUNCT B-PUNCT
 iʔi B-VERB B-VERB
 Mari B-PROPN B-PROPN
@@ -393,7 +393,7 @@ aʔe B-PART B-PART
 . B-PUNCT B-PUNCT
 
 Wiko B-VERB B-VERB
-aʔepe B-PRON B-PART
+aʔepe B-PRON B-PRON
 
 Umeʔe B-VERB B-VERB
 hoko B-NOUN B-NOUN

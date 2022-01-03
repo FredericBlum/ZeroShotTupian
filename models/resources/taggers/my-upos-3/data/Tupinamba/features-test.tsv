@@ -1,6 +1,6 @@
-Awjé B-INTJ B-NOUN
+Awjé B-INTJ B-INTJ
 ã B-PART B-PART
-koʔɨté B-ADV B-NOUN
+koʔɨté B-ADV B-ADV
 eʔi B-VERB B-VERB
 
 ɨgasápe B-NOUN B-NOUN
@@ -20,7 +20,7 @@ serã B-ADV B-ADV
 ɨβɨá B-PART B-PART
 ikatupe B-NOUN B-NOUN
 ɲẽ B-PART B-PART
-imoingóβo B-VERB B-VERB
+imoingóβo B-VERB B-NOUN
 inupãnupã B-NOUN B-NOUN
 janondé B-ADP B-ADP
 ? B-PUNCT B-PUNCT
@@ -45,7 +45,7 @@ kwapaβa B-NOUN B-NOUN
 toʔo B-NOUN B-NOUN
 swi B-ADP B-ADP
 mirra B-NOUN B-NOUN
-moroesé B-NOUN B-ADP
+moroesé B-NOUN B-VERB
 seʔõawama B-NOUN B-NOUN
 mombewaβa B-NOUN B-NOUN
 
@@ -136,7 +136,7 @@ mongetáβo B-VERB B-VERB
 ? B-PUNCT B-PUNCT
 
 Asé B-PRON B-PRON
-sumarã B-NOUN B-ADV
+sumarã B-NOUN B-PRON
 swi B-ADP B-ADP
 
 Sesé B-ADP B-ADP
@@ -174,7 +174,7 @@ eʔipe B-VERB B-VERB
 oguβa B-NOUN B-NOUN
 supé B-ADP B-ADP
 ojekɨj B-NOUN B-VERB
-janondé B-ADP B-ADV
+janondé B-ADP B-ADP
 ? B-PUNCT B-PUNCT
 
 Ojkoβé B-VERB B-VERB
@@ -198,8 +198,8 @@ eʔipe B-VERB B-VERB
 Jesus B-PROPN B-PROPN
 osɨ B-NOUN B-NOUN
 supé B-ADP B-ADP
-oeʔõ B-NOUN B-VERB
-janondé B-ADP B-ADV
+oeʔõ B-NOUN B-PRON
+janondé B-ADP B-ADP
 ? B-PUNCT B-PUNCT
 
 asé B-PRON B-PRON
@@ -212,7 +212,7 @@ tosó B-VERB B-VERB
 janerenoné B-ADP B-ADV
 , B-PUNCT B-PUNCT
 opá B-PRON B-PRON
-ok B-NOUN B-VERB
+ok B-NOUN B-NOUN
 ɨbɨ̃ja B-NOUN B-NOUN
 supa B-VERB B-VERB
 
@@ -236,9 +236,9 @@ imomoraŋɨpɨra B-NOUN B-NOUN
 ɲõ B-ADV B-PART
 aʔupakatune B-VERB B-NOUN
 . B-PUNCT B-PUNCT
-Kweiseβé B-ADV B-NOUN
+Kweiseβé B-ADV B-ADV
 , B-PUNCT B-PUNCT
-nakó B-PART B-NOUN
+nakó B-PART B-VERB
 airumõ B-VERB B-ADV
 . B-PUNCT B-PUNCT
 Tasóne B-VERB B-NOUN
@@ -280,22 +280,22 @@ sérɨβaʔe B-NOUN B-NOUN
 membɨ́ramo B-NOUN B-NOUN
 sekóreme B-NOUN B-NOUN
 
-Aopiranga B-NOUN B-VERB
+Aopiranga B-NOUN B-NOUN
 , B-PUNCT B-PUNCT
 ju B-NOUN B-NOUN
 aβé B-ADV B-ADV
 owerur B-VERB B-NOUN
 ojoesé B-ADP B-VERB
 , B-PUNCT B-PUNCT
-oporeawsuβetekatúramo B-NOUN B-VERB
+oporeawsuβetekatúramo B-NOUN B-NOUN
 
 Ajepɨk B-VERB B-VERB
-aɲe B-ADV B-NOUN
+aɲe B-ADV B-PRON
 sesé B-ADP B-ADP
 , B-PUNCT B-PUNCT
 ianamakatu B-NOUN B-NOUN
 riré B-ADP B-ADP
 , B-PUNCT B-PUNCT
 ʃeremiaramo B-NOUN B-NOUN
-ipeʔaβo B-VERB B-NOUN
+ipeʔaβo B-VERB B-VERB
 

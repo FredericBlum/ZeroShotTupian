@@ -7,11 +7,11 @@ kaʔto B-PRON B-VERB
 wat B-PRON B-PRON
 manikap B-NOUN B-NOUN
 peya B-VERB B-VERB
-kaʔto B-PRON B-NOUN
+kaʔto B-PRON B-VERB
 
 cego B-NOUN B-NOUN
 bɨk B-ADJ B-ADJ
-kãp B-ADJ B-VERB
+kãp B-ADJ B-ADJ
 
 opábe B-NOUN B-NOUN
 cú B-ADJ B-ADJ
@@ -37,7 +37,7 @@ aʔken B-VERB B-VERB
 iʔkɨy B-PART B-PART
 
 ibeon B-NOUN B-NOUN
-meʔ B-ADJ B-ADJ
+meʔ B-ADJ B-NOUN
 kĩn B-ADJ B-VERB
 meʔ B-ADJ B-ADJ
 
@@ -47,7 +47,7 @@ wat B-PRON B-PRON
 iyõm B-NOUN B-NOUN
 pihmãm B-ADP B-ADP
 
-amãn B-NOUN B-NOUN
+amãn B-NOUN B-VERB
 yat B-PART B-PART
 nãnin B-PART B-PART
 tə B-PART B-PART
@@ -66,7 +66,7 @@ cãn B-NOUN B-NOUN
 meʔŋen B-VERB B-VERB
 
 opábe B-NOUN B-NOUN
-cigá B-NOUN B-VERB
+cigá B-NOUN B-NOUN
 
 púŋ B-VERB B-VERB
 wa B-AUX B-AUX
@@ -76,10 +76,10 @@ wet B-AUX B-AUX
 péŋ B-NOUN B-NOUN
 tə B-PART B-PART
 
-cúrem B-ADJ B-ADV
+cúrem B-ADJ B-ADJ
 wat B-PRON B-PRON
 kaʔa B-NOUN B-NOUN
-ʔa B-ADJ B-AUX
+ʔa B-ADJ B-ADJ
 
 maʔteg B-NOUN B-NOUN
 iʔke B-PART B-PART
@@ -100,7 +100,7 @@ naká B-NOUN B-NOUN
 bap B-PART B-ADJ
 
 kanãy B-ADV B-ADV
-iʔkap B-AUX B-NOUN
+iʔkap B-AUX B-PART
 aʔwĩa B-VERB B-VERB
 
 nãn B-PRON B-AUX
@@ -109,8 +109,8 @@ ahyə B-PART B-PART
 oken B-VERB B-VERB
 cúrem B-ADV B-ADV
 
-oyakõy B-VERB B-NOUN
-bãttem B-ADV B-ADJ
+oyakõy B-VERB B-VERB
+bãttem B-ADV B-ADV
 
 naʔwəy B-NOUN B-NOUN
 beʔŋət B-VERB B-VERB
@@ -139,8 +139,8 @@ wirik B-NOUN B-NOUN
 kanã B-NOUN B-PART
 
 nãn B-PRON B-AUX
-mihmãm B-ADP B-VERB
-ekab B-AUX B-AUX
+mihmãm B-ADP B-NOUN
+ekab B-AUX B-VERB
 eyaʔwara B-VERB B-VERB
 
 ĩya B-NOUN B-NOUN
@@ -173,7 +173,7 @@ gap B-ADJ B-ADJ
 
 oken B-VERB B-VERB
 péŋ B-NOUN B-NOUN
-at B-PART B-PRON
+at B-PART B-PART
 kaʔa B-NOUN B-NOUN
 ʔaʔ B-PART B-ADJ
 peʔ B-ADP B-ADP
@@ -184,7 +184,7 @@ aʔwĩn B-VERB B-VERB
 kanãp] B-SCONJ B-SCONJ
 
 itɨ B-NOUN B-NOUN
-cãp B-NOUN B-VERB
+cãp B-NOUN B-NOUN
 
 icagá B-NOUN B-NOUN
 ʔaʔ B-ADJ B-ADJ
@@ -198,7 +198,7 @@ otoy B-VERB B-VERB
 abeʔnan B-VERB B-VERB
 
 kaptem B-ADJ B-ADJ
-at B-PRON B-AUX
+at B-PRON B-PRON
 ahyə B-PART B-PART
 
 ip B-NOUN B-NOUN
@@ -213,7 +213,7 @@ owẽ B-NOUN B-NOUN
 nakɨra B-NOUN B-NOUN
 cop B-NOUN B-NOUN
 
-nãm B-NOUN B-ADV
+nãm B-NOUN B-PART
 naká B-NOUN B-NOUN
 
 naʔyoh B-NOUN B-NOUN
@@ -238,7 +238,7 @@ kaʔa B-NOUN B-NOUN
 yat B-PART B-PART
 
 õn B-PRON B-PRON
-amãn B-NOUN B-NOUN
+amãn B-NOUN B-VERB
 ara B-VERB B-NOUN
 gotoy B-VERB B-VERB
 
@@ -255,7 +255,7 @@ aʔtoy B-VERB B-VERB
 ʔĩttem B-ADJ B-ADV
 
 aoro B-NOUN B-NOUN
-cagá B-NOUN B-VERB
+cagá B-NOUN B-NOUN
 
 yét B-PRON B-PRON
 maʔwɨt B-NOUN B-NOUN
