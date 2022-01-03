@@ -25,6 +25,7 @@ eval_corpus = MultiCorpus([akuntsu, kaapor, makurap, munduruku])
 
 label_type = 'deprel'
 dictionary = corpus.make_label_dictionary(label_type=label_type)
+eval_dict = eval_corpus.make_label_dictionary(label_type=label_type)
 
 ################################
 ### Embeddings               ###
@@ -46,8 +47,8 @@ trainer = ModelTrainer(tagger, corpus)
 trainer.train('models/resources/taggers/dep_tupi',
                 train_with_test=True,
                 learning_rate=1,
-                mini_batch_size=32,
-                max_epochs=10,
+                mini_batch_size=1,
+                max_epochs=1,
                 monitor_train=True,
                 monitor_test=True,
                 patience=3)
@@ -60,4 +61,5 @@ tagger = DependencyParser.load('models/resources/taggers/dep_tupi/best-model.pt'
 trainer = ModelTrainer(tagger, eval_corpus)
 trainer.final_test('models/resources/taggers/eval_deprel',
                 main_evaluation_metric = ("macro avg", "f1-score"),
-                eval_mini_batch_size = 32)
+                eval_mini_batch_size=4,
+                gold_label_dictionary_for_eval=eval_dict)
