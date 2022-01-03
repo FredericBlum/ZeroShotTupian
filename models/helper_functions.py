@@ -7,7 +7,7 @@ from flair.embeddings import FlairEmbeddings
 from flair.trainers.language_model_trainer import LanguageModelTrainer, TextCorpus
 from sklearn.model_selection import train_test_split
 
-def conllu_to_flair(path_in, lang, write_corpus: bool = False, write_raw: bool = False, write_testset: bool = False):
+def conllu_to_flair(path_in, lang, write_corpus: bool = False, write_raw: bool = False, write_testset: bool = False, deprel: bool = False):
     data = []
     raw_text = []
     count: int = 0
@@ -23,7 +23,11 @@ def conllu_to_flair(path_in, lang, write_corpus: bool = False, write_raw: bool =
             for tok in line:
                 if tok['upos'] != "_":
                     tok['form'] = tok['form'].replace("-", "")
-                    combined = tok['form'] + " " + tok['upos'] + " " + str(tok['head']) + " " + tok['deprel']
+
+                    if deprel == True:
+                        combined = tok['form'] + " " + tok['deprel'] + " " + str(tok['head'])
+                    else:
+                        combined = tok['form'] + " " + tok['upos'] + " " + str(tok['head']) + " " + tok['deprel']
                     features.append(combined)
                     raw.append(tok['form'])
                     count += 1
@@ -43,8 +47,11 @@ def conllu_to_flair(path_in, lang, write_corpus: bool = False, write_raw: bool =
         test = "\n\n".join(test)
         train = "\n\n".join(train)
         
-        data_folder = f'data/{lang}/features'
-        
+        if deprel == True:
+            data_folder = f'data/{lang}/deprel'
+        else:
+            data_folder = f'data{lang}/features'
+
         with open(f'{data_folder}/dev.txt', 'w') as f:
             f.write(dev)
         with open(f'{data_folder}/test.txt', 'w') as f:
@@ -62,7 +69,10 @@ def conllu_to_flair(path_in, lang, write_corpus: bool = False, write_raw: bool =
         half_2 = "\n\n".join(half_2)
         half_3 = "\n\n".join(half_3)
 
-        data_folder = f'data/{lang}/features'
+        if deprel == True:
+            data_folder = f'data/{lang}/deprel'
+        else:
+            data_folder = f'data{lang}/features'
         
         with open(f'{data_folder}/half_1.txt', 'w') as f:
             f.write(half_1)
@@ -134,17 +144,17 @@ def make_word_dictionary(languages):
             word_dict.add_item(word)
     return word_dict
 
-def write_tupi(write_corpus: bool = False, write_raw: bool = False, write_testset: bool = False):
-    akuntsu = conllu_to_flair('../UD/UD_Akuntsu-TuDeT/aqz_tudet-ud-test.conllu', lang = 'Akuntsu', write_corpus = write_corpus, write_raw = write_raw, write_testset = write_testset)
-    guajajara = conllu_to_flair('../UD/UD_Guajajara-TuDeT/gub_tudet-ud-test.conllu', lang = 'Guajajara', write_corpus = write_corpus, write_raw = write_raw, write_testset = write_testset)
-    kaapor = conllu_to_flair('../UD/UD_Kaapor-TuDeT/urb_tudet-ud-test.conllu', lang = 'Kaapor', write_corpus = write_corpus, write_raw = write_raw, write_testset = write_testset)
-    karo = conllu_to_flair('../UD/UD_Karo-TuDeT/arr_tudet-ud-test.conllu', lang = 'Karo', write_corpus = write_corpus, write_raw = write_raw, write_testset = write_testset)
-    makurap = conllu_to_flair('../UD/UD_Makurap-TuDeT/mpu_tudet-ud-test.conllu', lang = 'Makurap', write_corpus = write_corpus, write_raw = write_raw, write_testset = write_testset)
-    munduruku = conllu_to_flair('../UD/UD_Munduruku-TuDeT/myu_tudet-ud-test.conllu', lang = 'Munduruku', write_corpus = write_corpus, write_raw = write_raw, write_testset = write_testset)
-    tupinamba = conllu_to_flair('../UD/UD_Tupinamba-TuDeT/tpn_tudet-ud-test.conllu', lang = 'Tupinamba', write_corpus = write_corpus, write_raw = write_raw, write_testset = write_testset)
+def write_tupi(write_corpus: bool = False, write_raw: bool = False, write_testset: bool = False, deprel: bool = False):
+    akuntsu = conllu_to_flair('../UD/UD_Akuntsu-TuDeT/aqz_tudet-ud-test.conllu', lang = 'Akuntsu', write_corpus = write_corpus, write_raw = write_raw, write_testset = write_testset, deprel = deprel)
+    guajajara = conllu_to_flair('../UD/UD_Guajajara-TuDeT/gub_tudet-ud-test.conllu', lang = 'Guajajara', write_corpus = write_corpus, write_raw = write_raw, write_testset = write_testset, deprel = deprel)
+    kaapor = conllu_to_flair('../UD/UD_Kaapor-TuDeT/urb_tudet-ud-test.conllu', lang = 'Kaapor', write_corpus = write_corpus, write_raw = write_raw, write_testset = write_testset, deprel = deprel)
+    karo = conllu_to_flair('../UD/UD_Karo-TuDeT/arr_tudet-ud-test.conllu', lang = 'Karo', write_corpus = write_corpus, write_raw = write_raw, write_testset = write_testset, deprel = deprel)
+    makurap = conllu_to_flair('../UD/UD_Makurap-TuDeT/mpu_tudet-ud-test.conllu', lang = 'Makurap', write_corpus = write_corpus, write_raw = write_raw, write_testset = write_testset, deprel = deprel)
+    munduruku = conllu_to_flair('../UD/UD_Munduruku-TuDeT/myu_tudet-ud-test.conllu', lang = 'Munduruku', write_corpus = write_corpus, write_raw = write_raw, write_testset = write_testset, deprel = deprel)
+    tupinamba = conllu_to_flair('../UD/UD_Tupinamba-TuDeT/tpn_tudet-ud-test.conllu', lang = 'Tupinamba', write_corpus = write_corpus, write_raw = write_raw, write_testset = write_testset, deprel = deprel)
 
 def make_testset(language):
-    data_folder = f'data/{language}/features'
+    data_folder = f'data/{language}/deprel'
     columns = {0: 'text', 1: 'upos', 2:'head', 3: 'deprel'}
 
     corpus: Corpus = ColumnCorpus(data_folder, columns,

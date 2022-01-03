@@ -1,0 +1,300 @@
+Awjé obj 4
+ã discourse 1
+koʔɨté advmod 4
+eʔi root 0
+
+ɨgasápe obl 3
+kawi nmod 3
+tuja obl:subj 7
+, punct 7
+aʔe advmod 7
+ré goeswith 5
+iamomotá root 0
+, punct 7
+ojojá advmod 7
+waibĩ nmod 11
+rekuia conj 7
+
+Ojaoβok root 0
+serã discourse 1
+ɨβɨá dep 1
+ikatupe nmod 6
+ɲẽ discourse 4
+imoingóβo advcl 1
+inupãnupã obl 1
+janondé case 7
+? punct 1
+
+Marã obj 2
+eʔipe root 0
+jandéjara nsubj 2
+iʃupé obl 2
+? punct 2
+
+Itajuβa nsubj 5
+moruβiʃaβa nmod 4
+Rejamo obl 2
+sekó nmod 5
+mombewaβa root 0
+, punct 5
+ɨsɨkatãsɨapwana nsubj 10
+Tupanamo obl 9
+sekó nmod 10
+kwapaβa parataxis 5
+, punct 10
+toʔo nmod 14
+swi case 12
+mirra nsubj 17
+moroesé obj 16
+seʔõawama nmod 17
+mombewaβa parataxis 10
+
+SantaCruz nmod 2
+raʔangaβa advcl 5
+resé case 2
+, punct 2
+orépɨsɨrõ ccomp 21
+jepé nsubj 5
+, punct 5
+Tupã nsubj 5
+oréjar appos 8
+, punct 8
+oréamotareʔɨmbara obl 5
+swi obl 11
+. punct 11
+Tuβa nmod 19
+, punct 14
+Taʔɨra conj 14
+, punct 16
+EspíritoSanto conj 14
+rera parataxis 5
+pupé case 19
+eʔi root 0
+
+Marãnamo advmod 4
+βépe advmod 4
+asé nsubj 4
+joβasáβi root 0
+? punct 4
+
+Akó det 2
+ʃeremiɨβõmbúera root 0
+? punct 2
+
+Marã obj 2
+eʔipe root 0
+asé nmod 4
+karaiβeβe obj 6
+oarõana appos 4
+mongetábo advcl 2
+? punct 2
+
+jamongwá root 0
+moʃɨ nmod 3
+ruʔuba obj 1
+, punct 1
+iʃupé obl 6
+iaiemoitɨamo advcl 1
+
+Marãpe advmod 3
+ɨβɨá nsubj 3
+sereków root 0
+aʔe obl 3
+riré case 4
+? punct 3
+
+Sajkatu root 0
+
+Marãnamope root 0
+? punct 1
+
+Marãpe advmod 3
+judeus nsubj 3
+reków root 0
+aʔéreme advmod 3
+? punct 3
+
+Ojerokɨ root 0
+. punct 1
+
+Owatá root 0
+jepé discourse 1
+serã advmod 1
+ijɨβamokõja obj 1
+itapɨwá nmod 6
+soarama obj 1
+resé case 6
+? punct 1
+
+Marã advmod 2
+eʔipe root 0
+jandéjara nsubj 2
+ojukasara obl 2
+ri case 4
+oguβa obj 7
+mongetáβo dep 2
+? punct 2
+
+Asé nmod 2
+sumarã root 0
+swi obl 2
+
+Sesé case 3
+o nmod 3
+maʔendwáramo root 0
+e discourse 3
+asé nmod 7
+Tupã nmod 7
+rawsúβi ccomp 3
+o nmod 9
+pɨʔape obl 10
+sekó obj 11
+aβɨpotareʔɨma dep 7
+
+ʃejɨβoja root 0
+, punct 1
+ʃesokó parataxis 1
+, punct 3
+ʃetamũjusu parataxis 1
+Aimbiré appos 5
+, punct 5
+sukuriju parataxis 1
+, punct 8
+tawató parataxis 1
+, punct 10
+tamanwá parataxis 1
+atɨraβeβó nmod 12
+; punct 12
+ʃeaɲaŋa parataxis 1
+moropé nmod 15
+! punct 15
+
+Marã nsubj 2
+eʔipe root 0
+oguβa obl 2
+supé case 3
+ojekɨj obl 2
+janondé case 5
+? punct 2
+
+Ojkoβé root 0
+ʃepɨtɨβõanameté nsubj 1
+, punct 1
+ʃepɨri case 5
+marãtekoara appos 1
+, punct 1
+ʃeirunamo case 8
+okajβaʔe appos 1
+, punct 1
+tuβiʃákatu nmod 11
+Aimbiré appos 1
+, punct 1
+apɨaβa nmod 14
+moaŋaipapara appos 1
+. punct 1
+
+Marã advmod 2
+eʔipe root 0
+Jesus nsubj 2
+osɨ obl 2
+supé case 4
+oeʔõ obj 2
+janondé case 6
+? punct 2
+
+asé nmod 2
+rarõawama nmod 3
+resé root 0
+
+janemaɲana obl 3
+raɲe advmod 3
+tosó root 0
+janerenoné obl 3
+, punct 3
+opá nmod 7
+ok nmod 8
+ɨbɨ̃ja obj 9
+supa advcl 3
+
+Nitɨβetéi root 0
+semɨrwera nsubj 1
+
+Marãnamope root 0
+? punct 1
+
+Ajpó nsubj 2
+sawsukatupɨra root 0
+, punct 2
+ajpó nsubj 6
+aɲẽ discourse 6
+jamomeʔu conj 2
+ajpó nsubj 8
+imomoraŋɨpɨra conj 2
+. punct 2
+
+ʃe nsubj 3
+ɲõ advmod 3
+aʔupakatune root 0
+. punct 3
+Kweiseβé advmod 8
+, punct 5
+nakó discourse 8
+airumõ parataxis 3
+. punct 8
+Tasóne parataxis 3
+, punct 10
+wɨ discourse 10
+! punct 10
+Takaʔune parataxis 3
+! punct 14
+
+Marãpe advmod 2
+sereków root 0
+itɨmɨ obl 2
+janondé case 3
+? punct 2
+
+Taʃepɨsɨrõ ccomp 10
+Tupã nsubj 1
+ʃesumarã obl 1
+swi case 3
+, punct 1
+kwépe advmod 8
+marã nmod 8
+ʃerekoápe advcl 1
+, punct 8
+ojaβo root 0
+
+Mamõpe advmod 4
+ɨβɨá dep 3
+jandéjara nmod 4
+reroβasẽmi root 0
+koʔɨté advmod 4
+? punct 4
+
+kuɲãangaturama nmod 6
+aβá nmod 3
+βɨkawereʔɨma appos 1
+SantaMaria appos 1
+sérɨβaʔe acl 4
+membɨ́ramo obl 7
+sekóreme root 0
+
+Aopiranga obj 5
+, punct 1
+ju conj 1
+aβé cc 3
+owerur root 0
+ojoesé obl 5
+, punct 5
+oporeawsuβetekatúramo obl 5
+
+Ajepɨk root 0
+aɲe advmod 1
+sesé obl 1
+, punct 1
+ianamakatu obl 1
+riré case 5
+, punct 5
+ʃeremiaramo obl 9
+ipeʔaβo advcl 1

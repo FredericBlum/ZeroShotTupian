@@ -1,0 +1,422 @@
+ʔAromo advmod 2
+uker root 0
+. punct 2
+
+Oho root 0
+kaʔa obl 1
+rupi case 2
+pe obl 1
+rupi case 4
+. punct 1
+
+Ezapo root 0
+arapuk obj 1
+wiràmiripe obl 1
+nehe discourse 1
+
+Màràzàwe advmod 3
+tue discourse 1
+neremɨhar ccomp 7
+aipo advmod 3
+ʔɨ discourse 3
+, punct 3
+iʔi root 0
+Mari nsubj 7
+izupe iobj 7
+, punct 7
+hehe obl 12
+upuranupa advcl 7
+. punct 12
+
+Uhem root 0
+pino obl 1
+wi case 2
+. punct 1
+
+Tueharupi obl 2
+uputuka root 0
+umaʔe obj 2
+iko aux 2
+aʔe discourse 2
+. punct 2
+
+Waro root 0
+mahaw nmod 3
+turhaw obj 1
+. punct 1
+
+Uhɨape root 0
+katu advmod 1
+zahɨ nsubj 1
+aʔepe obl 1
+izupe obl 1
+kurɨ discourse 1
+. punct 1
+
+Tuweharupi obl 2
+uzuka root 0
+kateteaʔu advmod 2
+wiràmiri nsubj 2
+aʔepe obl 2
+. punct 2
+
+Aʔe det 3
+Tentehar nmod 3
+tɨkɨʔɨr nsubj 5
+maizu flat 3
+umumeʔu root 0
+parupi obl 8
+maʔe nmod 8
+uzeapomaʔe obj 5
+izupe iobj 8
+. punct 5
+
+Taʔe discourse 2
+ameʔeg root 0
+putar advmod 2
+awaxi obj 5
+heraha obj 2
+tawpe obl 5
+har advmod 5
+wanupe obl 2
+nehe discourse 2
+xe discourse 2
+. punct 2
+
+Azapo ccomp 7
+uken obj 1
+uhu nmod 2
+zumen obl 1
+wi case 3
+, punct 1
+iʔi root 0
+izupe iobj 7
+. punct 7
+
+Aʔe det 2
+maʔe nmod 4
+ʔɨw compound 2
+iʔa root 0
+ʔar obl 4
+katu discourse 5
+mehe case 5
+
+Ikatu root 0
+ahɨ advmod 1
+Karipe obl 1
+iʔu advcl 1
+mehe mark 4
+no discourse 1
+. punct 1
+
+Aʔepe obl 2
+uwexak root 0
+zekaipo advmod 2
+amo det 5
+mainumɨ nmod 9
+we discourse 5
+zepe discourse 5
+tentehar nmod 9
+tuaʔu obj 2
+zepe discourse 9
+zekaipo advmod 10
+raʔa discourse 2
+
+Amo det 2
+maʔe nmod 4
+putɨr nmod 2
+ʔɨpehar nsubj 7
+aʔe discourse 2
+, punct 7
+mururu root 0
+her obl 7
+romo case 8
+aʔe discourse 7
+. punct 7
+
+Zumen nsubj 2
+uʔu ccomp 5
+hemaʔe obj 2
+, punct 2
+iʔi root 0
+izupe iobj 5
+, punct 8
+wemirekope appos 6
+. punct 8
+
+Umaʔe obj 2
+mumeʔu root 0
+waiko aux 2
+uzeupeupe obl 2
+wà discourse 2
+kurɨ discourse 2
+. punct 2
+
+Hete root 0
+katu advmod 1
+Karipe obl 1
+aʔe discourse 3
+no discourse 1
+. punct 1
+
+Pixikaʔi root 0
+aʔe nsubj 1
+
+Te discourse 2
+umeʔe root 0
+aguza nmod 4
+iàkàgwer obl 2
+ɨwɨ nmod 4
+rehe case 5
+har advmod 5
+rehe case 4
+. punct 2
+
+Omowok ccomp 10
+xu nsubj 1
+aipo discourse 1
+pa discourse 1
+, punct 1
+pe obl 1
+iwɨr case 6
+pa discourse 6
+, punct 6
+iʔi root 0
+izupe iobj 10
+. punct 10
+
+Ikatu root 0
+ahɨ advmod 1
+kwarahɨ nsubj 1
+Maripe obl 1
+. punct 1
+
+Mari nmod 2
+imemɨr nsubj 5
+aʔe discourse 2
+, punct 5
+Kari root 0
+her obl 5
+romo case 6
+aʔe discourse 5
+. punct 5
+
+Wenu root 0
+wiwi discourse 1
+maʔe nmod 4
+ipuipuhaw obj 1
+pino nmod 4
+rehe case 5
+har advmod 5
+. punct 1
+
+Amo nsubj 2
+uzuka root 0
+miar obj 2
+kaʔape obl 2
+? punct 2
+
+Weraha root 0
+awaxi obj 1
+tawpe obl 1
+wa discourse 1
+. punct 1
+
+Uwewe root 0
+oho dep 1
+kaʔape obl 1
+wa discourse 1
+kurɨ discourse 1
+. punct 1
+
+Wexak root 0
+amo det 3
+awa obj 1
+aʔepe obl 1
+
+Kwa discourse 2
+namono root 0
+wer advmod 2
+kwaw advmod 2
+zepe discourse 2
+herukaz obl 2
+rehe case 6
+newe obl 2
+tɨ discourse 2
+, punct 12
+taʔe mark 12
+reta ccomp 2
+amo det 14
+maʔe nsubj 12
+aʔepe obl 12
+wà discourse 12
+xe discourse 12
+. punct 12
+
+Izipɨ obl 5
+mehe case 1
+Tentehar nsubj 5
+wazegarhaw nmod 5
+herurawer root 0
+
+Aipo discourse 2
+iazu ccomp 6
+nànà nsubj 2
+raʔe discourse 2
+, punct 2
+iʔi root 0
+wiwi discourse 6
+Kari nsubj 6
+izupe iobj 6
+, punct 6
+hehe obl 12
+upuranupa advcl 6
+. punct 12
+
+Uzapi root 0
+kurɨ discourse 1
+. punct 1
+
+Heta root 0
+maʔe nsubj 1
+putɨr nmod 2
+ʔɨ obl 1
+ʔaromo case 4
+. punct 1
+
+Oho root 0
+maʔe obl 1
+putɨr nmod 2
+rehe case 2
+, punct 6
+mururu appos 3
+rehe case 6
+. punct 6
+
+xapat nmod 2
+xigmaʔe obj 3
+umeʔeg root 0
+kar advmod 3
+no discourse 3
+. punct 3
+
+Naʔe discourse 3
+Maizu nsubj 3
+iziwà root 0
+uiwɨrɨ nmod 5
+hetekwer obj 3
+ikwapar obl 3
+ʔɨmaz advmod 6
+. punct 3
+
+Taʔe mark 3
+zekaipo advmod 3
+wetun root 0
+hekwen obj 3
+xe discourse 3
+. punct 3
+
+Oho root 0
+kaʔapiʔi obl 1
+rehe case 2
+. punct 1
+
+Uhem root 0
+toʔoʔtoʔom obl 1
+me case 2
+. punct 1
+
+Oho root 0
+putar advmod 1
+uhɨ obl 1
+rupi case 3
+umaʔe obj 6
+iputukapa advcl 1
+kurɨ discourse 1
+. punct 1
+
+Maʔe obj 4
+te discourse 1
+awa nsubj 4
+uzuka root 0
+kaʔape obl 4
+? punct 4
+
+Eraha root 0
+kok obj 1
+ne nsubj 1
+nehe discourse 1
+. punct 1
+
+Heta root 0
+awaxi nsubj 1
+teteaʔu advmod 2
+aʔepe obl 1
+. punct 1
+
+Upuranu root 0
+tuaʔu obl 1
+hehe case 2
+: punct 1
+
+Ipururuhu ccomp 14
+zanekɨhaw nsubj 1
+, punct 1
+aʔe obl 6
+rupi case 4
+ximono conj 1
+kwarahɨ obl 6
+rupi case 7
+zane nsubj 6
+, punct 6
+imukàgkarpa advcl 6
+zane nsubj 11
+, punct 11
+iʔi root 0
+Mari nsubj 14
+Karipe obl 14
+. punct 14
+
+Amo det 2
+awa nsubj 9
+aʔe discourse 2
+, punct 6
+Zuze nmod 6
+tu appos 2
+aʔe discourse 6
+, punct 6
+uputar root 0
+awaxi nmod 12
+Zuze nmod 12
+kopehar obj 9
+aʔe discourse 9
+. punct 9
+
+Wiko root 0
+aʔepe obl 1
+
+Umeʔe root 0
+hoko nsubj 1
+iko aux 1
+ipira obl 1
+rehe case 4
+kurɨ discourse 1
+. punct 1
+
+Uzemaraz root 0
+iko aux 1
+hehe obl 1
+kurɨ discourse 1
+, punct 1
+uzàn parataxis 1
+wi discourse 6
+aguza nsubj 6
+oho dep 6
+izuwi obl 6
+no discourse 6
+, punct 6
+pixàn nsubj 14
+upɨhɨk parataxis 6
+wi discourse 14
+no discourse 14
+. punct 14

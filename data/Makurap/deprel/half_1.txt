@@ -1,0 +1,89 @@
+ngot dep 2
+xiaret root 0
+
+yãn advmod 3
+oxepngoret obj 3
+oerã root 0
+kepit cc 5
+eta conj 3
+on nsubj 5
+toa dep 5
+
+kito obj 6
+moke nmod 3
+xiat nmod 1
+ekuwaora dep 1
+kepit dep 6
+pukpuga root 0
+õn nsubj 6
+
+xeke root 0
+xēke discourse 1
+ke discourse 1
+
+mokat advmod 3
+peitõã advmod 3
+etera root 0
+amang parataxis 3
+korop parataxis 3
+kux obl 5
+me case 6
+
+kepit cc 5
+eya dep 5
+õn nsubj 5
+waokatmõ advmod 5
+papiknga root 0
+ke discourse 5
+
+arimot root 0
+urot nmod 1
+arimot discourse 1
+urot nmod 3
+
+põrom advmod 2
+toa root 0
+, punct 2
+pit parataxis 2
+
+i discourse 5
+eya dep 5
+on nsubj 5
+wet advmod 5
+toa root 0
+ke discourse 5
+pit advmod 5
+
+woaret root 0
+koa discourse 1
+
+mokat advmod 2
+etera root 0
+kurux conj 2
+
+mawo obj 2
+papīknga root 0
+mokat advmod 5
+etyenkuax obj 5
+nã parataxis 2
+xoknga parataxis 5
+xok dep 6
+
+xop obl 4
+me case 1
+pote advmod 4
+worawiget root 0
+xop obl 4
+me case 5
+
+xop nmod 3
+koa discourse 3
+ten advmod 4
+nã xcomp 5
+peka root 0
+
+ã discourse 2
+en root 0
+emẽ obj 5
+xop dep 2
+nẽnẽkaret dep 4

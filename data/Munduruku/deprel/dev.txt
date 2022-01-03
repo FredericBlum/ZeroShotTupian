@@ -1,0 +1,92 @@
+Iwi obl 3
+be case 1
+imõg̃mõg̃ root 0
+ip nsubj 3
+ta advcl 3
+am mark 5
+. punct 3
+Tao nmod 9
+uk advcl 12
+puje mark 9
+axima nsubj 12
+nõm parataxis 3
+e'em aux 12
+ip dep 11
+. punct 12
+Axima obj 17
+tatam parataxis 3
+ip nsubj 17
+uktup obl 17
+pe case 19
+. punct 17
+Iwi obj 24
+be case 22
+imõg̃mõg̃ parataxis 3
+ip nsubj 24
+uktup obl 24
+pe case 26
+axima obj 29
+mupuruk advcl 24
+am mark 29
+. punct 24
+
+Toxaw obl 2
+oajẽm root 0
+ka obl 2
+be case 3
+
+Awawa obl 2
+o'tobuxik root 0
+
+Oexe root 0
+awawa obl 1
+
+Eg̃uycũg̃ advcl 4
+pimap mark 1
+, punct 1
+ecepe root 0
+eg̃rũ obl 4
+be case 5
+
+Ka'ũma root 0
+! punct 1
+
+wida obl 2
+o'jeaokaat root 0
+ag̃okatkat obl 2
+pe case 3
+
+I'it nsubj 3
+tak advmod 3
+uk'a root 0
+be case 3
+
+Ajojot nsubj 4
+jekobe obl 4
+be case 2
+cum root 0
+
+Kapusu advmod 3
+dapsem obl 3
+o'yaokaiat root 0
+g̃oku obl 3
+, punct 3
+Katõ obl 8
+bewi case 6
+oajẽmiat appos 3
+
+Ixiwe obl 2
+o'tobuxik root 0
+ako obl 2
+xe case 3
+
+I'it nsubj 2
+wa root 0
+du discourse 2
+? punct 2
+
+wexey obl 5
+bi case 1
+wida obl 5
+biopak obl 5
+o'yaoka root 0

@@ -1,0 +1,366 @@
+pe advmod 4
+aʔi nsubj 4
+ai amod 2
+tur root 0
+je discourse 4
+tĩ advmod 4
+
+karai nsubj 4
+riki advmod 1
+muka obj 4
+mopok root 0
+
+Tapiʔir obj 2
+ujan root 0
+
+kakake obj 3
+kurumĩ nsubj 3
+uʔu advcl 7
+rahã mark 3
+aʔe nsubj 7
+hãʔĩmke obj 7
+matɪr root 0
+
+taʔin nsubj 3
+hokwenke obj 3
+nupã root 0
+uʔam advmod 3
+
+sawaʔe root 0
+panem amod 1
+ta nmod 1
+ke discourse 1
+upa det 1
+
+Pe advmod 4
+, punct 1
+ihẽ nsubj 4
+ajapi root 0
+indo obl 4
+
+ihẽ nsubj 3
+ʔok obj 3
+amujã root 0
+
+taʔɪnke nmod 3
+itawa amod 1
+imu nsubj 4
+parahɪahɪ root 0
+ipe iobj 4
+je discourse 1
+
+Tuktuktuk root 0
+aja advmod 1
+riki discourse 1
+
+panduʔɪmanu root 0
+taʔɪn nsubj 1
+je discourse 1
+tĩ advmod 1
+
+Maiɾ nsubj 3
+ɪwɪke obj 3
+hapɪ root 0
+
+pe cc 5
+kamarar nsubj 5
+jarusu nmod 4
+raʔɪr obj 5
+raho root 0
+
+Purutuke nsubj 2
+ahem root 0
+
+ne nmod 2
+raʔɪr obj 4
+ihē nsubj 4
+apɪhɪk root 0
+aʃo aux 4
+
+taʔɪn nsubj 2
+ukwerta advcl 9
+je discourse 2
+tĩ discourse 2
+, punct 2
+ko nmod 7
+aʔi nsubj 9
+iháike obj 9
+piɾokhũ root 0
+je discourse 9
+pe advmod 9
+iʔaɾpe advmod 13
+pɪnuhũ conj 9
+
+pe cc 3
+ɪ nmod 3
+rɪmɪʔɪ root 0
+rehe obl 3
+riki case 3
+kamarar nmod 8
+ta nmod 6
+pirer obl 3
+pirā amod 8
+
+pe advmod 2
+oho root 0
+je discourse 2
+tĩ advmod 2
+
+ihẽ nsubj 3
+taɁɪnke obj 3
+amuɁe root 0
+
+pe advmod 6
+saʔe nmod 3
+aʔi nsubj 6
+ihái obj 6
+ʃirurke amod 4
+pirokhũ root 0
+je discourse 6
+ihai obj 6
+aike amod 8
+
+Maíra nsubj 2
+wata root 0
+
+Pe advmod 4
+, punct 1
+taʔɪrer obj 4
+ujan root 0
+
+a’eta nsubj 6
+ma’e nmod 3
+jukwahá obj 6
+ihẽke obl 6
+pe obl 4
+me’ẽ root 0
+
+ihẽ nsubj 3
+neke obj 3
+apɪhɪk root 0
+ʔɪ aux 3
+
+aʔe nsubj 4
+tatu obj 4
+ke nmod 4
+uʔuta root 0
+
+ihẽ nsubj 3
+narãjke obj 3
+apirok root 0
+
+ajameʔẽ advmod 5
+ke discourse 3
+Urupe nsubj 5
+jeʔẽha obj 5
+mondo root 0
+tĩ advmod 5
+
+ne nsubj 3
+ihẽke iobj 3
+remusak root 0
+ʔɪ aux 3
+
+netawate root 0
+nekeã nsubj 1
+nejɪtɪʔɪmte conj 1
+amõ advmod 3
+ʔɪ discourse 3
+
+Tuti obj 4
+ke discourse 1
+ʃaʔe nsubj 4
+jukwa root 0
+
+neke nsubj 3
+uʔike obj 3
+rekarãjta root 0
+
+ihē nsubj 3
+ndeke obj 3
+araho root 0
+tar ccomp 3
+katu advmod 3
+tipe discourse 3
+
+pe advmod 5
+imu nsubj 5
+uʔɪ obj 5
+raʔɪr amod 3
+mujã root 0
+ipe iobj 5
+je discourse 5
+uʔɪ obl 5
+sepetu nmod 10
+ɪrapar nmod 8
+raʔɪr amod 10
+
+Arahã advmod 6
+maʔe obj 6
+Kaninde obl 6
+rehe case 3
+ihẽ nsubj 6
+araho root 0
+
+Pe advmod 4
+, punct 1
+imãi obj 4
+ihĩ root 0
+
+ko advmod 4
+riki case 1
+ihē nsubj 4
+ahɪk root 0
+ajur csubj 4
+jarupa obl 4
+rehe case 6
+
+aʔerehe advmod 4
+tarũ nsubj 4
+neʃĩke obj 4
+joʔok root 0
+
+aʔeke nsubj 3
+ipɪke obj 3
+tukwa root 0
+
+Tɪapu root 0
+riki discourse 1
+
+Anake nmod 2
+heɁõɁɪ root 0
+
+Xõru nsubj 2
+nixói root 0
+se obj 2
+aʔe nmod 2
+
+Maírake nsubj 2
+wata root 0
+
+Tapiʔir obj 2
+ujan root 0
+oho compound 2
+
+pāsɪkwer obj 3
+riki advmod 3
+matɪr root 0
+uhu advmod 1
+ngā nsubj 3
+ipe case 1
+
+pe cc 5
+riki advmod 5
+katar obj 5
+ngã nsubj 5
+muhɪk root 0
+
+neke nsubj 3
+ihẽ obj 3
+remupuʔam root 0
+ʔɪ aux 3
+
+a’eta nsubj 2
+ajengar root 0
+
+apo advmod 4
+pehẽ nsubj 4
+ihẽke obj 4
+peharõta root 0
+
+ihē nmod 2
+rãi obj 4
+ihē nsubj 4
+amoīta root 0
+tipe discourse 4
+
+aʔe nsubj 3
+ikɪke obj 3
+jiʔok root 0
+
+Purutu nsubj 2
+ahem root 0
+
+ihē nsubj 3
+ahota csubj 3
+asak root 0
+
+Oropo nsubj 3
+huʔɨ obj 3
+pɨhɨk root 0
+
+mɪra nsubj 5
+pirerke nmod 1
+teʔe advmod 5
+pirawan obj 5
+muwak root 0
+
+jane nsubj 2
+japikũj root 0
+mi discourse 2
+? punct 2
+
+ne nsubj 3
+ihẽke obj 3
+renupã advcl 6
+rahã mark 3
+ihẽ obj 6
+ahota root 0
+
+aʔeke nsubj 2
+uʔuta root 0
+pɪpɪhu obj 2
+ketĩ discourse 2
+
+Mataru nsubj 4
+ʃaʔe obj 4
+ke discourse 2
+nupã root 0
+tĩ discourse 4
+
+ihẽ nsubj 3
+neke obj 3
+akutukta root 0
+
+uʔike obj 4
+wiraʔi nmod 3
+take nsubj 4
+uʔu root 0
+ɪm discourse 4
+
+pe cc 7
+taramō advmod 7
+kaitā nsubj 7
+juʔipape nmod 5
+piʔa iobj 7
+usak ccomp 7
+oho root 0
+tī advmod 7
+pɪtuniwe advmod 7
+
+ne nsubj 3
+taɁɪnke obj 3
+eremuɁe root 0
+
+ihẽ nsubj 3
+ikɪ obj 3
+ajiʔok root 0
+ʔɪ aux 3
+
+ko advmod 5
+ihē nsubj 5
+paper obj 5
+pinim amod 3
+amuwɪr root 0
+nde iobj 5
+pe case 6
+
+Oho root 0
+uĩ xcomp 1
+tipe discourse 1
+ã discourse 1
+
+mahem root 0
+arapuha nsubj 1
+himiʔu obj 1
+oho aux 1

@@ -1,0 +1,95 @@
+xa obl 4
+diot nmod 1
+pe case 1
+o'xet root 0
+
+ag̃okatkat obl 2
+o'ju root 0
+puybit obj 4
+aokam ccomp 2
+
+Ixi nsubj 3
+wa'e obj 3
+kug̃ root 0
+
+Wuy'adapmude'o'onapti obl 3
+dak advmod 3
+otibu root 0
+
+kat nmod 2
+pujeat nsubj 3
+ocemudirem root 0
+
+Toxaw obl 4
+dak advmod 4
+jexat obl 4
+o'tobuxik root 0
+
+Tawe nsubj 2
+ixat root 0
+, punct 2
+toxaw nmod 5
+xat appos 2
+
+Tõm root 0
+e'em aux 1
+ip nsubj 1
+. punct 1
+Ẽ obl 7
+be case 5
+ijukjug̃ parataxis 1
+ip nsubj 7
+. punct 7
+Axima nmod 11
+nõm obj 12
+cukcug̃ parataxis 1
+ip nsubj 12
+ẽ obl 12
+be case 14
+, punct 12
+wãẽn nmod 18
+tuk'a obl 12
+be case 18
+. punct 12
+Tõm obj 22
+cuk advcl 26
+puje mark 22
+, punct 22
+tõm obj 26
+ipriprim parataxis 1
+pag̃eiro'a obl 26
+be case 27
+. punct 26
+
+Toxaw obl 3
+dak advmod 3
+oexe root 0
+
+Toxaw obl 3
+tawe obl 3
+o'tobuxik root 0
+tu dep 3
+? punct 3
+
+Wara'at nmod 2
+axima nsubj 3
+yobog̃bug̃ root 0
+. punct 3
+Potiprit nsubj 8
+, punct 5
+pakodup conj 5
+yobog̃bug̃yũ parataxis 3
+. punct 8
+Pig̃ãm obj 12
+axima nsubj 12
+muyhum parataxis 3
+ip nsubj 12
+. punct 12
+
+Soat nmod 2
+bekitkit root 0
+ibeg̃beg̃ amod 2
+o'e dep 2
+ade nmod 6
+puybit advcl 2
+puye case 6

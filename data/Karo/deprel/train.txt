@@ -1,0 +1,2423 @@
+kɨganape advmod 3
+ahyə discourse 1
+ekerap root 0
+
+agóaʔpət nsubj 2
+iket root 0
+
+iyõm root 0
+mãt amod 1
+
+nãya compound 3
+gap clf 1
+peʔwap root 0
+
+õn nsubj 3
+ĩriŋ obj 3
+macéri root 0
+gán dep 3
+
+õn nsubj 2
+aʔwĩn root 0
+aʔ=to advcl 2
+kanãp mark 3
+
+maʔpəy root 0
+becép amod 1
+
+pagon nummod 3
+nóptem dep 3
+nakõm root 0
+nap nmod 3
+tə discourse 3
+
+ip obj 2
+ʔɨya root 0
+aʔkay aux 2
+yahmãm advmod 2
+
+maʔwit nsubj 4
+tah case 1
+mõm advmod 1
+wɨy root 0
+
+taykit advmod 3
+péŋ nsubj 3
+ekɨga root 0
+
+cán root 0
+nãʔ clf 1
+
+õn nsubj 2
+ŋabean root 0
+ya mark 5
+ŋa nsubj 5
+oyaʔti dep 2
+nãn cop 5
+
+agóaʔpət nmod 3
+at case 1
+tágɨp root 0
+
+mani root 0
+nãʔ clf 1
+
+agóaʔpət nsubj 2
+wɨy root 0
+
+õn nsubj 2
+epɨy root 0
+co dep 2
+
+ŋaramãya root 0
+
+owakán root 0
+iʔke advmod 1
+ekəy obl 1
+
+wirik compound 2
+kanã root 0
+cú amod 2
+
+at nmod 2
+tágɨp root 0
+
+to=kera root 0
+iʔke advmod 1
+maʔwɨt nsubj 4
+ʔet ccomp 1
+
+ŋit root 0
+toʔwa aux 1
+aʔkay aux 1
+yahmãm advmod 1
+
+kahyep root 0
+wet aux 1
+aʔkəy obj 1
+
+at nsubj 5
+toat nmod 3
+kaʔaʔ obj 5
+ʔaʔ clf 3
+pẽn root 0
+
+at nsubj 2
+otoy root 0
+
+tɨk compound 2
+tɨk parataxis 7
+at aux 2
+toat nmod 5
+wirik obj 7
+kanã advmod 5
+təga root 0
+tə mark 7
+
+at nsubj 3
+ahyə dep 3
+úeúe root 0
+ye aux 3
+
+õn nsubj 3
+cĩm obj 3
+yegat root 0
+yat mark 3
+co dep 3
+
+maʔwɨt nsubj 2
+ken root 0
+
+õn nsubj 2
+aʔtoy root 0
+iʔke advmod 2
+at nmod 5
+kaʔa obl 2
+ʔa clf 5
+peʔ case 5
+
+ipá root 0
+beʔ clf 1
+
+õn nsubj 2
+amaken root 0
+
+ʔiriŋ obj 2
+nakəga root 0
+
+púŋ root 0
+wet aux 1
+yat mark 1
+iʔke advmod 1
+
+õn nsubj 3
+aʔpap xcomp 3
+toy root 0
+
+kɨgope advmod 4
+ahyə discourse 1
+ekap aux 4
+eyaʔwara root 0
+
+kõm advmod 4
+ahyə discourse 1
+mãygãra nsubj 4
+etóp root 0
+
+õn nsubj 3
+yaracewag obj 3
+yaʔti root 0
+nãn cop 3
+
+oyaʔwan root 0
+át obl 1
+mãm discourse 1
+
+icapop root 0
+pɨʔ clf 1
+
+at nsubj 3
+mãygãra obj 3
+wĩn root 0
+tə mark 3
+
+púŋ root 0
+wet aux 1
+péŋ obj 1
+kəy case 1
+
+õn nsubj 3
+péŋ obj 3
+yati root 0
+nãn cop 3
+iʔke clf 3
+
+[õn nsubj 4
+iʔke] advmod 1
+mãygãra obj 4
+roy root 0
+
+mɨrɨrɨy nsubj 2
+imatẽran root 0
+nãnin advmod 2
+toʔwa aux 2
+
+õn nsubj 2
+aʔtoy root 0
+
+maʔpəy root 0
+ŋa clf 1
+para amod 1
+ŋa clf 1
+
+maʔpəy nsubj 3
+icɨ obj 3
+téy root 0
+
+maʔwɨt nsubj 2
+paraʔkət root 0
+
+õn nsubj 4
+wat obj 4
+tap case 2
+yaʔti root 0
+nãn cop 4
+cúrem advmod 4
+
+okennem root 0
+wet aux 1
+
+war nmod 2
+owã nsubj 4
+ŋa clf 2
+bakán root 0
+okəy mark 4
+
+púŋ root 0
+at aux 1
+ahyə mark 1
+
+aʔwero obj 2
+toba root 0
+okay aux 2
+
+pew root 0
+bət amod 1
+
+õn nsubj 2
+aʔtoy root 0
+
+naʔyop root 0
+cɨʔ clf 1
+cú amod 1
+cɨʔ clf 1
+
+ẽn root 0
+ahyə mark 1
+iket dep 1
+
+karokérara root 0
+
+toto nsubj 2
+ibetõ root 0
+mɨy advmod 2
+mãm discourse 2
+ŋán dep 2
+
+õn nsubj 2
+aʔtoy root 0
+nãnin discourse 2
+coke discourse 2
+
+maʔpəy nmod 3
+at nmod 1
+manikap root 0
+
+Petɨp nsubj 2
+petõn root 0
+iʔke advmod 2
+matet obl 2
+
+kanãy advmod 3
+wep aux 3
+okera root 0
+
+õn nsubj 2
+aʔtoy root 0
+yar mark 2
+iʔke advmod 2
+
+mãygãra obj 2
+wĩa xcomp 5
+wat nmod 4
+owẽ nsubj 5
+kay root 0
+
+aʔwét root 0
+tokõna case 1
+
+aʔcey root 0
+ŋa clf 1
+yat mark 1
+
+toat nmod 2
+páy root 0
+gəy case 2
+roʔwa aux 2
+
+oyaʔwara root 0
+okay aux 1
+aʔtoy xcomp 1
+iga discourse 3
+
+õn nsubj 3
+ip obj 3
+ʔɨy root 0
+okõna mark 3
+
+okun root 0
+ŋɨt amod 1
+
+oti root 0
+gán dep 1
+
+at nsubj 3
+mãygãra obj 3
+wĩn root 0
+igã mark 3
+
+maʔɨp root 0
+cakot amod 1
+
+cárarem root 0
+õn nsubj 1
+
+naʔto obj 5
+cú amod 1
+iʔke advmod 1
+at nsubj 5
+iwĩ root 0
+
+kanãy advmod 7
+pèŋ nsubj 7
+ʔep aux 7
+toat nmod 5
+mok obj 7
+peroʔ clf 5
+cára root 0
+icɨ obl 7
+peʔ case 8
+
+karoat nsubj 2
+yãn root 0
+iʔke advmod 2
+tẽna advmod 2
+
+õn nsubj 2
+abeʔmẽn root 0
+
+pecéptem advmod 2
+aʔtarap root 0
+
+nãn nsubj 2
+iket root 0
+
+ŋabenaoy root 0
+abihmãm obl 1
+
+ipá root 0
+gáʔ clf 1
+
+óra root 0
+becép amod 1
+
+iyõm root 0
+ŋõm case 1
+
+owicorop xcomp 2
+ken root 0
+
+abaʔpan root 0
+
+mẽt advmod 3
+wep aux 3
+púŋ root 0
+wa aux 3
+
+agóaʔpət root 0
+aʔnãn cop 1
+igã discourse 1
+
+icey root 0
+ŋa clf 1
+
+taraptem advmod 2
+õn root 0
+okõna case 2
+
+maʔwɨr nmod 3
+at case 1
+pewit root 0
+, punct 3
+ŋaat nmod 6
+pewit appos 3
+koãm mark 6
+
+õn nsubj 4
+er nmod 3
+iyõm obj 4
+noy root 0
+matet obl 4
+
+[at nsubj 4
+toat nmod 3
+macaʔɨt obj 4
+wĩn root 0
+nãt] mark 4
+totia dep 4
+
+opábeʔ root 0
+, punct 1
+epábeʔ conj 1
+koãm mark 3
+
+maʔpəy nsubj 4
+bat amod 1
+óra compound 4
+wɨy root 0
+
+korét root 0
+capõt compound 1
+
+maʔpəy nsubj 2
+ken root 0
+
+maʔwɨt nmod 3
+at case 1
+kaʔa root 0
+õn nsubj 5
+itop ccomp 3
+
+onakɨra compound 2
+cop root 0
+
+mĩm obl 5
+mãm discourse 5
+iʔke advmod 1
+péŋ nsubj 5
+yowarap root 0
+
+teʔyoy root 0
+iʔke advmod 1
+tawrem advmod 1
+
+ameko nsubj 2
+aʔkɨgat root 0
+tpu obl 2
+toʔwa aux 2
+
+wagag nmod 2
+naká root 0
+
+o=kera root 0
+kanã mark 1
+
+cat compound 3
+pap clf 1
+cakɨ root 0
+
+kanãy advmod 4
+aʔpap amod 4
+ʔet aux 4
+towecɨra root 0
+
+owakán root 0
+aʔkəy obl 1
+
+at nsubj 2
+otoy root 0
+
+karamnoʔ root 0
+
+maʔpəy nsubj 6
+rap case 1
+pat amod 1
+tah case 1
+mõm advmod 1
+ikérat root 0
+
+naʔyop root 0
+cɨʔ clf 1
+
+yep root 0
+at aux 1
+
+át obl 3
+mãm discourse 3
+oyaʔwarap root 0
+
+nãn nsubj 2
+nərəŋ root 0
+toʔwa aux 2
+
+tenaʔwara root 0
+reʔkay aux 1
+
+agóaʔpət nsubj 3
+mãygãra obj 3
+roy root 0
+iʔke clf 3
+
+pattem advmod 4
+iʔke advmod 1
+web aux 4
+okera root 0
+
+karo nmod 2
+nãg root 0
+aʔ clf 1
+
+ẽn nsubj 4
+ekera xcomp 4
+kanã mark 2
+yaʔti root 0
+nãn cop 4
+ahyə mark 4
+
+aʔpɨya root 0
+wet aux 1
+wat nmod 4
+kaʔa obl 1
+ʔa clf 4
+peʔ case 4
+
+at nsubj 3
+towirup obj 3
+ʔot root 0
+cúrem advmod 3
+
+oyãy root 0
+gáʔ clf 1
+
+oyãy nsubj 2
+bemeŋãn root 0
+
+õn nsubj 3
+ŋa obj 3
+tati root 0
+ẽn nsubj 5
+ŋato dep 3
+nãt mark 5
+wa aux 5
+
+wayo compound 2
+nak root 0
+pap clf 2
+cú amod 2
+bap clf 2
+
+eken root 0
+ahyə mark 1
+
+war nmod 2
+iyõm nsubj 4
+ib obj 4
+an root 0
+
+péŋ nsubj 2
+aʔwĩn root 0
+nãnin discourse 2
+aket discourse 2
+
+at nsubj 4
+toat nmod 3
+makãri obj 4
+rakət root 0
+
+at nmod 2
+kaʔa root 0
+ʔa clf 2
+peʔ case 2
+iʔke advmod 2
+wep aux 7
+aʔtoba ccomp 2
+
+iʔtə nsubj 5
+maʔpəy nmod 4
+ŋa clf 2
+cet obj 5
+maʔã root 0
+iʔke advmod 5
+nãnin mark 5
+
+ŋa nsubj 4
+toat nmod 3
+owẽ obj 4
+ragahmõm root 0
+nãn cop 4
+
+maʔwɨr root 0
+yet aux 1
+mãygãra obj 4
+roba xcomp 1
+
+púŋpúŋ root 0
+karoʔwa aux 1
+
+maʔpəy nsubj 7
+ŋa clf 1
+ʔet aux 7
+at nmod 5
+chapéu obj 7
+káʔ clf 5
+tiga root 0
+menə mark 7
+
+nãn nsubj 2
+oturum root 0
+toʔwa aux 2
+
+õn nsubj 3
+ip obj 3
+ʔɨy root 0
+
+at nsubj 3
+mãygãra obj 3
+wĩn root 0
+coke mark 3
+
+tap nsubj 2
+táy root 0
+nãn cop 2
+iʔke advmod 2
+
+nãn nsubj 3
+ikap aux 3
+púŋpúŋ root 0
+toʔwa aux 3
+
+iyãy root 0
+gap clf 1
+
+Antônio nsubj 2
+yãn root 0
+kaʔa obl 2
+ʔa clf 3
+naʔot advmod 3
+peʔ case 5
+
+[ar nmod 2
+owẽ nsubj 6
+rab case 2
+iʔke] advmod 2
+ewirup obj 6
+ʔot root 0
+
+naʔwəy nmod 2
+bía root 0
+
+kanãy advmod 4
+yét nmod 3
+péŋ nsubj 4
+[ʔet] root 0
+
+itɨ root 0
+op compound 1
+cú amod 1
+
+aʔken root 0
+pə discourse 1
+menə discourse 1
+
+nãya compound 3
+gap clf 1
+peʔwap root 0
+paʔpik amod 3
+kap clf 3
+
+ŋa nsubj 4
+toat nmod 3
+owẽ obj 4
+tanogat root 0
+
+oken root 0
+iʔke advmod 1
+
+at nsubj 4
+toat nmod 3
+cĩm obj 4
+nati root 0
+aʔcá xcomp 4
+nãt mark 5
+toʔwa aux 5
+
+péŋ dep 3
+iʔke advmod 1
+aʔtoy root 0
+tə mark 3
+
+õn nsubj 2
+emaberopit root 0
+ŋakəy obj 2
+
+ameko nsubj 2
+otoy root 0
+
+uéué root 0
+we aux 1
+yat discourse 1
+
+wəŋnem advmod 4
+mɨrɨrɨy nsubj 4
+ʔet aux 4
+iʔpéya root 0
+
+maʔwɨt nsubj 2
+yaʔwan root 0
+ŋapik obl 2
+
+õn nsubj 3
+ameko obj 3
+toy root 0
+
+wat nmod 2
+kaʔa nmod 4
+ʔa clf 2
+pɨk=toʔ root 0
+
+õn nsubj 2
+omãmnoy root 0
+
+karam nmod 2
+yogá root 0
+bɨʔ clf 1
+
+tuy obl 6
+Babesáya nsubj 6
+ŋa clf 2
+ʔet aux 6
+yate obj 6
+taʔwara root 0
+
+wat nmod 2
+ip nmod 3
+ʔɨya root 0
+kanã dep 3
+
+mok root 0
+pab clf 1
+aʔ clf 1
+
+maʔta root 0
+maʔ clf 1
+
+ayaʔwan root 0
+topə discourse 1
+nãnin discourse 1
+
+owaraʔkət root 0
+
+mõm root 0
+at aux 1
+okəy obj 1
+
+okət root 0
+
+oweʔŋət root 0
+
+péŋ nsubj 2
+aʔwĩn root 0
+aket mark 2
+igã mark 2
+
+koran root 0
+map nmod 1
+
+eyaʔi root 0
+
+icap root 0
+pɨʔ clf 1
+cára amod 1
+bɨʔ clf 1
+
+mãygãra obj 4
+roba xcomp 4
+at aux 4
+towɨya root 0
+
+acagá root 0
+
+epɑ̃n root 0
+mãm discourse 1
+ahyə mark 1
+
+kõm advmod 3
+aʔcat obj 3
+menə root 0
+
+at nsubj 2
+ecapét root 0
+ahyə mark 2
+
+at nsubj 2
+aʔwĩn root 0
+pə advmod 2
+
+ip nsubj 4
+tokõna mark 1
+õn nsubj 4
+yɨy root 0
+
+pattem advmod 3
+ahyə mark 3
+ekerap root 0
+
+tomanẽ nmod 2
+mãŋa root 0
+tə discourse 2
+
+war nmod 2
+icɨ obj 3
+ʔara root 0
+okay aux 3
+co mark 3
+
+[yét det 2
+péŋ] nsubj 3
+paʔpan root 0
+
+cibekonnoʔ root 0
+
+owakán root 0
+omãmkəy obl 1
+
+õn nsubj 3
+iʔke advmod 1
+iket root 0
+
+məy advmod 8
+maʔpəy nsubj 8
+ŋa clf 2
+ʔet aux 8
+at nmod 6
+chapéu obj 8
+káʔ clf 6
+tiga root 0
+ɨgana obl 8
+peʔ case 9
+
+cãn obj 2
+nakəga root 0
+
+kahyep root 0
+wet aux 1
+aʔkəy obj 1
+
+aʔken root 0
+
+ar nsubj 2
+atati root 0
+baʔpiktem advmod 2
+meŋɨk advmod 2
+to dep 2
+
+aʔcot root 0
+tap case 1
+
+war nmod 2
+owẽ root 0
+rab case 2
+iʔke advmod 2
+baʔpiktem advmod 2
+
+wayo obj 4
+gap amod 1
+ar nsubj 4
+iʔop root 0
+
+tanaká compound 2
+peon root 0
+
+yaw root 0
+gõam advmod 1
+
+oyaʔwan root 0
+nyat mark 1
+oken obl 1
+iga mark 3
+
+maʔwɨt nsubj 2
+ʔet root 0
+matet obl 2
+
+ekera root 0
+
+karam compound 2
+nãk root 0
+pɨʔ clf 2
+ʔĩt amod 2
+pɨʔ clf 2
+
+at nsubj 2
+aʔwĩn root 0
+iga mark 2
+manã advmod 2
+
+owirup nsubj 2
+tẽy root 0
+kokəy obl 2
+okap aux 2
+ocagəpto obj 6
+cára xcomp 2
+koãm advmod 6
+
+õn nsubj 3
+owirap obj 3
+tɨn root 0
+yat dep 3
+co dep 3
+
+kãykãy root 0
+wet aux 1
+iʔke advmod 1
+
+okera root 0
+iʔke advmod 1
+okay aux 1
+
+təgana advmod 5
+peʔ case 5
+õn nsubj 5
+mãygãra obj 5
+wĩm root 0
+
+wat nmod 2
+iyõm nsubj 4
+ip obj 4
+ʔɨy root 0
+owihmãm obl 4
+
+ocãp root 0
+
+naco obl 5
+ʔerem case 1
+ye aux 5
+kanãp mark 5
+iʔkəga root 0
+
+oken root 0
+kãy obj 3
+kãy obj 1
+kanãp advmod 1
+
+õn nsubj 2
+aʔtoy root 0
+yat mark 2
+
+eken root 0
+ahyə mark 1
+co dep 1
+battem advmod 1
+
+õn nsubj 3
+ŋorér obj 3
+wĩn root 0
+
+opía root 0
+
+ŋa nsubj 4
+tokõna mark 3
+icɨ obj 4
+an root 0
+yat mark 4
+aʔkəy obl 4
+
+wayo root 0
+bap clf 1
+
+inãk root 0
+káʔ clf 1
+
+iyãy root 0
+gõm case 1
+
+wayo compound 2
+naká root 0
+
+péŋ nsubj 2
+topə root 0
+toat nmod 4
+macaʔɨt obj 2
+nõ nmod 4
+wĩn ccomp 2
+
+tpu root 0
+ameko nsubj 1
+ʔet aux 1
+aʔkɨga conj 1
+
+maʔwɨr nsubj 3
+ameko obj 3
+roy root 0
+
+aʔtoba root 0
+iʔke advmod 1
+cúrem advmod 1
+aʔkay aux 1
+
+õn nsubj 2
+aʔtoy root 0
+pattem advmod 2
+
+agóaʔpət root 0
+cú amod 1
+aʔnãn cop 1
+Cabirera obl 1
+kõm case 4
+
+agóaʔpət nmod 2
+naká root 0
+
+məy advmod 8
+yét det 3
+maʔpəy nsubj 8
+ŋa clf 3
+waʔye aux 8
+cán obj 8
+nã clf 6
+makɨra root 0
+
+war nmod 2
+owẽ nmod 3
+nakɨra nmod 4
+cop root 0
+
+õn nsubj 2
+aʔtoy root 0
+púŋ obl 2
+kanã mark 3
+peʔ case 3
+
+õn nsubj 5
+wat nmod 3
+owã obj 5
+ŋa clf 3
+pɨy root 0
+
+aʔwɑ̃ŋ root 0
+naʔto obj 3
+wīn dep 1
+
+wayo nmod 2
+yogá root 0
+beʔ clf 1
+
+õn nsubj 3
+[aʔwéro obj 3
+toy] root 0
+
+owẽ compound 2
+gun root 0
+
+abakán root 0
+ekəy obl 1
+
+maʔpəy nsubj 4
+bat amod 1
+yet aux 4
+opɨya root 0
+
+kɨgomət det 2
+ip nsubj 3
+pay root 0
+
+piro root 0
+cú amod 1
+
+at nsubj 2
+epɨy root 0
+et nmod 4
+kaʔa obl 2
+ʔa clf 4
+peʔ case 4
+
+õn nsubj 2
+aʔtoy root 0
+nãnin advmod 2
+kán dep 2
+
+ci nmod 2
+baʔpe obl 5
+bem case 2
+wep aux 5
+owaraʔkəga root 0
+
+naʔwəy nsubj 2
+yaʔi root 0
+maʔɨp obl 2
+ʔay case 3
+
+maʔwɨt nsubj 3
+aʔkɨrɨk obj 3
+ʔan root 0
+
+iyá root 0
+gap clf 1
+
+paʔpiktem root 0
+iʔke advmod 1
+war nmod 4
+owẽ nsubj 1
+rap case 4
+
+itɨ root 0
+op compound 1
+
+iyá root 0
+ʔaʔ clf 1
+
+péŋ nsubj 2
+yaʔwan root 0
+[towéya dep 2
+kanãp] mark 3
+
+mãygãra obj 2
+wĩa root 0
+iʔke advmod 2
+[war nmod 5
+owẽ] nsubj 2
+gay aux 2
+
+péŋ root 0
+nãnin advmod 1
+aʔwĩn dep 1
+nãnin advmod 1
+
+caʔwət root 0
+pab clf 1
+aʔ clf 1
+
+kõm advmod 4
+iʔkay aux 4
+Kabirera obj 4
+wĩa root 0
+iʔkõna nsubj 4
+
+taykir advmod 3
+iʔwirup obj 3
+toba root 0
+
+ameko nsubj 2
+otoy root 0
+
+owɨya root 0
+iʔke advmod 1
+okay aux 1
+
+cárarem root 0
+õn nsubj 1
+
+er nmod 2
+icɨ root 0
+
+Júnior nsubj 4
+ŋa nmod 3
+pa obj 4
+gotoy root 0
+ahyə mark 4
+
+mekõm root 0
+iʔke advmod 1
+iʔyat nsubj 1
+kotigap acl 1
+mɨy advmod 4
+mãm discourse 1
+
+péŋ nsubj 2
+aʔwĩn root 0
+tágɨh obl 2
+mã case 3
+
+oyãn root 0
+mẽganape advmod 1
+mĩn obl 1
+
+muturum root 0
+yahmãm advmod 1
+
+kiganape advmod 3
+ep aux 3
+eken root 0
+yahmãm advmod 3
+
+wat nmod 2
+naʔwəyroʔ root 0
+
+ar root 0
+iʔke advmod 1
+pattem parataxis 1
+
+kõm advmod 5
+co dep 5
+iʔyat nsubj 5
+ip obj 5
+ʔɨy root 0
+nãnin discourse 5
+menə discourse 5
+
+mãygãra root 0
+cú amod 1
+ẽn nsubj 4
+iwĩm acl 1
+ahyə mark 1
+
+taykir advmod 3
+at nsubj 3
+aʔtoy root 0
+iga mark 3
+
+parato nmod 2
+cək root 0
+
+at nsubj 2
+amati root 0
+
+péŋ nsubj 2
+aʔwĩn root 0
+aket discourse 2
+
+maʔpəy nsubj 4
+rah case 1
+mõm advmod 1
+ikérat root 0
+
+wat nmod 2
+awe nsubj 3
+orabitẽy root 0
+
+iʔat nsubj 5
+yaʔmo compound 3
+ci obj 5
+káʔ clf 3
+ʔor root 0
+iʔke advmod 5
+werem obl 5
+ŋán dep 7
+
+ẽn nsubj 5
+ahyə discourse 5
+menə discourse 5
+kanã nmod 5
+tayãn root 0
+menə discourse 5
+
+taykit advmod 3
+aʔi nsubj 3
+bekɨga root 0
+
+ŋaken dep 4
+yəye mark 1
+wer aux 4
+oyaʔwara root 0
+
+inãwroʔ root 0
+
+púŋ root 0
+wet aux 1
+co dep 1
+
+õn nsubj 2
+aʔyamón root 0
+
+wayo compound 3
+bap clf 1
+ci root 0
+
+taykir advmod 2
+aʔken root 0
+iga mark 2
+
+owekuy root 0
+nãn aux 1
+iʔkɨy discourse 1
+tə discourse 1
+
+ekəy obl 4
+iʔke advmod 1
+wep aux 4
+owakára root 0
+
+makap root 0
+kap clf 1
+
+yate nmod 2
+naʔcəg root 0
+wew amod 2
+
+oyaʔwan root 0
+[ocaʔyõk dep 1
+nãt mark 2
+wa] aux 2
+
+nãn obl 3
+bihmãm case 1
+ekerap root 0
+
+õn nsubj 2
+abeʔnoy root 0
+
+ewɨya root 0
+
+ekap root 0
+
+ebeʔcɨn root 0
+wat nmod 3
+iyõm nsubj 4
+eto dep 1
+nãr mark 4
+a aux 4
+
+wəwə root 0
+cɨʔ clf 1
+
+pecéptem root 0
+ẽn nsubj 1
+et nmod 4
+iyõm obl 1
+ŋõm case 4
+
+iʔtə root 0
+rap case 1
+
+at nsubj 3
+mɨrɨrɨy obj 3
+ramoy root 0
+
+cokcok root 0
+maʔpəy nsubj 1
+ʔet aux 2
+yat discourse 2
+iʔke advmod 2
+
+aʔken root 0
+memã parataxis 1
+
+kõm advmod 3
+ar nsubj 3
+otoy root 0
+yahmãm advmod 3
+
+maʔwɨt nsubj 2
+[ken] root 0
+
+kaʔmep root 0
+wet aux 1
+aʔkəy obj 1
+
+məy advmod 6
+péŋ nsubj 6
+ʔet aux 6
+kohmãy obl 6
+ʔerem case 6
+tokəga root 0
+
+õn nsubj 2
+opit root 0
+məy advmod 2
+mãm discourse 2
+co dep 2
+kán dep 2
+
+inakároʔ root 0
+
+oyaʔwan root 0
+nyar dep 1
+aʔtoy xcomp 1
+iga dep 1
+
+[ẽn root 0
+iʔke] advmod 1
+ŋa nsubj 4
+icát ccomp 1
+
+pattem root 0
+et nmod 3
+owẽ nsubj 1
+rap case 3
+
+wéy root 0
+wet aux 1
+tágɨp obj 1
+peʔ case 3
+
+at nsubj 3
+mãygãra obj 3
+wĩn root 0
+nãnin mark 3
+
+õn nsubj 3
+iʔke advmod 3
+púŋ root 0
+wa aux 3
+
+kɨgomət det 2
+ĩya obj 4
+ẽn nsubj 4
+iwĩ root 0
+
+aʔwero root 0
+wɨy clf 1
+tomãmkəy obl 1
+
+ameko nsubj 3
+cú amod 1
+yaʔwa root 0
+yat mark 3
+
+owɨya root 0
+okay aux 1
+
+wat nmod 2
+kaʔa root 0
+
+cego root 0
+bɨk compound 1
+
+õn nsubj 3
+omẽn obj 3
+meropir root 0
+yar dep 3
+iʔke advmod 3
+
+kõm advmod 3
+péŋ nsubj 3
+ʔet root 0
+nyahmãm advmod 3
+apik case 3
+
+aʔan root 0
+
+pattem root 0
+iʔke advmod 1
+õn nsubj 1
+
+õn nsubj 2
+aʔtigat root 0
+
+maʔwɨt nsubj 2
+owin root 0
+[owəy dep 2
+nã cop 3
+nãt mark 3
+toʔwa] aux 3
+
+tokera root 0
+iʔke advmod 1
+maʔwɨt nsubj 1
+cú amod 3
+gay aux 1
+
+[maʔpəy root 0
+pat amod 1
+iʔke] advmod 1
+iyaʔwat dep 1
+
+kãykãy root 0
+ʔa aux 1
+et nmod 4
+kaʔa obl 1
+ʔa clf 4
+peʔ case 4
+
+kaʔaroʔ root 0
+
+ei nmod 2
+nãk root 0
+káʔ clf 1
+
+kanãy advmod 3
+péŋ nsubj 3
+ʔet root 0
+(...) punct 3
+
+cĩm obj 2
+yegat root 0
+yahmãm advmod 2
+tẽna advmod 2
+
+oken root 0
+
+icãp root 0
+pɨʔ clf 1
+
+abegahmõm root 0
+nã cop 1
+
+iyá root 0
+beʔ clf 1
+
+õn nsubj 2
+amaken root 0
+
+õn nsubj 3
+ip obj 3
+peʔnɨy root 0
+
+eken root 0
+mattem advmod 1
+ahyə mark 1
+
+aʔwero dep 2
+wɨy root 0
+iʔke advmod 2
+battem advmod 2
+
+taykir advmod 2
+ekera root 0
+et nmod 4
+kaʔa obl 2
+ʔa clf 4
+peʔ case 4
+
+aʔti root 0
+toat nmod 4
+macaʔɨt obj 4
+wĩ dep 1
+nãt mark 4
+toʔwa aux 4
+
+et nmod 2
+owã nsubj 3
+emakət root 0
+
+əg nsubj 2
+inaʔwara root 0
+aʔpik obl 2
+
+wat nmod 2
+awe nsubj 4
+iyõm obj 4
+capét root 0
+
+aʔpábe compound 2
+cigá root 0
+
+abakán root 0
+aʔpap amod 1
+kəy case 1
+
+karowɨya root 0
+
+war nmod 2
+owã nsubj 4
+ŋa clf 2
+bakán root 0
+okəy mark 4
+matet obl 4
+
+abebeʔtɨra root 0
+
+péŋ root 0
+aʔnãn cop 1
+
+maʔpəy nsubj 3
+óra compound 3
+wɨy root 0
+
+[mãygãra obj 4
+iʔke] advmod 1
+õn nsubj 4
+itop root 0
+
+iyõm nsubj 4
+wat nmod 3
+awe obj 4
+capét root 0
+
+wat nmod 2
+manikap obl 5
+peʔ case 2
+ahyə case 5
+ekerap root 0
+
+tokera root 0
+[maʔwɨt nsubj 1
+cú] amod 2
+kay aux 1
+
+korét root 0
+capõt compound 1
+pat amod 1
+
+wayo root 0
+bap clf 1
+cú amod 1
+bap clf 1
+
+péŋ nsubj 6
+ʔet aux 3
+topə root 0
+toat nmod 5
+macaʔɨt obj 6
+wĩa ccomp 3
+
+oyaʔkoy root 0
+
+maʔwɨt nsubj 3
+iʔke discourse 3
+cokcok root 0
+toʔwa aux 3
+
+õn nsubj 2
+aʔtoy root 0
+uéué dep 2
+kanãp advmod 2
+
+at nsubj 2
+tomãmwĩn root 0
+
+matet obl 4
+péŋ nmod 4
+at case 2
+kaʔa root 0
+ʔa clf 4
+peʔ case 4
+
+aʔi nmod 2
+nãk root 0
+káʔ clf 1
+
+maʔpəy root 0
+ŋa clf 1
+
+ar nsubj 4
+wayo obj 4
+gap amod 2
+ʔot root 0
+
+makap root 0
+kap clf 1
+cú amod 1
+gap clf 1
+
+mãygãra obj 2
+toba root 0
+iʔke advmod 2
+agóaʔpət nsubj 2
+ʔet aux 2
+
+et nmod 2
+tágɨp root 0
+
+agóaʔpət nsubj 2
+ken root 0
+
+kaʔto nsubj 2
+karorocapét root 0
+ahyə mark 2
+
+õn nsubj 3
+cácá obj 3
+kotoy root 0
+
+ibeon root 0
+meʔ clf 1
+
+õn nsubj 4
+aʔwĩa xcomp 4
+kanã mark 4
+yaʔti root 0
+nãn cop 4
+
+kaʔa obl 5
+ʔa clf 1
+peʔ case 1
+ap aux 5
+kãykãy root 0
+toʔwa aux 5
+
+wenwen root 0
+we aux 1
+mãm discourse 1
+
+pecéptem advmod 2
+ʔep root 0
+mĩn advmod 2
+
+péŋ nsubj 2
+iʔkɨy root 0
+aʔwĩa xcomp 2
+wet aux 2
+
+ĩya root 0
+ʔɨp clf 1
+
+kopət root 0
+to clf 1
+wecéb amod 1
+aʔmãn cop 1
+
+[õn root 0
+iʔke] advmod 1
+at nsubj 4
+icapé ccomp 1
+
+[oken root 0
+nãt] mark 1
+ocaʔyõga dep 1
+
+agóaʔpət nsubj 4
+et nmod 3
+iyõm obj 4
+nakõy root 0
+
+wat nmod 2
+kaʔa obl 6
+ʔa clf 2
+peʔ case 2
+web aux 6
+aʔpɨya root 0
+
+tuytuy obl 6
+Babesáya nsubj 6
+ŋa clf 2
+ʔet aux 6
+yate obj 6
+taʔwara root 0
+
+paramu root 0
+ʔa aux 1
+owikop obl 1
+
+et nmod 2
+kaʔa root 0
+ʔa clf 2
+peʔ case 2
+at nsubj 2
+epɨyap parataxis 2
+
+karam nmod 2
+nãk root 0
+pɨʔ clf 1
+
+kaʔtay root 0
+at aux 1
+naʔwəy obl 1
+kəy case 3
+aʔi obl 1
+kəy case 5
+kõam mark 1
+
+iyõm nsubj 2
+ikap root 0
+towenaoba xcomp 2
+co dep 3
+
+iyɨt root 0
+okay aux 1
+oʔa dep 1
+ecap obj 1
+pɨʔtoʔ clf 4
+peʔ case 4
+
+at nsubj 3
+mãygãra obj 3
+wĩn root 0
+menə mark 3
+
+owirup obj 2
+tɨra root 0
+ẽn appos 2
+
+mãygãra root 0
+capóp nmod 1
+pɨʔ clf 2
+
+õn nsubj 4
+okõna mark 1
+ip obj 4
+ʔɨy root 0
+
+at nsubj 3
+péŋ obj 3
+wĩn root 0
+paʔpiktem advmod 2
+mɨy advmod 3
+mãm discourse 3
+
+wat nmod 2
+owã obj 5
+ŋa clf 2
+õn nsubj 5
+ibɨyap root 0
+
+ayaʔwan root 0
+tə mark 1
+
+karo root 0
+ʔaʔ clf 1
+par amod 1
+aʔ clf 1
+
+taykit advmod 2
+ebiaʔan root 0
+iga mark 2
+mɨrɨrɨy obl 2
+kəy case 4
+
+õn nsubj 3
+mãygãra obj 3
+toy root 0
+
+[ar nsubj 2
+otoy] dep 5
+ye mark 5
+wer aux 5
+oweʔcɨra root 0
+
+péŋ nsubj 2
+aʔwĩn root 0
+aket discourse 2
+nãnin discourse 2
+
+õn nsubj 2
+aʔyamón root 0
+
+were root 0
+beʔ clf 1
+
+cúrem advmod 2
+at root 0
+tokõna case 2
+
+mɨrɨrɨy root 0
+ahyə mark 1
+imaterãn acl 1
+nãnin advmod 3
+
+cúrem advmod 3
+wep aux 3
+okera root 0
+
+cicɨ root 0
+maʔ clf 1
+
+nãn obj 3
+ẽn nsubj 3
+itop root 0
+
+karam nmod 2
+wirap root 0
+
+õn nsubj 2
+aʔtoy root 0
+
+ipá root 0
+beʔ clf 1
+
+iyã root 0
+ʔaʔ clf 1
+
+mõm root 0
+ʔat aux 1
+okəy obl 1
+
+o=kera root 0
+kanã mark 1
+
+eken root 0
+wat nmod 3
+manikap obl 1
+peʔ case 3
+battem advmod 1
+ahyə mark 1
+
+ewét root 0
+yahmãm advmod 1
+
+maʔta root 0
+maʔ clf 1
+kap amod 1
+maʔ clf 1
+
+cutcut root 0
+ʔet aux 1
+ahyə discourse 1
+ŋakəy obj 1
+
+mok compound 3
+peʔ clf 1
+cakɨ root 0
+
+matet root 0
+iʔke advmod 1
+rokõna mark 1
+Petĩp nsubj 6
+ʔep aux 6
+towetõa dep 1
+
+maʔwɨt nsubj 3
+ip obj 3
+ʔɨy root 0
+cagárokõmnem nummod 2
+matet obl 3
+
+oyãy root 0
+gap clf 1
+
+at nsubj 5
+toat nmod 3
+kaʔa obj 5
+ʔaʔ clf 3
+pẽ root 0
+mãm discourse 5
+
+maʔwɨr nsubj 3
+yét obj 3
+toy root 0
+
+məy advmod 4
+aʔwaʔye aux 4
+totia dep 4
+oyuruŋ root 0
+aʔwaʔye aux 4
+
+ĩya root 0
+ʔip clf 1
+par amod 1
+ip clf 1
+
+ŋa nsubj 2
+omacopɨn root 0
+
+iyõm nsubj 2
+ŋen root 0
+co dep 2
+matet obl 2
+
+oyaʔwan root 0
+iʔke advmod 1
+ya mark 5
+[amãn nsubj 5
+yat] dep 1
+
+enaká root 0
+
+wayo nmod 3
+bah clf 1
+yu root 0
+
+páro root 0
+pɨy compound 1
+
+kãram obj 2
+meʔnẽy root 0
+
+cób obj 2
+mawɨya root 0
+
+ẽn root 0
+ahyə mark 1
+púŋ dep 1
+ye aux 3
+
+cak obl 5
+mãm discourse 5
+okap aux 5
+cĩm obj 5
+ʔóa root 0
+
+oweʔcɨn root 0
+[at nsubj 3
+oto dep 1
+kanãp] mark 3
+
+oken root 0
+okõna mark 1
+
+maʔpəy root 0
+pat amod 1
+
+aʔtoba root 0
+cúrem advmod 1
+aʔkay aux 1
+
+pattem root 0
+iʔke advmod 1
+ap cop 1
+towerowɨya dep 1
+
+abeʔcɨn root 0
+[noorawa dep 1
+nãt mark 2
+toʔwa aux 2
+rawrem] advmod 2
+
+õn nsubj 2
+aʔpẽn root 0
+
+kɨrɨwep root 0
+pát amod 1
+
+taykit advmod 2
+eyamoy root 0
+iga mark 2
+
+tap nsubj 2
+toroyapít root 0
+
+nãn obj 5
+mã mark 1
+at nsubj 5
+aʔwĩm advcl 5
+menə root 0
+
+maʔẽ root 0
+gáʔ clf 1
+
+məy advmod 4
+maʔpəy nsubj 4
+ŋa clf 2
+waʔye root 0
+
+iʔnõ root 0
+gəy case 1
+rə mark 1
+
+piro root 0
+
+nãn root 0
+ahyə discourse 1
+mẽr advmod 1
+ã dep 1
+
+õn nsubj 2
+aʔtoy root 0
+[agóaʔpət nsubj 4
+aʔwĩ dep 2
+kanãp] mark 4
+
+õn nsubj 3
+okõna mark 3
+okera root 0
+
+õn nsubj 7
+wat nmod 3
+mok obj 7
+pe clf 3
+cára xcomp 7
+kanã mark 5
+yaʔti root 0
+nãn aux 7
+iʔke advmod 7
+
+kanãy advmod 6
+at nsubj 6
+toat nmod 4
+kaʔa obj 6
+ʔaʔ clf 4
+pẽya root 0
+
+agóaʔpər nmod 3
+at case 1
+kaʔa root 0
+
+towagon root 0
+gəy case 1
+
+at nsubj 3
+topə mark 3
+aʔwĩn root 0
+
+kõm advmod 3
+ahyə discourse 1
+igu amod 5
+ẽn nsubj 6
+ip obj 6
+yapít root 0
+
+karokéran root 0
+yahmãm advmod 1
+
+péŋ root 0
+mecéb amod 1
+iʔke advmod 1
+aʔmãn cop 1
+
+aʔken root 0
+pə discourse 1
+coke discourse 1
+
+tik nsubj 2
+wán root 0
+ahyə mark 2
+et nmod 5
+kaʔa obl 2
+ʔa clf 5
+peʔ case 5
+
+cagáro root 0
+mərəp compound 1
+
+maŋaptem advmod 3
+ŋaap aux 3
+otoba root 0
+
+mani root 0
+nãʔ clf 1
+cú amod 1
+nãʔ clf 1
+
+war nmod 2
+owã nsubj 4
+ŋa clf 2
+bakán root 0
+okəy case 4
+
+ci compound 2
+mininĩ obj 5
+ʔa clf 2
+mõm advmod 2
+mawɨya root 0
+
+wat nmod 2
+owã nsubj 3
+orakət root 0
+
+opá root 0
+gáʔ clf 1
+
+agóaʔpət nsubj 3
+péŋ obj 3
+wĩn root 0
+paʔpiktem advmod 2
+
+cawap nsubj 2
+wɨy root 0
+
+onoroŋ root 0
+at aux 1
+tocit obl 1
+paʔpara dep 1
+
+ɨu compound 3
+bap clf 1
+ci root 0
+kãp amod 3
+pap clf 3
+
+maʔpəy obj 5
+bat amod 1
+tokõna case 5
+at nsubj 5
+ipɨy root 0
+
+kɨrɨwep compound 2
+tem root 0
+cɨʔ clf 2
+
+nãn nsubj 3
+mãygãra obj 3
+wīn root 0
+
+mãygãra root 0
+bap clf 1
+
+ameko nsubj 3
+cú amod 1
+yaʔwan root 0
+nyat mark 3
+iʔke advmod 3
+
+maʔpəy root 0
+iʔke advmod 1
+aʔnãn cop 1
+
+aʔwɨy root 0
+naco obl 1
+ʔerem case 2
+
+cúrem obl 4
+at nsubj 4
+towirup obj 4
+ʔop root 0
+
+tər obl 4
+iʔke advmod 1
+õn nsubj 4
+aʔtop root 0
+
+opá root 0
+gap clf 1
+
+aʔken root 0
+
+ẽn root 0
+ahyə mark 1
+béŋ obj 4
+noy dep 1
+
+ar nsubj 3
+inãw obj 3
+rati root 0
+
+at nsubj 3
+ĩya obj 3
+wĩn root 0
+kokõ obj 5
+wĩa conj 3
+kõam mark 5
+
+aʔwĩa root 0
+púŋ obl 1
+ʔa aux 1
+
+wat nmod 2
+apəy nsubj 4
+ŋa clf 2
+pepat root 0
+cək advmod 4
+mãm discourse 4
+
+kanãy advmod 4
+[yét] nsubj 4
+ʔet aux 4
+tocaropaba root 0
+
+otoyrem root 0
+at aux 1
+
+ayaʔwan root 0
+nãnin discourse 1
+igã discourse 1
+
+õn nsubj 2
+aʔtop root 0
+mãm discourse 2
+at nsubj 6
+towirap obj 6
+ʔo dep 2
+kanãp mark 6
+
+pãttem root 0
+at nsubj 1
+topə parataxis 1
+
+wawwaw nsubj 2
+bay dep 5
+ye mark 5
+ŋaʔet aux 5
+toyaʔwara root 0
+
+péŋ root 0
+ahyə mark 1
+ẽn nsubj 4
+itop acl 1
+
+iyã root 0
+gap clf 1
+
+cat compound 3
+pap clf 1
+cakɨ root 0
+wɨn amod 3
+map clf 3
+
+kaʔto nsubj 4
+karowéya xcomp 4
+kanã case 2
+yaʔti root 0
+nãn cop 4
+
+ci nmod 3
+baʔpe obj 3
+mawɨga root 0
+
+wáya root 0
+ʔɨp clf 1
+
+tabat root 0
+tap case 1
+
+war nmod 2
+iyõm obj 3
+ʔet root 0
+okəy case 3
+matet obl 3
+
+karo compound 2
+nãg root 0
+aʔ clf 2
+pĩg amod 2
+aʔ clf 2
+
+nãnã advmod 4
+ahyə discourse 1
+agóaʔpət nsubj 4
+óra root 0
+wɨy compound 4
+maŋaptem advmod 4
+
+haran root 0
+narap amod 1
+
+at nsubj 3
+ip obj 3
+ʔɨy root 0
+Naʔkɨt obl 3
+pihmãm case 4
+
+õn nsubj 2
+aʔtoy root 0
+yat mark 2
+iʔke advmod 2
+pattem advmod 2
+
+ŋa nsubj 2
+oʔtoy root 0
+maŋaptem advmod 2
+
+maʔwɨt nmod 3
+at nmod 1
+tágɨp root 0
+
+matet root 0
+kokoãm mark 1
+ocagəptoʔ nsubj 1
+ʔet aux 1
+toyawɨga dep 1
+
+mẽganape advmod 4
+õn nsubj 4
+ameko obj 4
+top root 0
+matet obl 4
+
+wat nmod 2
+kanã obj 3
+rakəga root 0
+wet aux 3
+co dep 3
+kán dep 3
+
+ŋa nsubj 2
+otoy root 0
+iʔke advmod 2
+[okera dep 2
+kanãp] mark 4
+
+maʔwɨt nsubj 2
+ken root 0
+iʔke advmod 2
+
+maʔwɨr nmod 3
+at case 1
+kaʔa root 0
+
+oweʔŋen root 0
+
+at nsubj 2
+amabaraʔkət root 0
+
+ip nsubj 3
+cú amod 1
+gət root 0
+icɨ obl 3
+bət case 4
+
+õn nsubj 3
+mãygãra obj 3
+wĩn root 0
+təgana obl 3
+peʔ case 3
+
+aʔwɨy root 0
+yat mark 1
+iʔke advmod 1
+
+abaraʔkət root 0
+
+ip root 0
+cahyoy compound 1
+kɨt amod 1
+
+kiganape advmod 4
+ap aux 4
+naʔto obj 4
+roy root 0
+yahmãm advmod 4
+
+cĩm nsubj 2
+memaʔwaba root 0
+
+mẽt advmod 3
+ap aux 3
+púŋ root 0
+toʔwa aux 3
+
+karam obj 2
+natia root 0
+
+maʔpəy nsubj 2
+aʔtoy root 0
+ʔĩttem advmod 2
+
+õn nsubj 4
+wat nmod 3
+awe obj 4
+rabitẽy root 0
+
+õn nsubj 5
+wat nmod 3
+kaʔa obj 5
+ʔa clf 3
+kət root 0
+cagáro nummod 3
+kõmnem dep 5
+
+ar nsubj 2
+otoy root 0
+iʔke advmod 2
+
+õn nsubj 2
+amapəri root 0
