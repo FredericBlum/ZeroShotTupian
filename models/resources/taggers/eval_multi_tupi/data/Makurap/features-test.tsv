@@ -1,46 +1,46 @@
 Kito B-NOUN B-VERB
-nãkowut B-NOUN B-PART
-moat B-NOUN B-PRON
+nãkowut B-NOUN B-NOUN
+moat B-NOUN B-VERB
 xauwet B-NOUN B-NOUN
 moke B-NOUN B-NOUN
 kepit B-CCONJ B-VERB
-xagara B-VERB B-VERB
+xagara B-VERB B-NOUN
 
 ngot B-NOUN B-NOUN
 xiaret B-NOUN B-VERB
 
 yãn B-ADV B-NOUN
-oxepngoret B-NOUN B-ADJ
-oerã B-VERB B-VERB
-kepit B-CCONJ B-AUX
+oxepngoret B-NOUN B-VERB
+oerã B-VERB B-ADV
+kepit B-CCONJ B-NOUN
 eta B-VERB B-VERB
-on B-PRON B-PRON
+on B-PRON B-AUX
 toa B-VERB B-VERB
 
-xeke B-PRON B-VERB
-xēke B-PART B-PART
-ke B-PART B-AUX
+xeke B-PRON B-NOUN
+xēke B-PART B-VERB
+ke B-PART B-ADV
 
-etera B-VERB B-VERB
+etera B-VERB B-NOUN
 kurux B-VERB B-NOUN
-amang B-VERB B-VERB
-ngot B-NOUN B-PART
-keya B-VERB B-NOUN
-pīxe B-ADV B-ADJ
+amang B-VERB B-NOUN
+ngot B-NOUN B-NOUN
+keya B-VERB B-VERB
+pīxe B-ADV B-NOUN
 
-mokat B-ADV B-PRON
-etera B-VERB B-VERB
+mokat B-ADV B-NOUN
+etera B-VERB B-NOUN
 kurux B-VERB B-NOUN
-amang B-VERB B-VERB
-pīxe B-ADV B-ADJ
+amang B-VERB B-NOUN
+pīxe B-ADV B-VERB
 
-ã B-INTJ B-PRON
+ã B-INTJ B-PART
 en B-PRON B-PRON
 emẽ B-DET B-NOUN
-xop B-DET B-VERB
-nẽnẽkaret B-NOUN B-ADV
+xop B-DET B-NOUN
+nẽnẽkaret B-NOUN B-VERB
 
-woaret B-NOUN B-PRON
+woaret B-NOUN B-NOUN
 koa B-PART B-VERB
 
 etxekup B-NOUN B-NOUN
@@ -49,58 +49,58 @@ keya B-VERB B-VERB
 opũãtemwã B-VERB B-NOUN
 ota B-AUX B-VERB
 
-mokat B-ADV B-VERB
+mokat B-ADV B-NOUN
 etera B-VERB B-VERB
 kurux B-VERB B-NOUN
 
 nãpẽrenã B-ADV B-NOUN
-kito B-NOUN B-NOUN
-eapītera B-VERB B-VERB
-pīxe B-AUX B-ADJ
+kito B-NOUN B-VERB
+eapītera B-VERB B-NOUN
+pīxe B-AUX B-VERB
 
-op B-ADV B-AUX
-ten B-VERB B-NOUN
+op B-ADV B-NOUN
+ten B-VERB B-VERB
 eya B-PART B-VERB
 õn B-PRON B-PRON
 
 xop B-DET B-NOUN
 ten B-VERB B-VERB
-eya B-PART B-VERB
-on B-PRON B-AUX
-ke B-PART B-AUX
+eya B-PART B-NOUN
+on B-PRON B-VERB
+ke B-PART B-ADV
 
 mawo B-NOUN B-NOUN
-papīknga B-VERB B-VERB
-mokat B-ADV B-PRON
+papīknga B-VERB B-NOUN
+mokat B-ADV B-NOUN
 etyenkuax B-NOUN B-VERB
-nã B-VERB B-PART
+nã B-VERB B-ADV
 xoknga B-VERB B-NOUN
-xok B-VERB B-VERB
+xok B-VERB B-ADJ
 
 yeman B-ADV B-VERB
-ngot B-NOUN B-PART
-kana B-VERB B-ADV
+ngot B-NOUN B-NOUN
+kana B-VERB B-NOUN
 oen B-VERB B-VERB
 
-mokat B-ADV B-PRON
+mokat B-ADV B-NOUN
 etera B-VERB B-VERB
 korop B-VERB B-NOUN
-noa B-NOUN B-VERB
-pe B-ADP B-PART
+noa B-NOUN B-NOUN
+pe B-ADP B-NOUN
 
 ama B-ADV B-NOUN
 ngot B-NOUN B-VERB
-xiaret B-NOUN B-PRON
+xiaret B-NOUN B-NOUN
 eya B-VERB B-VERB
 kurux B-VERB B-NOUN
-amang B-VERB B-VERB
-ngot B-NOUN B-PRON
+amang B-VERB B-NOUN
+ngot B-NOUN B-NOUN
 oen B-VERB B-VERB
-wimõ B-ADV B-VERB
-nitēt B-PART B-ADV
+wimõ B-ADV B-NOUN
+nitēt B-PART B-VERB
 
-arimot B-NOUN B-VERB
-urot B-NOUN B-PRON
+arimot B-NOUN B-NOUN
+urot B-NOUN B-VERB
 arimot B-NOUN B-NOUN
 urot B-NOUN B-VERB
 
@@ -111,67 +111,67 @@ nã B-VERB B-PART
 peka B-VERB B-VERB
 
 i B-INTJ B-NOUN
-eya B-PART B-VERB
-on B-PRON B-AUX
+eya B-PART B-NOUN
+on B-PRON B-VERB
 wet B-ADV B-AUX
 toa B-VERB B-VERB
-ke B-PART B-AUX
+ke B-PART B-ADV
 pit B-ADV B-VERB
 
-mokat B-ADV B-PRON
-peitõã B-ADV B-NOUN
-etera B-VERB B-VERB
-amang B-VERB B-VERB
-korop B-VERB B-VERB
-kux B-NOUN B-ADV
-me B-ADP B-X
+mokat B-ADV B-NOUN
+peitõã B-ADV B-VERB
+etera B-VERB B-NOUN
+amang B-VERB B-NOUN
+korop B-VERB B-NOUN
+kux B-NOUN B-NOUN
+me B-ADP B-ADP
 
-wotye B-VERB B-NOUN
-pukpuga B-VERB B-VERB
-pit B-PRON B-NOUN
+wotye B-VERB B-VERB
+pukpuga B-VERB B-NOUN
+pit B-PRON B-ADJ
 
 putorot B-NOUN B-NOUN
 xēke B-PART B-VERB
-ke B-PART B-AUX
-xēt B-PART B-VERB
+ke B-PART B-ADV
+xēt B-PART B-NOUN
 
-etera B-VERB B-VERB
-korop B-VERB B-NOUN
+etera B-VERB B-NOUN
+korop B-VERB B-VERB
 
 kito B-NOUN B-NOUN
 moke B-NOUN B-NOUN
-xiat B-NOUN B-PRON
+xiat B-NOUN B-NOUN
 ekuwaora B-VERB B-VERB
-kepit B-CCONJ B-AUX
+kepit B-CCONJ B-NOUN
 pukpuga B-VERB B-VERB
 õn B-PRON B-PRON
 
-kepit B-CCONJ B-PRON
+kepit B-CCONJ B-NOUN
 eya B-PART B-VERB
 õn B-PRON B-PRON
 waokatmõ B-ADV B-NOUN
 papiknga B-VERB B-VERB
-ke B-PART B-AUX
+ke B-PART B-ADV
 
 ama B-NOUN B-NOUN
-etera B-VERB B-VERB
+etera B-VERB B-NOUN
 kurux B-VERB B-NOUN
 
 xop B-DET B-NOUN
-me B-ADP B-NOUN
+me B-ADP B-ADP
 pote B-ADV B-NOUN
 worawiget B-NOUN B-VERB
-xop B-DET B-NUM
-me B-ADP B-X
+xop B-DET B-NOUN
+me B-ADP B-ADP
 
 kux B-NOUN B-NOUN
-kixa B-VERB B-VERB
+kixa B-VERB B-NOUN
 ngarap B-VERB B-NOUN
 , B-PUNCT B-PUNCT
-pit B-PRON B-NOUN
+pit B-PRON B-VERB
 
-põrom B-ADV B-NOUN
-toa B-VERB B-VERB
-, B-PUNCT B-PROPN
-pit B-PRON B-ADP
+põrom B-ADV B-VERB
+toa B-VERB B-NOUN
+, B-PUNCT B-PUNCT
+pit B-PRON B-VERB
 

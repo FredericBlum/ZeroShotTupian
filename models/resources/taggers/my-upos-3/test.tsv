@@ -14,7 +14,7 @@ arapuk B-NOUN B-NOUN
 wiràmiripe B-NOUN B-NOUN
 nehe B-PART B-PART
 
-Màràzàwe B-ADV B-VERB
+Màràzàwe B-ADV B-ADV
 tue B-PART B-PART
 neremɨhar B-NOUN B-NOUN
 aipo B-PART B-PART
@@ -55,27 +55,27 @@ kurɨ B-PART B-PART
 
 Tuweharupi B-NOUN B-NOUN
 uzuka B-VERB B-VERB
-kateteaʔu B-ADV B-NOUN
+kateteaʔu B-ADV B-ADV
 wiràmiri B-NOUN B-NOUN
 aʔepe B-PRON B-PRON
 . B-PUNCT B-PUNCT
 
-Aʔe B-DET B-PRON
+Aʔe B-DET B-DET
 Tentehar B-NOUN B-NOUN
 tɨkɨʔɨr B-NOUN B-NOUN
 maizu B-NOUN B-NOUN
 umumeʔu B-VERB B-VERB
-parupi B-PRON B-ADP
+parupi B-PRON B-PRON
 maʔe B-NOUN B-NOUN
 uzeapomaʔe B-NOUN B-NOUN
 izupe B-ADP B-ADP
 . B-PUNCT B-PUNCT
 
-Taʔe B-CCONJ B-SCONJ
+Taʔe B-CCONJ B-CCONJ
 ameʔeg B-VERB B-VERB
 putar B-ADV B-ADV
 awaxi B-NOUN B-NOUN
-heraha B-NOUN B-VERB
+heraha B-NOUN B-NOUN
 tawpe B-NOUN B-NOUN
 har B-ADV B-ADV
 wanupe B-ADP B-ADP
@@ -99,7 +99,7 @@ maʔe B-NOUN B-NOUN
 iʔa B-NOUN B-NOUN
 ʔar B-NOUN B-NOUN
 katu B-ADV B-ADV
-mehe B-ADP B-ADV
+mehe B-ADP B-ADP
 
 Ikatu B-VERB B-VERB
 ahɨ B-ADV B-ADV
@@ -115,10 +115,10 @@ zekaipo B-ADV B-ADV
 amo B-DET B-DET
 mainumɨ B-NOUN B-NOUN
 we B-PART B-PART
-zepe B-PART B-NOUN
+zepe B-PART B-PART
 tentehar B-NOUN B-NOUN
 tuaʔu B-NOUN B-NOUN
-zepe B-PART B-NOUN
+zepe B-PART B-PART
 zekaipo B-ADV B-ADV
 raʔa B-PART B-NOUN
 
@@ -144,8 +144,8 @@ izupe B-ADP B-ADP
 wemirekope B-NOUN B-NOUN
 . B-PUNCT B-PUNCT
 
-Umaʔe B-NOUN B-VERB
-mumeʔu B-VERB B-NOUN
+Umaʔe B-NOUN B-NOUN
+mumeʔu B-VERB B-VERB
 waiko B-AUX B-AUX
 uzeupeupe B-ADP B-ADP
 wà B-PART B-PART
@@ -193,7 +193,7 @@ Maripe B-PROPN B-PROPN
 
 Mari B-PROPN B-PROPN
 imemɨr B-NOUN B-NOUN
-aʔe B-DET B-PART
+aʔe B-DET B-DET
 , B-PUNCT B-PUNCT
 Kari B-PROPN B-PROPN
 her B-NOUN B-NOUN
@@ -202,7 +202,7 @@ aʔe B-DET B-PART
 . B-PUNCT B-PUNCT
 
 Wenu B-VERB B-VERB
-wiwi B-PART B-NOUN
+wiwi B-PART B-PART
 maʔe B-NOUN B-NOUN
 ipuipuhaw B-NOUN B-NOUN
 pino B-NOUN B-NOUN
@@ -210,7 +210,7 @@ rehe B-ADP B-ADP
 har B-ADV B-ADV
 . B-PUNCT B-PUNCT
 
-Amo B-PRON B-DET
+Amo B-PRON B-PRON
 uzuka B-VERB B-VERB
 miar B-NOUN B-NOUN
 kaʔape B-NOUN B-NOUN
@@ -234,11 +234,11 @@ amo B-DET B-DET
 awa B-NOUN B-NOUN
 aʔepe B-PRON B-PRON
 
-Kwa B-PART B-NOUN
+Kwa B-PART B-PART
 namono B-VERB B-VERB
 wer B-ADV B-ADV
 kwaw B-ADV B-ADV
-zepe B-PART B-PRON
+zepe B-PART B-PART
 herukaz B-NOUN B-NOUN
 rehe B-ADP B-ADP
 newe B-ADP B-ADP
@@ -255,12 +255,12 @@ xe B-PART B-PART
 
 Izipɨ B-NOUN B-NOUN
 mehe B-ADP B-ADP
-Tentehar B-PROPN B-NOUN
+Tentehar B-PROPN B-PROPN
 wazegarhaw B-NOUN B-NOUN
 herurawer B-NOUN B-NOUN
 
 Aipo B-PART B-PART
-iazu B-VERB B-NOUN
+iazu B-VERB B-VERB
 nànà B-NOUN B-NOUN
 raʔe B-PART B-PART
 , B-PUNCT B-PUNCT
@@ -300,16 +300,16 @@ kar B-ADV B-ADV
 no B-PART B-PART
 . B-PUNCT B-PUNCT
 
-Naʔe B-PART B-CCONJ
+Naʔe B-PART B-PART
 Maizu B-PROPN B-PROPN
-iziwà B-VERB B-NOUN
+iziwà B-VERB B-VERB
 uiwɨrɨ B-NOUN B-NOUN
 hetekwer B-NOUN B-NOUN
 ikwapar B-NOUN B-NOUN
 ʔɨmaz B-ADV B-NOUN
 . B-PUNCT B-PUNCT
 
-Taʔe B-CCONJ B-SCONJ
+Taʔe B-CCONJ B-CCONJ
 zekaipo B-ADV B-ADV
 wetun B-VERB B-VERB
 hekwen B-NOUN B-NOUN
@@ -370,7 +370,7 @@ rupi B-ADP B-ADP
 zane B-PRON B-PRON
 , B-PUNCT B-PUNCT
 imukàgkarpa B-VERB B-VERB
-zane B-PRON B-PART
+zane B-PRON B-PRON
 , B-PUNCT B-PUNCT
 iʔi B-VERB B-VERB
 Mari B-PROPN B-PROPN
@@ -409,7 +409,7 @@ hehe B-ADP B-ADP
 kurɨ B-PART B-PART
 , B-PUNCT B-PUNCT
 uzàn B-VERB B-VERB
-wi B-PART B-ADP
+wi B-PART B-PART
 aguza B-NOUN B-NOUN
 oho B-VERB B-VERB
 izuwi B-ADP B-ADP
@@ -417,20 +417,20 @@ no B-PART B-PART
 , B-PUNCT B-PUNCT
 pixàn B-NOUN B-NOUN
 upɨhɨk B-VERB B-VERB
-wi B-PART B-ADP
+wi B-PART B-PART
 no B-PART B-PART
 . B-PUNCT B-PUNCT
 
 tĩŋ B-NOUN B-NOUN
 meʔŋət B-VERB B-VERB
 
-taptoba B-VERB B-NOUN
-kaʔto B-PRON B-VERB
+taptoba B-VERB B-VERB
+kaʔto B-PRON B-PRON
 
 wat B-PRON B-PRON
 manikap B-NOUN B-NOUN
 peya B-VERB B-VERB
-kaʔto B-PRON B-VERB
+kaʔto B-PRON B-PRON
 
 cego B-NOUN B-NOUN
 bɨk B-ADJ B-ADJ
@@ -443,14 +443,14 @@ cigá B-NOUN B-NOUN
 aʔtóy B-VERB B-VERB
 
 inãk B-NOUN B-NOUN
-ká B-ADJ B-NOUN
+ká B-ADJ B-ADJ
 becép B-ADJ B-ADJ
 káʔ B-ADJ B-ADJ
 
 péŋ B-NOUN B-NOUN
 aʔwĩn B-VERB B-VERB
 aket B-PART B-PART
-memã B-PART B-VERB
+memã B-PART B-PART
 
 wat B-PRON B-PRON
 kaʔa B-NOUN B-NOUN
@@ -460,8 +460,8 @@ aʔken B-VERB B-VERB
 iʔkɨy B-PART B-PART
 
 ibeon B-NOUN B-NOUN
-meʔ B-ADJ B-NOUN
-kĩn B-ADJ B-VERB
+meʔ B-ADJ B-ADJ
+kĩn B-ADJ B-ADJ
 meʔ B-ADJ B-ADJ
 
 owakán B-VERB B-VERB
@@ -470,7 +470,7 @@ wat B-PRON B-PRON
 iyõm B-NOUN B-NOUN
 pihmãm B-ADP B-ADP
 
-amãn B-NOUN B-VERB
+amãn B-NOUN B-NOUN
 yat B-PART B-PART
 nãnin B-PART B-PART
 tə B-PART B-PART
@@ -523,7 +523,7 @@ naká B-NOUN B-NOUN
 bap B-PART B-ADJ
 
 kanãy B-ADV B-ADV
-iʔkap B-AUX B-PART
+iʔkap B-AUX B-AUX
 aʔwĩa B-VERB B-VERB
 
 nãn B-PRON B-AUX
@@ -549,9 +549,9 @@ káʔ B-ADJ B-ADJ
 to B-VERB B-VERB
 kanãp B-ADV B-SCONJ
 
-kanɑ̃y B-ADV B-NOUN
-abagon B-NOUN B-VERB
-nap B-PART B-SCONJ
+kanɑ̃y B-ADV B-ADV
+abagon B-NOUN B-NOUN
+nap B-PART B-PART
 waʔye B-AUX B-AUX
 
 opábe B-NOUN B-NOUN
@@ -559,11 +559,11 @@ cigá B-NOUN B-NOUN
 cú B-ADJ B-ADJ
 
 wirik B-NOUN B-NOUN
-kanã B-NOUN B-PART
+kanã B-NOUN B-NOUN
 
 nãn B-PRON B-AUX
-mihmãm B-ADP B-NOUN
-ekab B-AUX B-VERB
+mihmãm B-ADP B-ADP
+ekab B-AUX B-AUX
 eyaʔwara B-VERB B-VERB
 
 ĩya B-NOUN B-NOUN
@@ -580,7 +580,7 @@ maʔwɨt B-NOUN B-NOUN
 ip B-NOUN B-NOUN
 ʔɨy B-VERB B-VERB
 matet B-ADV B-ADV
-cagárokõmnem B-NUM B-X
+cagárokõmnem B-NUM B-NUM
 
 õn B-PRON B-PRON
 wat B-PRON B-PRON
@@ -625,7 +625,7 @@ at B-PRON B-PRON
 ahyə B-PART B-PART
 
 ip B-NOUN B-NOUN
-cahyoy B-NOUN B-VERB
+cahyoy B-NOUN B-NOUN
 
 maʔpəy B-NOUN B-NOUN
 rap B-PART B-PART
@@ -636,11 +636,11 @@ owẽ B-NOUN B-NOUN
 nakɨra B-NOUN B-NOUN
 cop B-NOUN B-NOUN
 
-nãm B-NOUN B-PART
+nãm B-NOUN B-NOUN
 naká B-NOUN B-NOUN
 
 naʔyoh B-NOUN B-NOUN
-nõ B-ADV B-PART
+nõ B-ADV B-ADV
 
 maʔpəy B-NOUN B-NOUN
 pat B-ADJ B-ADJ
@@ -661,8 +661,8 @@ kaʔa B-NOUN B-NOUN
 yat B-PART B-PART
 
 õn B-PRON B-PRON
-amãn B-NOUN B-VERB
-ara B-VERB B-NOUN
+amãn B-NOUN B-NOUN
+ara B-VERB B-VERB
 gotoy B-VERB B-VERB
 
 aʔwak B-ADJ B-NOUN
@@ -675,7 +675,7 @@ aʔkay B-AUX B-AUX
 
 õn B-PRON B-PRON
 aʔtoy B-VERB B-VERB
-ʔĩttem B-ADJ B-ADV
+ʔĩttem B-ADJ B-ADJ
 
 aoro B-NOUN B-NOUN
 cagá B-NOUN B-NOUN
@@ -692,20 +692,20 @@ eʔi B-VERB B-VERB
 kawi B-NOUN B-NOUN
 tuja B-NOUN B-NOUN
 , B-PUNCT B-PUNCT
-aʔe B-DET B-PRON
+aʔe B-DET B-DET
 ré B-ADP B-ADP
 iamomotá B-VERB B-VERB
 , B-PUNCT B-PUNCT
 ojojá B-ADV B-VERB
 waibĩ B-NOUN B-NOUN
-rekuia B-NOUN B-VERB
+rekuia B-NOUN B-NOUN
 
 Ojaoβok B-VERB B-VERB
 serã B-ADV B-ADV
 ɨβɨá B-PART B-PART
 ikatupe B-NOUN B-NOUN
 ɲẽ B-PART B-PART
-imoingóβo B-VERB B-NOUN
+imoingóβo B-VERB B-VERB
 inupãnupã B-NOUN B-NOUN
 janondé B-ADP B-ADP
 ? B-PUNCT B-PUNCT
@@ -723,14 +723,14 @@ sekó B-NOUN B-NOUN
 mombewaβa B-NOUN B-NOUN
 , B-PUNCT B-PUNCT
 ɨsɨkatãsɨapwana B-NOUN B-NOUN
-Tupanamo B-NOUN B-PROPN
+Tupanamo B-NOUN B-NOUN
 sekó B-NOUN B-NOUN
 kwapaβa B-NOUN B-NOUN
 , B-PUNCT B-PUNCT
 toʔo B-NOUN B-NOUN
 swi B-ADP B-ADP
 mirra B-NOUN B-NOUN
-moroesé B-NOUN B-VERB
+moroesé B-NOUN B-NOUN
 seʔõawama B-NOUN B-NOUN
 mombewaβa B-NOUN B-NOUN
 
@@ -774,11 +774,11 @@ oarõana B-NOUN B-NOUN
 mongetábo B-VERB B-VERB
 ? B-PUNCT B-PUNCT
 
-jamongwá B-VERB B-NOUN
+jamongwá B-VERB B-VERB
 moʃɨ B-NOUN B-NOUN
 ruʔuba B-NOUN B-VERB
 , B-PUNCT B-PUNCT
-iʃupé B-PRON B-ADP
+iʃupé B-PRON B-PRON
 iaiemoitɨamo B-VERB B-VERB
 
 Marãpe B-ADV B-ADV
@@ -821,27 +821,27 @@ mongetáβo B-VERB B-VERB
 ? B-PUNCT B-PUNCT
 
 Asé B-PRON B-PRON
-sumarã B-NOUN B-PRON
+sumarã B-NOUN B-NOUN
 swi B-ADP B-ADP
 
 Sesé B-ADP B-ADP
-o B-PRON B-NOUN
+o B-PRON B-PRON
 maʔendwáramo B-NOUN B-NOUN
 e B-PART B-PART
 asé B-PRON B-PRON
 Tupã B-NOUN B-NOUN
 rawsúβi B-NOUN B-NOUN
-o B-PRON B-NOUN
+o B-PRON B-PRON
 pɨʔape B-NOUN B-NOUN
 sekó B-NOUN B-NOUN
-aβɨpotareʔɨma B-VERB B-NOUN
+aβɨpotareʔɨma B-VERB B-VERB
 
 ʃejɨβoja B-NOUN B-NOUN
 , B-PUNCT B-PUNCT
 ʃesokó B-NOUN B-NOUN
 , B-PUNCT B-PUNCT
 ʃetamũjusu B-NOUN B-NOUN
-Aimbiré B-PROPN B-NOUN
+Aimbiré B-PROPN B-PROPN
 , B-PUNCT B-PUNCT
 sukuriju B-NOUN B-NOUN
 , B-PUNCT B-PUNCT
@@ -858,7 +858,7 @@ Marã B-PRON B-ADV
 eʔipe B-VERB B-VERB
 oguβa B-NOUN B-NOUN
 supé B-ADP B-ADP
-ojekɨj B-NOUN B-VERB
+ojekɨj B-NOUN B-NOUN
 janondé B-ADP B-ADP
 ? B-PUNCT B-PUNCT
 
@@ -872,7 +872,7 @@ marãtekoara B-NOUN B-NOUN
 okajβaʔe B-NOUN B-NOUN
 , B-PUNCT B-PUNCT
 tuβiʃákatu B-NOUN B-NOUN
-Aimbiré B-PROPN B-NOUN
+Aimbiré B-PROPN B-PROPN
 , B-PUNCT B-PUNCT
 apɨaβa B-NOUN B-NOUN
 moaŋaipapara B-NOUN B-NOUN
@@ -883,7 +883,7 @@ eʔipe B-VERB B-VERB
 Jesus B-PROPN B-PROPN
 osɨ B-NOUN B-NOUN
 supé B-ADP B-ADP
-oeʔõ B-NOUN B-PRON
+oeʔõ B-NOUN B-NOUN
 janondé B-ADP B-ADP
 ? B-PUNCT B-PUNCT
 
@@ -892,9 +892,9 @@ rarõawama B-NOUN B-NOUN
 resé B-ADP B-ADP
 
 janemaɲana B-NOUN B-NOUN
-raɲe B-ADV B-NOUN
-tosó B-VERB B-VERB
-janerenoné B-ADP B-ADV
+raɲe B-ADV B-ADV
+tosó B-VERB B-NOUN
+janerenoné B-ADP B-ADP
 , B-PUNCT B-PUNCT
 opá B-PRON B-PRON
 ok B-NOUN B-NOUN
@@ -911,26 +911,26 @@ Ajpó B-DET B-DET
 sawsukatupɨra B-NOUN B-NOUN
 , B-PUNCT B-PUNCT
 ajpó B-DET B-DET
-aɲẽ B-PART B-ADV
+aɲẽ B-PART B-PART
 jamomeʔu B-VERB B-VERB
 ajpó B-DET B-DET
 imomoraŋɨpɨra B-NOUN B-NOUN
 . B-PUNCT B-PUNCT
 
 ʃe B-PRON B-PRON
-ɲõ B-ADV B-PART
+ɲõ B-ADV B-ADV
 aʔupakatune B-VERB B-NOUN
 . B-PUNCT B-PUNCT
 Kweiseβé B-ADV B-ADV
 , B-PUNCT B-PUNCT
-nakó B-PART B-VERB
-airumõ B-VERB B-ADV
+nakó B-PART B-PART
+airumõ B-VERB B-VERB
 . B-PUNCT B-PUNCT
-Tasóne B-VERB B-NOUN
+Tasóne B-VERB B-VERB
 , B-PUNCT B-PUNCT
-wɨ B-INTJ B-PART
+wɨ B-INTJ B-INTJ
 ! B-PUNCT B-PUNCT
-Takaʔune B-VERB B-NOUN
+Takaʔune B-VERB B-VERB
 ! B-PUNCT B-PUNCT
 
 Marãpe B-ADV B-ADV
@@ -941,11 +941,11 @@ janondé B-ADP B-ADP
 
 Taʃepɨsɨrõ B-NOUN B-NOUN
 Tupã B-PROPN B-PROPN
-ʃesumarã B-PRON B-NOUN
+ʃesumarã B-PRON B-PRON
 swi B-ADP B-ADP
 , B-PUNCT B-PUNCT
 kwépe B-ADV B-ADV
-marã B-PRON B-ADV
+marã B-PRON B-PRON
 ʃerekoápe B-NOUN B-NOUN
 , B-PUNCT B-PUNCT
 ojaβo B-VERB B-VERB
@@ -969,13 +969,13 @@ Aopiranga B-NOUN B-NOUN
 , B-PUNCT B-PUNCT
 ju B-NOUN B-NOUN
 aβé B-ADV B-ADV
-owerur B-VERB B-NOUN
-ojoesé B-ADP B-VERB
+owerur B-VERB B-VERB
+ojoesé B-ADP B-ADP
 , B-PUNCT B-PUNCT
 oporeawsuβetekatúramo B-NOUN B-NOUN
 
 Ajepɨk B-VERB B-VERB
-aɲe B-ADV B-PRON
+aɲe B-ADV B-ADV
 sesé B-ADP B-ADP
 , B-PUNCT B-PUNCT
 ianamakatu B-NOUN B-NOUN

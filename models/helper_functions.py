@@ -56,8 +56,11 @@ def conllu_to_flair(path_in, lang, write_corpus: bool = False, write_raw: bool =
 
     if write_testset == True:
         half_1, half_2 = train_test_split(data, random_state=42, test_size=0.5)
+        half_2, half_3 = train_test_split(half_2, random_state=42, test_size=0.5)
+        
         half_1 = "\n\n".join(half_1)
         half_2 = "\n\n".join(half_2)
+        half_3 = "\n\n".join(half_3)
 
         data_folder = f'data/{lang}/features'
         
@@ -65,6 +68,8 @@ def conllu_to_flair(path_in, lang, write_corpus: bool = False, write_raw: bool =
             f.write(half_1)
         with open(f'{data_folder}/half_2.txt', 'w') as f:
             f.write(half_2)
+        with open(f'{data_folder}/half_3.txt', 'w') as f:
+            f.write(half_3)
         
     if write_raw == True:
         train, validtext = train_test_split(raw_text, random_state=42, test_size=.2)
@@ -153,9 +158,9 @@ def make_finetuneset(language):
     columns = {0: 'text', 1: 'upos', 2:'head', 3: 'deprel'}
 
     corpus: Corpus = ColumnCorpus(data_folder, columns,
-                            train_file = 'half_1.txt',
-                            test_file = 'half_2.txt',
-                            dev_file = 'dev.txt')
+                            train_file = 'half_2.txt',
+                            test_file = 'half_1.txt',
+                            dev_file = 'half_3.txt')
     return corpus
 
 def concat(languages: list, folder: str, write_diff_train: bool = True):

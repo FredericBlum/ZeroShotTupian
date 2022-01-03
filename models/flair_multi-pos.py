@@ -47,7 +47,7 @@ tagger = SequenceTagger(hidden_size=512,
 trainer = ModelTrainer(tagger, corpus)
 
 trainer.train('models/resources/taggers/my-upos-3',
-                train_with_dev=True,
+                train_with_test=True,
                 monitor_train=True,
                 monitor_test=True,
                 patience=3,
@@ -59,7 +59,7 @@ trainer.train('models/resources/taggers/my-upos-3',
 ### Evaluation              ###
 ###############################
 #tagger = SequenceTagger.load('multi-pos')
-tagger = SequenceTagger.load('models/resources/taggers/my-upos-3/final-model.pt')
+tagger = SequenceTagger.load('models/resources/taggers/my-upos-3/best-model.pt')
 
 trainer = ModelTrainer(tagger, eval_corpus)
 #trainer.fine_tune()
