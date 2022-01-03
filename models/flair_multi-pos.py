@@ -15,7 +15,13 @@ guajajara = ColumnCorpus('data/Guajajara/features', columns, train_file = 'train
 karo = ColumnCorpus('data/Karo/features', columns, train_file = 'train.txt', test_file = 'test.txt', dev_file = 'dev.txt')
 tupinamba = ColumnCorpus('data/Tupinamba/features', columns, train_file = 'train.txt', test_file = 'test.txt', dev_file = 'dev.txt')
 
+akuntsu = make_testset(language = 'Akuntsu')
+kaapor = make_testset(language = 'Kaapor')
+makurap = make_testset(language = 'Makurap')
+munduruku = make_testset(language = 'Munduruku')
+
 corpus = MultiCorpus([guajajara, karo, tupinamba])
+eval_corpus = MultiCorpus([akuntsu, kaapor, makurap, munduruku])
 
 label_type = 'upos'
 upos_dictionary = corpus.make_label_dictionary(label_type=label_type)
@@ -43,13 +49,21 @@ trainer.train('models/resources/taggers/my-upos-3',
                 monitor_train=True,
                 monitor_test=True,
                 patience=3,
-                anneal_with_restarts=True,
                 learning_rate=1,
-                mini_batch_size=16,
+                mini_batch_size=32,
                 max_epochs=300)
 
+################################
+### Tagger and Trainer       ###
+################################
+#tagger = SequenceTagger.load('multi-pos')
+tagger = SequenceTagger.load('models/resources/taggers/my-upos-3/best-model.pt')
+
 ###############################
-### Visualizations          ###
+### Evaluation              ###
 ###############################
-plotter = Plotter()
-plotter.plot_training_curves('models/resources/taggers/my-upos-3/loss.tsv')
+trainer = ModelTrainer(tagger, eval_corpus)
+#trainer.fine_tune()
+trainer.final_test('models/resources/taggers/eval_multi_tupi',
+                main_evaluation_metric = ("micro avg", "f1-score"),
+                eval_mini_batch_size = 32)
