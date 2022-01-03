@@ -20,14 +20,11 @@ kaapor = make_testset(language = 'Kaapor')
 makurap = make_testset(language = 'Makurap')
 munduruku = make_testset(language = 'Munduruku')
 
+corpus = MultiCorpus([guajajara, karo, tupinamba])
 eval_corpus = MultiCorpus([akuntsu, kaapor, makurap, munduruku])
 
-corpus = MultiCorpus([guajajara, 
-                    karo, 
-                    tupinamba])
-
 label_type = 'deprel'
-dictionary = corpus.make_label_dictionary(label_type='deprel')
+dictionary = corpus.make_label_dictionary(label_type=label_type)
 
 ################################
 ### Embeddings               ###
@@ -48,20 +45,19 @@ trainer = ModelTrainer(tagger, corpus)
 
 trainer.train('models/resources/taggers/dep_tupi',
                 train_with_dev=True,
-                learning_rate=4,
-                mini_batch_size=16,
+                learning_rate=1,
+                mini_batch_size=32,
                 max_epochs=500,
                 monitor_train=True,
                 monitor_test=True,
-                anneal_with_restarts=True,
                 patience=3)
 
 ###############################
 ### Evaluation              ###
 ###############################
-tagger = SequenceTagger.load('models/resources/taggers/dep_tupi/best-model.pt')
+tagger = SequenceTagger.load('models/resources/taggers/dep_tupi/final-model.pt')
 
 trainer = ModelTrainer(tagger, eval_corpus)
 trainer.final_test('models/resources/taggers/eval_multi_tupi',
-                main_evaluation_metric = ("micro avg", "f1-score"),
+                main_evaluation_metric = ("macro avg", "f1-score"),
                 eval_mini_batch_size = 32)
