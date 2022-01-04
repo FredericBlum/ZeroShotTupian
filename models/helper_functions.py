@@ -154,7 +154,7 @@ def write_tupi(write_corpus: bool = False, write_raw: bool = False, write_testse
     tupinamba = conllu_to_flair('../UD/UD_Tupinamba-TuDeT/tpn_tudet-ud-test.conllu', lang = 'Tupinamba', write_corpus = write_corpus, write_raw = write_raw, write_testset = write_testset, deprel = deprel)
 
 def make_testset(language):
-    data_folder = f'data/{language}/deprel'
+    data_folder = f'data/{language}/features'
     columns = {0: 'text', 1: 'upos', 2:'head', 3: 'deprel'}
 
     corpus: Corpus = ColumnCorpus(data_folder, columns,
@@ -168,8 +168,8 @@ def make_finetuneset(language):
     columns = {0: 'text', 1: 'upos', 2:'head', 3: 'deprel'}
 
     corpus: Corpus = ColumnCorpus(data_folder, columns,
-                            train_file = 'half_2.txt',
-                            test_file = 'half_1.txt',
+                            train_file = 'half_1.txt',
+                            test_file = 'half_2.txt',
                             dev_file = 'half_3.txt')
     return corpus
 
