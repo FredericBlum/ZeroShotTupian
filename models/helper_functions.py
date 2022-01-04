@@ -288,40 +288,31 @@ def conllu_split(path_in, lang):
     with open(f'{data_folder}/all_in_one.conllu', 'w') as f:
         f.write(all_in_one)
 
+def concat_glove(lang):
+    data_emb = f'data/{lang}/glove'
 
-def concat_glove(languages: list):
-    data = []
-    data_emb = f'data/combi_emb/glove'
+    lang_text = []
+    with open(f'data/{lang}/embeddings/train/train.txt') as file:
+        doc = file.read()
+        text = doc.split("\n")
+        for utt in text:
+            lang_text.append(utt)
 
-    for lang in languages:
-        lang_text = []
-        with open(f'data/{lang}/embeddings/train/train.txt') as file:
-            doc = file.read()
-            text = doc.split("\n")
-            for utt in text:
-                lang_text.append(utt)
+    with open(f'data/{lang}/embeddings/valid.txt') as file:
+        doc = file.read()
+        text = doc.split("\n")
+        for utt in text:
+            lang_text.append(utt)
 
+    with open(f'data/{lang}/embeddings/test.txt') as file:
+        doc = file.read()
+        text = doc.split("\n")
+        for utt in text:
+            lang_text.append(utt)
 
-        with open(f'data/{lang}/embeddings/valid.txt') as file:
-            doc = file.read()
-            text = doc.split("\n")
-            for utt in text:
-                lang_text.append(utt)
-
-        with open(f'data/{lang}/embeddings/test.txt') as file:
-            doc = file.read()
-            text = doc.split("\n")
-            for utt in text:
-                lang_text.append(utt)
-
-        #lang_text.append("\n")
-
-        lang_text = " ".join(lang_text)
-        data.append(lang_text)
-    print(len(data))
-    data = "\n".join(data)
+    lang_text = " ".join(lang_text)
 
     with open(f'{data_emb}/corpus.txt', 'w') as f:
-        f.write(data)
+        f.write(lang_text)
 
     print("Have fun with GloVe")
