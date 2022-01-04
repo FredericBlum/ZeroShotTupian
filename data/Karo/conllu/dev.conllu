@@ -1,0 +1,463 @@
+# sent_id = 136
+# text = tĩŋ meʔŋət
+# text_eng = Let the worm go (free)! (Gabas 1999, 72)
+1	tĩŋ	_	NOUN	n	_	2	obj	_	_
+2	meʔŋət	_	VERB	v	Decl=Assert|Mood=Opt	0	root	_	_
+
+# sent_id = 257
+# text = taptoba kaʔto
+# text_eng = Watch them! (Gabas 1999, 105)
+1	taptoba	_	VERB	v	Number=Plur|Person=3|VerbForm=Ger	0	root	_	_
+2	kaʔto	kaʔto	PRON	pron	Number=Plur|Person=2	1	appos	_	_
+
+# sent_id = 260
+# text = wat manikap peya kaʔto
+# text_eng = Make my hammock! (Gabas 1999, 105)
+1	wat	wat	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod	_	_
+2	manikap	_	NOUN	n	_	3	obj	_	_
+3	peya	_	VERB	v	VerbForm=Ger	0	root	_	_
+4	kaʔto	kaʔto	PRON	pron	Number=Plur|Person=2	3	appos	_	_
+
+# sent_id = 199
+# text = cego bɨk kãp
+# text_eng = delicious black monkey (Gabas 1999, 90)
+1	cego	_	NOUN	n	_	0	root	_	_
+2	bɨk	_	ADJ	adj	_	1	compound	_	_
+3	kãp	_	ADJ	adj	_	1	amod	_	_
+
+# sent_id = 209
+# text = opábe cú cigá
+# text_eng = my [big hand] blister (Gabas 1999, 93)
+1	opábe	_	NOUN	n	Number=Sing|Person=1	3	compound	_	_
+2	cú	_	ADJ	adj	_	1	amod	_	_
+3	cigá	_	NOUN	n	_	0	root	_	_
+
+# sent_id = 627
+# text = aʔtóy
+# text_eng = He/it disappeared. (Gabas 1999, 200)
+1	aʔtóy	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	_	_
+
+# sent_id = 551
+# text = i-nãk ká becép káʔ
+# text_eng = ugly mouth (Gabas 1999, 177)
+1	i-nãk	_	NOUN	n	Person=3Imp	0	root	_	_
+2	ká	_	ADJ	adj	Clas=Ccv	1	clf	_	_
+3	becép	pecép	ADJ	adj	_	1	amod	_	_
+4	káʔ	_	ADJ	adj	Clas=Ccv	1	clf	_	_
+
+# sent_id = 661
+# text = péŋ aʔwĩn aket memã
+# text_eng = The white man must have supposedly killed it/him. (Gabas 1999, 217)
+1	péŋ	péŋ	NOUN	n	_	2	nsubj	_	_
+2	aʔwĩn	wĩ	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	_	_
+3	aket	aket	PART	part	Evident=Fh	2	discourse	_	_
+4	memã	memã	PART	part	Evident=Fh	2	discourse	_	_
+
+# sent_id = 077
+# text = wat kaʔa ʔaʔtoʔ
+# text_eng = My houses. (Gabas 1999, 54)
+1	wat	wat	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod	_	_
+2	kaʔa	_	NOUN	n	_	0	root	_	_
+3	ʔaʔtoʔ	_	ADJ	adj	Clas=Rd|Number=Plur	2	clf	_	_
+
+# sent_id = 645
+# text = aʔken iʔkɨy
+# text_eng = It is possible that he is sleeping/slept. (Gabas 1999, 211)
+1	aʔken	ket	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	_	_
+2	iʔkɨy	iʔkɨy	PART	part	Evident=Fh	1	parataxis	_	_
+
+# sent_id = 548
+# text = ibeon meʔ kĩn meʔ
+# text_eng = hard skin (Gabas 1999, 176)
+1	ibeon	_	NOUN	n	Person=3Imp	0	root	_	_
+2	meʔ	_	ADJ	adj	Clas=Flat	1	clf	_	_
+3	kĩn	_	ADJ	adj	_	1	amod	_	_
+4	meʔ	_	ADJ	adj	Clas=Flat	1	clf	_	_
+
+# sent_id = 314
+# text = owakán matet wat iyõm pihmãm
+# text_eng = My father and I were angry yesterday. (Gabas 1999, 117)
+1	owakán	_	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	_	_
+2	matet	_	ADV	adv	_	1	advmod	_	_
+3	wat	wat	PRON	pron	Number=Sing|Person=1|PronType=Prs	4	nmod	_	_
+4	iyõm	iyõm	NOUN	n	_	1	obl	_	_
+5	pihmãm	mãm	ADP	adp	Case=Com	4	case	_	_
+
+# sent_id = 670
+# text = amãn yat nãnin tə
+# text_eng = They say that the rain will really fall (or: They really say that the rain will fall.) (Gabas 1999, 219)
+1	amãn	amãn	NOUN	n	_	4	nsubj	_	_
+2	yat	yat	PART	part	Tense=Fut	4	mark	_	_
+3	nãnin	nãnin	PART	part	Evident=Fh	4	discourse	_	_
+4	tə	tə	PART	part	Evident=Nfh	0	root	_	_
+
+# sent_id = 060
+# text = maʔwɨt cú
+# text_eng = big man (Gabas 1999, 45)
+1	maʔwɨt	_	NOUN	n	_	0	root	_	_
+2	cú	_	ADJ	adj	_	1	amod	_	_
+
+# sent_id = 051
+# text = wat kaʔa
+# text_eng = my house (Gabas 1999, 43)
+1	wat	wat	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod	_	_
+2	kaʔa	_	NOUN	n	_	0	root	_	_
+
+# sent_id = 643
+# text = tokera at igã
+# text_eng = He must have gone to sleep. (Gabas 1999, 210)
+1	tokera	_	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	0	root	_	_
+2	at	ʔe	AUX	aux	Decl=Assert|Number=Sing|Person=3	1	aux	_	_
+3	igã	igã	PART	part	Evident=Fh	1	discourse	_	_
+
+# sent_id = 135
+# text = cãn meʔŋen
+# text_eng = Let the cat sleep! (Gabas 1999, 72)
+1	cãn	_	NOUN	n	_	2	obj	_	_
+2	meʔŋen	_	VERB	v	Decl=Assert|Mood=Opt	0	root	_	_
+
+# sent_id = 208
+# text = opábe cigá
+# text_eng = my hand blister (Gabas 1999, 92)
+1	opábe	_	NOUN	n	Number=Sing|Person=1	2	compound	_	_
+2	cigá	_	NOUN	n	_	0	root	_	_
+
+# sent_id = 595
+# text = púŋ wa iʔke wet
+# text_eng = (What) I did (was) not shoot(ing).(Gabas 1999, 191)
+1	púŋ	_	VERB	v	_	0	root	_	_
+2	wa	_	AUX	aux	Number=Sing|Person=1|VerbForm=Ger	1	aux	_	_
+3	iʔke	iʔke	PART	part	Polarity=Neg	1	advmod	_	_
+4	wet	_	AUX	aux	Decl=Assert|Number=Sing|Person=1	1	aux	_	_
+
+# sent_id = 299
+# text = péŋ tə
+# text_eng = the white man, they say. (Gabas 1999,115)
+1	péŋ	péŋ	NOUN	n	_	0	root	_	_
+2	tə	tə	PART	part	Evident=Nfh	1	discourse	_	_
+
+# sent_id = 265
+# text = cúrem wat kaʔa ʔa
+# text_eng = My house is big. (Gabas 1999, 107)
+1	cúrem	_	ADJ	adj	_	0	root	_	_
+2	wat	wat	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nmod	_	_
+3	kaʔa	_	NOUN	n	_	1	nsubj	_	_
+4	ʔa	_	ADJ	adj	Clas=Rd	3	clf	_	_
+
+# sent_id = 007
+# text = maʔteg iʔke
+# text_eng = it's not (a) palm tree (sp.) (Gabas 1999, 25)
+1	maʔteg	maʔtek	NOUN	n	_	0	root	_	_
+2	iʔke	iʔke	PART	part	Polarity=Neg	1	advmod	_	_
+
+# sent_id = 031
+# text = ocorah wét
+# text_eng = my girlfriend cried (Gabas 1999, 30)
+1	ocorah	_	NOUN	n	Number=Sing|Person=1	2	nsubj	_	_
+2	wét	_	VERB	v	Decl=Assert	0	root	_	_
+
+# sent_id = 542
+# text = iu bap ci
+# text_eng = açai wine (Gabas 1999, 175)
+1	iu	_	NOUN	n	_	3	compound	_	_
+2	bap	_	ADJ	adj	Clas=Cylb	1	clf	_	_
+3	ci	_	NOUN	n	_	0	root	_	_
+
+# sent_id = 181
+# text = mãygãra cú aʔnãn
+# text_eng = It is a/the big snake. (Gabas 1999, 85)
+1	mãygãra	mãygãra	NOUN	n	_	0	root	_	_
+2	cú	_	ADJ	adj	_	1	amod	_	_
+3	aʔnãn	nã	AUX	aux	Decl=Assert|Number=Sing|Person=3	1	cop	_	_
+
+# sent_id = 204
+# text = wayo naká bap
+# text_eng = alligator head (Gabas 1999, 91)
+1	wayo	_	NOUN	n	_	2	compound	_	_
+2	naká	_	NOUN	n	_	0	root	_	_
+3	bap	_	PART	part	_	1	clf	_	_
+
+# sent_id = 070
+# text = kanãy iʔkap aʔwĩa
+# text_eng = Then we will kill it. (Gabas 1999, 48)
+1	kanãy	_	ADV	adv	_	3	advmod	_	_
+2	iʔkap	_	AUX	aux	Clusivity=In|Decl=AssertFoc|Number=Plur|Person=1|Tense=Fut	3	aux	_	_
+3	aʔwĩa	_	VERB	v	Number=Plur|Person=3|VerbForm=Ger	0	root	_	_
+
+# sent_id = 041
+# text = nãn ahyə
+# text_eng = What (happened)?; What/who is it? (Gabas 1999, 41)
+1	nãn	nãn	PRON	pron	_	0	root	_	_
+2	ahyə	ahyə	PART	part	Int=Yes	1	discourse	_	_
+
+# sent_id = 158
+# text = oken cúrem
+# text_eng = I slept a lot. (Gabas 1999, 77)
+1	oken	ket	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	_	_
+2	cúrem	_	ADV	adv	_	1	advmod	_	_
+
+# sent_id = 011
+# text = oyakõy bãttem
+# text_eng = I dove beautifully (Gabas 1999, 26)
+1	oyakõy	yakõp	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	_	_
+2	bãttem	pãt	ADV	adv	_	1	advmod	_	_
+
+# sent_id = 132
+# text = naʔwəy beʔŋət
+# text_eng = Let the monkey walk (free)! (Gabas 1999, 72)
+1	naʔwəy	_	NOUN	n	_	2	obj	_	_
+2	beʔŋət	_	VERB	v	Decl=Assert|Mood=Opt	0	root	_	_
+
+# sent_id = 049
+# text = aʔkun
+# text_eng = his/its belly (Gabas 1999, 43)
+1	aʔkun	_	NOUN	n	Number=Sing|Person=3	0	root	_	_
+
+# sent_id = 487
+# text = wĩt wĩaw aʔwaʔye at chapéu káʔ to kanãp
+# text_eng = He whistled when he saw his hat. (Gabas 1999, 158)
+1	wĩt	_	NOUN	n	_	2	compound	_	_
+2	wĩaw	_	NOUN	n	_	0	root	_	_
+3	aʔwaʔye	_	AUX	aux	Number=Sing|Person=3	2	aux	_	_
+4	at	at	PRON	pron	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+5	chapéu	_	NOUN	n	_	7	obj	_	_
+6	káʔ	_	ADJ	adj	Clas=Ccv	5	clf	_	_
+7	to	_	VERB	v	_	2	advcl	_	_
+8	kanãp	_	ADV	adv	_	7	mark	_	_
+
+# sent_id = 065
+# text = kanɑ̃y abagon nap waʔye
+# text_eng = Then there were his friends. (Gabas 1999, 47)
+1	kanɑ̃y	_	ADV	_	_	4	advmod	_	_
+2	abagon	_	NOUN	n	Number=Plur|Person=3	4	nsubj	_	_
+3	nap	_	PART	part	Case=Com	2	case	_	_
+4	waʔye	_	AUX	aux	_	0	root	_	_
+
+# sent_id = 210
+# text = opábe cigá cú
+# text_eng = my big [hand blister](Gabas 1999, 93)
+1	opábe	_	NOUN	n	Number=Sing|Person=1	2	compound	_	_
+2	cigá	_	NOUN	n	_	0	root	_	_
+3	cú	_	ADJ	adj	_	2	amod	_	_
+
+# sent_id = 211
+# text = wirik kanã
+# text_eng = edible thing (Gabas 1999, 93)
+1	wirik	_	NOUN	n	_	2	compound	_	_
+2	kanã	_	NOUN	n	_	0	root	_	_
+
+# sent_id = 069
+# text = nãn mihmãm ekab eyaʔwara
+# text_eng = With whom you will leave? (Gabas 1999, 48)
+1	nãn	nãn	PRON	pron	Int=Yes	4	obl	_	_
+2	mihmãm	mãm	ADP	adp	Case=Com	1	case	_	_
+3	ekab	_	AUX	aux	Decl=AssertFoc|Number=Sing|Person=2|Tense=Fut	4	aux	_	_
+4	eyaʔwara	_	VERB	v	Number=Sing|Person=2|VerbForm=Ger	0	root	_	_
+
+# sent_id = 321
+# text = ĩya tẽy
+# text_eng = The bird flew. (Gabas 1999, 119)
+1	ĩya	_	NOUN	n	_	2	nsubj	_	_
+2	tẽy	_	VERB	v	Decl=Assert	0	root	_	_
+
+# sent_id = 110
+# text = ẽn yaw rati
+# text_eng = You brought the ray. (Gabas 1999, 66)
+1	ẽn	ẽn	PRON	pron	Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
+2	yaw	yaw	NOUN	n	_	3	obj	_	_
+3	rati	rati	VERB	v	Case=Com|Decl=Assert	0	root	_	_
+
+# sent_id = 574
+# text = were bɨʔ
+# text_eng = frog (Gabas 1999, 182)
+1	were	_	NOUN	n	_	0	root	_	_
+2	bɨʔ	_	ADJ	adj	Clas=Cyls	1	clf	_	_
+
+# sent_id = 396
+# text = maʔwɨt ip ʔɨy matet cagárokõmnem
+# text_eng = The man caught two fish yesterday. (Gabas 1999, 135)
+1	maʔwɨt	_	NOUN	n	_	3	nsubj	_	_
+2	ip	_	NOUN	n	_	3	obj	_	_
+3	ʔɨy	ʔɨy	VERB	v	Decl=Assert	0	root	_	_
+4	matet	_	ADV	adv	_	3	obl	_	_
+5	cagárokõmnem	_	NUM	num	_	2	nummod	_	_
+
+# sent_id = 108
+# text = õn wat owẽ raken
+# text_eng = I put my baby to sleep, sleeping with it. (Gabas 1999, 66)
+1	õn	õn	PRON	pron	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+2	wat	wat	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nmod	_	_
+3	owẽ	_	NOUN	n	_	4	obj	_	_
+4	raken	_	VERB	v	Case=Com|Decl=Assert	0	root	_	_
+
+# sent_id = 101
+# text = agóaʔpət amagahmõm nãn
+# text_eng = The shaman made him/it calm down. (Gabas 1999, 64)
+1	agóaʔpət	agóaʔpət	NOUN	n	_	2	nsubj	_	_
+2	amagahmõm	_	VERB	v	Number=Sing|Person=3|Voice=Cau	0	root	_	_
+3	nãn	nã	AUX	aux	Decl=Assert	2	cop	_	_
+
+# sent_id = 576
+# text = ipá gap
+# text_eng = fingers (Gabas 1999, 182)
+1	ipá	_	NOUN	n	Person=3Imp	0	root	_	_
+2	gap	_	ADJ	adj	Clas=Bss	1	clf	_	_
+
+# sent_id = 367
+# text = oken péŋ at kaʔa ʔaʔ peʔ
+# text_eng = I slept at the white man's house. (Gabas 1999, 129)
+1	oken	_	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	_	_
+2	péŋ	péŋ	NOUN	n	_	4	nmod	_	_
+3	at	at	PART	part	_	2	case	_	_
+4	kaʔa	_	NOUN	n	_	1	obl	_	_
+5	ʔaʔ	_	PART	part	_	4	clf	_	_
+6	peʔ	_	ADP	adp	Case=Loc	4	case	_	_
+
+# sent_id = 486
+# text = õn aʔwĩn [ewpak-a kanãp]
+# text_eng = I killed it/him when I woke up. (Gabas 1999, 158)
+1	õn	õn	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	aʔwĩn	wĩ	VERB	v	Number=Sing|Person=3	0	root	_	_
+3	[ewpak-a	_	VERB	v	Number=Sing|Person=1|VerbForm=Ger	2	dep	_	_
+4	kanãp]	_	SCONJ	sconj	_	3	mark	_	_
+
+# sent_id = 302
+# text = itɨ cãp
+# text_eng = deer's leg (Gabas 1999, 116)
+1	itɨ	_	NOUN	n	_	2	nmod	_	_
+2	cãp	_	NOUN	n	_	0	root	_	_
+
+# sent_id = 518
+# text = icagá ʔaʔ
+# text_eng = eye (Gabas 1999, 170)
+1	icagá	_	NOUN	n	Person=3Imp	0	root	_	_
+2	ʔaʔ	_	ADJ	adj	Clas=Rd	1	clf	_	_
+
+# sent_id = 220
+# text = at ibaʔpat
+# text_eng = He (was the one who) fell down. (Gabas 1999, 96)
+1	at	at	PRON	pron	Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
+2	ibaʔpat	_	VERB	v	Person=3Imp	0	root	_	_
+
+# sent_id = 621
+# text = at otoy
+# text_eng = He/it saw me. (Gabas 1999, 199)
+1	at	at	PRON	pron	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	otoy	_	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	_	_
+
+# sent_id = 145
+# text = abeʔnan
+# text_eng = Let it/him fall. (Gabas 1999, 74)
+1	abeʔnan	_	VERB	v	Decl=Assert|Mood=Opt|Number=Sing|Person=3	0	root	_	_
+
+# sent_id = 163
+# text = kaptem at ahyə
+# text_eng = Is it delicious? (Gabas 1999, 78)
+1	kaptem	_	ADJ	adj	_	0	root	_	_
+2	at	at	PRON	pron	Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
+3	ahyə	ahyə	PART	part	Int=Yes	1	mark	_	_
+
+# sent_id = 213
+# text = ip cahyoy
+# text_eng = dog fish (Gabas 1999, 93)
+1	ip	_	NOUN	n	_	0	root	_	_
+2	cahyoy	_	NOUN	n	_	1	compound	_	_
+
+# sent_id = 056
+# text = maʔpəy rap
+# text_eng = women (a woman and other women) (Gabas 1999, 44)
+1	maʔpəy	_	NOUN	n	_	0	root	_	_
+2	rap	_	PART	part	Case=Com	1	case	_	_
+
+# sent_id = 286
+# text = ite at owẽ nakɨra cop
+# text_eng = the dirt of the ear of my uncle's child (Gabas 1999, 112)
+1	ite	_	NOUN	n	_	3	nmod	_	_
+2	at	at	PRON	pron	_	1	nmod	_	_
+3	owẽ	_	NOUN	n	_	4	nmod	_	_
+4	nakɨra	_	NOUN	n	_	5	nmod	_	_
+5	cop	_	NOUN	n	_	0	root	_	_
+
+# sent_id = 024
+# text = nãm naká
+# text_eng = the head of (the/a) bee (sp.) (Gabas 1999, 29)
+1	nãm	_	NOUN	n	_	2	nmod	_	_
+2	naká	_	NOUN	n	_	0	root	_	_
+
+# sent_id = 030
+# text = naʔyoh nõ
+# text_eng = one of the leaves (Gabas 1999, 30)
+1	naʔyoh	_	NOUN	n	_	0	root	_	_
+2	nõ	_	ADV	adv	_	1	advmod	_	_
+
+# sent_id = 182
+# text = maʔpəy pat ŋanãn
+# text_eng = She is a/the beautiful woman. (Gabas 1999, 85)
+1	maʔpəy	_	NOUN	n	_	0	root	_	_
+2	pat	_	ADJ	adj	_	1	amod	_	_
+3	ŋanãn	_	AUX	aux	Clas=Fem|Decl=Assert|Number=Sing|Person=3	1	cop	_	_
+
+# sent_id = 329
+# text = agóaʔpət paraʔkət
+# text_eng = The shaman went back. (Gabas 1999, 121)
+1	agóaʔpət	agóaʔpət	NOUN	n	_	2	nsubj	_	_
+2	paraʔkət	_	VERB	v	Decl=Assert	0	root	_	_
+
+# sent_id = 227
+# text = ẽn mãygãra cú wĩn ahyə
+# text_eng = Did you kill the/a big snake? (Gabas 1999, 98)
+1	ẽn	ẽn	PRON	pron	Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
+2	mãygãra	mãygãra	NOUN	n	_	4	obj	_	_
+3	cú	_	ADJ	adj	_	2	amod	_	_
+4	wĩn	wĩ	VERB	v	Decl=Assert	0	root	_	_
+5	ahyə	ahyə	PART	part	Int=Yes	4	mark	_	_
+
+# sent_id = 425
+# text = wat kaʔa ʔa yat
+# text_eng = My future house. (Gabas 1999, 143)
+1	wat	wat	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod	_	_
+2	kaʔa	_	NOUN	n	_	0	root	_	_
+3	ʔa	_	ADJ	adj	Clas=Rd	2	clf	_	_
+4	yat	yat	PART	part	Tense=Fut	2	mark	_	_
+
+# sent_id = 192
+# text = õn amãn ara gotoy
+# text_eng = I saw the rain falling. (Gabas 1999, 89)
+1	õn	õn	PRON	pron	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+2	amãn	amãn	NOUN	n	_	3	nsubj	_	_
+3	ara	_	VERB	v	VerbForm=Ger	4	dep	_	_
+4	gotoy	_	VERB	v	Decl=Assert|Nomzr=Circ	0	root	_	_
+
+# sent_id = 291
+# text = aʔwak toba agóaʔpət ʔet
+# text_eng = The shaman went to see him-sick. (Gabas 1999, 114)
+1	aʔwak	_	ADJ	adj	Number=Sing|Person=3	2	amod	_	_
+2	toba	_	VERB	v	VerbForm=Ger	0	root	_	_
+3	agóaʔpət	agóaʔpət	NOUN	n	_	2	nsubj	_	_
+4	ʔet	_	AUX	aux	Decl=Assert	2	aux	_	_
+
+# sent_id = 176
+# text = tocitóga aʔkay
+# text_eng = He will go urinate. (Gabas 1999, 84)
+1	tocitóga	_	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	0	root	_	_
+2	aʔkay	_	AUX	aux	Decl=Assert|Number=Sing|Person=3|Tense=Fut	1	aux	_	_
+
+# sent_id = 235
+# text = õn aʔtoy ʔĩttem
+# text_eng = I saw it/him briefly. (Gabas 1999, 99)
+1	õn	õn	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	aʔtoy	top	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	_	_
+3	ʔĩttem	_	ADJ	adj	_	2	advmod	_	_
+
+# sent_id = 306
+# text = aoro cagá
+# text_eng = parrot's eye (Gabas 1999, 116)
+1	aoro	_	NOUN	n	_	2	nmod	_	_
+2	cagá	_	NOUN	n	_	0	root	_	_
+
+# sent_id = 335
+# text = yét maʔwɨt
+# text_eng = this man, (Gabas 1999, 122)
+1	yét	yét	PRON	pron	PronType=Dem	2	det	_	_
+2	maʔwɨt	_	NOUN	n	_	0	root	_	_
+

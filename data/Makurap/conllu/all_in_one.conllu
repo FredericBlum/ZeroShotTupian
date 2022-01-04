@@ -1,0 +1,272 @@
+# document_source = Braga (2005). Aspects Morphosyntaxiques de la langue Makurap. University of Toulose 2. Unpublished PhD Thesis.
+# document_authorship = Carolina Aragon and Fabrício Ferraz Gerardi
+# sent_id = 1
+# text = Kito nãkowut moat xauwet moke kepit xagara
+# text_eng = The man met a boy, son of the chief and thief (Wiriyo's text)
+1	Kito	Kito	NOUN	n	_	7	nsubj	_	_
+2	nãkowut	nãkowut	NOUN	n	_	7	obj	_	_
+3	moat	moat	NOUN	n	_	4	dep	_	_
+4	xauwet	aup	NOUN	n	Case=Gen|Rel=Cont	2	nmod	_	_
+5	moke	moke	NOUN	n	_	4	conj	_	_
+6	kepit	kepit	CCONJ	conj	_	5	cc	_	_
+7	xagara	agat	VERB	vt	Aspect=Imp|Rel=Cont	0	root	_	_
+
+# sent_id = 2
+# text = ngot xiaret
+# text_eng = The owner of ngot (Wiriyo's text)
+1	ngot	ngot	NOUN	n	_	2	dep	_	_
+2	xiaret	iat	NOUN	n	Case=Gen|Rel=Cont	0	root	_	_
+
+# sent_id = 3
+# text = yãn oxepngoret oerã kepit eta on toa
+# text_eng = It's been a while since he's been eating my ngot, I will watch out (Wiriyo's text)
+1	yãn	yãn	ADV	adv	_	3	advmod	_	_
+2	oxepngoret	ngot	NOUN	n	Case=Gen|Person=1|Rel=Cont	3	obj	_	_
+3	oerã	oen	VERB	vt	_	0	root	_	_
+4	kepit	kepit	CCONJ	conj	_	5	cc	_	_
+5	eta	eta	VERB	vi	_	3	conj	_	_
+6	on	on	PRON	pro	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+7	toa	top	VERB	vt	_	5	dep	_	_
+
+# sent_id = 4
+# text = xeke xēke ke
+# text_eng = Maybe (it's) that one, he said (Wiriyo's text)
+1	xeke	xeke	PRON	pro	Person=3|PronType=Prs	0	root	_	_
+2	xēke	xēke	PART	pcl	_	1	discourse	_	_
+3	ke	ke	PART	pcl	Evident=Nfh	1	discourse	_	_
+
+# sent_id = 5
+# text = etera kurux amang ngot keya pīxe
+# text_eng = He goes, he arrives, he sees him snatching the ngot (Wiriyo's text)
+1	etera	tet	VERB	vi	Aspect=Imp|Person=3	0	root	_	_
+2	kurux	kurux	VERB	vi	Aspect=Perf	1	parataxis	_	_
+3	amang	amang	VERB	vt	Aspect=Perf	1	parataxis	_	_
+4	ngot	ngot	NOUN	n	_	5	obj	_	_
+5	keya	key	VERB	vt	Aspect=Imp	1	parataxis	_	_
+6	pīxe	pīxe	ADV	adv	_	5	advmod	_	_
+
+# sent_id = 6
+# text = mokat etera kurux amang pīxe
+# text_eng = Then, he goes, he arrives, he sees him (Wiriyo's text)
+1	mokat	mokat	ADV	adv	_	2	advmod	_	_
+2	etera	tet	VERB	vi	Aspect=Imp|Person=3	0	root	_	_
+3	kurux	kurux	VERB	vi	Aspect=Perf	2	parataxis	_	_
+4	amang	amang	VERB	vt	Aspect=Perf	2	parataxis	_	_
+5	pīxe	pīxe	ADV	adv	_	4	advmod	_	_
+
+# sent_id = 7
+# text = ã en emẽ xop nẽnẽkaret
+# text_eng = Ah, you're the one who (always) does this (Wiriyo's text)
+1	ã	ã	INTJ	intj	_	2	discourse	_	_
+2	en	en	PRON	pro	Number=Sing|Person=2|PronType=Prs	0	root	_	_
+3	emẽ	emẽ	DET	dem	_	5	obj	_	_
+4	xop	xop	DET	dem	_	2	dep	_	_
+5	nẽnẽkaret	nẽ	NOUN	n	Aspect=Hab|Nomzr=Ag	4	dep	_	_
+
+# sent_id = 8
+# text = woaret koa
+# text_eng = It is good (Wiriyo's text)
+1	woaret	woaret	NOUN	n	_	0	root	_	_
+2	koa	koa	PART	pcl	_	1	discourse	_	_
+
+# sent_id = 9
+# text = etxekup keya
+# text_eng = He tears off a piece of wood and makes an arrow for himself (Wiriyo's text)
+1	etxekup	ekup	NOUN	n	Reflex=Yes	2	obj	_	_
+2	keya	key	VERB	vt	Aspect=Imp	0	root	_	_
+
+# sent_id = 10
+# text = opũãtemwã ota
+# text_eng = I will be back (Wiriyo's text)
+1	opũãtemwã	pũãtem	VERB	vi	Aspect=Imp|Person=1	0	root	_	_
+2	ota	ta	AUX	vi	Person=1	1	aux	_	_
+
+# sent_id = 11
+# text = mokat etera kurux
+# text_eng = Then, he goes, (he) comes (Wiriyo's text)
+1	mokat	mokat	ADV	conj	_	2	advmod	_	_
+2	etera	tet	VERB	vi	Aspect=Imp|Person=3	0	root	_	_
+3	kurux	kurux	VERB	vi	Aspect=Perf	2	conj	_	_
+
+# sent_id = 12
+# text = nãpẽrenã kito eapītera pīxe
+# text_eng = Meanwhile, the man was thinking standing up (Wiriyo's text)
+1	nãpẽrenã	nãpẽrenã	ADV	adv	_	3	advmod	_	_
+2	kito	kito	NOUN	n	_	3	nsubj	_	_
+3	eapītera	apītet	VERB	vi	Aspect=Imp|Person=3	0	root	_	_
+4	pīxe	pīxe	AUX	vi	_	3	aux	_	_
+
+# sent_id = 13
+# text = op ten eya õn
+# text_eng = How am I going to do it? (Wiriyo's text)
+1	op	op	ADV	adv	_	2	advmod	_	_
+2	ten	ten	VERB	vt	_	0	root	_	_
+3	eya	eya	PART	pcl	Tense=Fut	2	dep	_	_
+4	õn	õn	PRON	pro	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+
+# sent_id = 14
+# text = xop ten eya on ke
+# text_eng = This is how I'm going to do it, he said (Wiriyo's text)
+1	xop	xop	DET	dem	Deixis=Prox	2	obj	_	_
+2	ten	ten	VERB	vt	_	0	root	_	_
+3	eya	eya	PART	pcl	Tense=Fut	2	dep	_	_
+4	on	on	PRON	pro	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+5	ke	ke	PART	pcl	Evident=Fh	2	discourse	_	_
+
+# sent_id = 15
+# text = mawo papīknga mokat etyenkuax nã xoknga xok
+# text_eng = (He) took the "mawo" then (he) lined up, (he) put it on (Wiriyo's text)
+1	mawo	mawo	NOUN	n	_	2	obj	_	_
+2	papīknga	papīk	VERB	vt	Aspect=Imp|Person=3	0	root	_	_
+3	mokat	mokat	ADV	adv	_	5	advmod	_	_
+4	etyenkuax	yenkuax	NOUN	n	Reflex=Yes	5	obj	_	_
+5	nã	nã	VERB	vt	Aspect=Imp|Person=3	2	parataxis	_	_
+6	xoknga	xok	VERB	vt	Aspect=Imp|Person=3	5	parataxis	_	_
+7	xok	xok	VERB	vt	Aspect=Perf|Person=3	6	dep	_	_
+
+# sent_id = 16
+# text = yeman ngot kana oen
+# text_eng = (He) had already eaten all the ngot (Wiriyo's text)
+1	yeman	yeman	ADV	adv	_	3	advmod	_	_
+2	ngot	ngot	NOUN	n	_	3	obj	_	_
+3	kana	kan	VERB	vt	Aspect=Imp|Person=3	0	root	_	_
+4	oen	oen	VERB	vt	Aspect=Perf|Person=3	3	dep	_	_
+
+# sent_id = 17
+# text = mokat etera korop noa pe
+# text_eng = Then (he) went, (he) disappeared into the mountain range (Wiriyo's text)
+1	mokat	mokat	ADV	adv	_	2	advmod	_	_
+2	etera	tet	VERB	vi	Aspect=Imp|Person=3	0	root	_	_
+3	korop	korop	VERB	vi	Aspect=Perf	2	dep	_	_
+4	noa	noa	NOUN	n	_	3	obl	_	_
+5	pe	pe	ADP	posp	_	4	case	_	_
+
+# sent_id = 18
+# text = ama ngot xiaret eya kurux amang ngot oen wimõ nitēt
+# text_eng = In the morning, the owner of the ngot arrived, he saw that the ngot had been completely eaten (Wiriyo's text)
+1	ama	ama	ADV	adv	_	4	advmod	_	_
+2	ngot	ngot	NOUN	n	_	3	nmod	_	_
+3	xiaret	iat	NOUN	n	Case=Gen|Rel=Cont	4	nsubj	_	_
+4	eya	y	VERB	vi	Aspect=Imp|Person=3	0	root	_	_
+5	kurux	kurux	VERB	vi	Aspect=Imp	4	dep	_	_
+6	amang	amang	VERB	vi	Aspect=Imp	4	dep	_	_
+7	ngot	ngot	NOUN	n	_	8	obj	_	_
+8	oen	oen	VERB	vt	Aspect=Perf	4	parataxis	_	_
+9	wimõ	wimõ	ADV	adv	_	8	advmod	_	_
+10	nitēt	nitēt	PART	pcl	_	8	discourse	_	_
+
+# sent_id = 19
+# text = arimot urot arimot urot
+# text_eng = Bad beast! (Wiriyo's text)
+1	arimot	arimot	NOUN	n	_	0	root	_	_
+2	urot	uro	NOUN	n	Case=Gen|Rel=Cont	1	nmod	_	_
+3	arimot	arimot	NOUN	n	_	1	discourse	_	_
+4	urot	uro	NOUN	n	Case=Gen|Rel=Cont	3	nmod	_	_
+
+# sent_id = 20
+# text = xop koa ten nã peka
+# text_eng = That was the way (he) wanted to do it this way (Wiriyo's text)
+1	xop	xop	DET	dem	_	3	nmod	_	_
+2	koa	koa	PART	pcl	_	3	discourse	_	_
+3	ten	ten	ADV	adv	_	4	advmod	_	_
+4	nã	n	VERB	vt	Aspect=Imp	5	xcomp	_	_
+5	peka	pek	VERB	vt	Aspect=Imp	0	root	_	_
+
+# sent_id = 21
+# text = i eya on wet toa ke pit
+# text_eng = I will not just going to watch (Wiriyo's text)
+1	i	i	INTJ	intj	_	5	discourse	_	_
+2	eya	eya	PART	pcl	Tense=Fut	5	dep	_	_
+3	on	on	PRON	pro	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+4	wet	wet	ADV	adv	_	5	advmod	_	_
+5	toa	top	VERB	vt	Aspect=Imp	0	root	_	_
+6	ke	ke	PART	pcl	Evident=Fh	5	discourse	_	_
+7	pit	pit	ADV	adv	_	5	advmod	_	_
+
+# sent_id = 22
+# text = mokat peitõã etera amang korop kux me
+# text_eng = Then, he was looking for it and he noticed that it had disappeared on the ground (Wiriyo's text)
+1	mokat	mokat	ADV	adv	_	3	advmod	_	_
+2	peitõã	peitõã	ADV	adv	_	3	advmod	_	_
+3	etera	tet	VERB	vi	Aspect=Imp|Person=3	0	root	_	_
+4	amang	amang	VERB	vt	_	3	parataxis	_	_
+5	korop	korop	VERB	vi	Aspect=Imp	3	parataxis	_	_
+6	kux	kux	NOUN	n	_	5	obl	_	_
+7	me	me	ADP	posp	_	6	case	_	_
+
+# sent_id = 23
+# text = wotye pukpuga pit
+# text_eng = He sat down, fanning, and nothing happened (Wiriyo's text)
+1	wotye	woty	VERB	vi	Aspect=Imp	0	root	_	_
+2	pukpuga	puk	VERB	vi	Aspect=Perf	1	advcl	_	_
+3	pit	pit	PRON	pro	Polarity=Neg	2	parataxis	_	_
+
+# sent_id = 24
+# text = putorot xēke ke xēt
+# text_eng = He might be dead, he thought (Wiriyo's text)
+1	putorot	putorot	NOUN	n	_	0	root	_	_
+2	xēke	xēke	PART	pcl	Pcl=Dub	1	discourse	_	_
+3	ke	ke	PART	pcl	Evident=Nfh	1	discourse	_	_
+4	xēt	xēt	PART	past	Tense=Past	1	dep	_	_
+
+# sent_id = 25
+# text = etera korop
+# text_eng = He went, he came in (Wiriyo's text)
+1	etera	tet	VERB	vi	Aspect=Imp|Person=3	0	root	_	_
+2	korop	korop	VERB	vi	Aspect=Perf	1	xcomp	_	_
+
+# sent_id = 26
+# text = kito moke xiat ekuwaora kepit pukpuga õn
+# text_eng = I fanned the thief man who was transformed (Wiriyo's text)
+1	kito	kito	NOUN	n	_	6	obj	_	_
+2	moke	moke	NOUN	n	_	3	nmod	_	_
+3	xiat	xiat	NOUN	n	_	1	nmod	_	_
+4	ekuwaora	kuwaot	VERB	vi	Aspect=Imp|Person=3	1	dep	_	_
+5	kepit	kepit	CCONJ	conj	_	6	dep	_	_
+6	pukpuga	puk	VERB	vt	Aspect=Imp	0	root	_	_
+7	õn	õn	PRON	pro	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+
+# sent_id = 27
+# text = kepit eya õn waokatmõ papiknga ke
+# text_eng = And tomorrow I'll take (it), he said (Wiriyo's text)
+1	kepit	kepit	CCONJ	conj	_	5	cc	_	_
+2	eya	eya	PART	pcl	Tense=Fut	5	dep	_	_
+3	õn	õn	PRON	pro	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+4	waokatmõ	waokatmõ	ADV	adv	_	5	advmod	_	_
+5	papiknga	papik	VERB	vt	Aspect=Imp	0	root	_	_
+6	ke	ke	PART	pcl	Evident=Nfh	5	discourse	_	_
+
+# sent_id = 28
+# text = ama etera kurux
+# text_eng = It became morning. He went, he arrived (Wiriyo's text)
+1	ama	ama	NOUN	n	_	0	root	_	_
+2	etera	tet	VERB	vi	Aspect=Imp|Person=3	1	parataxis	_	_
+3	kurux	kurux	VERB	vi	Aspect=Perf	2	xcomp	_	_
+
+# sent_id = 29
+# text = xop me pote worawiget xop me
+# text_eng = Yesterday, he yelled here (Wiriyo's text)
+1	xop	xop	DET	dem	_	4	obl	_	_
+2	me	me	ADP	posp	_	1	case	_	_
+3	pote	pote	ADV	adv	_	4	advmod	_	_
+4	worawiget	worawik	NOUN	n	Case=Gen|Rel=Cont	0	root	_	_
+5	xop	xop	DET	dem	_	4	obl	_	_
+6	me	me	ADP	posp	_	5	case	_	_
+
+# sent_id = 30
+# text = kux kixa ngarap , pit
+# text_eng = He made a hole, digging the ground, nothing (Wiriyo's text)
+1	kux	kux	NOUN	n	_	2	obj	_	_
+2	kixa	kix	VERB	vt	Aspect=Imp	3	advcl	_	_
+3	ngarap	ngarap	VERB	vi	Aspect=Perf	0	root	_	_
+4	,	,	PUNCT	n	_	3	punct	_	_
+5	pit	pit	PRON	pro	Polarity=Neg	3	parataxis	_	_
+
+# sent_id = 31
+# text = põrom toa , pit
+# text_eng = He looked in vain, nothing (Wiriyo's text)
+1	põrom	põrom	ADV	adv	_	2	advmod	_	_
+2	toa	top	VERB	vi	Aspect=Imp	0	root	_	_
+3	,	,	PUNCT	punct	_	2	punct	_	_
+4	pit	pit	PRON	pro	Polarity=Neg	2	parataxis	_	_
+

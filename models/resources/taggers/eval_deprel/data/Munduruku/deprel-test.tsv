@@ -1,953 +1,953 @@
 token gold_tag gold_arc predicted_tag predicted_arc
-Ajojot  None root 0
-jekobe  None obl 0
-be  None obl 2
-cum  None obl 0
-
-jexat  None root 0
-o'tobuxik  None root 0
-
-Tit  None root 0
-tak  None obl 0
-o'titobuxik  None obl 2
-tu  None obl 0
-?  None punct 0
-
-Ka'ũma  None root 0
-!  None punct 0
-
-Ka'ũma  None root 0
-!  None punct 0
-
-Tawe  None root 0
-oajẽm  None obl 0
-iku  None obl 0
-be  None obl 0
-
-Jexat  None root 0
-o'tobuxik  None obl 0
-iku  None obl 2
-be  None obl 0
-
-Xa  None root 0
-iku  None obl 0
-xe  None obl 0
-
-Tawe  None root 0
-oajẽm  None obl 0
-xa  None obl 0
-xe  None obl 0
-
-Tawe  None root 0
-oajẽm  None obl 0
-ka  None obl 0
-xe  None obl 0
-
-Toxaw  None root 0
-oajẽm  None obl 0
-ka  None obl 2
-be  None obl 0
-
-Toxaw  None root 0
-dak  None obl 0
-jexat  None obl 2
-o'tobuxik  None obl 0
-
-Toxaw  None root 0
-tawe  None obl 0
-o'tobuxik  None obl 0
-
-Xa  None root 0
-xe  None obl 0
-tawe  None obl 2
-o'tobuxik  None obl 0
-
-Ikibit  None root 0
-awi  None obl 0
-kay  None obl 0
-
-Awawa  None root 0
-oajẽm  None obl 0
-ika  None obl 6
-be  None obl 6
-,  None punct 0
-jekibit  None obl 2
-ka  None obl 0
-be  None obl 0
-
-Awi  None root 0
-awawa  None obl 0
-bubut  None obl 0
-
-Ite  None root 0
-awi  None obl 0
-o'tobuxik  None obl 0
-
-Awawa  None root 0
-o'tobuxik  None root 0
-
-Toxaw  None root 0
-tawe  None obl 0
-o'tobuxik  None obl 2
-tu  None obl 0
-?  None punct 0
-
-Abu  None root 0
-tawe  None obl 0
-o'tobuxik  None obl 0
-?  None punct 0
-
-Abu  None root 0
-awi  None obl 0
-o'tobuxik  None obl 0
-?  None punct 0
-
-Abu  None root 0
-jexat  None obl 0
-o'tobuxik  None obl 0
-?  None punct 0
-
-Abu  None root 0
-awi  None obl 0
-kay  None obl 0
-?  None punct 0
-
-Abu  None root 0
-o'titobuxik  None root 0
-?  None punct 0
-
-Awawa  None root 0
-awi  None obl 0
-o'tobuxik  None obl 2
-jekibit  None obl 2
-ka  None obl 0
-be  None obl 0
-
-Oexe  None root 0
-awawa  None root 0
-
-Toxaw  None root 0
-dak  None obl 0
-oexe  None obl 0
-
-Awawa  None root 0
-tawe  None obl 0
-kay  None obl 0
-
-Toxaw  None root 0
-tawe  None obl 0
-o'tobuxik  None obl 0
-
-Jexat  None root 0
-o'tobuxik  None root 0
-
-Tawe  None root 0
-ixat  None obl 4
-,  None punct 0
-toxaw  None obl 0
-xat  None obl 0
-
-Awawa  None root 0
-ixaxet  None root 0
-
-Awawa  None root 0
-ixiwe  None obl 0
-kay  None obl 0
-
-Ixiwe  None root 0
-ako  None obl 0
-xe  None obl 0
-
-Awawa  None root 0
-cum  None obl 0
-ako  None obl 2
-xe  None obl 0
-
-Ixiwe  None root 0
-o'tobuxik  None obl 0
-ako  None obl 2
-xe  None obl 0
-
-cum  None root 0
-jeku  None obl 0
-be  None obl 0
-
-Awawa  None root 0
-jeku  None obl 0
-be  None obl 2
-oajẽm  None obl 0
-
-Akoba  None root 0
-iku  None obl 0
-be  None obl 2
-opop  None obl 0
-.  None punct 0
-
-Tit  None root 0
-tak  None obl 0
-iku  None obl 7
-be  None obl 7
-opop  None obl 7
-,  None punct 0
-awawa  None obl 2
-ku  None obl 0
-be  None obl 0
-.  None punct 0
-
-Ixi  None root 0
-uk  None obl 0
-'a  None obl 2
-be  None obl 0
-
-I'it  None root 0
-tak  None obl 0
-uk'a  None obl 2
-be  None obl 0
-
-Toxaw  None root 0
-oexe  None root 0
-
-I'it  None root 0
-wa  None obl 0
-du  None obl 0
-?  None punct 0
-
-Toxaw  None root 0
-i'it  None obl 0
-o'tobuxik  None obl 2
-uk  None obl 2
-'a  None obl 0
-be  None obl 0
-.  None punct 0
-
-I'it  None root 0
-ixet  None root 0
-
-Ixi  None root 0
-wa'e  None obl 0
-kug̃  None obl 0
-
-Wa'e  None root 0
-ibubut  None obl 4
-,  None punct 0
-ixi  None obl 0
-bubut  None obl 0
-
-Wexik  None root 0
-'a  None obl 0
-kake  None obl 2
-wa'e  None obl 0
-be  None obl 0
-
-Ixat  None root 0
-'a  None obl 0
-kake  None obl 7
-wa'e  None obl 7
-be  None obl 7
-,  None punct 0
-uk'a  None obl 0
-be  None obl 0
-
-Wa'e  None root 0
-uk'a  None obl 0
-be  None obl 2
-opop  None obl 0
-
-puybit  None root 0
-ka'ũmg̃u  None obl 0
-o'e  None obl 0
-
-ag̃okatkat  None root 0
-o'ju  None obl 0
-puybit  None obl 2
-aokam  None obl 0
-
-oexexe  None root 0
-ip  None obl 0
-uk  None obl 2
-'a  None obl 2
-be  None obl 2
-puybit  None obl 0
-kukug̃  None obl 0
-
-Daje  None root 0
-ade  None obl 0
-o'yaoka  None obl 7
-ip  None obl 7
-pima  None obl 7
-,  None punct 0
-puybit  None obl 2
-kuka  None obl 7
-o'e  None obl 0
-ade  None obl 0
-
-Soat  None root 0
-bekitkit  None obl 0
-ibeg̃beg̃  None obl 2
-o'e  None obl 2
-ade  None obl 2
-puybit  None obl 0
-puye  None obl 0
-
-Kabiam  None root 0
-doa  None obl 0
-iba'orere  None obl 2
-jedoti  None obl 2
-mug̃ẽg̃ẽm  None obl 2
-daxa  None obl 0
-xe  None obl 0
-
-Karosakaybu  None root 0
-daje  None obl 0
-o'g̃uju  None obl 5
-,  None punct 0
-tacup  None obl 2
-puye  None obl 5
-ip  None obl 0
-.  None punct 0
-
-pariwat  None root 0
-tomuwã  None obl 0
-buje  None obl 2
-juy  None obl 2
-puybit  None obl 2
-ejomõg̃  None obl 2
-mesa  None obl 0
-jeje  None obl 0
-
-kabido  None root 0
-xixi  None obl 0
-ajẽm  None obl 2
-puje  None obl 2
-soat  None obl 0
-o'at  None obl 0
-
-taxit  None root 0
-mẽnpit  None obl 0
-ikukpin'ũm  None obl 8
-osunuy  None obl 8
-ag̃okatkat  None obl 8
-pe  None obl 8
-,  None punct 0
-i'e'em  None obl 0
-ajojoyũ'ũm'ũm  None obl 0
-
-wexik'a  None root 0
-kake  None obl 0
-ixi  None obl 2
-duk'a  None obl 0
-be  None obl 0
-
-oxi  None root 0
-uk  None obl 0
-‘a  None obl 2
-be  None obl 0
-
-wida  None root 0
-ayacat  None obl 0
-o’yaoka  None obl 2
-Katõ  None obl 0
-be  None obl 0
-
-wetabut  None root 0
-pe  None obl 0
-obure  None obl 2
-Wida  None obl 0
-o'yaoka  None obl 0
-
-bekicat  None root 0
-o'akõm  None obl 0
-wetabut  None obl 2
-pe  None obl 0
-
-ẽn  None nmod 0
-eg̃ũm  None obl 0
-kise  None obl 2
-ayacat  None obl 0
-pe  None obl 0
-
-puy  None root 0
-bu  None obl 0
-bekicat  None obl 2
-o'joa  None obl 0
-
-õn  None nmod 0
-bekicat  None obl 0
-ojoaat  None obl 2
-puy  None obl 2
-bu  None obl 0
-be  None obl 0
-
-wida  None root 0
-ayacat'ũm  None obl 0
-o'yaoka  None obl 0
-
-wekobe  None root 0
-wita  None obl 0
-'a  None obl 2
-kay  None obl 0
-og̃uyjayjay  None obl 0
-
-oxi  None root 0
-eg̃ru  None obl 0
-ipi  None obl 2
-tẽg̃  None obl 0
-
-o'xet  None root 0
-io'e  None obl 0
-xiri  None obl 0
-xe  None obl 0
-
-ixe  None root 0
-iẽn  None obl 0
-'o'om  None obl 2
-kaw  None obl 2
-ta  None obl 0
-eju  None obl 0
-
-puybit  None root 0
-kug̃  None obl 0
-o'ju  None obl 2
-bio  None obl 7
-kug̃  None obl 7
-,  None punct 0
-dapsem  None obl 0
-kug̃  None obl 0
-
-xa  None root 0
-diot  None obl 0
-pe  None obl 2
-o'xet  None obl 0
-
-wexey  None root 0
-bi  None obl 0
-wida  None obl 2
-biopak  None obl 0
-o'yaoka  None obl 0
-
-kat  None root 0
-pujeat  None obl 0
-ocemudirem  None obl 0
-
-ag̃okatkat  None root 0
-bio  None obl 0
-dakat  None obl 2
-puje  None obl 2
-bekicat  None obl 0
-o'suẽn'o  None obl 0
-
-ey'at  None root 0
-pima  None obl 0
-ocewayway  None obl 2
-jĩjã  None obl 0
-
-ixem  None root 0
-õn  None obl 0
-wetaybit  None obl 2
-g̃u  None obl 5
-ojojo  None obl 0
-g̃u  None obl 0
-ma  None obl 0
-buye  None obl 0
-
-ag̃okatkat  None root 0
-bio  None obl 0
-aoka  None obl 2
-buje  None obl 2
-wida  None obl 0
-o'jenapõn  None obl 0
-
-ejot  None root 0
-cuy  None obl 0
-,  None punct 0
-muto'o  None obl 0
-bima  None obl 7
-,  None punct 3
-kaxi  None obl 0
-wuyase  None obl 0
-bima  None obl 0
-
-pug̃  None root 0
-em  None obl 0
-o'e  None obl 2
-jeebay  None obl 0
-be  None obl 0
-
-jeorokap  None root 0
-wap  None obl 0
-ip  None obl 2
-o'ju  None obl 0
-
-ag̃okatkat  None root 0
-itakomã  None obl 0
-jijã  None obl 2
-o'e  None obl 2
-wida  None obl 0
-buxim  None obl 0
-
-kobe  None root 0
-xixi  None obl 0
-badi  None obl 2
-wi  None obl 0
-o'jebuk  None obl 0
-
-Kog̃ũnpi  None root 0
-be  None obl 0
-okapap  None obl 2
-kabuk  None obl 0
-opop  None obl 0
-
-Jeorog̃  None root 0
-ip  None obl 0
-cum  None obl 2
-kapusu  None obl 2
-daje  None obl 2
-aoka  None obl 0
-ojuyiap  None obl 0
-tag̃  None obl 0
-
-Kapusu  None root 0
-dapsem  None obl 0
-o'yaokaiat  None obl 6
-g̃oku  None obl 6
-,  None punct 0
-Katõ  None obl 0
-bewi  None obl 0
-oajẽmiat  None obl 0
-
-Soat  None root 0
-ip  None obl 0
-o'g̃u'ũm  None obl 2
-iwipat  None obl 0
-
-wamõat  None root 0
-ag̃okatkat  None obl 0
-o'sutayxida  None obl 0
-
-õn  None nmod 0
-ag̃okatkat  None obl 0
-o'sutayxidaat  None obl 2
-wamõat  None obl 0
-pe  None obl 0
-
-ag̃okatkat  None root 0
-o'jetayxidaat  None obl 0
-wamõat  None obl 2
-pe  None obl 0
-
-wida  None root 0
-o'jeaokaat  None obl 0
-ag̃okatkat  None obl 2
-pe  None obl 0
-
-ceebay  None root 0
-icokcok  None obl 0
-cicã  None obl 2
-idip  None obl 2
-cicã  None obl 2
-buye  None obl 2
-bekicat  None obl 0
-yadappek  None obl 0
-
-ipi  None root 0
-teg̃  None obl 0
-kaxi  None obl 2
-bima  None obl 0
-o'taxadig̃curug̃  None obl 0
-
-Kapusu  None root 0
-oajẽm  None obl 0
-owag̃o  None obl 2
-duk'a  None obl 0
-be  None obl 0
-
-Ag̃okatkat  None root 0
-acã  None obl 0
-cũg̃'i  None obl 2
-osunuy  None obl 2
-sũg̃tabi  None obl 2
-eju  None obl 2
-g̃axĩn  None obl 2
-ma  None obl 9
-oajẽm  None obl 0
-puye  None obl 0
-
-Wuy'adapmude'o'onapti  None root 0
-dak  None obl 0
-otibu  None obl 0
-
-Eg̃uycũg̃  None root 0
-pimap  None obl 4
-,  None punct 0
-ecepe  None obl 0
-eg̃rũ  None obl 0
-be  None obl 0
-
-Puybit  None root 0
-aoka'ũm  None obl 0
-pima  None obl 5
-,  None punct 0
-irere  None obl 0
-jeedop  None obl 0
-ip  None obl 0
-
-Kapusu  None root 0
-dapsem  None obl 0
-o'yaokaiat  None obl 2
-g̃oku  None obl 0
-
-xepxep  None root 0
-pa  None obl 0
-akoba  None obl 2
-o'suba'o  None obl 0
-
-xek  None root 0
-pu  None obl 0
-o'subumõg̃mõg̃  None obl 2
-wita  None obl 2
-'a  None obl 0
-be  None obl 0
-
-Uk'a  None root 0
-yadip  None obl 0
-o'yanuy  None obl 0
-
-kapedi  None root 0
-tidaxip  None root 0
-
-ebubut  None root 0
-pupum  None obl 0
-tu  None obl 2
-epesot  None obl 0
-?  None punct 0
-
-Ag̃okatkayũ  None root 0
-axĩma  None obl 0
-muyuhum  None obl 2
-idibi  None obl 2
-tag̃  None obl 9
-.  None punct 0
-Axĩma  None obl 2
-muyuhum  None obl 2
-ip  None obl 0
-pig̃am  None obl 0
-.  None punct 0
-
-Ag̃okatkayũ  None root 0
-soat  None obl 0
-axima  None obl 2
-muyuhum  None obl 14
-:  None punct 13
-wasũbu  None obl 2
-,  None punct 13
-potip  None obl 2
-,  None punct 13
-potiprip  None obl 2
-,  None punct 13
-pakodup  None obl 2
-,  None punct 0
-pirãydup  None obl 2
-,  None punct 0
-pirũm  None obl 0
-.  None punct 0
-
-Idib  None root 0
-dag̃  None obl 0
-soat  None obl 13
-axima  None obl 13
-.  None punct 12
-Pũg̃pũg̃  None obl 2
-axima  None obl 13
-yopit  None obl 13
-ma  None obl 13
-.  None punct 12
-Pirãydup  None obl 13
-,  None punct 0
-pirũm  None obl 0
-yopit  None obl 0
-ma  None obl 0
-.  None punct 0
-
-Pũg̃pũg̃  None root 0
-axima  None obl 0
-yobog̃  None obl 2
-ma  None obl 13
-.  None punct 7
-Wasũbu  None obl 2
-,  None punct 0
-potip  None obl 2
-,  None punct 7
-yobog̃ayũ  None obl 2
-.  None punct 7
-Ag̃okatkayũ  None obl 2
-axima  None obl 2
-muyuhum  None obl 0
-pig̃am  None obl 0
-.  None punct 0
-
-Wara'at  None root 0
-axima  None obl 0
-yobog̃bug̃  None obl 2
-.  None punct 9
-Potiprit  None obl 2
-,  None punct 9
-pakodup  None obl 2
-yobog̃bug̃yũ  None obl 11
-.  None punct 0
-Pig̃ãm  None obl 0
-axima  None obl 2
-muyhum  None obl 0
-ip  None obl 0
-.  None punct 0
-
-Ibu  None root 0
-buje  None obl 0
-,  None punct 0
-tujuxexem  None obl 0
-ip  None obl 4
-uk’a  None obl 11
-be  None obl 11
-ayacayũ  None obl 11
-be  None obl 11
-,  None punct 0
-ta  None obl 0
-am  None obl 0
-.  None punct 0
-
-Yopĩutayũ  None root 0
-muekabekbeg̃  None obl 0
-ip  None obl 2
-uktup  None obl 2
-pe  None obl 10
-.  None punct 0
-Ayacayũ  None obl 2
-yopĩutayũ  None obl 2
-muekabekbeg̃  None obl 2
-ip  None obl 0
-uktup  None obl 0
-pe  None obl 0
-.  None punct 0
-
-G̃ebuje  None root 0
-,  None punct 0
-yobog̃ayũ  None obl 2
-wuywuy  None punct 2
-ip  None punct 2
-baseya'a  None obl 21
-be  None obl 40
-.  None punct 2
-Yobog̃ayũ  None punct 2
-uk  None punct 2
-kakam  None obl 21
-ip  None obl 21
-e'em  None punct 42
-.  None punct 2
-Axima  None punct 2
-uk  None obl 21
-kakam  None obl 21
-ip  None obl 21
-pima  None obl 21
-,  None punct 2
-ixep  None punct 2
-uk'ug̃  None obl 21
-ip  None obl 21
-.  None punct 2
-Ixep  None punct 2
-muekabekbeg̃  None obl 21
-ip  None obl 21
-uktup  None obl 21
-pe  None obl 40
-.  None punct 2
-Ade  None punct 2
-axima  None obl 21
-uk  None obl 21
-kakam  None obl 21
-ip  None obl 21
-.  None punct 2
-Ixep  None punct 2
-muekabekbeg̃  None obl 21
-ip  None obl 21
-uktup  None obl 21
-pe  None obl 40
-,  None punct 0
-ayacayũ  None obl 0
-.  None punct 0
-
-Axima  None root 0
-yobog̃at  None obl 0
-mupurukpurug̃  None obl 2
-ip  None obl 2
-iwi  None obl 30
-be  None obl 30
-daxa  None obl 30
-ase  None obl 30
-.  None punct 25
-Ade  None obl 2
-bima  None obl 30
-,  None punct 0
-ade  None obl 2
-imupurukpurug̃  None obl 2
-ip  None obl 30
-iwi  None obl 30
-be  None obl 30
-.  None punct 25
-Ade  None obl 2
-bima  None obl 30
-,  None punct 29
-yobog̃  None obl 2
-iwi  None obl 30
-e'em  None obl 30
-.  None punct 0
-Ade  None obl 2
-ũm  None obl 30
-pima  None obl 30
-,  None punct 0
-iwi  None obl 2
-yopit  None obl 30
-ma  None obl 0
-e'em  None obl 0
-.  None punct 0
-
-Ade  None root 0
-tao  None obl 0
-bima  None obl 2
-,  None punct 0
-tao  None obl 2
-uk'ug̃  None obl 2
-ip  None obl 5
-iwi  None obl 0
-xe  None obl 0
-.  None punct 0
-
-Tao  None root 0
-uk'ug̃  None obl 0
-iwi  None obl 2
-xe  None obl 2
-ãõyũ  None obl 12
-.  None punct 11
-Tao  None obl 2
-uk'ug̃  None obl 2
-ip  None obl 2
-ayacayũ  None obl 12
-,  None punct 0
-axima  None obl 0
-dao  None obl 0
-.  None punct 0
-
-Tao  None root 0
-uk  None obl 0
-puje  None obl 2
-,  None punct 0
-imõg̃mõg̃  None obl 2
-ip  None obl 2
-iwi  None obl 2
-be  None obl 2
-daxa  None obl 2
-ase  None obl 17
-.  None punct 4
-Tao  None obl 2
-uk  None obl 2
-puje  None obl 2
-axima  None obl 2
-tatam  None obl 2
-ip  None obl 2
-uktup  None obl 0
-pe  None obl 0
-.  None punct 0
-
-Iwi  None root 0
-be  None obl 0
-imõg̃mõg̃  None obl 2
-ip  None obl 2
-ta  None obl 2
-am  None obl 28
-.  None punct 0
-Tao  None obl 2
-uk  None obl 2
-puje  None obl 2
-axima  None obl 28
-nõm  None obl 25
-e'em  None obl 28
-ip  None obl 28
-.  None punct 7
-Axima  None obl 2
-tatam  None obl 2
-ip  None obl 2
-uktup  None obl 28
-pe  None obl 28
-.  None punct 7
-Iwi  None obl 2
-be  None obl 2
-imõg̃mõg̃  None obl 2
-ip  None obl 2
-uktup  None obl 2
-pe  None obl 28
-axima  None obl 0
-mupuruk  None obl 0
-am  None obl 0
-.  None punct 0
-
-Tõm  None nmod 0
-e'em  None obl 0
-ip  None obl 25
-.  None punct 24
-Ẽ  None obl 2
-be  None obl 25
-ijukjug̃  None obl 25
-ip  None obl 25
-.  None punct 24
-Axima  None obl 2
-nõm  None obl 25
-cukcug̃  None obl 25
-ip  None obl 25
-ẽ  None obl 25
-be  None obl 25
-,  None punct 24
-wãẽn  None obl 2
-tuk'a  None obl 25
-be  None obl 26
-.  None punct 24
-Tõm  None obl 2
-cuk  None obl 25
-puje  None obl 25
-,  None punct 0
-tõm  None obl 2
-ipriprim  None obl 25
-pag̃eiro'a  None obl 0
-be  None obl 0
-.  None punct 0
-
-Tõm  None root 0
-karaw  None obl 0
-bima  None obl 2
-,  None punct 0
-tõm  None obl 2
-pi  None obl 2
-riprim  None obl 2
-pag̃eiro’a  None obl 2
-be  None obl 31
-.  None punct 4
-Tõm  None obl 26
-pi  None obl 2
-rip  None obl 2
-puje  None obl 30
-,  None punct 4
-iwi  None obl 2
-be  None obl 5
-imõg̃mõg̃  None obl 5
-ip  None obl 2
-daxa  None obl 2
-ase  None obl 2
-tõm  None obl 5
-mudaxip  None obl 2
-am  None obl 30
-.  None punct 4
-Imõg̃mõg̃  None obl 0
-ip  None obl 2
-daxa  None obl 2
-ase  None obl 2
-tõm  None obl 2
-mukaraw  None obl 0
-am  None obl 0
-.  None punct 0
+Ajojot  None 2 3
+jekobe  None 2 4
+be  None 2 4
+cum  None 2 0
+
+jexat  None 2 2
+o'tobuxik  None 2 0
+
+Tit  None 2 4
+tak  None 2 5
+o'titobuxik  None 2 5
+tu  None 2 5
+?  None 2 0
+
+Ka'ũma  None 2 2
+!  None 2 0
+
+Ka'ũma  None 2 2
+!  None 2 0
+
+Tawe  None 2 3
+oajẽm  None 2 4
+iku  None 2 4
+be  None 2 0
+
+Jexat  None 2 3
+o'tobuxik  None 2 4
+iku  None 2 4
+be  None 2 0
+
+Xa  None 2 3
+iku  None 2 3
+xe  None 2 0
+
+Tawe  None 2 3
+oajẽm  None 2 4
+xa  None 2 4
+xe  None 2 0
+
+Tawe  None 2 3
+oajẽm  None 2 4
+ka  None 2 4
+xe  None 2 0
+
+Toxaw  None 2 3
+oajẽm  None 2 4
+ka  None 2 4
+be  None 2 0
+
+Toxaw  None 2 3
+dak  None 2 4
+jexat  None 2 4
+o'tobuxik  None 2 0
+
+Toxaw  None 2 3
+tawe  None 2 3
+o'tobuxik  None 2 0
+
+Xa  None 2 4
+xe  None 2 4
+tawe  None 2 4
+o'tobuxik  None 2 0
+
+Ikibit  None 2 3
+awi  None 2 3
+kay  None 2 0
+
+Awawa  None 2 5
+oajẽm  None 2 7
+ika  None 2 7
+be  None 2 7
+,  None 2 7
+jekibit  None 2 8
+ka  None 2 8
+be  None 2 0
+
+Awi  None 2 3
+awawa  None 2 3
+bubut  None 2 0
+
+Ite  None 2 3
+awi  None 2 3
+o'tobuxik  None 2 0
+
+Awawa  None 2 2
+o'tobuxik  None 2 0
+
+Toxaw  None 2 4
+tawe  None 2 5
+o'tobuxik  None 2 5
+tu  None 2 5
+?  None 2 0
+
+Abu  None 2 3
+tawe  None 2 4
+o'tobuxik  None 2 4
+?  None 2 0
+
+Abu  None 2 3
+awi  None 2 4
+o'tobuxik  None 2 4
+?  None 2 0
+
+Abu  None 2 3
+jexat  None 2 4
+o'tobuxik  None 2 4
+?  None 2 0
+
+Abu  None 2 3
+awi  None 2 4
+kay  None 2 4
+?  None 2 0
+
+Abu  None 2 3
+o'titobuxik  None 2 3
+?  None 2 0
+
+Awawa  None 2 4
+awi  None 2 6
+o'tobuxik  None 2 6
+jekibit  None 2 6
+ka  None 2 6
+be  None 2 0
+
+Oexe  None 2 2
+awawa  None 2 0
+
+Toxaw  None 2 3
+dak  None 2 3
+oexe  None 2 0
+
+Awawa  None 2 3
+tawe  None 2 3
+kay  None 2 0
+
+Toxaw  None 2 3
+tawe  None 2 3
+o'tobuxik  None 2 0
+
+Jexat  None 2 2
+o'tobuxik  None 2 0
+
+Tawe  None 2 4
+ixat  None 2 5
+,  None 2 5
+toxaw  None 2 5
+xat  None 2 0
+
+Awawa  None 2 2
+ixaxet  None 2 0
+
+Awawa  None 2 3
+ixiwe  None 2 3
+kay  None 2 0
+
+Ixiwe  None 2 3
+ako  None 2 3
+xe  None 2 0
+
+Awawa  None 2 3
+cum  None 2 4
+ako  None 2 4
+xe  None 2 0
+
+Ixiwe  None 2 4
+o'tobuxik  None 2 4
+ako  None 2 4
+xe  None 2 0
+
+cum  None 2 3
+jeku  None 2 3
+be  None 2 0
+
+Awawa  None 2 3
+jeku  None 2 4
+be  None 2 4
+oajẽm  None 2 0
+
+Akoba  None 2 4
+iku  None 2 5
+be  None 2 5
+opop  None 2 5
+.  None 2 0
+
+Tit  None 2 6
+tak  None 2 8
+iku  None 2 8
+be  None 2 9
+opop  None 2 9
+,  None 2 9
+awawa  None 2 9
+ku  None 2 9
+be  None 2 0
+.  None 2 9
+
+Ixi  None 2 3
+uk  None 2 4
+'a  None 2 4
+be  None 2 0
+
+I'it  None 2 3
+tak  None 2 4
+uk'a  None 2 4
+be  None 2 0
+
+Toxaw  None 2 2
+oexe  None 2 0
+
+I'it  None 2 3
+wa  None 2 4
+du  None 2 4
+?  None 2 0
+
+Toxaw  None 2 5
+i'it  None 2 6
+o'tobuxik  None 2 6
+uk  None 2 7
+'a  None 2 7
+be  None 2 7
+.  None 2 0
+
+I'it  None 2 2
+ixet  None 2 0
+
+Ixi  None 2 3
+wa'e  None 2 3
+kug̃  None 2 0
+
+Wa'e  None 2 4
+ibubut  None 2 5
+,  None 2 5
+ixi  None 2 5
+bubut  None 2 0
+
+Wexik  None 2 4
+'a  None 2 5
+kake  None 2 5
+wa'e  None 2 5
+be  None 2 0
+
+Ixat  None 2 5
+'a  None 2 7
+kake  None 2 7
+wa'e  None 2 7
+be  None 2 7
+,  None 2 7
+uk'a  None 2 8
+be  None 2 0
+
+Wa'e  None 2 3
+uk'a  None 2 4
+be  None 2 4
+opop  None 2 0
+
+puybit  None 2 3
+ka'ũmg̃u  None 2 3
+o'e  None 2 0
+
+ag̃okatkat  None 2 4
+o'ju  None 2 4
+puybit  None 2 4
+aokam  None 2 0
+
+oexexe  None 2 5
+ip  None 2 6
+uk  None 2 6
+'a  None 2 6
+be  None 2 7
+puybit  None 2 7
+kukug̃  None 2 0
+
+Daje  None 2 6
+ade  None 2 8
+o'yaoka  None 2 8
+ip  None 2 8
+pima  None 2 8
+,  None 2 9
+puybit  None 2 9
+kuka  None 2 9
+o'e  None 2 0
+ade  None 2 9
+
+Soat  None 2 5
+bekitkit  None 2 6
+ibeg̃beg̃  None 2 7
+o'e  None 2 7
+ade  None 2 7
+puybit  None 2 7
+puye  None 2 0
+
+Kabiam  None 2 5
+doa  None 2 6
+iba'orere  None 2 6
+jedoti  None 2 7
+mug̃ẽg̃ẽm  None 2 7
+daxa  None 2 7
+xe  None 2 0
+
+Karosakaybu  None 2 5
+daje  None 2 6
+o'g̃uju  None 2 7
+,  None 2 7
+tacup  None 2 7
+puye  None 2 7
+ip  None 2 8
+.  None 2 0
+
+pariwat  None 2 5
+tomuwã  None 2 5
+buje  None 2 6
+juy  None 2 6
+puybit  None 2 6
+ejomõg̃  None 2 0
+mesa  None 2 6
+jeje  None 2 6
+
+kabido  None 2 4
+xixi  None 2 5
+ajẽm  None 2 6
+puje  None 2 6
+soat  None 2 6
+o'at  None 2 0
+
+taxit  None 2 5
+mẽnpit  None 2 6
+ikukpin'ũm  None 2 7
+osunuy  None 2 7
+ag̃okatkat  None 2 7
+pe  None 2 7
+,  None 2 0
+i'e'em  None 2 7
+ajojoyũ'ũm'ũm  None 2 7
+
+wexik'a  None 2 4
+kake  None 2 5
+ixi  None 2 5
+duk'a  None 2 5
+be  None 2 0
+
+oxi  None 2 3
+uk  None 2 4
+‘a  None 2 4
+be  None 2 0
+
+wida  None 2 4
+ayacat  None 2 5
+o’yaoka  None 2 5
+Katõ  None 2 5
+be  None 2 0
+
+wetabut  None 2 4
+pe  None 2 5
+obure  None 2 5
+Wida  None 2 5
+o'yaoka  None 2 0
+
+bekicat  None 2 3
+o'akõm  None 2 4
+wetabut  None 2 4
+pe  None 2 0
+
+ẽn  None 2 4
+eg̃ũm  None 2 4
+kise  None 2 5
+ayacat  None 2 5
+pe  None 2 0
+
+puy  None 2 4
+bu  None 2 4
+bekicat  None 2 4
+o'joa  None 2 0
+
+õn  None 2 4
+bekicat  None 2 6
+ojoaat  None 2 6
+puy  None 2 6
+bu  None 2 6
+be  None 2 0
+
+wida  None 2 3
+ayacat'ũm  None 2 3
+o'yaoka  None 2 0
+
+wekobe  None 2 4
+wita  None 2 5
+'a  None 2 5
+kay  None 2 5
+og̃uyjayjay  None 2 0
+
+oxi  None 2 4
+eg̃ru  None 2 4
+ipi  None 2 4
+tẽg̃  None 2 0
+
+o'xet  None 2 3
+io'e  None 2 4
+xiri  None 2 4
+xe  None 2 0
+
+ixe  None 2 5
+iẽn  None 2 5
+'o'om  None 2 6
+kaw  None 2 6
+ta  None 2 6
+eju  None 2 0
+
+puybit  None 2 5
+kug̃  None 2 6
+o'ju  None 2 7
+bio  None 2 7
+kug̃  None 2 7
+,  None 2 7
+dapsem  None 2 0
+kug̃  None 2 0
+
+xa  None 2 4
+diot  None 2 4
+pe  None 2 4
+o'xet  None 2 0
+
+wexey  None 2 4
+bi  None 2 5
+wida  None 2 5
+biopak  None 2 5
+o'yaoka  None 2 0
+
+kat  None 2 3
+pujeat  None 2 3
+ocemudirem  None 2 0
+
+ag̃okatkat  None 2 4
+bio  None 2 6
+dakat  None 2 6
+puje  None 2 6
+bekicat  None 2 6
+o'suẽn'o  None 2 0
+
+ey'at  None 2 3
+pima  None 2 4
+ocewayway  None 2 4
+jĩjã  None 2 0
+
+ixem  None 2 6
+õn  None 2 7
+wetaybit  None 2 7
+g̃u  None 2 7
+ojojo  None 2 7
+g̃u  None 2 7
+ma  None 2 8
+buye  None 2 0
+
+ag̃okatkat  None 2 4
+bio  None 2 5
+aoka  None 2 6
+buje  None 2 6
+wida  None 2 6
+o'jenapõn  None 2 0
+
+ejot  None 2 5
+cuy  None 2 7
+,  None 2 8
+muto'o  None 2 8
+bima  None 2 8
+,  None 2 8
+kaxi  None 2 8
+wuyase  None 2 0
+bima  None 2 8
+
+pug̃  None 2 4
+em  None 2 5
+o'e  None 2 5
+jeebay  None 2 5
+be  None 2 0
+
+jeorokap  None 2 3
+wap  None 2 4
+ip  None 2 4
+o'ju  None 2 0
+
+ag̃okatkat  None 2 4
+itakomã  None 2 5
+jijã  None 2 6
+o'e  None 2 6
+wida  None 2 6
+buxim  None 2 0
+
+kobe  None 2 4
+xixi  None 2 5
+badi  None 2 5
+wi  None 2 5
+o'jebuk  None 2 0
+
+Kog̃ũnpi  None 2 4
+be  None 2 5
+okapap  None 2 5
+kabuk  None 2 5
+opop  None 2 0
+
+Jeorog̃  None 2 5
+ip  None 2 7
+cum  None 2 8
+kapusu  None 2 8
+daje  None 2 8
+aoka  None 2 8
+ojuyiap  None 2 8
+tag̃  None 2 0
+
+Kapusu  None 2 5
+dapsem  None 2 6
+o'yaokaiat  None 2 6
+g̃oku  None 2 6
+,  None 2 6
+Katõ  None 2 7
+bewi  None 2 0
+oajẽmiat  None 2 7
+
+Soat  None 2 3
+ip  None 2 4
+o'g̃u'ũm  None 2 4
+iwipat  None 2 0
+
+wamõat  None 2 3
+ag̃okatkat  None 2 3
+o'sutayxida  None 2 0
+
+õn  None 2 4
+ag̃okatkat  None 2 5
+o'sutayxidaat  None 2 5
+wamõat  None 2 5
+pe  None 2 0
+
+ag̃okatkat  None 2 3
+o'jetayxidaat  None 2 4
+wamõat  None 2 4
+pe  None 2 0
+
+wida  None 2 4
+o'jeaokaat  None 2 4
+ag̃okatkat  None 2 4
+pe  None 2 0
+
+ceebay  None 2 5
+icokcok  None 2 6
+cicã  None 2 6
+idip  None 2 6
+cicã  None 2 7
+buye  None 2 7
+bekicat  None 2 0
+yadappek  None 2 0
+
+ipi  None 2 4
+teg̃  None 2 5
+kaxi  None 2 5
+bima  None 2 5
+o'taxadig̃curug̃  None 2 0
+
+Kapusu  None 2 4
+oajẽm  None 2 5
+owag̃o  None 2 5
+duk'a  None 2 5
+be  None 2 0
+
+Ag̃okatkat  None 2 6
+acã  None 2 8
+cũg̃'i  None 2 8
+osunuy  None 2 8
+sũg̃tabi  None 2 8
+eju  None 2 8
+g̃axĩn  None 2 8
+ma  None 2 0
+oajẽm  None 2 8
+puye  None 2 9
+
+Wuy'adapmude'o'onapti  None 2 3
+dak  None 2 3
+otibu  None 2 0
+
+Eg̃uycũg̃  None 2 4
+pimap  None 2 5
+,  None 2 6
+ecepe  None 2 6
+eg̃rũ  None 2 6
+be  None 2 0
+
+Puybit  None 2 5
+aoka'ũm  None 2 6
+pima  None 2 6
+,  None 2 6
+irere  None 2 6
+jeedop  None 2 0
+ip  None 2 6
+
+Kapusu  None 2 3
+dapsem  None 2 4
+o'yaokaiat  None 2 4
+g̃oku  None 2 0
+
+xepxep  None 2 3
+pa  None 2 4
+akoba  None 2 4
+o'suba'o  None 2 0
+
+xek  None 2 4
+pu  None 2 5
+o'subumõg̃mõg̃  None 2 6
+wita  None 2 6
+'a  None 2 6
+be  None 2 0
+
+Uk'a  None 2 3
+yadip  None 2 3
+o'yanuy  None 2 0
+
+kapedi  None 2 2
+tidaxip  None 2 0
+
+ebubut  None 2 4
+pupum  None 2 5
+tu  None 2 5
+epesot  None 2 5
+?  None 2 0
+
+Ag̃okatkayũ  None 2 8
+axĩma  None 2 8
+muyuhum  None 2 8
+idibi  None 2 8
+tag̃  None 2 8
+.  None 2 8
+Axĩma  None 2 8
+muyuhum  None 2 0
+ip  None 2 8
+pig̃am  None 2 9
+.  None 2 10
+
+Ag̃okatkayũ  None 2 12
+soat  None 2 12
+axima  None 2 12
+muyuhum  None 2 12
+:  None 2 12
+wasũbu  None 2 13
+,  None 2 13
+potip  None 2 13
+,  None 2 13
+potiprip  None 2 13
+,  None 2 13
+pakodup  None 2 13
+,  None 2 0
+pirãydup  None 2 13
+,  None 2 13
+pirũm  None 2 13
+.  None 2 13
+
+Idib  None 2 12
+dag̃  None 2 12
+soat  None 2 12
+axima  None 2 12
+.  None 2 12
+Pũg̃pũg̃  None 2 12
+axima  None 2 12
+yopit  None 2 12
+ma  None 2 12
+.  None 2 12
+Pirãydup  None 2 12
+,  None 2 0
+pirũm  None 2 12
+yopit  None 2 12
+ma  None 2 12
+.  None 2 12
+
+Pũg̃pũg̃  None 2 8
+axima  None 2 9
+yobog̃  None 2 9
+ma  None 2 9
+.  None 2 9
+Wasũbu  None 2 9
+,  None 2 9
+potip  None 2 9
+,  None 2 0
+yobog̃ayũ  None 2 9
+.  None 2 9
+Ag̃okatkayũ  None 2 9
+axima  None 2 9
+muyuhum  None 2 9
+pig̃am  None 2 9
+.  None 2 9
+
+Wara'at  None 2 10
+axima  None 2 11
+yobog̃bug̃  None 2 11
+.  None 2 11
+Potiprit  None 2 11
+,  None 2 11
+pakodup  None 2 11
+yobog̃bug̃yũ  None 2 11
+.  None 2 11
+Pig̃ãm  None 2 11
+axima  None 2 0
+muyhum  None 2 11
+ip  None 2 11
+.  None 2 11
+
+Ibu  None 2 8
+buje  None 2 10
+,  None 2 11
+tujuxexem  None 2 11
+ip  None 2 11
+uk’a  None 2 11
+be  None 2 11
+ayacayũ  None 2 11
+be  None 2 11
+,  None 2 11
+ta  None 2 0
+am  None 2 11
+.  None 2 11
+
+Yopĩutayũ  None 2 9
+muekabekbeg̃  None 2 9
+ip  None 2 9
+uktup  None 2 9
+pe  None 2 9
+.  None 2 9
+Ayacayũ  None 2 9
+yopĩutayũ  None 2 9
+muekabekbeg̃  None 2 0
+ip  None 2 9
+uktup  None 2 9
+pe  None 2 11
+.  None 2 11
+
+G̃ebuje  None 2 17
+,  None 2 19
+yobog̃ayũ  None 2 20
+wuywuy  None 2 20
+ip  None 2 20
+baseya'a  None 2 20
+be  None 2 20
+.  None 2 20
+Yobog̃ayũ  None 2 20
+uk  None 2 20
+kakam  None 2 20
+ip  None 2 20
+e'em  None 2 20
+.  None 2 20
+Axima  None 2 20
+uk  None 2 20
+kakam  None 2 20
+ip  None 2 20
+pima  None 2 20
+,  None 2 0
+ixep  None 2 20
+uk'ug̃  None 2 20
+ip  None 2 20
+.  None 2 20
+Ixep  None 2 20
+muekabekbeg̃  None 2 20
+ip  None 2 20
+uktup  None 2 20
+pe  None 2 20
+.  None 2 20
+Ade  None 2 20
+axima  None 2 20
+uk  None 2 20
+kakam  None 2 20
+ip  None 2 20
+.  None 2 20
+Ixep  None 2 20
+muekabekbeg̃  None 2 20
+ip  None 2 20
+uktup  None 2 20
+pe  None 2 20
+,  None 2 20
+ayacayũ  None 2 20
+.  None 2 20
+
+Axima  None 2 15
+yobog̃at  None 2 15
+mupurukpurug̃  None 2 31
+ip  None 2 31
+iwi  None 2 32
+be  None 2 32
+daxa  None 2 32
+ase  None 2 32
+.  None 2 32
+Ade  None 2 32
+bima  None 2 32
+,  None 2 32
+ade  None 2 32
+imupurukpurug̃  None 2 32
+ip  None 2 32
+iwi  None 2 32
+be  None 2 32
+.  None 2 32
+Ade  None 2 32
+bima  None 2 32
+,  None 2 32
+yobog̃  None 2 32
+iwi  None 2 32
+e'em  None 2 32
+.  None 2 32
+Ade  None 2 32
+ũm  None 2 32
+pima  None 2 32
+,  None 2 32
+iwi  None 2 32
+yopit  None 2 32
+ma  None 2 0
+e'em  None 2 32
+.  None 2 32
+
+Ade  None 2 6
+tao  None 2 7
+bima  None 2 8
+,  None 2 9
+tao  None 2 9
+uk'ug̃  None 2 9
+ip  None 2 9
+iwi  None 2 9
+xe  None 2 0
+.  None 2 9
+
+Tao  None 2 8
+uk'ug̃  None 2 8
+iwi  None 2 8
+xe  None 2 8
+ãõyũ  None 2 8
+.  None 2 8
+Tao  None 2 8
+uk'ug̃  None 2 0
+ip  None 2 8
+ayacayũ  None 2 8
+,  None 2 8
+axima  None 2 8
+dao  None 2 8
+.  None 2 8
+
+Tao  None 2 15
+uk  None 2 16
+puje  None 2 16
+,  None 2 16
+imõg̃mõg̃  None 2 17
+ip  None 2 17
+iwi  None 2 17
+be  None 2 17
+daxa  None 2 17
+ase  None 2 17
+.  None 2 17
+Tao  None 2 17
+uk  None 2 17
+puje  None 2 17
+axima  None 2 17
+tatam  None 2 17
+ip  None 2 0
+uktup  None 2 17
+pe  None 2 17
+.  None 2 18
+
+Iwi  None 2 21
+be  None 2 23
+imõg̃mõg̃  None 2 23
+ip  None 2 23
+ta  None 2 23
+am  None 2 23
+.  None 2 23
+Tao  None 2 23
+uk  None 2 23
+puje  None 2 23
+axima  None 2 23
+nõm  None 2 23
+e'em  None 2 23
+ip  None 2 23
+.  None 2 23
+Axima  None 2 23
+tatam  None 2 23
+ip  None 2 23
+uktup  None 2 23
+pe  None 2 23
+.  None 2 23
+Iwi  None 2 23
+be  None 2 0
+imõg̃mõg̃  None 2 23
+ip  None 2 23
+uktup  None 2 23
+pe  None 2 23
+axima  None 2 24
+mupuruk  None 2 24
+am  None 2 24
+.  None 2 24
+
+Tõm  None 2 16
+e'em  None 2 12
+ip  None 2 12
+.  None 2 12
+Ẽ  None 2 12
+be  None 2 12
+ijukjug̃  None 2 12
+ip  None 2 12
+.  None 2 12
+Axima  None 2 12
+nõm  None 2 12
+cukcug̃  None 2 0
+ip  None 2 12
+ẽ  None 2 12
+be  None 2 12
+,  None 2 12
+wãẽn  None 2 12
+tuk'a  None 2 12
+be  None 2 12
+.  None 2 12
+Tõm  None 2 12
+cuk  None 2 12
+puje  None 2 12
+,  None 2 12
+tõm  None 2 12
+ipriprim  None 2 12
+pag̃eiro'a  None 2 12
+be  None 2 12
+.  None 2 12
+
+Tõm  None 2 17
+karaw  None 2 16
+bima  None 2 16
+,  None 2 16
+tõm  None 2 16
+pi  None 2 16
+riprim  None 2 16
+pag̃eiro’a  None 2 16
+be  None 2 16
+.  None 2 16
+Tõm  None 2 16
+pi  None 2 16
+rip  None 2 16
+puje  None 2 16
+,  None 2 16
+iwi  None 2 0
+be  None 2 16
+imõg̃mõg̃  None 2 16
+ip  None 2 16
+daxa  None 2 16
+ase  None 2 16
+tõm  None 2 16
+mudaxip  None 2 16
+am  None 2 16
+.  None 2 16
+Imõg̃mõg̃  None 2 16
+ip  None 2 16
+daxa  None 2 16
+ase  None 2 16
+tõm  None 2 16
+mukaraw  None 2 16
+am  None 2 16
+.  None 2 16
 

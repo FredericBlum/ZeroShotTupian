@@ -1,0 +1,142 @@
+# sent_id = 2007
+# text = xa diot pe o'xet
+# text_eng = He slept under the pequiá tree. [Postpositions in Munduruku (Tupi): Formal and Functional Features] (2019, 25a)
+1	xa	xa	NOUN	n	_	4	obl	4:obl	_
+2	diot	diot	NOUN	n	_	1	nmod	1:nmod	_
+3	pe	pe	ADP	pp	_	1	case	1:case	_
+4	o'xet	xet	VERB	vi	Aspect=Perf|Person=3	0	root	0:root	_
+
+# sent_id = 57
+# text = ag̃okatkat o'ju puybit aokam
+# text_portuguese = Os homens foram matar caça Vol 5 p39-2
+# text_eng = The men went to kill the hunt
+1	ag̃okatkat	ag̃okatkat	NOUN	n	_	2	obl	2:obl	_
+2	o'ju	cu	VERB	vi	_	0	root	0:root	_
+3	puybit	puybit	NOUN	n	_	4	obj	4:obj	_
+4	aokam	aoka	VERB	vt	Aspect=Imp|Person=3	2	ccomp	2:ccomp	_
+
+# sent_id = 51
+# text = Ixi wa'e kug̃
+# text_portuguese = A mãe tem uma cuia.
+# text_eng = The mother has a gourd.
+1	Ixi	ixi	NOUN	n	_	3	nsubj	3:nsubj	_
+2	wa'e	wa'e	NOUN	n	_	3	obj	3:obj	_
+3	kug̃	kug̃	VERB	vx	_	0	root	0:root	_
+
+# sent_id = 5008
+# text = Wuy'adapmude'o'onapti dak otibu
+# text_eng = I too shall to buy perfume for the hair. Crofts 2004 214
+# text_por = Também vou comprar perfume para os cabelos
+1	Wuy'adapmude'o'onapti	'adapmude'o'onapti	NOUN	n	Class=Liquid|Clusivity=Ex|Nomzr=Pa|Number=Plur|Person=1|Rel=Cont|Voice=Cau	3	obl	_	gloss=1.PL.EX-head-REL-hair-CAU-good.odour-NOMZR-CLASS
+2	dak	dak	ADV	adv	_	3	advmod	_	_
+3	otibu	bu	VERB	v	Class=Liquid|Number=Sing|Person=1	0	root	_	_
+
+# sent_id = 2009
+# text = kat pujeat ocemudirem
+# text_eng = The (rain) that came in the afternoon got us wet.	 [Postpositions in Munduruku (Tupi): Formal and Functional Features] (2019, 23a)
+1	kat	kat	NOUN	n	_	2	nmod	2:nmod	_
+2	pujeat	puje	NOUN	n	_	3	nsubj	3:nsubj	_
+3	ocemudirem	direm	VERB	vi	Aspect=Perf|Voice=Cau	0	root	0:root	_
+
+# sent_id = 13
+# text = Toxaw dak jexat o'tobuxik
+# text_portuguese = O chefe também achou a comida
+# text_eng = The chief also found the food
+1	Toxaw	toxaw	NOUN	n	_	4	obl	4:obl	_
+2	dak	dak	ADV	adv	_	4	advmod	4:advmod	_
+3	jexat	xat	NOUN	n	_	4	obl	4:obl	_
+4	o'tobuxik	dobuxik	VERB	vt	Aspect=Perf|Person=33	0	root	0:root	_
+
+# sent_id = 34
+# text = Tawe ixat , toxaw xat
+# text_portuguese = O chefe come macaco-prego.
+# text_eng = The chief eats the capuchin monkey.
+1	Tawe	tawe	NOUN	n	_	2	nsubj	2:nsubj	_
+2	ixat	xat	NOUN	n	_	0	root	0:root	_
+3	,	,	PUNCT	punct	_	2	punct	2:punct	_
+4	toxaw	toxaw	NOUN	n	_	5	nmod	5:nmod	_
+5	xat	xat	NOUN	n	_	2	appos	2:appos	_
+
+# sent_id = 7014
+# text = Tõm e'em ip . Ẽ be ijukjug̃ ip . Axima nõm cukcug̃ ip ẽ be , wãẽn tuk'a be . Tõm cuk puje , tõm ipriprim pag̃eiro'a be .
+# text_eng = The becom porridge (like). They pund it with the pestle. They pound the dough with the pestle in the over house. When the fish-dough is pounded, they strain it in the sieve. (Cartilha 7, 4.4)
+# text_por = Ficarão piracui. Elas pilam no pilão. Elas pilam o piracui no pilão, na casa do forno. Quando o piracui está pilado, elas empaneiram no paneiro.
+1	Tõm	tõm	NOUN	n	_	0	root	0:root	_
+2	e'em	e'em	AUX	aux	_	1	aux	1:aux	_
+3	ip	ip	PRON	pro	Number=Plur|Person=3	1	nsubj	1:nsubj	_
+4	.	.	PUNCT	punct	_	1	punct	1:punct	punct=
+5	Ẽ	ẽ	NOUN	n	_	7	obl	7:obl	_
+6	be	be	ADP	posp	_	5	case	5:case	_
+7	ijukjug̃	cuk	VERB	v	Aspect=DurIprf|Rel=NCont	1	parataxis	1:parataxis	_
+8	ip	ip	PRON	pro	Number=Plur|Person=3	7	nsubj	7:nsubj	_
+9	.	.	PUNCT	punct	_	7	punct	7:punct	punct=
+10	Axima	axima	NOUN	n	_	11	nmod	11:nmod	_
+11	nõm	tõm	NOUN	n	_	12	obj	12:obj	_
+12	cukcug̃	cuk	VERB	v	Aspect=DurIprf	1	parataxis	1:parataxis	_
+13	ip	ip	PRON	pro	Number=Plur|Person=3	12	nsubj	12:nsubj	_
+14	ẽ	ẽ	NOUN	n	_	12	obl	12:obl	_
+15	be	be	ADP	posp	_	14	case	14:case	_
+16	,	,	PUNCT	punct	_	12	punct	12:punct	punct=
+17	wãẽn	wãẽn	NOUN	n	_	18	nmod	18:nmod	_
+18	tuk'a	uk	NOUN	n	Class=Round	12	obl	12:obl	_
+19	be	be	ADP	posp	_	18	case	18:case	_
+20	.	.	PUNCT	punct	_	12	punct	12:punct	punct=
+21	Tõm	tõm	NOUN	n	_	22	obj	22:obj	_
+22	cuk	cuk	NOUN	n	Aspect=Perf	26	advcl	26:advcl	_
+23	puje	puje	SCONJ	sconj	_	22	mark	22:mark	_
+24	,	,	PUNCT	punct	_	22	punct	22:punct	punct=
+25	tõm	tõm	NOUN	n	_	26	obj	26:obj	_
+26	ipriprim	rip	VERB	v	Aspect=DurIprf|Rel=NCont	1	parataxis	1:parataxis	_
+27	pag̃eiro'a	pag̃eiro	NOUN	n	Class=Round	26	obl	26:obl	_
+28	be	be	ADP	posp	_	27	case	27:case	_
+29	.	.	PUNCT	punct	_	26	punct	26:punct	_
+
+# sent_id = 30
+# text = Toxaw dak oexe
+# text_portuguese = O chefe tambem chegou em casa.
+# text_eng = The chief has/owns also a house. (?)
+1	Toxaw	toxaw	NOUN	n	_	3	obl	3:obl	_
+2	dak	dak	ADV	adv	_	3	advmod	3:advmod	_
+3	oexe	xe	VERB	v	_	0	root	0:root	_
+
+# sent_id = 22
+# text = Toxaw tawe o'tobuxik tu ?
+# text_portuguese = O chefe achou o macaco-prego?
+# text_eng = Did the chief find the capuchin monkey?
+1	Toxaw	toxaw	NOUN	n	_	3	obl	3:obl	_
+2	tawe	tawe	NOUN	n	_	3	obl	3:obl	_
+3	o'tobuxik	dobuxik	VERB	vt	Aspect=Perf|Person=3	0	root	0:root	_
+4	tu	tu	PART	pcl	_	3	dep	3:dep	_
+5	?	?	PUNCT	punct	_	3	punct	3:punct	_
+
+# sent_id = 7005
+# text = Wara'at axima yobog̃bug̃. Potiprit, pakodup yobog̃bug̃yũ. Pig̃ãm axima muyhum ip.
+# text_eng = Other fish are somewhat large. Jatuarana and pacu are somewhat large. The man catch fish with a fishhook.       (Cartilha 7, 1.5) #Atten=Yes
+# text_por = Outros peixes são meio grandes, jatuarana e pacu são meio grandes. Os homens pegam peixe com anzol.
+1	Wara'at	wara'at	PRON	pro	PronType=Ind	2	nmod	2:nmod	_
+2	axima	axima	NOUN	n	_	3	nsubj	3:nsubj	_
+3	yobog̃bug̃	bog̃	VERB	v	Rel=NCont	0	root	0:root	SpaceAfter=No
+4	.	.	PUNCT	PUNCT	_	3	punct	3:punct	punct=
+5	Potiprit	potiprit	NOUN	n	_	8	nsubj	8:nsubj	SpaceAfter=No
+6	,	,	PUNCT	punct	_	5	punct	5:punct	punct=
+7	pakodup	pakodup	NOUN	n	_	5	conj	5:conj	_
+8	yobog̃bug̃yũ	bog̃	VERB	v	Rel=NCont	3	parataxis	3:parataxis	SpaceAfter=No
+9	.	.	PUNCT	PUNCT	_	8	punct	8:punct	punct=
+10	Pig̃ãm	pig̃ã	NOUN	n	Case=Ins	12	obj	12:obj	_
+11	axima	axima	NOUN	n	_	12	nsubj	12:nsubj	_
+12	muyhum	um	VERB	v	Aspect=Imp|Voice=Cau	3	parataxis	3:parataxis	_
+13	ip	ip	PRON	pro	Number=Plur|Person=3	12	nsubj	12:nsubj	SpaceAfter=No
+14	.	.	PUNCT	PUNCT	_	12	punct	12:punct	punct=
+
+# sent_id = 60
+# text = Soat bekitkit ibeg̃beg̃ o'e ade puybit puye
+# text_portuguese = Todas as crian ças ficaram satisfeitas por causa de muita comida.
+# text_eng = All children were/became satisfied because of so much food
+1	Soat	Soat	PRON	_	_	2	nmod	_	_
+2	bekitkit	bekitkit	NOUN	n	_	0	root	_	_
+3	ibeg̃beg̃	beg̃beg̃	ADJ	_	_	2	amod	_	_
+4	o'e	'e	VERB	v	Evident=Nfh	2	dep	_	_
+5	ade	ade	PRON	pro	_	6	nmod	_	_
+6	puybit	puybit	NOUN	n	_	2	advcl	_	_
+7	puye	puye	ADP	_	_	6	case	_	_
+

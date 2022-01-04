@@ -1,178 +1,178 @@
 token gold_tag gold_arc predicted_tag predicted_arc
-Kito  None root 0
-nãkowut  None obl 0
-moat  None obl 2
-xauwet  None obl 2
-moke  None obl 2
-kepit  None obl 0
-xagara  None obl 0
+Kito  None 2 5
+nãkowut  None 2 6
+moat  None 2 7
+xauwet  None 2 7
+moke  None 2 7
+kepit  None 2 7
+xagara  None 2 0
 
-ngot  None root 0
-xiaret  None root 0
+ngot  None 2 2
+xiaret  None 2 0
 
-yãn  None root 0
-oxepngoret  None obl 0
-oerã  None obl 2
-kepit  None obl 2
-eta  None obl 2
-on  None obl 0
-toa  None obl 0
+yãn  None 2 5
+oxepngoret  None 2 6
+oerã  None 2 6
+kepit  None 2 6
+eta  None 2 6
+on  None 2 7
+toa  None 2 0
 
-xeke  None root 0
-xēke  None obl 0
-ke  None obl 0
+xeke  None 2 3
+xēke  None 2 3
+ke  None 2 0
 
-etera  None root 0
-kurux  None obl 0
-amang  None obl 2
-ngot  None obl 2
-keya  None obl 0
-pīxe  None obl 0
+etera  None 2 5
+kurux  None 2 5
+amang  None 2 6
+ngot  None 2 6
+keya  None 2 6
+pīxe  None 2 0
 
-mokat  None root 0
-etera  None obl 0
-kurux  None obl 2
-amang  None obl 0
-pīxe  None obl 0
+mokat  None 2 4
+etera  None 2 5
+kurux  None 2 5
+amang  None 2 5
+pīxe  None 2 0
 
-ã  None nmod 0
-en  None obl 0
-emẽ  None obl 2
-xop  None obl 0
-nẽnẽkaret  None obl 0
+ã  None 2 4
+en  None 2 5
+emẽ  None 2 5
+xop  None 2 5
+nẽnẽkaret  None 2 0
 
-woaret  None root 0
-koa  None root 0
+woaret  None 2 2
+koa  None 2 0
 
-etxekup  None root 0
-keya  None root 0
+etxekup  None 2 2
+keya  None 2 0
 
-opũãtemwã  None root 0
-ota  None root 0
+opũãtemwã  None 2 2
+ota  None 2 0
 
-mokat  None root 0
-etera  None root 0
-kurux  None obl 0
+mokat  None 2 3
+etera  None 2 3
+kurux  None 2 0
 
-nãpẽrenã  None root 0
-kito  None obl 0
-eapītera  None obl 2
-pīxe  None obl 0
+nãpẽrenã  None 2 3
+kito  None 2 4
+eapītera  None 2 4
+pīxe  None 2 0
 
-op  None root 0
-ten  None obl 0
-eya  None obl 2
-õn  None obl 0
+op  None 2 3
+ten  None 2 4
+eya  None 2 4
+õn  None 2 0
 
-xop  None root 0
-ten  None obl 0
-eya  None obl 2
-on  None obl 0
-ke  None obl 0
+xop  None 2 4
+ten  None 2 5
+eya  None 2 5
+on  None 2 5
+ke  None 2 0
 
-mawo  None root 0
-papīknga  None obl 0
-mokat  None obl 2
-etyenkuax  None obl 2
-nã  None obl 0
-xoknga  None obl 0
-xok  None obl 0
+mawo  None 2 5
+papīknga  None 2 6
+mokat  None 2 7
+etyenkuax  None 2 7
+nã  None 2 7
+xoknga  None 2 7
+xok  None 2 0
 
-yeman  None root 0
-ngot  None obl 0
-kana  None obl 2
-oen  None obl 0
+yeman  None 2 3
+ngot  None 2 4
+kana  None 2 4
+oen  None 2 0
 
-mokat  None root 0
-etera  None obl 0
-korop  None obl 2
-noa  None obl 0
-pe  None obl 0
+mokat  None 2 4
+etera  None 2 5
+korop  None 2 5
+noa  None 2 5
+pe  None 2 0
 
-ama  None root 0
-ngot  None obl 0
-xiaret  None obl 2
-eya  None obl 2
-kurux  None obl 2
-amang  None obl 2
-ngot  None obl 2
-oen  None obl 2
-wimõ  None obl 0
-nitēt  None obl 0
+ama  None 2 7
+ngot  None 2 8
+xiaret  None 2 8
+eya  None 2 8
+kurux  None 2 9
+amang  None 2 9
+ngot  None 2 9
+oen  None 2 9
+wimõ  None 2 0
+nitēt  None 2 9
 
-arimot  None root 0
-urot  None obl 0
-arimot  None obl 2
-urot  None obl 0
+arimot  None 2 4
+urot  None 2 4
+arimot  None 2 4
+urot  None 2 0
 
-xop  None root 0
-koa  None obl 0
-ten  None obl 2
-nã  None obl 0
-peka  None obl 0
+xop  None 2 4
+koa  None 2 5
+ten  None 2 5
+nã  None 2 5
+peka  None 2 0
 
-i  None root 0
-eya  None obl 0
-on  None obl 2
-wet  None obl 2
-toa  None obl 0
-ke  None obl 0
-pit  None obl 0
+i  None 2 5
+eya  None 2 6
+on  None 2 6
+wet  None 2 7
+toa  None 2 7
+ke  None 2 7
+pit  None 2 0
 
-mokat  None root 0
-peitõã  None obl 0
-etera  None obl 2
-amang  None obl 2
-korop  None obl 0
-kux  None obl 0
-me  None obl 0
+mokat  None 2 5
+peitõã  None 2 6
+etera  None 2 6
+amang  None 2 6
+korop  None 2 6
+kux  None 2 7
+me  None 2 0
 
-wotye  None root 0
-pukpuga  None obl 0
-pit  None obl 0
+wotye  None 2 3
+pukpuga  None 2 3
+pit  None 2 0
 
-putorot  None root 0
-xēke  None obl 0
-ke  None obl 2
-xēt  None obl 0
+putorot  None 2 3
+xēke  None 2 4
+ke  None 2 4
+xēt  None 2 0
 
-etera  None root 0
-korop  None root 0
+etera  None 2 2
+korop  None 2 0
 
-kito  None root 0
-moke  None obl 0
-xiat  None obl 2
-ekuwaora  None obl 2
-kepit  None obl 0
-pukpuga  None obl 0
-õn  None obl 0
+kito  None 2 5
+moke  None 2 6
+xiat  None 2 6
+ekuwaora  None 2 6
+kepit  None 2 7
+pukpuga  None 2 7
+õn  None 2 0
 
-kepit  None root 0
-eya  None obl 0
-õn  None obl 2
-waokatmõ  None obl 2
-papiknga  None obl 0
-ke  None obl 0
+kepit  None 2 4
+eya  None 2 6
+õn  None 2 6
+waokatmõ  None 2 6
+papiknga  None 2 6
+ke  None 2 0
 
-ama  None root 0
-etera  None obl 0
-kurux  None obl 0
+ama  None 2 3
+etera  None 2 3
+kurux  None 2 0
 
-xop  None root 0
-me  None obl 0
-pote  None obl 2
-worawiget  None obl 2
-xop  None obl 0
-me  None obl 0
+xop  None 2 5
+me  None 2 5
+pote  None 2 6
+worawiget  None 2 6
+xop  None 2 6
+me  None 2 0
 
-kux  None root 0
-kixa  None obl 0
-ngarap  None obl 2
-,  None punct 0
-pit  None obl 0
+kux  None 2 4
+kixa  None 2 5
+ngarap  None 2 5
+,  None 2 5
+pit  None 2 0
 
-põrom  None root 0
-toa  None obl 0
-,  None punct 0
-pit  None obl 0
+põrom  None 2 3
+toa  None 2 4
+,  None 2 4
+pit  None 2 0
 

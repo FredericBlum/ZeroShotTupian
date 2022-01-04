@@ -1,0 +1,71 @@
+# sent_id = 30
+# text = ihẽke ajumukahem
+# text_eng = I was frightened (Duarte 2014 [43] NS)
+1	ihẽke	ihẽ	PRON	pro	Case=Aff	2	nsubj	_	_
+2	ajumukahem	kahem	VERB	vt	Person=1|Voice=Cau	0	root	_	_
+
+# sent_id = 1
+# text = aʔe ta ke uʔuta moj ke tĩ
+# text_eng = they will eat the snake (Duarte 2019 [45])
+1	aʔe	aʔe	PRON	pro	_	4	nsubj	_	_
+2	ta	ta	PART	pcl	_	1	nmod	_	_
+3	ke	ke	PART	pcl	_	1	nmod	_	_
+4	uʔuta	ʔu	VERB	vt	Person=3|Tense=Fut	0	root	_	_
+5	moj	moj	NOUN	n	_	4	obj	_	_
+6	ke	ke	PART	pcl	_	5	nmod	_	_
+7	tĩ	tĩ	PART	pcl	_	5	discourse	_	_
+
+# sent_id = 28
+# text = aʔeke ehake tukwatĩ
+# text_eng = He has hurt his own eye (Duarte 2014 [31] NS)
+1	aʔeke	aʔe	PRON	pro	_	3	nsubj	_	_
+2	ehake	eha	NOUN	n	Case=Aff|Rel=Cont	3	obj	_	_
+3	tukwatĩ	tukwa	VERB	vt	Person=3	0	root	_	_
+
+# sent_id = 8012
+# text = Pe , ihẽ asak
+# text_pt = E eu vi (ela). (UKconnect [8] NS)
+# text_eng = And I saw her.
+1	Pe	pe	ADV	adv	_	4	advmod	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	ihẽ	ihẽ	PRON	pro	_	4	obj	_	_
+4	asak	sak	VERB	vt	Person=1	0	root	_	_
+
+# sent_id = 33
+# text = aʔe ʔokke mujã
+# text_eng = He has made the house (Duarte 2019 [34a] NS)
+1	aʔe	aʔe	PRON	pro	_	3	nsubj	_	_
+2	ʔokke	ʔok	NOUN	n	Case=Aff	3	obj	_	_
+3	mujã	mujã	VERB	vt	Person=3	0	root	_	_
+
+# sent_id = 59
+# text = kujãtake upa mupinim
+# text_eng = All the women were painted (Godoy 2017 [37] ZS)
+1	kujãtake	kujã	NOUN	n	Case=Aff|Number=Plur	3	nsubj	_	_
+2	upa	upa	PART	pcl	_	1	discourse	_	_
+3	mupinim	pinim	VERB	vt	Voice=Cau	0	root	_	_
+
+# sent_id = 5
+# text = aʔe ke uʔuta pɪpɪhu ke tĩ
+# text_eng = He is going to eat the owl (Duarte 2019 [41b] TM)
+1	aʔe	aʔe	PRON	pro	_	3	nsubj	_	_
+2	ke	ke	PART	pcl	_	1	discourse	_	_
+3	uʔuta	ʔu	VERB	vt	Person=3|Tense=Fut	0	root	_	_
+4	pɪpɪhu	pɪpɪhu	NOUN	n	_	3	obj	_	_
+5	ke	ke	PART	pcl	_	4	discourse	_	_
+6	tĩ	tĩ	PART	pcl	_	3	discourse	_	_
+
+# sent_id = 35
+# text = ihẽke uʔi akarãj
+# text_eng = I mashed manioc (in order to produce cassava flour) (Duarte 2019 [42] NS)
+1	ihẽke	ihẽ	PRON	pro	Case=Aff	3	nsubj	_	_
+2	uʔi	uʔi	NOUN	n	_	3	obj	_	_
+3	akarãj	karãj	VERB	vt	Number=Sing|Person=1	0	root	_	_
+
+# sent_id = 22
+# text = neke uʔike rekarãjta
+# text_eng = you will toast manioc (Duarte 2014 [28] NS)
+1	neke	ne	PRON	pro	_	3	nsubj	_	_
+2	uʔike	uʔi	NOUN	n	Case=Aff	3	obj	_	_
+3	rekarãjta	karãj	VERB	vt	Person=2|Tense=Fut	0	root	_	_
+

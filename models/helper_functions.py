@@ -249,3 +249,73 @@ def concat(languages: list, folder: str, write_diff_train: bool = True):
     corpus = TextCorpus(f'data/combi_emb/{folder}', char_dict, forward = True, character_level=True)
 
     return corpus, char_dict
+
+def conllu_split(path_in, lang):
+    data = []
+    raw_text = []
+    count: int = 0
+
+    with open(path_in) as file:
+        doc = file.read()
+        doc = parse(doc)
+
+        for sentence in doc:
+            raw = sentence.serialize()
+            data.append(raw)
+
+    lang_train, validtext = train_test_split(data, random_state=42, test_size=.2)
+    lang_val, lang_test = train_test_split(validtext, random_state=42, test_size=0.5)
+
+    all_in_one = "".join(data)
+    dev = "".join(lang_val)
+    test = "".join(lang_test)
+    train = "".join(lang_train)
+    
+    data_folder = f'data/{lang}/conllu'
+
+    with open(f'{data_folder}/dev.conllu', 'w') as f:
+        f.write(dev)
+    with open(f'{data_folder}/test.conllu', 'w') as f:
+        f.write(test)
+    with open(f'{data_folder}/train.conllu', 'w') as f:
+        f.write(train)
+    with open(f'{data_folder}/all_in_one.conllu', 'w') as f:
+        f.write(all_in_one)
+
+
+def concat_glove(languages: list):
+    data = []
+    data_emb = f'data/combi_emb/glove'
+
+    for lang in languages:
+        lang_text = []
+        with open(f'data/{lang}/embeddings/train/train.txt') as file:
+            doc = file.read()
+            text = doc.split("\n")
+            for utt in text:
+                lang_text.append(utt)
+
+
+        with open(f'data/{lang}/embeddings/valid.txt') as file:
+            doc = file.read()
+            text = doc.split("\n")
+            for utt in text:
+                lang_text.append(utt)
+
+        with open(f'data/{lang}/embeddings/test.txt') as file:
+            doc = file.read()
+            text = doc.split("\n")
+            for utt in text:
+                lang_text.append(utt)
+
+        #lang_text.append("\n")
+
+        lang_text = " ".join(lang_text)
+        data.append(lang_text)
+    print(len(data))
+    data = "\n".join(data)
+
+    with open(f'{data_emb}/corpus.txt', 'w') as f:
+        f.write(data)
+
+    print("Have fun with GloVe")

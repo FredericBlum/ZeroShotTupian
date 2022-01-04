@@ -1,450 +1,450 @@
 token gold_tag gold_arc predicted_tag predicted_arc
-aʔe  None root 0
-ta  None obl 0
-ke  None obl 2
-uʔuta  None obl 2
-moj  None obl 0
-ke  None obl 0
-tĩ  None obl 0
-
-jane  None root 0
-japikũj  None obl 0
-mi  None obl 0
-?  None punct 0
-
-Mataru  None root 0
-ʃaʔe  None obl 0
-ke  None obl 2
-nupã  None obl 0
-tĩ  None obl 0
-
-aʔe  None root 0
-tatu  None obl 0
-ke  None obl 2
-uʔuta  None obl 0
-
-aʔe  None root 0
-ke  None obl 0
-uʔuta  None obl 2
-pɪpɪhu  None obl 2
-ke  None obl 0
-tĩ  None obl 0
-
-sawaʔe  None root 0
-panem  None obl 0
-ta  None obl 2
-ke  None obl 0
-upa  None obl 0
-
-Tuti  None root 0
-ke  None obl 0
-ʃaʔe  None obl 2
-jukwa  None obl 0
-
-taʔɪn  None root 0
-ukwerta  None obl 0
-je  None obl 6
-tĩ  None obl 6
-,  None punct 0
-ko  None obl 2
-aʔi  None obl 6
-iháike  None obl 6
-piɾokhũ  None obl 6
-je  None obl 6
-pe  None obl 6
-iʔaɾpe  None obl 0
-pɪnuhũ  None obl 0
-
-ne  None root 0
-ihẽke  None obl 0
-remusak  None obl 0
-ʔɪ  None obl 0
-
-kakake  None root 0
-kurumĩ  None obl 0
-uʔu  None obl 2
-rahã  None obl 2
-aʔe  None obl 2
-hãʔĩmke  None obl 0
-matɪr  None obl 0
-
-Arauxu  None root 0
-ahem  None obl 0
-uhu  None obl 0
-
-a’eta  None root 0
-ajengar  None root 0
-
-ihẽ  None root 0
-a’etake  None obl 0
-amujengar  None obl 0
-
-a’eta  None root 0
-ma’e  None obl 0
-jukwahá  None obl 2
-ihẽke  None obl 2
-pe  None obl 0
-me’ẽ  None obl 0
-
-Oho  None root 0
-uĩ  None obl 0
-tipe  None obl 2
-ã  None obl 0
-
-aʔerehe  None root 0
-tarũ  None obl 0
-neʃĩke  None obl 2
-joʔok  None obl 0
-
-Maiɾ  None root 0
-ɪwɪke  None obl 0
-hapɪ  None obl 0
-
-ihẽ  None root 0
-narãjke  None obl 0
-apirok  None obl 0
+aʔe  None 2 5
+ta  None 2 6
+ke  None 2 6
+uʔuta  None 2 7
+moj  None 2 7
+ke  None 2 7
+tĩ  None 2 0
+
+jane  None 2 3
+japikũj  None 2 4
+mi  None 2 4
+?  None 2 0
+
+Mataru  None 2 4
+ʃaʔe  None 2 5
+ke  None 2 5
+nupã  None 2 5
+tĩ  None 2 0
+
+aʔe  None 2 4
+tatu  None 2 4
+ke  None 2 4
+uʔuta  None 2 0
+
+aʔe  None 2 4
+ke  None 2 6
+uʔuta  None 2 6
+pɪpɪhu  None 2 6
+ke  None 2 6
+tĩ  None 2 0
+
+sawaʔe  None 2 4
+panem  None 2 5
+ta  None 2 5
+ke  None 2 5
+upa  None 2 0
+
+Tuti  None 2 3
+ke  None 2 4
+ʃaʔe  None 2 4
+jukwa  None 2 0
+
+taʔɪn  None 2 9
+ukwerta  None 2 9
+je  None 2 10
+tĩ  None 2 10
+,  None 2 10
+ko  None 2 10
+aʔi  None 2 10
+iháike  None 2 10
+piɾokhũ  None 2 10
+je  None 2 0
+pe  None 2 10
+iʔaɾpe  None 2 11
+pɪnuhũ  None 2 11
+
+ne  None 2 3
+ihẽke  None 2 4
+remusak  None 2 4
+ʔɪ  None 2 0
+
+kakake  None 2 5
+kurumĩ  None 2 6
+uʔu  None 2 6
+rahã  None 2 6
+aʔe  None 2 6
+hãʔĩmke  None 2 7
+matɪr  None 2 0
+
+Arauxu  None 2 3
+ahem  None 2 3
+uhu  None 2 0
+
+a’eta  None 2 2
+ajengar  None 2 0
+
+ihẽ  None 2 3
+a’etake  None 2 3
+amujengar  None 2 0
+
+a’eta  None 2 4
+ma’e  None 2 5
+jukwahá  None 2 6
+ihẽke  None 2 6
+pe  None 2 6
+me’ẽ  None 2 0
+
+Oho  None 2 4
+uĩ  None 2 4
+tipe  None 2 4
+ã  None 2 0
+
+aʔerehe  None 2 4
+tarũ  None 2 4
+neʃĩke  None 2 4
+joʔok  None 2 0
+
+Maiɾ  None 2 3
+ɪwɪke  None 2 3
+hapɪ  None 2 0
+
+ihẽ  None 2 3
+narãjke  None 2 3
+apirok  None 2 0
 
-ihẽke  None root 0
-aʔar  None root 0
-
-ihẽ  None root 0
-taɁɪnke  None obl 0
-amuɁe  None obl 0
-
-ne  None root 0
-taɁɪnke  None obl 0
-eremuɁe  None obl 0
-
-aʔeke  None root 0
-uʔuta  None obl 0
-pɪpɪhu  None obl 2
-ketĩ  None obl 0
-
-neke  None root 0
-uʔike  None obl 0
-rekarãjta  None obl 0
-
-ihẽ  None root 0
-neke  None root 0
-akutukta  None obl 0
-
-Maírake  None root 0
-wata  None root 0
-
-Maíra  None root 0
-wata  None root 0
-
-Anake  None root 0
-heɁõɁɪ  None root 0
-
-aʔeke  None root 0
-ipɪke  None obl 0
-tukwa  None obl 0
-
-aʔeke  None root 0
-ehake  None obl 0
-tukwatĩ  None obl 0
-
-mɪra  None root 0
-pirerke  None obl 0
-teʔe  None obl 2
-pirawan  None obl 0
-muwak  None obl 0
-
-ihẽke  None root 0
-ajumukahem  None root 0
-
-ne  None root 0
-ihẽ  None obl 0
-miʔuke  None obl 2
-reʔutĩ  None obl 0
-
-apo  None root 0
-pehẽ  None obl 0
-ihẽke  None obl 2
-peharõta  None obl 0
-
-aʔe  None root 0
-ʔokke  None obl 0
-mujã  None obl 0
-
-ihẽ  None root 0
-ʔok  None obl 0
-amujã  None obl 0
-
-ihẽke  None root 0
-uʔi  None obl 0
-akarãj  None obl 0
-
-neke  None root 0
-uʔike  None obl 0
-rekarãjta  None obl 0
-
-Oropo  None root 0
-huʔɨ  None root 0
-pɨhɨk  None obl 0
-
-ajameʔẽ  None root 0
-ke  None obl 0
-Urupe  None obl 2
-jeʔẽha  None obl 2
-mondo  None obl 0
-tĩ  None obl 0
-
-pe  None root 0
-kamarar  None obl 0
-jarusu  None obl 2
-raʔɪr  None obl 0
-raho  None obl 0
-
-Tapiʔir  None root 0
-ujan  None root 0
-
-Tɪapu  None root 0
-riki  None root 0
-
-Tuktuktuk  None root 0
-aja  None obl 0
-riki  None obl 0
-
-Tapiʔir  None root 0
-ujan  None root 0
-oho  None obl 0
-
-Pe  None root 0
-,  None punct 0
-taʔɪrer  None obl 0
-ujan  None obl 0
-
-Pe  None root 0
-,  None punct 0
-ihẽ  None obl 0
-asak  None obl 0
-
-Pe  None root 0
-,  None punct 0
-imãi  None obl 0
-ihĩ  None obl 0
-
-Pe  None root 0
-,  None punct 0
-ihẽ  None obl 0
-ajapi  None obl 0
-indo  None obl 0
-
-Xõru  None root 0
-nixói  None obl 0
-se  None obl 2
-aʔe  None obl 0
-
-Peteĩ  None root 0
-Xõru  None obl 0
-jahy  None obl 2
-kanim  None obl 0
-oho  None obl 0
-
-Arahã  None root 0
-maʔe  None obl 0
-Kaninde  None obl 2
-rehe  None obl 2
-ihẽ  None obl 0
-araho  None obl 0
-
-mahem  None root 0
-arapuha  None obl 0
-himiʔu  None obl 2
-oho  None obl 0
-
-ne  None root 0
-ihẽke  None obl 0
-renupã  None obl 2
-rahã  None obl 2
-ihẽ  None obl 0
-ahota  None obl 0
-
-pɪnupɪnuate  None root 0
-ehe  None obl 0
-je  None obl 0
-
-pe  None root 0
-oho  None obl 0
-je  None obl 2
-tĩ  None obl 0
-
-panduʔɪmanu  None root 0
-taʔɪn  None obl 0
-je  None obl 2
-tĩ  None obl 0
-
-karai  None root 0
-riki  None obl 0
-muka  None obl 2
-mopok  None obl 0
-
-neke  None root 0
-ihẽ  None obl 0
-remupuʔam  None obl 0
-ʔɪ  None obl 0
-
-ihẽ  None root 0
-neke  None obl 0
-apɪhɪk  None obl 2
-ʔɪ  None obl 0
-
-aʔe  None root 0
-ikɪke  None obl 0
-jiʔok  None obl 0
-
-ihẽ  None root 0
-ikɪ  None obl 0
-ajiʔok  None obl 2
-ʔɪ  None obl 0
-
-taʔin  None root 0
-hokwenke  None obl 0
-nupã  None obl 2
-uʔam  None obl 0
-
-Purutuke  None root 0
-ahem  None root 0
-
-Purutu  None root 0
-ahem  None root 0
-
-taʔɪnke  None root 0
-itawa  None obl 0
-imu  None obl 2
-parahɪahɪ  None obl 2
-ipe  None obl 0
-je  None obl 0
-
-netawate  None root 0
-nekeã  None obl 0
-nejɪtɪʔɪmte  None obl 2
-amõ  None obl 0
-ʔɪ  None obl 0
-
-pe  None root 0
-imu  None obl 0
-uʔɪ  None obl 2
-raʔɪr  None obl 2
-mujã  None obl 2
-ipe  None obl 2
-je  None obl 2
-uʔɪ  None obl 2
-sepetu  None obl 0
-ɪrapar  None obl 0
-raʔɪr  None obl 0
-
-pe  None root 0
-aʔi  None obl 0
-ai  None obl 2
-tur  None obl 2
-je  None obl 0
-tĩ  None obl 0
-
-pe  None root 0
-saʔe  None obl 0
-aʔi  None obl 2
-ihái  None obl 2
-ʃirurke  None obl 2
-pirokhũ  None obl 2
-je  None obl 0
-ihai  None obl 0
-aike  None obl 0
-
-ɪmante  None root 0
-pe  None obl 0
-aʔike  None obl 2
-manõ  None obl 0
-je‘ɪ  None obl 0
-
-kujãtake  None root 0
-upa  None obl 0
-mupinim  None obl 0
-
-ko  None root 0
-ihē  None obl 0
-paper  None obl 2
-pinim  None obl 2
-amuwɪr  None obl 2
-nde  None obl 0
-pe  None obl 0
-
-ne  None root 0
-raʔɪr  None obl 0
-ihē  None obl 2
-apɪhɪk  None obl 0
-aʃo  None obl 0
-
-pe  None root 0
-riki  None obl 0
-katar  None obl 2
-ngã  None obl 0
-muhɪk  None obl 0
-
-pe  None root 0
-taramō  None obl 0
-kaitā  None obl 2
-juʔipape  None obl 2
-piʔa  None obl 2
-usak  None obl 2
-oho  None obl 8
-tī  None obl 0
-pɪtuniwe  None obl 0
-
-pahar  None root 0
-pahar  None obl 0
-je  None obl 2
-kɪse  None obl 2
-meʔē  None obl 0
-ngā  None obl 0
-
-ihē  None root 0
-ndeke  None obl 0
-araho  None obl 2
-tar  None obl 2
-katu  None obl 0
-tipe  None obl 0
-
-uʔike  None root 0
-wiraʔi  None obl 0
-take  None obl 2
-uʔu  None obl 0
-ɪm  None obl 0
-
-ihē  None root 0
-rãi  None obl 0
-ihē  None obl 2
-amoīta  None obl 0
-tipe  None obl 0
-
-pāsɪkwer  None root 0
-riki  None obl 0
-matɪr  None obl 2
-uhu  None obl 2
-ngā  None obl 0
-ipe  None obl 0
-
-ihē  None root 0
-ahota  None obl 0
-asak  None obl 0
-
-ko  None root 0
-riki  None obl 0
-ihē  None obl 2
-ahɪk  None obl 2
-ajur  None obl 2
-jarupa  None obl 0
-rehe  None obl 0
-
-pe  None root 0
-ɪ  None obl 0
-rɪmɪʔɪ  None obl 2
-rehe  None obl 2
-riki  None obl 2
-kamarar  None obl 2
-ta  None obl 0
-pirer  None obl 0
-pirā  None obl 0
+ihẽke  None 2 2
+aʔar  None 2 0
+
+ihẽ  None 2 3
+taɁɪnke  None 2 3
+amuɁe  None 2 0
+
+ne  None 2 3
+taɁɪnke  None 2 3
+eremuɁe  None 2 0
+
+aʔeke  None 2 4
+uʔuta  None 2 4
+pɪpɪhu  None 2 4
+ketĩ  None 2 0
+
+neke  None 2 3
+uʔike  None 2 3
+rekarãjta  None 2 0
+
+ihẽ  None 2 3
+neke  None 2 3
+akutukta  None 2 0
+
+Maírake  None 2 2
+wata  None 2 0
+
+Maíra  None 2 2
+wata  None 2 0
+
+Anake  None 2 2
+heɁõɁɪ  None 2 0
+
+aʔeke  None 2 3
+ipɪke  None 2 3
+tukwa  None 2 0
+
+aʔeke  None 2 3
+ehake  None 2 3
+tukwatĩ  None 2 0
+
+mɪra  None 2 4
+pirerke  None 2 5
+teʔe  None 2 5
+pirawan  None 2 5
+muwak  None 2 0
+
+ihẽke  None 2 2
+ajumukahem  None 2 0
+
+ne  None 2 4
+ihẽ  None 2 4
+miʔuke  None 2 4
+reʔutĩ  None 2 0
+
+apo  None 2 4
+pehẽ  None 2 4
+ihẽke  None 2 4
+peharõta  None 2 0
+
+aʔe  None 2 3
+ʔokke  None 2 3
+mujã  None 2 0
+
+ihẽ  None 2 3
+ʔok  None 2 3
+amujã  None 2 0
+
+ihẽke  None 2 3
+uʔi  None 2 3
+akarãj  None 2 0
+
+neke  None 2 3
+uʔike  None 2 3
+rekarãjta  None 2 0
+
+Oropo  None 2 3
+huʔɨ  None 2 3
+pɨhɨk  None 2 0
+
+ajameʔẽ  None 2 4
+ke  None 2 5
+Urupe  None 2 5
+jeʔẽha  None 2 6
+mondo  None 2 6
+tĩ  None 2 0
+
+pe  None 2 4
+kamarar  None 2 5
+jarusu  None 2 5
+raʔɪr  None 2 5
+raho  None 2 0
+
+Tapiʔir  None 2 2
+ujan  None 2 0
+
+Tɪapu  None 2 2
+riki  None 2 0
+
+Tuktuktuk  None 2 3
+aja  None 2 3
+riki  None 2 0
+
+Tapiʔir  None 2 3
+ujan  None 2 3
+oho  None 2 0
+
+Pe  None 2 4
+,  None 2 4
+taʔɪrer  None 2 4
+ujan  None 2 0
+
+Pe  None 2 4
+,  None 2 4
+ihẽ  None 2 4
+asak  None 2 0
+
+Pe  None 2 4
+,  None 2 4
+imãi  None 2 4
+ihĩ  None 2 0
+
+Pe  None 2 4
+,  None 2 5
+ihẽ  None 2 5
+ajapi  None 2 5
+indo  None 2 0
+
+Xõru  None 2 3
+nixói  None 2 4
+se  None 2 4
+aʔe  None 2 0
+
+Peteĩ  None 2 3
+Xõru  None 2 5
+jahy  None 2 5
+kanim  None 2 5
+oho  None 2 0
+
+Arahã  None 2 4
+maʔe  None 2 5
+Kaninde  None 2 5
+rehe  None 2 6
+ihẽ  None 2 6
+araho  None 2 0
+
+mahem  None 2 3
+arapuha  None 2 4
+himiʔu  None 2 4
+oho  None 2 0
+
+ne  None 2 4
+ihẽke  None 2 6
+renupã  None 2 6
+rahã  None 2 6
+ihẽ  None 2 6
+ahota  None 2 0
+
+pɪnupɪnuate  None 2 3
+ehe  None 2 3
+je  None 2 0
+
+pe  None 2 4
+oho  None 2 4
+je  None 2 4
+tĩ  None 2 0
+
+panduʔɪmanu  None 2 4
+taʔɪn  None 2 4
+je  None 2 4
+tĩ  None 2 0
+
+karai  None 2 3
+riki  None 2 4
+muka  None 2 4
+mopok  None 2 0
+
+neke  None 2 3
+ihẽ  None 2 4
+remupuʔam  None 2 4
+ʔɪ  None 2 0
+
+ihẽ  None 2 4
+neke  None 2 4
+apɪhɪk  None 2 4
+ʔɪ  None 2 0
+
+aʔe  None 2 3
+ikɪke  None 2 3
+jiʔok  None 2 0
+
+ihẽ  None 2 4
+ikɪ  None 2 4
+ajiʔok  None 2 4
+ʔɪ  None 2 0
+
+taʔin  None 2 3
+hokwenke  None 2 4
+nupã  None 2 4
+uʔam  None 2 0
+
+Purutuke  None 2 2
+ahem  None 2 0
+
+Purutu  None 2 2
+ahem  None 2 0
+
+taʔɪnke  None 2 4
+itawa  None 2 5
+imu  None 2 5
+parahɪahɪ  None 2 6
+ipe  None 2 6
+je  None 2 0
+
+netawate  None 2 4
+nekeã  None 2 5
+nejɪtɪʔɪmte  None 2 5
+amõ  None 2 5
+ʔɪ  None 2 0
+
+pe  None 2 7
+imu  None 2 8
+uʔɪ  None 2 9
+raʔɪr  None 2 9
+mujã  None 2 9
+ipe  None 2 9
+je  None 2 9
+uʔɪ  None 2 9
+sepetu  None 2 0
+ɪrapar  None 2 9
+raʔɪr  None 2 10
+
+pe  None 2 4
+aʔi  None 2 6
+ai  None 2 6
+tur  None 2 6
+je  None 2 6
+tĩ  None 2 0
+
+pe  None 2 6
+saʔe  None 2 7
+aʔi  None 2 7
+ihái  None 2 8
+ʃirurke  None 2 8
+pirokhũ  None 2 8
+je  None 2 8
+ihai  None 2 9
+aike  None 2 0
+
+ɪmante  None 2 4
+pe  None 2 5
+aʔike  None 2 5
+manõ  None 2 5
+je‘ɪ  None 2 0
+
+kujãtake  None 2 3
+upa  None 2 3
+mupinim  None 2 0
+
+ko  None 2 5
+ihē  None 2 6
+paper  None 2 6
+pinim  None 2 6
+amuwɪr  None 2 7
+nde  None 2 7
+pe  None 2 0
+
+ne  None 2 4
+raʔɪr  None 2 5
+ihē  None 2 5
+apɪhɪk  None 2 5
+aʃo  None 2 0
+
+pe  None 2 4
+riki  None 2 5
+katar  None 2 5
+ngã  None 2 5
+muhɪk  None 2 0
+
+pe  None 2 6
+taramō  None 2 7
+kaitā  None 2 8
+juʔipape  None 2 8
+piʔa  None 2 8
+usak  None 2 8
+oho  None 2 8
+tī  None 2 0
+pɪtuniwe  None 2 8
+
+pahar  None 2 5
+pahar  None 2 6
+je  None 2 6
+kɪse  None 2 6
+meʔē  None 2 6
+ngā  None 2 0
+
+ihē  None 2 4
+ndeke  None 2 6
+araho  None 2 6
+tar  None 2 6
+katu  None 2 6
+tipe  None 2 0
+
+uʔike  None 2 3
+wiraʔi  None 2 5
+take  None 2 5
+uʔu  None 2 5
+ɪm  None 2 0
+
+ihē  None 2 4
+rãi  None 2 5
+ihē  None 2 5
+amoīta  None 2 5
+tipe  None 2 0
+
+pāsɪkwer  None 2 4
+riki  None 2 5
+matɪr  None 2 6
+uhu  None 2 6
+ngā  None 2 6
+ipe  None 2 0
+
+ihē  None 2 3
+ahota  None 2 3
+asak  None 2 0
+
+ko  None 2 5
+riki  None 2 6
+ihē  None 2 6
+ahɪk  None 2 7
+ajur  None 2 7
+jarupa  None 2 7
+rehe  None 2 0
+
+pe  None 2 6
+ɪ  None 2 7
+rɪmɪʔɪ  None 2 7
+rehe  None 2 7
+riki  None 2 7
+kamarar  None 2 7
+ta  None 2 0
+pirer  None 2 7
+pirā  None 2 8
 

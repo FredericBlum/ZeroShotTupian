@@ -1,3 +1,6 @@
 [submodule "flair"]
 	path = flair
 	url = https://github.com/flairNLP/flair
+[submodule "glove"]
+	path = glove
+	url = http://github.com/stanfordnlp/glove

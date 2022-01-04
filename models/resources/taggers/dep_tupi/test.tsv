@@ -1,987 +1,109 @@
 token gold_tag gold_arc predicted_tag predicted_arc
-ʔAromo advmod None root 0
-uker root None root 0
-. punct None punct 0
-
-Oho root None root 0
-kaʔa obl None obl 0
-rupi case None obl 2
-pe obl None obl 0
-rupi case None obl 0
-. punct None punct 0
-
-Ezapo root None root 0
-arapuk obj None obl 0
-wiràmiripe obl None obl 2
-nehe discourse None obl 0
-
-Màràzàwe advmod None root 0
-tue discourse None obl 0
-neremɨhar ccomp None obl 2
-aipo advmod None obl 11
-ʔɨ discourse None obl 11
-, punct None punct 10
-iʔi root None obl 2
-Mari nsubj None obl 11
-izupe iobj None obl 11
-, punct None punct 0
-hehe obl None obl 0
-upuranupa advcl None obl 0
-. punct None punct 0
-
-Uhem root None root 0
-pino obl None obl 0
-wi case None obl 0
-. punct None punct 0
-
-Tueharupi obl None root 0
-uputuka root None obl 0
-umaʔe obj None obl 2
-iko aux None obl 0
-aʔe discourse None obl 0
-. punct None punct 0
-
-Waro root None root 0
-mahaw nmod None obl 0
-turhaw obj None obl 0
-. punct None punct 0
-
-Uhɨape root None root 0
-katu advmod None obl 0
-zahɨ nsubj None obl 2
-aʔepe obl None obl 2
-izupe obl None obl 0
-kurɨ discourse None obl 0
-. punct None punct 0
-
-Tuweharupi obl None root 0
-uzuka root None obl 0
-kateteaʔu advmod None obl 2
-wiràmiri nsubj None obl 0
-aʔepe obl None obl 0
-. punct None punct 0
-
-Aʔe det None root 0
-Tentehar nmod None obl 0
-tɨkɨʔɨr nsubj None obl 2
-maizu flat None obl 2
-umumeʔu root None obl 2
-parupi obl None obl 2
-maʔe nmod None obl 0
-uzeapomaʔe obj None obl 0
-izupe iobj None obl 0
-. punct None punct 0
-
-Taʔe discourse None root 0
-ameʔeg root None obl 0
-putar advmod None obl 2
-awaxi obj None obl 2
-heraha obj None obl 2
-tawpe obl None obl 8
-har advmod None obl 2
-wanupe obl None obl 0
-nehe discourse None obl 0
-xe discourse None obl 0
-. punct None punct 0
-
-Azapo ccomp None root 0
-uken obj None obl 0
-uhu nmod None obl 2
-zumen obl None obl 7
-wi case None obl 7
-, punct None punct 0
-iʔi root None obl 0
-izupe iobj None obl 0
-. punct None punct 0
-
-Aʔe det None root 0
-maʔe nmod None obl 0
-ʔɨw compound None obl 2
-iʔa root None obl 2
-ʔar obl None obl 0
-katu discourse None obl 0
-mehe case None obl 0
-
-Ikatu root None root 0
-ahɨ advmod None obl 0
-Karipe obl None obl 2
-iʔu advcl None obl 2
-mehe mark None obl 0
-no discourse None obl 0
-. punct None punct 0
-
-Aʔepe obl None root 0
-uwexak root None obl 0
-zekaipo advmod None obl 2
-amo det None obl 2
-mainumɨ nmod None obl 2
-we discourse None obl 2
-zepe discourse None obl 2
-tentehar nmod None obl 2
-tuaʔu obj None obl 2
-zepe discourse None obl 2
-zekaipo advmod None obl 0
-raʔa discourse None obl 0
-
-Amo det None root 0
-maʔe nmod None obl 0
-putɨr nmod None obl 7
-ʔɨpehar nsubj None obl 7
-aʔe discourse None obl 7
-, punct None punct 0
-mururu root None obl 2
-her obl None obl 7
-romo case None obl 0
-aʔe discourse None obl 0
-. punct None punct 0
-
-Zumen nsubj None root 0
-uʔu ccomp None obl 0
-hemaʔe obj None obl 2
-, punct None punct 0
-iʔi root None obl 2
-izupe iobj None obl 2
-, punct None punct 0
-wemirekope appos None obl 0
-. punct None punct 0
-
-Umaʔe obj None root 0
-mumeʔu root None obl 0
-waiko aux None obl 2
-uzeupeupe obl None obl 2
-wà discourse None obl 0
-kurɨ discourse None obl 0
-. punct None punct 0
-
-Hete root None root 0
-katu advmod None obl 0
-Karipe obl None obl 2
-aʔe discourse None obl 0
-no discourse None obl 0
-. punct None punct 0
-
-Pixikaʔi root None root 0
-aʔe nsubj None root 0
-
-Te discourse None root 0
-umeʔe root None obl 0
-aguza nmod None obl 2
-iàkàgwer obl None obl 2
-ɨwɨ nmod None obl 2
-rehe case None obl 0
-har advmod None obl 0
-rehe case None obl 0
-. punct None punct 0
-
-Omowok ccomp None root 0
-xu nsubj None obl 0
-aipo discourse None obl 2
-pa discourse None obl 10
-, punct None punct 9
-pe obl None obl 2
-iwɨr case None obl 2
-pa discourse None obl 10
-, punct None punct 0
-iʔi root None obl 0
-izupe iobj None obl 0
-. punct None punct 0
-
-Ikatu root None root 0
-ahɨ advmod None obl 0
-kwarahɨ nsubj None obl 2
-Maripe obl None obl 0
-. punct None punct 0
-
-Mari nmod None root 0
-imemɨr nsubj None obl 0
-aʔe discourse None obl 2
-, punct None punct 0
-Kari root None obl 2
-her obl None obl 5
-romo case None obl 0
-aʔe discourse None obl 0
-. punct None punct 0
-
-Wenu root None root 0
-wiwi discourse None obl 0
-maʔe nmod None obl 2
-ipuipuhaw obj None obl 2
-pino nmod None obl 2
-rehe case None obl 0
-har advmod None obl 0
-. punct None punct 0
-
-Amo nsubj None root 0
-uzuka root None obl 0
-miar obj None obl 2
-kaʔape obl None obl 0
-? punct None punct 0
-
-Weraha root None root 0
-awaxi obj None obl 0
-tawpe obl None obl 2
-wa discourse None obl 0
-. punct None punct 0
-
-Uwewe root None root 0
-oho dep None obl 0
-kaʔape obl None obl 2
-wa discourse None obl 0
-kurɨ discourse None obl 0
-. punct None punct 0
-
-Wexak root None root 0
-amo det None obl 0
-awa obj None obl 2
-aʔepe obl None obl 0
-
-Kwa discourse None root 0
-namono root None obl 0
-wer advmod None obl 2
-kwaw advmod None obl 2
-zepe discourse None obl 2
-herukaz obl None obl 2
-rehe case None obl 2
-newe obl None obl 2
-tɨ discourse None obl 11
-, punct None punct 0
-taʔe mark None obl 2
-reta ccomp None obl 2
-amo det None obl 2
-maʔe nsubj None obl 2
-aʔepe obl None obl 11
-wà discourse None obl 0
-xe discourse None obl 0
-. punct None punct 0
-
-Izipɨ obl None root 0
-mehe case None obl 0
-Tentehar nsubj None obl 2
-wazegarhaw nmod None obl 0
-herurawer root None obl 0
-
-Aipo discourse None root 0
-iazu ccomp None obl 0
-nànà nsubj None obl 11
-raʔe discourse None obl 11
-, punct None punct 10
-iʔi root None obl 2
-wiwi discourse None obl 11
-Kari nsubj None obl 11
-izupe iobj None obl 11
-, punct None punct 0
-hehe obl None obl 0
-upuranupa advcl None obl 0
-. punct None punct 0
-
-Uzapi root None root 0
-kurɨ discourse None root 0
-. punct None punct 0
-
-Heta root None root 0
-maʔe nsubj None obl 0
-putɨr nmod None obl 2
-ʔɨ obl None obl 0
-ʔaromo case None obl 0
-. punct None punct 0
-
-Oho root None root 0
-maʔe obl None obl 0
-putɨr nmod None obl 2
-rehe case None obl 6
-, punct None punct 0
-mururu appos None obl 0
-rehe case None obl 0
-. punct None punct 0
-
-xapat nmod None root 0
-xigmaʔe obj None obl 0
-umeʔeg root None obl 2
-kar advmod None obl 0
-no discourse None obl 0
-. punct None punct 0
-
-Naʔe discourse None root 0
-Maizu nsubj None obl 0
-iziwà root None obl 2
-uiwɨrɨ nmod None obl 2
-hetekwer obj None obl 0
-ikwapar obl None obl 0
-ʔɨmaz advmod None obl 0
-. punct None punct 0
-
-Taʔe mark None root 0
-zekaipo advmod None obl 0
-wetun root None obl 2
-hekwen obj None obl 0
-xe discourse None obl 0
-. punct None punct 0
-
-Oho root None root 0
-kaʔapiʔi obl None root 0
-rehe case None obl 0
-. punct None punct 0
-
-Uhem root None root 0
-toʔoʔtoʔom obl None obl 0
-me case None obl 0
-. punct None punct 0
-
-Oho root None root 0
-putar advmod None obl 0
-uhɨ obl None obl 2
-rupi case None obl 2
-umaʔe obj None obl 2
-iputukapa advcl None obl 0
-kurɨ discourse None obl 0
-. punct None punct 0
-
-Maʔe obj None root 0
-te discourse None obl 0
-awa nsubj None obl 2
-uzuka root None obl 0
-kaʔape obl None obl 0
-? punct None punct 0
-
-Eraha root None root 0
-kok obj None obl 0
-ne nsubj None obl 2
-nehe discourse None obl 0
-. punct None punct 0
-
-Heta root None root 0
-awaxi nsubj None obl 0
-teteaʔu advmod None obl 2
-aʔepe obl None obl 0
-. punct None punct 0
-
-Upuranu root None root 0
-tuaʔu obl None obl 0
-hehe case None obl 0
-: punct None punct 0
-
-Ipururuhu ccomp None root 0
-zanekɨhaw nsubj None obl 0
-, punct None punct 0
-aʔe obl None obl 0
-rupi case None obl 14
-ximono conj None obl 14
-kwarahɨ obl None obl 14
-rupi case None obl 14
-zane nsubj None obl 14
-, punct None punct 13
-imukàgkarpa advcl None obl 14
-zane nsubj None obl 14
-, punct None punct 0
-iʔi root None obl 0
-Mari nsubj None obl 14
-Karipe obl None obl 0
-. punct None punct 0
-
-Amo det None root 0
-awa nsubj None obl 0
-aʔe discourse None obl 2
-, punct None punct 0
-Zuze nmod None obl 2
-tu appos None obl 2
-aʔe discourse None obl 11
-, punct None punct 0
-uputar root None obl 2
-awaxi nmod None obl 2
-Zuze nmod None obl 2
-kopehar obj None obl 0
-aʔe discourse None obl 0
-. punct None punct 0
-
-Wiko root None root 0
-aʔepe obl None root 0
-
-Umeʔe root None root 0
-hoko nsubj None obl 0
-iko aux None obl 2
-ipira obl None obl 2
-rehe case None obl 0
-kurɨ discourse None obl 0
-. punct None punct 0
-
-Uzemaraz root None root 0
-iko aux None obl 0
-hehe obl None obl 2
-kurɨ discourse None obl 2
-, punct None punct 0
-uzàn parataxis None obl 2
-wi discourse None obl 2
-aguza nsubj None obl 2
-oho dep None obl 2
-izuwi obl None obl 2
-no discourse None obl 14
-, punct None punct 5
-pixàn nsubj None obl 2
-upɨhɨk parataxis None obl 2
-wi discourse None obl 0
-no discourse None obl 0
-. punct None punct 0
-
-tĩŋ obj None root 0
-meʔŋət root None obl 0
-
-taptoba root None root 0
-kaʔto appos None root 0
-
-wat nmod None root 0
-manikap obj None obl 0
-peya root None obl 2
-kaʔto appos None obl 0
-
-cego root None root 0
-bɨk compound None obl 0
-kãp amod None obl 0
-
-opábe compound None root 0
-cú amod None obl 0
-cigá root None obl 0
-
-aʔtóy root None root 0
-
-inãk root None root 0
-ká clf None obl 0
-becép amod None obl 2
-káʔ clf None obl 0
-
-péŋ nsubj None root 0
-aʔwĩn root None obl 0
-aket discourse None obl 0
-memã discourse None obl 0
-
-wat nmod None root 0
-kaʔa root None obl 0
-ʔaʔtoʔ clf None obl 0
-
-aʔken root None root 0
-iʔkɨy parataxis None root 0
-
-ibeon root None root 0
-meʔ clf None obl 0
-kĩn amod None obl 0
-meʔ clf None obl 0
-
-owakán root None root 0
-matet advmod None obl 0
-wat nmod None obl 2
-iyõm obl None obl 0
-pihmãm case None obl 0
-
-amãn nsubj None root 0
-yat mark None obl 0
-nãnin discourse None obl 0
-tə root None obl 0
-
-maʔwɨt root None root 0
-cú amod None obl 0
-
-wat nmod None root 0
-kaʔa root None root 0
-
-tokera root None root 0
-at aux None obl 0
-igã discourse None obl 0
-
-cãn obj None root 0
-meʔŋen root None root 0
-
-opábe compound None root 0
-cigá root None root 0
-
-púŋ root None root 0
-wa aux None obl 0
-iʔke advmod None obl 2
-wet aux None obl 0
-
-péŋ root None root 0
-tə discourse None root 0
-
-cúrem root None nmod 0
-wat nmod None obl 0
-kaʔa nsubj None obl 2
-ʔa clf None obl 0
-
-maʔteg root None root 0
-iʔke advmod None obl 0
-
-ocorah nsubj None root 0
-wét root None root 0
-
-iu compound None root 0
-bap clf None obl 0
-ci root None obl 0
-
-mãygãra root None root 0
-cú amod None obl 0
-aʔnãn cop None obl 0
-
-wayo compound None root 0
-naká root None obl 0
-bap clf None obl 0
-
-kanãy advmod None root 0
-iʔkap aux None obl 0
-aʔwĩa root None obl 0
-
-nãn root None root 0
-ahyə discourse None root 0
-
-oken root None root 0
-cúrem advmod None obl 0
-
-oyakõy root None root 0
-bãttem advmod None obl 0
-
-naʔwəy obj None root 0
-beʔŋət root None obl 0
-
-aʔkun root None root 0
-
-wĩt compound None nmod 0
-wĩaw root None obl 0
-aʔwaʔye aux None obl 2
-at nsubj None obl 2
-chapéu obj None obl 2
-káʔ clf None obl 5
-to advcl None obl 0
-kanãp mark None obl 0
-
-kanɑ̃y advmod None root 0
-abagon nsubj None obl 0
-nap case None obl 2
-waʔye root None obl 0
-
-opábe compound None root 0
-cigá root None obl 0
-cú amod None obl 0
-
-wirik compound None root 0
-kanã root None obl 0
-
-nãn obl None root 0
-mihmãm case None obl 0
-ekab aux None obl 0
-eyaʔwara root None obl 0
-
-ĩya nsubj None root 0
-tẽy root None root 0
-
-ẽn nsubj None root 0
-yaw obj None obl 0
-rati root None obl 0
-
-were root None root 0
-bɨʔ clf None root 0
-
-maʔwɨt nsubj None root 0
-ip obj None obl 0
-ʔɨy root None obl 2
-matet obl None obl 0
-cagárokõmnem nummod None obl 0
-
-õn nsubj None nmod 0
-wat nmod None obl 0
-owẽ obj None obl 2
-raken root None obl 0
-
-agóaʔpət nsubj None root 0
-amagahmõm root None obl 0
-nãn cop None obl 0
-
-ipá root None root 0
-gap clf None root 0
-
-oken root None root 0
-péŋ nmod None obl 0
-at case None obl 2
-kaʔa obl None obl 0
-ʔaʔ clf None obl 0
-peʔ case None obl 0
-
-õn nsubj None nmod 0
-aʔwĩn root None obl 0
-[ewpaka dep None obl 2
-kanãp] mark None obl 0
-
-itɨ nmod None root 0
-cãp root None obl 0
-
-icagá root None root 0
-ʔaʔ clf None root 0
-
-at nsubj None root 0
-ibaʔpat root None root 0
-
-at nsubj None root 0
-otoy root None root 0
-
-abeʔnan root None root 0
-
-kaptem root None root 0
-at nsubj None obl 0
-ahyə mark None obl 0
-
-ip root None root 0
-cahyoy compound None root 0
-
-maʔpəy root None root 0
-rap case None root 0
-
-ite nmod None root 0
-at nmod None obl 0
-owẽ nmod None obl 2
-nakɨra nmod None obl 0
-cop root None obl 0
-
-nãm nmod None root 0
-naká root None root 0
-
-naʔyoh root None root 0
-nõ advmod None root 0
-
-maʔpəy root None root 0
-pat amod None obl 0
-ŋanãn cop None obl 0
-
-agóaʔpət nsubj None root 0
-paraʔkət root None root 0
-
-ẽn nsubj None nmod 0
-mãygãra obj None obl 0
-cú amod None obl 2
-wĩn root None obl 0
-ahyə mark None obl 0
-
-wat nmod None root 0
-kaʔa root None obl 0
-ʔa clf None obl 0
-yat mark None obl 0
-
-õn nsubj None nmod 0
-amãn nsubj None obl 0
-ara dep None obl 2
-gotoy root None obl 0
-
-aʔwak amod None root 0
-toba root None obl 0
-agóaʔpət nsubj None obl 2
-ʔet aux None obl 0
-
-tocitóga root None root 0
-aʔkay aux None root 0
-
-õn nsubj None nmod 0
-aʔtoy root None obl 0
-ʔĩttem advmod None obl 0
-
-aoro nmod None root 0
-cagá root None root 0
-
-yét det None root 0
-maʔwɨt root None root 0
-
-Awjé obj None root 0
-ã discourse None obl 0
-koʔɨté advmod None obl 2
-eʔi root None obl 0
-
-ɨgasápe obl None root 0
-kawi nmod None obl 9
-tuja obl:subj None obl 9
-, punct None punct 8
-aʔe advmod None obl 9
-ré goeswith None obl 9
-iamomotá root None obl 9
-, punct None punct 0
-ojojá advmod None obl 0
-waibĩ nmod None obl 9
-rekuia conj None obl 0
-
-Ojaoβok root None root 0
-serã discourse None obl 0
-ɨβɨá dep None obl 2
-ikatupe nmod None obl 2
-ɲẽ discourse None obl 2
-imoingóβo advcl None obl 2
-inupãnupã obl None obl 0
-janondé case None obl 0
-? punct None punct 0
-
-Marã obj None root 0
-eʔipe root None obl 0
-jandéjara nsubj None obl 2
-iʃupé obl None obl 0
-? punct None punct 0
-
-Itajuβa nsubj None root 0
-moruβiʃaβa nmod None obl 0
-Rejamo obl None obl 2
-sekó nmod None obl 2
-mombewaβa root None obl 2
-, punct None punct 0
-ɨsɨkatãsɨapwana nsubj None obl 2
-Tupanamo obl None obl 2
-sekó nmod None obl 2
-kwapaβa parataxis None obl 15
-, punct None punct 6
-toʔo nmod None obl 2
-swi case None obl 2
-mirra nsubj None obl 2
-moroesé obj None obl 2
-seʔõawama nmod None obl 0
-mombewaβa parataxis None obl 0
-
-SantaCruz nmod None root 0
-raʔangaβa advcl None obl 0
-resé case None obl 18
-, punct None punct 17
-orépɨsɨrõ ccomp None obl 18
-jepé nsubj None obl 18
-, punct None punct 17
-Tupã nsubj None obl 18
-oréjar appos None obl 18
-, punct None punct 17
-oréamotareʔɨmbara obl None obl 18
-swi obl None obl 20
-. punct None punct 17
-Tuβa nmod None obl 18
-, punct None punct 17
-Taʔɨra conj None obl 18
-, punct None punct 0
-EspíritoSanto conj None obl 0
-rera parataxis None obl 18
-pupé case None obl 0
-eʔi root None obl 0
-
-Marãnamo advmod None root 0
-βépe advmod None obl 0
-asé nsubj None obl 2
-joβasáβi root None obl 0
-? punct None punct 0
-
-Akó det None root 0
-ʃeremiɨβõmbúera root None root 0
-? punct None punct 0
-
-Marã obj None root 0
-eʔipe root None obl 0
-asé nmod None obl 2
-karaiβeβe obj None obl 2
-oarõana appos None obl 0
-mongetábo advcl None obl 0
-? punct None punct 0
-
-jamongwá root None root 0
-moʃɨ nmod None obl 0
-ruʔuba obj None obl 5
-, punct None punct 0
-iʃupé obl None obl 0
-iaiemoitɨamo advcl None obl 0
-
-Marãpe advmod None root 0
-ɨβɨá nsubj None obl 0
-sereków root None obl 2
-aʔe obl None obl 0
-riré case None obl 0
-? punct None punct 0
-
-Sajkatu root None root 0
-
-Marãnamope root None root 0
-? punct None punct 0
-
-Marãpe advmod None root 0
-judeus nsubj None obl 0
-reków root None obl 2
-aʔéreme advmod None obl 0
-? punct None punct 0
-
-Ojerokɨ root None root 0
-. punct None punct 0
-
-Owatá root None root 0
-jepé discourse None obl 0
-serã advmod None obl 2
-ijɨβamokõja obj None obl 2
-itapɨwá nmod None obl 2
-soarama obj None obl 0
-resé case None obl 0
-? punct None punct 0
-
-Marã advmod None root 0
-eʔipe root None obl 0
-jandéjara nsubj None obl 2
-ojukasara obl None obl 2
-ri case None obl 2
-oguβa obj None obl 0
-mongetáβo dep None obl 0
-? punct None punct 0
-
-Asé nmod None root 0
-sumarã root None root 0
-swi obl None obl 0
-
-Sesé case None root 0
-o nmod None obl 0
-maʔendwáramo root None obl 2
-e discourse None obl 2
-asé nmod None obl 2
-Tupã nmod None obl 2
-rawsúβi ccomp None obl 2
-o nmod None obl 2
-pɨʔape obl None obl 10
-sekó obj None obl 0
-aβɨpotareʔɨma dep None obl 0
-
-ʃejɨβoja root None root 0
-, punct None punct 0
-ʃesokó parataxis None obl 0
-, punct None punct 2
-ʃetamũjusu parataxis None obl 3
-Aimbiré appos None obl 15
-, punct None punct 2
-sukuriju parataxis None obl 15
-, punct None punct 2
-tawató parataxis None obl 3
-, punct None punct 2
-tamanwá parataxis None obl 3
-atɨraβeβó nmod None obl 15
-; punct None punct 2
-ʃeaɲaŋa parataxis None obl 0
-moropé nmod None obl 0
-! punct None punct 0
-
-Marã nsubj None root 0
-eʔipe root None obl 0
-oguβa obl None obl 2
-supé case None obl 2
-ojekɨj obl None obl 0
-janondé case None obl 0
-? punct None punct 0
-
-Ojkoβé root None root 0
-ʃepɨtɨβõanameté nsubj None obl 0
-, punct None punct 12
-ʃepɨri case None obl 2
-marãtekoara appos None obl 13
-, punct None punct 12
-ʃeirunamo case None obl 2
-okajβaʔe appos None obl 13
-, punct None punct 12
-tuβiʃákatu nmod None obl 2
-Aimbiré appos None obl 13
-, punct None punct 0
-apɨaβa nmod None obl 0
-moaŋaipapara appos None obl 0
-. punct None punct 0
-
-Marã advmod None root 0
-eʔipe root None obl 0
-Jesus nsubj None obl 2
-osɨ obl None obl 2
-supé case None obl 2
-oeʔõ obj None obl 0
-janondé case None obl 0
-? punct None punct 0
-
-asé nmod None root 0
-rarõawama nmod None root 0
-resé root None obl 0
-
-janemaɲana obl None root 0
-raɲe advmod None obl 0
-tosó root None obl 6
-janerenoné obl None obl 6
-, punct None punct 0
-opá nmod None obl 2
-ok nmod None obl 6
-ɨbɨ̃ja obj None obl 0
-supa advcl None obl 0
-
-Nitɨβetéi root None root 0
-semɨrwera nsubj None root 0
-
-Marãnamope root None root 0
-? punct None punct 0
-
-Ajpó nsubj None root 0
-sawsukatupɨra root None obl 0
-, punct None punct 0
-ajpó nsubj None obl 0
-aɲẽ discourse None obl 4
-jamomeʔu conj None obl 2
-ajpó nsubj None obl 0
-imomoraŋɨpɨra conj None obl 0
-. punct None punct 0
-
-ʃe nsubj None root 0
-ɲõ advmod None obl 0
-aʔupakatune root None obl 2
-. punct None punct 6
-Kweiseβé advmod None obl 2
-, punct None punct 0
-nakó discourse None obl 2
-airumõ parataxis None obl 12
-. punct None punct 6
-Tasóne parataxis None obl 2
-, punct None punct 6
-wɨ discourse None obl 2
-! punct None punct 11
-Takaʔune parataxis None obl 0
-! punct None punct 0
-
-Marãpe advmod None root 0
-sereków root None obl 0
-itɨmɨ obl None obl 2
-janondé case None obl 0
-? punct None punct 0
-
-Taʃepɨsɨrõ ccomp None root 0
-Tupã nsubj None obl 0
-ʃesumarã obl None obl 2
-swi case None obl 6
-, punct None punct 9
-kwépe advmod None obl 2
-marã nmod None obl 6
-ʃerekoápe advcl None obl 0
-, punct None punct 0
-ojaβo root None obl 0
-
-Mamõpe advmod None root 0
-ɨβɨá dep None obl 0
-jandéjara nmod None obl 2
-reroβasẽmi root None obl 0
-koʔɨté advmod None obl 0
-? punct None punct 0
-
-kuɲãangaturama nmod None root 0
-aβá nmod None obl 0
-βɨkawereʔɨma appos None obl 2
-SantaMaria appos None obl 2
-sérɨβaʔe acl None obl 2
-membɨ́ramo obl None obl 0
-sekóreme root None obl 0
-
-Aopiranga obj None root 0
-, punct None punct 0
-ju conj None obl 0
-aβé cc None obl 3
-owerur root None obl 3
-ojoesé obl None obl 5
-, punct None punct 0
-oporeawsuβetekatúramo obl None obl 0
-
-Ajepɨk root None root 0
-aɲe advmod None obl 0
-sesé obl None obl 8
-, punct None punct 7
-ianamakatu obl None obl 2
-riré case None obl 8
-, punct None punct 0
-ʃeremiaramo obl None obl 0
-ipeʔaβo advcl None obl 0
+Ikatu 0 None 2 4
+ahɨ 1 None 2 6
+Karipe 1 None 2 6
+iʔu 1 None 2 7
+mehe 4 None 2 7
+no 1 None 2 7
+. 1 None 2 0
+
+Aʔepe 2 None 2 7
+uwexak 0 None 2 8
+zekaipo 2 None 2 8
+amo 5 None 2 10
+mainumɨ 9 None 2 10
+we 5 None 2 10
+zepe 5 None 2 10
+tentehar 9 None 2 10
+tuaʔu 2 None 2 10
+zepe 9 None 2 0
+zekaipo 10 None 2 0
+raʔa 2 None 2 11
+
+Upuranu 0 None 2 4
+tuaʔu 1 None 2 4
+hehe 2 None 2 4
+: 1 None 2 0
+
+Umeʔe 0 None 2 5
+hoko 1 None 2 6
+iko 1 None 2 6
+ipira 1 None 2 6
+rehe 4 None 2 7
+kurɨ 1 None 2 7
+. 1 None 2 0
+
+aʔtóy 0 None 2 0
+
+maʔteg 0 None 2 2
+iʔke 1 None 2 0
+
+opábe 2 None 2 3
+cigá 0 None 2 3
+cú 2 None 2 0
+
+wirik 2 None 2 2
+kanã 0 None 2 0
+
+kaptem 0 None 2 3
+at 1 None 2 3
+ahyə 1 None 2 0
+
+Marãpe 3 None 2 4
+judeus 3 None 2 5
+reków 0 None 2 5
+aʔéreme 3 None 2 5
+? 3 None 2 0
+
+Ojerokɨ 0 None 2 2
+. 1 None 2 0
+
+ʃejɨβoja 0 None 2 10
+, 1 None 2 11
+ʃesokó 1 None 2 11
+, 3 None 2 11
+ʃetamũjusu 1 None 2 11
+Aimbiré 5 None 2 11
+, 5 None 2 11
+sukuriju 1 None 2 11
+, 8 None 2 11
+tawató 1 None 2 11
+, 10 None 2 0
+tamanwá 1 None 2 11
+atɨraβeβó 12 None 2 11
+; 12 None 2 11
+ʃeaɲaŋa 1 None 2 11
+moropé 15 None 2 0
+! 15 None 2 16
+
+Ojkoβé 0 None 2 9
+ʃepɨtɨβõanameté 1 None 2 10
+, 1 None 2 11
+ʃepɨri 5 None 2 11
+marãtekoara 1 None 2 11
+, 1 None 2 11
+ʃeirunamo 8 None 2 11
+okajβaʔe 1 None 2 11
+, 1 None 2 11
+tuβiʃákatu 11 None 2 11
+Aimbiré 1 None 2 0
+, 1 None 2 0
+apɨaβa 14 None 2 12
+moaŋaipapara 1 None 2 12
+. 1 None 2 12
+
+Marã 2 None 2 5
+eʔipe 0 None 2 6
+Jesus 2 None 2 7
+osɨ 2 None 2 7
+supé 4 None 2 7
+oeʔõ 2 None 2 7
+janondé 6 None 2 8
+? 2 None 2 0
+
+Marãpe 2 None 2 4
+sereków 0 None 2 5
+itɨmɨ 2 None 2 5
+janondé 3 None 2 5
+? 2 None 2 0
 
