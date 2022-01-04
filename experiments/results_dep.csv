@@ -1,0 +1,23 @@
+Model	Type	Emb	Run	tpn_UAS	tpn_LAS	arr_UAS	arr_LAS	gub_UAS	gub_LAS	myu_UAS	myu_LAS
+upos3	deprel	multi+3	1								
+upos3	deprel	multi+3	2								
+upos3	deprel	multi+3	3								
+upos3	deprel	multi+3	4								
+upos3	deprel	multi+3	5								
+arr	deprel	ind	1								
+arr	deprel	ind	2								
+arr	deprel	ind	3								
+arr	deprel	ind	4								
+arr	deprel	ind	5								
+gub	deprel	ind	1								
+gub	deprel	ind	2								
+gub	deprel	ind	3								
+gub	deprel	ind	4								
+gub	deprel	ind	5	68.87	43.3	unk2					
+tpn	deprel	tupi3	1	66.28	44.19	unk3					
+tpn	deprel	ind	2	66.28	44.19						
+tpn	deprel	ind	3								
+tpn	deprel	ind	4								
+tpn	deprel	ind	5								
+upos3+azq	deprel	multi+3	1								
+upos3+myu	deprel	multi+3	1								

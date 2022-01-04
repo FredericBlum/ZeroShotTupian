@@ -1,17 +1,17 @@
-Model	Type	Emb	Run	Train Acc	Train F1	Eval Acc	Eval F1	aqz	urb	mpu	myu
-upos3	upos	multi+ft3	1	0.8801	0.6783	0.4519	0.1884	0.5172	0.4208	0.3836	0.4457
-upos3	upos	multi+ft3	2	0.8621	0.6464	0.4491	0.1911	0.5074	0.388	0.3562	0.4638
-upos3	upos	multi+ft3	3	0.8621	0.6049	0.4581	0.2152	0.5049	0.4153	0.3288	0.4771
-upos3	upos	multi+ft3	4	0.8549	0.6456	0.484	0.2091	0.4657	0.4454	0.3356	0.4867
-upos3	upos	multi+ft3	5	0.8561	0.6238	0.4514	0.1939	0.4755	0.429	0.3699	0.4638
+Model	Type	Emb	Run	TrainAcc	TrainF1	EvalAcc	EvalF1	aqz	urb	mpu	myu
+upos3	upos	multi+3	1	0.8801	0.6783	0.4519	0.1884	0.5172	0.4208	0.3836	0.4457
+upos3	upos	multi+3	2	0.8621	0.6464	0.4491	0.1911	0.5074	0.388	0.3562	0.4638
+upos3	upos	multi+3	3	0.8621	0.6049	0.4581	0.2152	0.5049	0.4153	0.3288	0.4771
+upos3	upos	multi+3	4	0.8549	0.6456	0.484	0.2091	0.4657	0.4454	0.3356	0.4867
+upos3	upos	multi+3	5	0.8561	0.6238	0.4514	0.1939	0.4755	0.429	0.3699	0.4638
 upos3	upos	tupi-3	1	0.82	0.665	0.462	0.186	0.485	0.448	0.356	0.475
 upos3	upos	tupi-3	2	0.808	0.647	0.453	0.18	0.468	0.42	0.328	0.48
 upos3	upos	tupi-3	3	0.8141	0.647	0.4359	0.1788	0.4779	0.429	0.3356	0.436
 upos3	upos	tupi-3	4	0.8118	0.6585	0.4508	0.1861	0.4706	0.4536	0.3288	0.4614
 upos3	upos	tupi-3	5	0.8297	0.6094	0.4559	0.1905	0.4632	0.4563	0.3699	0.4674
 multi	upos	NA	NA	NA	NA	0.3272	0.1341	0.3848	0.235	0.226	0.3575
-upos3+aqz	upos	multi+ft3	1	NA	NA	0.5236	0.2855	NA	NA	NA	NA
-upos3+myu	upos	multi+ft3	1	NA	NA	0.4915	0.2134	NA	NA	NA	NA
+upos3+aqz	upos	multi+3	1	NA	NA	0.5236	0.2855	NA	NA	NA	NA
+upos3+myu	upos	multi+3	1	NA	NA	0.4915	0.2134	NA	NA	NA	NA
 arr	upos	ind	1	0.8615	0.7509	0.2958	0.0996	0.3407	0.2432	0.3973	0.279
 arr	upos	ind	2	0.8359	0.6695	0.3181	0.1052	0.3554	0.2295	0.3493	0.3333
 arr	upos	ind	3	0.8564	0.6799	0.3112	0.1324	0.3946	0.2541	0.3493	0.2886
@@ -27,25 +27,3 @@ tpn	upos	ind	2	0.8684	0.8126	0.4125	0.1773	0.4191	0.3333	0.2397	0.4746
 tpn	upos	ind	3	0.8698	0.8075	0.4228	0.1657	0.4363	0.3579	0.2397	0.4771
 tpn	upos	ind	4	0.8609	0.7947	0.4411	0.165	0.4387	0.3497	0.2329	0.5193
 tpn	upos	ind	5	0.8647	0.811	0.4193	0.1729	0.4191	0.3361	0.2603	0.4843
-upos3	deprel	multi+ft3	dev+final								
-upos3	deprel	multi+ft3	dev+final								
-upos3	deprel	multi+ft3	test+best								
-upos3	deprel	multi+ft3	test+best								
-upos3	deprel	multi+ft3	5								
-arr	deprel	ind	1								
-arr	deprel	ind	2								
-arr	deprel	ind	3								
-arr	deprel	ind	4								
-arr	deprel	ind	5								
-gub	deprel	ind	1								
-gub	deprel	ind	2								
-gub	deprel	ind	3								
-gub	deprel	ind	4								
-gub	deprel	ind	5								
-tpn	deprel	tupi3	1								
-tpn	deprel	ind	2								
-tpn	deprel	ind	3								
-tpn	deprel	ind	4								
-tpn	deprel	ind	5								
-upos3+azq	deprel	multi+ft3	1								
-upos3+myu	deprel	multi+ft3	1								

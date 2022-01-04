@@ -14,7 +14,6 @@ munduruku = make_finetuneset(language = 'Munduruku')
 ################################
 # tagger = SequenceTagger.load('pos-multi')
 tagger = SequenceTagger.load('models/resources/taggers/my-upos-3/final-model.pt')
-# tagger = SequenceTagger.load('models/resources/taggers/dep_tupi/best-model.pt')
 
 corpus = munduruku
 trainer = ModelTrainer(tagger, corpus)
