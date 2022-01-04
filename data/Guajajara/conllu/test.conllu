@@ -1,8 +1,3 @@
-# sent_id = 487
-# text = Taʔe amàno eteaʔi ihe xe , iʔi muaʔu zekaipo wanupe .
-# text_port = Estou para morrer, ela falou mentindo (Harrison, 2000).
-# text_spa = Voy a morir, dijo ella mintiendo.
-# text_en = I'm about to die, she said lying.
 1	Taʔe	taʔe	SCONJ	sc	_	2	mark	2:mark	_
 2	amàno	màno	VERB	vi	Person[subj]=1	7	ccomp	7:ccomp	_
 3	eteaʔi	ete	ADV	adv	Emph=Yes	2	advmod	2:advmod	_
@@ -15,48 +10,23 @@
 10	wanupe	upe	ADP	posp	Number=Plur|Person=3|Rel=Cont	7	iobj	7:iobj	_
 11	.	.	PUNCT	punct	_	7	punct	7:punct	_
 
-# sent_id = 118
-# text = Oho umaʔe iputukapa aʔe .
-# text_port = Ela foi para lavar a roupa (Sociedade Internacional de Lingüística, 1973:78).
-# text_spa = Ella fue para lavar la ropa.
-# text_eng = She went to wash clothes.
 1	Oho	ho	VERB	vi	Person[subj]=3	0	root	_	_
 2	umaʔe	maʔe	NOUN	n	Rel=Corf	3	obj	_	_
 3	iputukapa	putuka	VERB	vt	Rel=NCont|VerbForm=Ger	1	advcl	_	_
 4	aʔe	aʔe	PART	pcl	Person=3	1	discourse	_	_
 5	.	.	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 551
-# text = Wexak Fábio Márcia
-# text_port = Fábio viu Márcia.
-# text_spa = Fábio vio a Márcia.
-# text_en = Fábio saw Márcia (Bonfim Duarte, 2018).
 1	Wexak	exak	VERB	vt	Person[subj]=3	0	root	0:root	_
 2	Fábio	Fábio	PROPN	ppn	_	1	nsubj	1:nsubj	_
 3	Márcia	Márcia	PROPN	ppn	_	1	obj	1:obj	_
 
-# sent_id = 12
-# text = Mon aipo
-# text_port = Quem? (Harrison, 2013:11)
-# text_spa = Quién?
-# text_eng = Who?
 1	Mon	mon	PRON	pro	PronType=Int	0	root	_	_
 2	aipo	aipo	PART	pcl	_	1	discourse	_	_
 
-# sent_id = 1
-# text = Uzekok ɨwɨok rehe
-# text_port = Ele se encostou na parede (Harrison, 2013:194)
-# text_spa = Ella se recostó en la pared
-# text_eng = He leaned against/on the wall
 1	Uzekok	kok	VERB	v	Person[subj]=3|Reflex=Yes	0	root	_	_
 2	ɨwɨok	ɨwɨok	NOUN	n	_	1	obl	_	_
 3	rehe	ehe	ADP	posp	Rel=Cont	2	case	_	_
 
-# sent_id = 288
-# text = Uhem oho aʔepe wà kurɨ , tuaʔu iʔi tɨkɨʔɨrpe eziwà neno tɨ iʔi izupe
-# text_port = Chegando lá, o ancião disse para o irmão mais velho dar uma flechada nele (no irmão mais novo) também (Campos Castro 2020).
-# text_spa = Llegando allí, el anciano le dijo al hermano mayor que lo disparara (al hermano menor) también.
-# text_en = Arriving there, the old man said to the older brother to shoot an arrow at him (at the younger brother) as well.
 1	Uhem	hem	VERB	v	Person[subj]=3	0	root	0:root	_
 2	oho	ho	VERB	vi	Person[subj]=3	1	dep	1:dep	_
 3	aʔepe	aʔe	PRON	pro	Case=Loc|PronType=Dem	1	obl	1:obl	_
@@ -72,44 +42,24 @@
 13	iʔi	ʔi	VERB	vt	Person[subj]=3	8	conj	8:conj	_
 14	izupe	zupe	ADP	posp	Rel=NCont	13	iobj	13:iobj	_
 
-# sent_id = 557
-# text = Maʔe mehe te uzɨwɨr wà
-# text_port = Quando eles voltaram?
-# text_spa = ¿Cuándo regresaron?
-# text_en = When did they return? (Bonfim Duarte, 2018)
 1	Maʔe	maʔe	NOUN	n	_	4	obl	4:obl	_
 2	mehe	mehe	ADP	posp	_	1	case	1:case	_
 3	te	te	PART	pcl	_	1	discourse	1:discourse	_
 4	uzɨwɨr	zɨwɨr	VERB	v	Person[subj]=3	0	root	0:root	_
 5	wà	wà	PART	pcl	Number=Plur	4	discourse	4:discourse	_
 
-# sent_id = 321
-# text = Umeʔe Mari pino rehe .
-# text_port = Maria olhou bem a palha (Harrison, 2000).
-# text_spa = María miró la paja.
-# text_en = Maria looked at straw.
 1	Umeʔe	meʔe	VERB	vi	Person[subj]=3	0	root	0:root	_
 2	Mari	Mari	PROPN	pro	_	1	nsubj	1:nsubj	_
 3	pino	pino	NOUN	n	_	1	obl	1:obl	_
 4	rehe	ehe	ADP	posp	Rel=Cont	3	case	3:case	_
 5	.	.	PUNCT	punct	_	1	punct	1:punct	_
 
-# sent_id = 105
-# text = Oho hoko kaʔape kurɨ .
-# text_port = O socó vai para o mato agora (Sociedade Internacional de Lingüística, 1973:78).
-# text_spa = El avetorillo va a la selva ahora.
-# text_eng = The little bittern goes now to the jungle.
 1	Oho	ho	VERB	vi	Person[subj]=3	0	root	_	_
 2	hoko	hoko	NOUN	n	_	1	nsubj	_	_
 3	kaʔape	kaʔa	NOUN	n	Case=All	1	obl	_	_
 4	kurɨ	kurɨ	PART	pcl	_	1	discourse	_	_
 5	.	.	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 545
-# text = Wekar teko kaʔa te oho .
-# text_port = As pessoas vão procurar arbustos.
-# text_spa = La gente busca arbustos.
-# text_en = The people will look for bush (Bonfim Duarte, 2018).
 1	Wekar	ekar	VERB	vt	Person[subj]=3	0	root	0:root	_
 2	teko	teko	NOUN	n	Rel=Abs	1	nsubj	1:nsubj	_
 3	kaʔa	kaʔa	NOUN	n	_	1	obj	1:obj	_
@@ -117,11 +67,6 @@
 5	oho	ho	VERB	vi	Person[subj]=3	1	dep	1:dep	_
 6	.	.	PUNCT	punct	_	1	punct	1:punct	_
 
-# sent_id = 138
-# text = Uhem Zuze oho kope kurɨ .
-# text_port = Então José chegou ã roça (Sociedade Internacional de Lingüística, 1973:79).
-# text_spa = Entonces José salió al campo.
-# text_eng = Then José went to the field.
 1	Uhem	hem	VERB	v	Person[subj]=3	0	root	_	_
 2	Zuze	Zuze	PROPN	pn	_	1	nsubj	_	_
 3	oho	ho	VERB	vi	Person[subj]=3	1	dep	_	_
@@ -129,11 +74,6 @@
 5	kurɨ	kurɨ	PART	pcl	_	1	discourse	_	_
 6	.	.	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 450
-# text = Heta aguza Zuze ràpuz me wà .
-# text_port = Tem ratos dentro da casa de José (Harrison, 2000).
-# text_spa = Hay ratas dentro de la casa de José.
-# text_en = There are rats inside the house of José.
 1	Heta	eta	VERB	vi	Rel=NCont	0	root	0:root	_
 2	aguza	aguza	NOUN	n	_	1	nsubj	1:nsubj	_
 3	Zuze	Zuze	PROPN	pn	_	4	nmod	4:nmod	_
@@ -142,25 +82,14 @@
 6	wà	wà	PART	pcl	Number=Plur|Person=3	1	discourse	1:discourse	_
 7	.	.	PUNCT	punct	_	1	punct	1:punct	_
 
-# sent_id = 70
-# text = Ɨrɨhupe heta maʔeputɨr teteaʔu iʔaromo .
-# text_port = Na lagoa tem muitas flores na ãgua (Sociedade Internacional de Lingüística, 1973:77).
-# text_spa = En el lago hay muchas flores en el agua .
-# text_eng = In the lake there are many flowers on the water .
 1	Ɨrɨhupe	ɨrɨk	NOUN	n	Case=Loc|Nomzr=DevPass	3	obl	_	_
 2	heta	eta	VERB	vi	Person[subj]=3	0	root	_	_
-3-4	maʔeputɨr	_	_	_	_	_	_	_	_
 3	maʔe	maʔe	NOUN	n	_	2	nsubj	_	_
 4	putɨr	putɨr	NOUN	n	_	3	nmod	_	_
 5	teteaʔu	tete	ADV	adv	Emph=Yes	3	advmod	_	_
 6	iʔaromo	ʔaromo	ADV	adv	Rel=NCont	2	advmod	_	_
 7	.	.	PUNCT	punct	_	2	punct	_	_
 
-# sent_id = 3
-# text = Nuzapo pixik kwaw agwer maʔe amo ae awape
-# text_port = Ele nunca fez este tipo de coisa a nenhum outro homem (Harrison, 2013:10)
-# text_spa = Él nunca hizo ese tipo de cosas a ningún otro hombre
-# text_eng = He never did this kind of things to any other man
 1	Nuzapo	apo	VERB	vt	Person[subj]=3|Polarity=Neg	0	root	_	_
 2	pixik	pixik	NOUN	n	_	1	obl	_	_
 3	kwaw	kwaw	ADV	adv	Polarity=Neg	2	advmod	_	_
@@ -170,21 +99,11 @@
 7	ae	ae	PART	pcl	Emph=Yes	6	discourse	_	_
 8	awape	awa	NOUN	n	Case=Dat	1	obl	_	_
 
-# sent_id = 442
-# text = Naxigatu kwaw kurɨ .
-# text_port = Não era mais branco (Harrison, 2000).
-# text_spa = Ya no eran blancos.
-# text_en = They were not white anymore.
 1	Naxigatu	xig	VERB	vd	Emph=Yes|Polarity=Neg|Rel=Cont	0	root	0:root	_
 2	kwaw	kwaw	ADV	adv	Polarity=Neg	1	advmod	1:advmod	_
 3	kurɨ	kurɨ	PART	pcl	_	1	discourse	1:discourse	_
 4	.	.	PUNCT	punct	_	1	punct	1:punct	_
 
-# sent_id = 238
-# text = Uwagaw ipɨ zekaipo uʔɨw wanehe , nomomorkwaw imono wanupe rihi .
-# text_port = Ele (o irmão mais novo) apontou a ponta da flecha neles, mas ela não disparou (Campos Castro 2020).
-# text_spa = Él (el hermano menor) los apuntó a punta de flecha, pero no disparó.
-# text_en = He (the younger brother) pointed the tip of the arrow to them, but did not fire.
 1	Uwagaw	wagaw	VERB	v	Person[subj]=3	0	root	_	_
 2	ipɨ	pɨ	NOUN	n	Rel=NCont	1	obj	_	_
 3	zekaipo	kwehe	ADV	adv	Evident=Nfh	1	advmod	_	_
@@ -197,11 +116,6 @@
 10	rihi	rihi	PART	pcl	_	7	discourse	_	_
 11	.	.	PUNCT	punct	_	7	punct	_	_
 
-# sent_id = 246
-# text = Tɨkɨʔɨr oho zekaipo hapuz me , hehe puranupa :
-# text_port = O irmão mais velho dele foi à casa dele perguntar por ele (Campos Castro 2020).
-# text_spa = Su hermano mayor fue a su casa para preguntar por él.
-# text_en = His older brother went to his house to ask for him.
 1	Tɨkɨʔɨr	ɨkɨʔɨr	NOUN	n	Rel=Abs	2	nsubj	_	_
 2	oho	ho	VERB	v	Person[subj]=3	0	root	_	_
 3	zekaipo	kwehe	ADV	adv	Evident=Nfh	2	advmod	_	_
@@ -212,22 +126,12 @@
 8	puranupa	puranu	VERB	v	Rel=Cont|VerbForm=Ger	2	advcl	_	_
 9	:	:	PUNCT	punct	_	8	punct	_	_
 
-# sent_id = 79
-# text = Heta muhu aʔepe no .
-# text_port = Tem lampreia lã também (Sociedade Internacional de Lingüística, 1973:77).
-# text_spa = Allí también hay anguilas
-# text_eng = There are lampreys there too .
 1	Heta	eta	VERB	vi	Person[subj]=3	0	root	_	_
 2	muhu	muhu	NOUN	n	_	1	nsubj	_	_
 3	aʔepe	aʔe	PRON	pro	Case=Loc|PronType=Dem	1	obl	_	_
 4	no	no	PART	pcl	_	1	discourse	_	_
 5	.	.	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 357
-# text = Pepaʔu uʔar oho , naʔe umàno kurɨ .
-# text_port = (O queixado) caiu e morreu (Harrison, 2000).
-# text_spa = El pecarí cayó y murió.
-# text_en = The peccary fell and died.
 1	Pepaʔu	pe	NOUN	n	Case=Loc|Emph=Yes	2	obl	2:obl	_
 2	uʔar	ʔar	VERB	vi	Person[subj]=3	0	root	0:root	_
 3	oho	ho	VERB	vi	Person[subj]=3	2	dep	2:dep	_
@@ -237,21 +141,11 @@
 7	kurɨ	kurɨ	PART	pcl	_	6	discourse	6:discourse	_
 8	.	.	PUNCT	punct	_	6	punct	6:punct	_
 
-# sent_id = 77
-# text = Umeʔe akara rehe .
-# text_port = Ele olhados acaras (Sociedade Internacional de Lingüística, 1973:77).
-# text_spa = Mira a las acaras
-# text_eng = It looks at the acaras .
 1	Umeʔe	meʔe	VERB	vi	Person[subj]=3	0	root	_	_
 2	akara	akara	NOUN	n	_	1	obl	_	_
 3	rehe	ehe	ADP	posp	Rel=Cont	2	case	_	_
 4	.	.	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 367
-# text = Nan , pe rupi wata mehe wenu aʔe .
-# text_port = Não, ele ouviu quando andava no caminho (Harrison, 2000).
-# text_spa = No, escuchó mientras caminaba en el camino.
-# text_en = No, he heard as he walked on the way.
 1	Nan	nan	INTJ	intj	Polarity=Neg	0	root	0:root	_
 2	,	,	PUNCT	punct	_	1	punct	1:punct	_
 3	pe	pe	NOUN	n	_	5	obl	5:obl	_
@@ -262,21 +156,11 @@
 8	aʔe	aʔe	PRON	pro	Person=3|PronType=Dem	7	nsubj	7:nsubj	_
 9	.	.	PUNCT	punct	_	7	punct	7:punct	_
 
-# sent_id = 127
-# text = Uhɨk hokope kurɨ .
-# text_port = 0 socõ se satisfez (Sociedade Internacional de Lingüística, 1973:78).
-# text_spa = El avetorillo está saciado.
-# text_eng = The little bittern is now satiated.
 1	Uhɨk	hɨk	VERB	v	Person[subj]=3	0	root	_	_
 2	hokope	hoko	NOUN	n	Case=Dat	1	obl	_	_
 3	kurɨ	kurɨ	PART	pcl	_	1	discourse	_	_
 4	.	.	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 378
-# text = Zuze ukwaw kwaxi remiʔu aʔe .
-# text_port = José sabe o que o coati come (Harrison, 2000).
-# text_spa = José sabe lo que come el coati.
-# text_en = José knows what the coati eats.
 1	Zuze	Zuze	PROPN	pn	_	2	nsubj	2:nsubj	_
 2	ukwaw	kwaw	VERB	vt	Person[subj]=3	0	root	0:root	_
 3	kwaxi	kwaxi	NOUN	n	_	4	nmod	4:nmod	_
@@ -284,21 +168,11 @@
 5	aʔe	aʔe	PART	pcl	Person=3	2	discourse	2:discourse	_
 6	.	.	PUNCT	punct	_	2	punct	2:punct	_
 
-# sent_id = 34
-# text = Oho kara ipiaromo .
-# text_port = Ela foi buscar cará (Sociedade Internacional de Lingüística, 1973:77)
-# text_spa = Ella fue a buscar ñame
-# text_eng = She went to look for yam
 1	Oho	ho	VERB	vi	Person[subj]=3	0	root	_	_
 2	kara	kara	NOUN	n	_	1	obl	_	_
 3	ipiaromo	piar	ADP	n	Case=Tra|Rel=NCont	2	case	_	_
 4	.	.	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 249
-# text = Nan , nuhemkwaw ur rihi ʔɨ .
-# text_port = Não, ele não chegou, disse ela (a cunhada do irmão mais velho) (Campos Castro 2020).
-# text_spa = No, él no llegó, dijo (la cuñada del hermano mayor).
-# text_en = No, he did not arrive, she said (the sister-in-law of the older brother).
 1	Nan	nan	INTJ	intj	Polarity=Neg	3	discourse	_	_
 2	,	,	PUNCT	punct	_	1	punct	_	_
 3	nuhemkwaw	hem	VERB	v	Person[subj]=3|Polarity=Neg	0	root	_	_
@@ -307,11 +181,6 @@
 6	ʔɨ	ʔɨ	PART	pcl	_	3	discourse	_	_
 7	.	.	PUNCT	punct	_	3	punct	_	_
 
-# sent_id = 416
-# text = Erur maʔe ihewe awaxi hɨruràm romo rihi , iʔi Zuze Karipe .
-# text_port = Trãz um cesto para o milho (Harrison, 2000).
-# text_spa = Tres canasta para maíz, le dijo.
-# text_en = Three basket for corn, he told her.
 1	Erur	zur	VERB	vt	Mood=Imp|Person[subj]=2|Voice=Com	9	ccomp	9:ccomp	_
 2	maʔe	maʔe	NOUN	n	_	1	obj	1:obj	_
 3	ihewe	we	ADP	posp	Number=Sing|Person[psor]=1|Poss=Yes	1	obl	1:obl	_
@@ -325,56 +194,30 @@
 11	Karipe	Kari	PROPN	pn	Case=Dat	9	obl	9:obl	_
 12	.	.	PUNCT	punct	_	9	punct	9:punct	_
 
-# sent_id = 196
-# text = Umeʔe Zuze reimaw rehe , zapukazaʔɨr rehe .
-# text_port = Ele olha para a criação de José , para os pintinhos (Sociedade Internacional de Lingüística, 1973:80).
-# text_spa = Observa las crías de José, los pollitos.
-# text_eng = He looks at Joseph's brood , at the chicks .
 1	Umeʔe	meʔe	VERB	vi	Person[subj]=3	0	root	_	_
 2	Zuze	Zuze	PROPN	pn	_	3	nmod	_	_
 3	reimaw	eimaw	NOUN	n	Rel=Cont	1	obl	_	_
 4	rehe	ehe	ADP	posp	Rel=Cont	3	case	_	_
 5	,	,	PUNCT	punct	_	6	punct	_	_
-6-7	zapukazaʔɨr	_	_	_	_	_	_	_	_
 6	zapukaz	zapukaz	NOUN	n	_	3	appos	_	_
 7	aʔɨr	aʔɨr	NOUN	n	_	6	nmod	_	_
 8	rehe	ehe	ADP	posp	Rel=Cont	6	case	_	_
 9	.	.	PUNCT	punct	_	6	punct	_	_
 
-# sent_id = 392
-# text = Kwarahɨ haku .
-# text_port = O sol está quente (Harrison, 2000).
-# text_spa = El sol está caliente.
-# text_en = The sun is hot.
 1	Kwarahɨ	kwarahɨ	NOUN	n	_	2	nsubj	2:nsubj	_
 2	haku	aku	VERB	vd	Rel=NCont	0	root	0:root	_
 3	.	.	PUNCT	punct	_	2	punct	2:punct	_
 
-# sent_id = 10
-# text = Aikwez heraʔɨr aʔe
-# text_port = Aí está meu filho (Harrison, 2013:11)
-# text_spa = Ahí está mi hijo
-# text_eng = My son is there
 1	Aikwez	aikwez	DET	dem	PronType=Dem	2	det	_	_
 2	heraʔɨr	aʔɨr	NOUN	n	Number=Sing|Person[psor]=1|Poss=Yes|Rel=Abs	0	root	_	_
 3	aʔe	aʔe	DET	dem	PronType=Dem	2	discourse	_	_
 
-# sent_id = 91
-# text = Tueharupi upɨta uhɨ ipɨr .
-# text_port = Fica todo o dia com a mãe (Sociedade Internacional de Lingüística, 1973:78).
-# text_spa = Pasa todo el día con su madre
-# text_eng = It spends all day with its mother
 1	Tueharupi	tuwe	NOUN	n	Case=Tem|Nomzr=Circ|Rel=Cont	2	obl	_	_
 2	upɨta	pɨta	VERB	vi	Person[subj]=3	0	root	_	_
 3	uhɨ	hɨ	NOUN	n	Rel=Corf	2	obl	_	_
 4	ipɨr	pɨr	ADP	posp	Rel=NCont	3	case	_	_
 5	.	.	PUNCT	punct	_	2	punct	_	_
 
-# sent_id = 262
-# text = Aze zekaipo uixe oho uhem zeiakpo amo tawpe .
-# text_port = Passando pelo buraco, ele chegou a uma aldeia (Campos Castro 2020).
-# text_spa = Pasando por el hoyo, llegó a un pueblo.
-# text_en = Passing through the hole, he came to a village.
 1	Aze	aze	SCONJ	sc	_	3	mark	_	_
 2	zekaipo	kwehe	ADV	adv	Evident=Nfh	3	advmod	_	_
 3	uixe	ixe	VERB	v	Person[subj]=3	5	advcl	_	_
@@ -385,11 +228,6 @@
 8	tawpe	taw	NOUN	n	Case=Loc	5	obl	_	_
 9	.	.	PUNCT	punct	_	5	punct	_	_
 
-# sent_id = 174
-# text = Pɨhaw heta teteaʔu miar izupe kaʔape .
-# text_port = À noite tem muita caça para ela no mato (Sociedade Internacional de Lingüística, 1973:80).
-# text_spa = Por la noche hay mucho que cazar en la selva.
-# text_eng = At the night there is much to hunt in the jungle.
 1	Pɨhaw	pɨ	NOUN	n	Nomzr=Circ	2	obl	_	_
 2	heta	eta	VERB	vi	Person[subj]=3	0	root	_	_
 3	teteaʔu	tete	ADV	adv	Emph=Yes	4	advmod	_	_
@@ -398,21 +236,11 @@
 6	kaʔape	kaʔa	NOUN	n	Case=Loc	2	obl	_	_
 7	.	.	PUNCT	punct	_	2	punct	_	_
 
-# sent_id = 125
-# text = Uʔu paku no .
-# text_port = Comeu pacu (Sociedade Internacional de Lingüística, 1973:78).
-# text_spa = También come pacu.
-# text_eng = It eats pacu too.
 1	Uʔu	ʔu	VERB	v	Person[subj]=3	0	root	_	_
 2	paku	paku	NOUN	n	_	1	nsubj	_	_
 3	no	no	PART	pcl	_	1	discourse	_	_
 4	.	.	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 78
-# text = Umeʔe amo pira rehe aʔe no .
-# text_port = Ele olha os outros peixes também (Sociedade Internacional de Lingüística, 1973:77).
-# text_spa = Mira a los otros peces también
-# text_eng = It looks at other fishes too .
 1	Umeʔe	meʔe	VERB	vi	Person[subj]=3	0	root	_	_
 2	amo	amo	DET	dem	PronType=Ind	3	det	_	_
 3	pira	pira	NOUN	n	_	1	obl	_	_
@@ -421,21 +249,11 @@
 6	no	no	PART	pcl	_	1	discourse	_	_
 7	.	.	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 561
-# text = Aha kaʔi hexakpa kurɨ
-# text_port = (Eu) fui ver o macaco então.
-# text_spa = (Yo) fui a ver al mono entonces.
-# text_en = (I) went to see the monkey then (Bonfim Duarte, 2018).
 1	Aha	ha	VERB	vi	Person[subj]=1	0	root	0:root	_
 2	kaʔi	kaʔi	NOUN	n	_	3	obj	3:obj	_
 3	hexakpa	exak	VERB	vt	Rel=NCont|VerbForm=Ger	1	advcl	1:advcl	_
 4	kurɨ	kurɨ	PART	pcl	_	1	discourse	1:discourse	_
 
-# sent_id = 434
-# text = Ou kwa , heremɨhar , iʔi Zuze uhapukazta .
-# text_port = Ah não, a minha calça, gritou Jose (Harrison, 2000).
-# text_spa = Oh no, mis pantalones gritaron a José.
-# text_en = "Oh no, my pants" shouted Jose.
 1	Ou	ou	INTJ	intj	_	4	discourse	4:discourse	_
 2	kwa	kwa	PART	pcl	_	4	discourse	4:discourse	_
 3	,	,	PUNCT	punct	_	4	punct	4:punct	_
@@ -446,11 +264,6 @@
 8	uhapukazta	hapukaz	VERB	vi	Person[subj]=3|VerbForm=Ger	6	advcl	6:advcl	_
 9	.	.	PUNCT	punct	_	6	punct	6:punct	_
 
-# sent_id = 415
-# text = Ezur xe rihi , iʔi Zuze wazɨrpe , Karipe .
-# text_port = Venha cã, José mandou sua filha Karita (Harrison, 2000).
-# text_spa = Ven aquí, José le dijo a su hija Karita.
-# text_en = Come here, José told his daughter Karita.
 1	Ezur	zur	VERB	vi	Mood=Imp|Person[subj]=2	5	ccomp	5:ccomp	_
 2	xe	xe	PART	pcl	_	1	discourse	1:discourse	_
 3	rihi	rihi	PART	pcl	_	1	discourse	1:discourse	_
@@ -462,21 +275,11 @@
 9	Karipe	Kari	PROPN	pn	Case=Dat	7	appos	7:appos	_
 10	.	.	PUNCT	punct	_	9	punct	9:punct	_
 
-# sent_id = 154
-# text = Tu upɨhɨk mukaw .
-# text_port = O pai pegou a espingarda (Sociedade Internacional de Lingüística, 1973:79).
-# text_spa = El padre cogió la escopeta.
-# text_eng = The father caught the rifle.
 1	Tu	u	NOUN	n	Rel=Abs	2	nsubj	_	_
 2	upɨhɨk	pɨhɨk	VERB	v	Person[subj]=3	0	root	_	_
 3	mukaw	mukaw	NOUN	n	_	2	obj	_	_
 4	.	.	PUNCT	punct	_	2	punct	_	_
 
-# sent_id = 80
-# text = Zuze hemireko aʔe , Mari her romo aʔe .
-# text_port = Maria é o nome da mulher de José (Sociedade Internacional de Lingüística, 1973:78).
-# text_spa = Maria es el nombre de la esposa de José
-# text_eng = Maria is the name of the wife of Jose .
 1	Zuze	Zuze	PROPN	ppn	_	2	nmod	_	_
 2	hemireko	eko	NOUN	n	Rel=NCont	5	nsubj	_	_
 3	aʔe	aʔe	DET	dem	PronType=Dem	2	discourse	_	_
@@ -487,11 +290,6 @@
 8	aʔe	aʔe	DET	dem	PronType=Dem	5	discourse	_	_
 9	.	.	PUNCT	punct	_	5	punct	_	_
 
-# sent_id = 463
-# text = Ikuʔegwepe ur Zuze ihɨ aʔepe , migaw iapopa .
-# text_port = Dois dias depois, a mãe de José veio para fazer mingau (Harrison, 2000).
-# text_spa = Dos días después, la madre de José vino a hacer gachas de avena.
-# text_en = Two days later, José's mother came to make porridge.
 1	Ikuʔegwepe	kuʔem	NOUN	n	Case=Tem|Rel=NCont|Tense=Past	2	obl	2:obl	_
 2	ur	ur	VERB	vi	Person[subj]=3	0	root	0:root	_
 3	Zuze	Zuze	PROPN	pn	_	4	nmod	4:nmod	_
@@ -502,20 +300,10 @@
 8	iapopa	apo	VERB	vt	Rel=NCont|VerbForm=Ger	1	advcl	1:advcl	_
 9	.	.	PUNCT	punct	_	8	punct	8:punct	_
 
-# sent_id = 361
-# text = Pakuri ruʔu .
-# text_port = Foi bacuri? (Harrison, 2000)
-# text_spa = Fue bacuri?
-# text_en = Was it bacurí?
 1	Pakuri	pakuri	NOUN	n	_	0	root	0:root	_
 2	ruʔu	ruʔu	PART	pcl	Int=Yes	1	discourse	1:discourse	_
 3	.	.	PUNCT	punct	_	1	punct	1:punct	_
 
-# sent_id = 333
-# text = Ikatu ʔɨ , iʔi umenpe .
-# text_port = Muito bem, ela disse ao marido (Harrison, 2000).
-# text_spa = De acuerdo, ella le dijo a su marido.
-# text_en = All right, she told her husband.
 1	Ikatu	katu	VERB	vd	Rel=NCont	4	ccomp	4:ccomp	_
 2	ʔɨ	ʔɨ	PART	pcl	_	1	discourse	1:discourse	_
 3	,	,	PUNCT	punct	_	1	punct	1:punct	_
@@ -523,20 +311,10 @@
 5	umenpe	men	NOUN	n	Case=Dat|Rel=Corf	4	obl	4:obl	_
 6	.	.	PUNCT	punct	_	4	punct	4:punct	_
 
-# sent_id = 56
-# text = Uʔu kurɨ .
-# text_port = Ele come (Sociedade Internacional de Lingüística, 1973:77).
-# text_spa = Ahora come
-# text_eng = It eats now
 1	Uʔu	ʔu	VERB	vt	Person[subj]=3	0	root	_	_
 2	kurɨ	kurɨ	PART	pcl	_	1	discourse	_	_
 3	.	.	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 248
-# text = Tɨkɨʔɨr ipɨʔa ukwaw tuwe maʔe uzeapomaʔekwer izupe aʔe .
-# text_port = O irmão dele (do irmão mais novo) já sabia aquilo que havia acontecido com ele (o irmão mais novo) (Campos Castro 2020).
-# text_spa = Su hermano (de su hermano menor) ya sabía lo que le había sucedido (al hermano menor).
-# text_en = His brother (of his younger brother) already knew what had happened to him (to the younger brother).
 1	Tɨkɨʔɨr	ɨkɨʔɨr	NOUN	n	Rel=Abs	2	nmod	_	_
 2	ipɨʔa	pɨʔa	NOUN	n	Rel=NCont	3	nsubj	_	_
 3	ukwaw	kwaw	VERB	v	Person[subj]=3	0	root	_	_
@@ -547,11 +325,6 @@
 8	aʔe	aʔe	PART	pcl	Person=3	6	discourse	_	_
 9	.	.	PUNCT	punct	_	3	punct	_	_
 
-# sent_id = 542
-# text = Hehɨ umur maʔe roʔokwer hawe .
-# text_port = Minha mãe deu carne para mim.
-# text_spa = Mi madre me dio carne.
-# text_en = My mother gave meat to me (Bonfim Duarte, 2018).
 1	Hehɨ	hɨ	NOUN	n	Number=Sing|Person[psor]=1|Poss=Yes|Rel=Cont	2	nsubj	2:nsubj	_
 2	umur	ur	VERB	v	Person[subj]=3|Voice=Cau	0	root	0:root	_
 3	maʔe	maʔe	NOUN	n	_	4	nmod	4:nmod	_
@@ -559,33 +332,18 @@
 5	hawe	he	PRON	pro	Case=Dat|Person[psor]=1|PronType=Prs	2	obl	2:obl	_
 6	.	.	PUNCT	punct	_	2	punct	2:punct	_
 
-# sent_id = 550
-# text = Aʔeà uur kwez hehɨ iruramo
-# text_port = Ele veio com minha mãe.
-# text_spa = Vino con mi madre.
-# text_en = He came with my mother (Bonfim Duarte, 2018).
 1	Aʔeà	aʔe	PRON	pro	Case=Ref|Person=3|PronType=Dem	2	nsubj	2:nsubj	_
 2	uur	zur	VERB	v	Person[subj]=3	0	root	0:root	_
 3	kwez	kwez	PART	adv	Tense=Past	2	discourse	2:discourse	_
 4	hehɨ	hɨ	NOUN	n	Number=Sing|Person[psor]=1|Poss=Yes|Rel=Cont	2	obl	2:obl	_
 5	iruramo	ru	ADP	posp	Case=Tra|Rel=NCont	4	case	4:case	_
 
-# sent_id = 544
-# text = Wekar teko wakari ita rehe
-# text_port = As pessoas pegam o bagre na pedra.
-# text_spa = La gente consigue el bagre en la piedra.
-# text_en = The people get the catfish in the stone (Bonfim Duarte, 2018).
 1	Wekar	ekar	VERB	vt	Person[subj]=3	0	root	0:root	_
 2	teko	teko	NOUN	n	Rel=Abs	1	nsubj	1:nsubj	_
 3	wakari	wakari	NOUN	n	_	1	obj	1:obj	_
 4	ita	ita	NOUN	n	_	1	obl	1:obl	_
 5	rehe	ehe	ADP	posp	Rel=Cont	4	case	4:case	_
 
-# sent_id = 94
-# text = Heta toʔotoʔom pe rupi no .
-# text_port = Tem lama no caminho também (Sociedade Internacional de Lingüística, 1973:78).
-# text_spa = Hay lodo también en el camino .
-# text_eng = There is mud also in the road .
 1	Heta	eta	VERB	vi	Person[subj]=3	0	root	_	_
 2	toʔotoʔom	toʔom	NOUN	n	Red=Di	1	nsubj	_	_
 3	pe	pe	NOUN	n	_	1	obl	_	_
@@ -593,11 +351,6 @@
 5	no	no	PART	pcl	_	1	discourse	_	_
 6	.	.	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 458
-# text = Uxiʔu kurɨ , nan kwehe tete uzuka .
-# text_port = Mas (de repente) mordeu de vez e logo o rato morreu (Harrison, 2000).
-# text_spa = Pero (de repente) bit una vez y pronto el ratón murió.
-# text_en = But (suddenly) bit once and soon the mouse died.
 1	Uxiʔu	xiʔu	VERB	v	Person[subj]=3	0	root	0:root	_
 2	kurɨ	kurɨ	PART	pcl	_	1	discourse	1:discourse	_
 3	,	,	PUNCT	punct	_	1	punct	1:punct	_
@@ -607,11 +360,6 @@
 7	uzuka	zuka	VERB	vt	Person[subj]=3	1	parataxis	1:parataxis	_
 8	.	.	PUNCT	punct	_	7	punct	7:punct	_
 
-# sent_id = 193
-# text = Zapukaz uʔu awaxi aʔe no .
-# text_port = A galhina come milho també (Sociedade Internacional de Lingüística, 1973:80).
-# text_spa = La gallina también come maíz.
-# text_eng = The hen also eats corn.
 1	Zapukaz	zapukaz	NOUN	n	_	2	nsubj	_	_
 2	uʔu	ʔu	VERB	v	Person[subj]=3	0	root	_	_
 3	awaxi	awaxi	NOUN	n	_	2	obj	_	_

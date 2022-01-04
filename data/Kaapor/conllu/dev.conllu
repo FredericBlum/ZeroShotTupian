@@ -1,13 +1,7 @@
-# sent_id = 13
-# text = ihẽ a’etake amujengar
-# text_eng = I made them sing (Duarte 2014 [23b] NS)
 1	ihẽ	ihẽ	PRON	pro	_	3	nsubj	_	_
 2	a’etake	a’e	PRON	pro	Case=Aff|Number=Plur	3	nsubj	_	_
 3	amujengar	jengar	VERB	vt	Person=1|Voice=Cau	0	root	_	_
 
-# sent_id = 64
-# text = pahar pahar je kɪse meʔē ngā
-# text_eng = It is said that they very quickly gave out knives (Kakumasu 1986: 328 [29] ZS)
 1	pahar	pahar	ADV	adv	_	5	advmod	_	_
 2	pahar	pahar	ADV	adv	_	5	advmod	_	_
 3	je	je	PART	pcl	_	5	discourse	_	_
@@ -15,50 +9,30 @@
 5	meʔē	eʔē	VERB	vt	Person=3	0	root	_	_
 6	ngā	gā	PRON	pro	Number=Plur|Person=3	5	nsubj	_	_
 
-# sent_id = 18
-# text = ihẽke aʔar
-# text_eng = I have fallen (Duarte 2014 [4] NS)
 1	ihẽke	ihẽ	PRON	pro	Case=Aff	2	nsubj	_	_
 2	aʔar	ʔa	VERB	vt	Person=3	0	root	_	_
 
-# sent_id = 704
-# text = pɪnupɪnuate ehe je
-# text_eng = She was really farting a lot on him (Godoy 2017 [4] JL)
-# text_por = Ficava peidando muito mesmo nele
 1	pɪnupɪnuate	pɪnu	VERB	vi	Intense=Yes	0	root	_	_
 2	ehe	ehe	ADP	posp	Rel=NCont	1	case	_	_
 3	je	je	PART	pcl	_	1	discourse	_	_
 
-# sent_id = 16046
-# text = Peteĩ Xõru jahy kanim oho
-# text_pt = O pai de Jon esteve ausente por um mês. (UKconnect [16] NS)
-# text_eng = Jon's father was absent for a month.
 1	Peteĩ	_	PRON	pro	_	4	nsubj	_	_
 2	Xõru	_	PROPN	propn	_	4	nsubj	_	_
 3	jahy	_	NOUN	n	_	4	obj	_	_
 4	kanim	_	VERB	v	Person=3	0	root	_	_
 5	oho	_	VERB	v	Person=3	4	compound	_	_
 
-# sent_id = 58
-# text = ɪmante pe aʔike manõ je‘ɪ
-# text_eng = Later, the old woman died (Godoy 2017 [28] ZS)
 1	ɪmante	ɪman	ADV	adv	_	4	advmod	_	_
 2	pe	pe	ADV	adv	_	4	advmod	_	_
 3	aʔike	aʔi	NOUN	n	Animacy=Hum|Case=Aff	4	nsubj	_	_
 4	manõ	manõ	VERB	vi	_	0	root	_	_
 5	je‘ɪ	je	PART	pcl	_	4	discourse	_	_
 
-# sent_id = 31
-# text = ne ihẽ miʔuke reʔutĩ
-# text_eng = you usually eat my food [‘you usually eat it voluntarily.ʔ] (Duarte 2019 [14] NS)
 1	ne	ne	PRON	pro	_	4	nsubj	_	_
 2	ihẽ	ihẽ	PRON	pro	_	3	nmod	_	_
 3	miʔuke	miʔu	NOUN	n	Rel=Cont	4	obj	_	_
 4	reʔutĩ	eʔu	VERB	vt	Number=Sing|Person=2	0	root	_	_
 
-# sent_id = 11
-# text = Arauxu ahem uhu
-# text_eng = Araújo shouted a lot (Duarte 2014 [5] NS)
 1	Arauxu	Arauxu	PROPN	prpn	_	2	nsubj	_	_
 2	ahem	ahem	VERB	vt	Person=3	0	root	_	_
 3	uhu	uhu	ADV	adv	_	2	advmod	_	_

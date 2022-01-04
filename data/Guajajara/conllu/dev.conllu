@@ -1,17 +1,7 @@
-# sent_id = 64
-# text = ʔAromo uker .
-# text_port = Ela dorme de dia (Sociedade Internacional de Lingüística, 1973:77).
-# text_spa = Ella duerme de día
-# text_eng = It sleeps during the day .
 1	ʔAromo	ʔaromo	ADV	adv	_	2	advmod	_	_
 2	uker	ker	VERB	vi	Person[subj]=3	0	root	_	_
 3	.	.	PUNCT	punct	_	2	punct	_	_
 
-# sent_id = 176
-# text = Oho kaʔa rupi pe rupi .
-# text_port = Ele foi pelo mato no caminho (Sociedade Internacional de Lingüística, 1973:80).
-# text_spa = Él fue por el camino través de la selva.
-# text_eng = He followed the road through the jungle.
 1	Oho	ho	VERB	vi	Person[subj]=3	0	root	_	_
 2	kaʔa	kaʔa	NOUN	n	_	1	obl	_	_
 3	rupi	upi	ADP	posp	Rel=Cont	2	case	_	_
@@ -19,21 +9,11 @@
 5	rupi	upi	ADP	posp	Rel=Cont	4	case	_	_
 6	.	.	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 31
-# text = Ezapo arapuk wiràmiripe nehe
-# text_port = Faça uma arapuca para o passarinho (Harrison, 2013:15)
-# text_spa = Haz una trampa para pajaritos
-# text_eng = Make a trap for little birds
 1	Ezapo	apo	VERB	vt	Mood=Imp|Number=Sing|Person[subj]=2	0	root	_	_
 2	arapuk	arapuk	NOUN	n	_	1	obj	_	_
 3	wiràmiripe	wirà	NOUN	n	Case=Dat|Dimin=Yes	1	obl	_	_
 4	nehe	nehe	PART	pcl	Tense=Fut	1	discourse	_	_
 
-# sent_id = 446
-# text = Màràzàwe tue neremɨhar aipo ʔɨ , iʔi Mari izupe , hehe upuranupa .
-# text_port = O que aconteceu com sua calça, querido? Maria perguntou (Harrison, 2000).
-# text_spa = ¿Qué le pasó a tus pantalones, querida?María preguntó.
-# text_en = What happened to your pants, dear?Maria asked.
 1	Màràzàwe	màràzàwe	ADV	adv	Int=Yes	3	advmod	3:advmod	_
 2	tue	tue	PART	pcl	Emph=Yes	1	discourse	1:discourse	_
 3	neremɨhar	emɨhar	NOUN	n	Number=Sing|Person=2|Poss=Yes|Rel=Cont	7	ccomp	7:ccomp	_
@@ -48,21 +28,11 @@
 12	upuranupa	puranu	VERB	vt	Rel=Corf|VerbForm=Ger	7	advcl	7:advcl	_
 13	.	.	PUNCT	punct	_	12	punct	12:punct	_
 
-# sent_id = 323
-# text = Uhem pino wi .
-# text_port = A aranha saiu da palha (Harrison, 2000).
-# text_spa = La araña salió de la paja.
-# text_en = The spider left the straw.
 1	Uhem	hem	VERB	v	Person[subj]=3	0	root	0:root	_
 2	pino	pino	NOUN	n	_	1	obl	1:obl	_
 3	wi	wi	ADP	posp	Rel=Cont	2	case	2:case	_
 4	.	.	PUNCT	punct	_	1	punct	1:punct	_
 
-# sent_id = 83
-# text = Tueharupi uputuka umaʔe iko aʔe .
-# text_port = Todos os dias ela lava a roupa dela (Sociedade Internacional de Lingüística, 1973:78).
-# text_spa = Todos los días ella lava su ropa
-# text_eng = She washes her clothes every day .
 1	Tueharupi	tuwe	NOUN	n	Case=Tem|Nomzr=Circ|Rel=Cont	2	obl	_	_
 2	uputuka	putuka	VERB	v	Person[subj]=3	0	root	_	_
 3	umaʔe	maʔe	NOUN	n	Rel=Corf	2	obj	_	_
@@ -70,21 +40,11 @@
 5	aʔe	aʔe	DET	dem	PronType=Dem	2	discourse	_	_
 6	.	.	PUNCT	punct	_	2	punct	_	_
 
-# sent_id = 156
-# text = Waro mahaw turhaw .
-# text_port = Esperou a vinda do catingueiro (Sociedade Internacional de Lingüística, 1973:79).
-# text_spa = Esperó la llegada del guazuncho.
-# text_eng = He waited for the arrival of the brocket deer.
 1	Waro	aro	VERB	vt	Person[subj]=3	0	root	_	_
 2	mahaw	mahaw	NOUN	n	_	3	nmod	_	_
 3	turhaw	ur	NOUN	n	Nomzr=Circ|Rel=Abs	1	obj	_	_
 4	.	.	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 279
-# text = Uhɨape katu zahɨ aʔepe izupe kurɨ .
-# text_port = A lua ilumina bem o mato para Jose (Sociedade Internacional de Lingüística, 1973:79).
-# text_spa = La luna ilumina bien la selva para él.
-# text_eng = The moon lights the jungle well for him.
 1	Uhɨape	hɨape	VERB	v	Person[subj]=3	0	root	_	_
 2	katu	katu	ADV	adv	Emph=Yes	1	advmod	_	_
 3	zahɨ	zahɨ	NOUN	n	_	1	nsubj	_	_
@@ -93,11 +53,6 @@
 6	kurɨ	kurɨ	PART	pcl	_	1	discourse	_	_
 7	.	.	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 210
-# text = Tuweharupi uzuka kateteaʔu wiràmiri aʔepe .
-# text_port = Todos os dias, ele matava muitos pássaros lá (Campos Castro 2020).
-# text_spa = Todos los días, mató a muchos pájaros allí.
-# text_en = Every day, he killed many birds there.
 1	Tuweharupi	tuwe	NOUN	n	Case=Tem|Nomzr=Circ|Rel=Cont	2	obl	_	_
 2	uzuka	zuka	VERB	v	Person[subj]=3	0	root	_	_
 3	kateteaʔu	katu	ADV	adv	Emph=Yes	2	advmod	_	_
@@ -105,11 +60,6 @@
 5	aʔepe	aʔe	PRON	pro	Case=Loc|PronType=Dem	2	obl	_	_
 6	.	.	PUNCT	punct	_	2	punct	_	_
 
-# sent_id = 269
-# text = Aʔe Tentehar tɨkɨʔɨr maizu umumeʔu parupi maʔe uzeapomaʔe izupe .
-# text_port = O irmão mais velho Maizu contou tudo o que ocorrido para ele (o ancião) (Campos Castro 2020).
-# text_spa = El hermano mayor Maizu le dijo todo lo que le sucedió (al anciano).
-# text_en = The older brother Maizu told him all that had happened to him (to the old man).
 1	Aʔe	aʔe	DET	dem	PronType=Dem	3	det	_	_
 2	Tentehar	tentehar	NOUN	n	_	3	nmod	_	_
 3	tɨkɨʔɨr	ɨkɨʔɨr	NOUN	n	Rel=Abs	5	nsubj	_	_
@@ -121,11 +71,6 @@
 9	izupe	zupe	ADP	posp	Rel=NCont	8	iobj	_	_
 10	.	.	PUNCT	punct	_	5	punct	_	_
 
-# sent_id = 417
-# text = Taʔe ameʔeg putar awaxi heraha tawpe har wanupe nehe xe .
-# text_port = Porque eu vou levar e vender na cidade (Harrison, 2000).
-# text_spa = Porque tomaré y venderé en la ciudad.
-# text_en = Because I'll take and sell in the city.
 1	Taʔe	taʔe	CCONJ	cc	_	2	discourse	2:discourse	_
 2	ameʔeg	meʔeg	VERB	vt	Person[subj]=1	0	root	0:root	_
 3	putar	putar	ADV	adv	Tense=Fut	2	advmod	2:advmod	_
@@ -138,13 +83,7 @@
 10	xe	xe	PART	pcl	_	2	discourse	2:discourse	_
 11	.	.	PUNCT	punct	_	2	punct	2:punct	_
 
-# sent_id = 332
-# text = Azapo ukenuhu zumen wi , iʔi izupe .
-# text_port = Estou fazendo um portão contra o jumento, respondeu José (Harrison, 2000).
-# text_spa = Estoy haciendo una puerta contra el burro, respondió José.
-# text_en = I'm making a gate against the donkey, José replied.
 1	Azapo	apo	VERB	vt	Person[subj]=1	7	ccomp	7:ccomp	_
-2-3	ukenuhu	_	_	_	_	_	_	_	_
 2	uken	uken	NOUN	n	_	1	obj	1:obj	_
 3	uhu	hu	NOUN	n	_	2	nmod	2:nmod	_
 4	zumen	zumen	NOUN	n	_	1	obl	1:obl	_
@@ -154,13 +93,7 @@
 8	izupe	upe	ADP	posp	Rel=NCont	7	iobj	7:iobj	_
 9	.	.	PUNCT	punct	_	7	punct	7:punct	_
 
-# sent_id = 19
-# text = Aʔe maʔeʔɨw iʔa ʔar katu mehe
-# text_port = Aquelas fruteiras dão frutas no tempo certo (Harrison, 2013:18)
-# text_spa = Aquellos árboles frutales dan frutas cada cierto tiempo
-# text_eng = Those fruit trees give fruits in a certain time
 1	Aʔe	aʔe	DET	dem	PronType=Dem	2	det	_	_
-2-3	maʔeʔɨw	_	_	_	_	_	_	_	_
 2	maʔe	maʔe	NOUN	n	_	4	nmod	_	_
 3	ʔɨw	ʔɨw	NOUN	n	_	2	compound	_	_
 4	iʔa	ʔa	NOUN	n	Rel=NCont	0	root	_	_
@@ -168,11 +101,6 @@
 6	katu	katu	ADV	adv	Emph=Yes	5	discourse	_	_
 7	mehe	mehe	ADP	posp	_	5	case	_	_
 
-# sent_id = 317
-# text = Ikatu ahɨ Karipe iʔu mehe no .
-# text_port = Quando Karita o comeu, ela o achou muito gostoso (Harrison, 2000).
-# text_spa = Cuando Karita la comió, la encontró muy sabrosa.
-# text_en = When Karita ate it, she found it very tasty.
 1	Ikatu	katu	VERB	vd	Rel=NCont	0	root	0:root	_
 2	ahɨ	ahɨ	ADV	adv	Emph=Yes	1	advmod	1:advmod	_
 3	Karipe	Karipe	PROPN	pn	Case=Dat	1	obl	1:obl	_
@@ -181,11 +109,6 @@
 6	no	no	PART	pcl	_	1	discourse	1:discourse	_
 7	.	.	PUNCT	punct	_	1	punct	1:punct	_
 
-# sent_id = 266
-# text = Aʔepe uwexak zekaipo amo mainumɨ we zepe tentehar tuaʔu zepe zekaipo raʔa
-# text_port = Lá, ele encontrou um ancião que estava em forma de beija-flor (Campos Castro 2020).
-# text_spa = Allí encontró a un anciano que estaba en forma de colibrí.
-# text_en = There he found an old man who was in the form of hummingbird.
 1	Aʔepe	aʔe	PRON	pro	Case=Loc|PronType=Dem	2	obl	_	_
 2	uwexak	wexak	VERB	v	Person[subj]=3	0	root	_	_
 3	zekaipo	kwehe	ADV	adv	Evident=Nfh	2	advmod	_	_
@@ -199,13 +122,7 @@
 11	zekaipo	kwehe	ADV	adv	Evident=Nfh	10	advmod	_	_
 12	raʔa	raʔa	PART	pcl	_	2	discourse	_	_
 
-# sent_id = 71
-# text = Amo maʔeputɨr ʔɨpehar aʔe , mururu her romo aʔe .
-# text_port = 0 nome de uma delas é "mururu" (Sociedade Internacional de Lingüística, 1973:77).
-# text_spa = El nombre de una de ellas es jacinto de agua
-# text_eng = The name of one of them is water hyacinth
 1	Amo	amo	DET	dem	PronType=Ind	2	det	_	_
-2-3	maʔeputɨr	_	_	_	_	_	_	_	_
 2	maʔe	maʔe	NOUN	n	_	4	nmod	_	_
 3	putɨr	putɨr	NOUN	n	_	2	nmod	_	_
 4	ʔɨpehar	ʔɨ	NOUN	n	Case=Loc|Nomzr=Ag	7	nsubj	_	_
@@ -217,11 +134,6 @@
 10	aʔe	aʔe	PART	pcl	Person=3	7	discourse	_	_
 11	.	.	PUNCT	punct	_	7	punct	_	_
 
-# sent_id = 334
-# text = Zumen uʔu hemaʔe , iʔi izupe , wemirekope .
-# text_port = O jumento come as minhas coisas, ele disse a ela (Harrison, 2000).
-# text_spa = El burro se come mis cosas, le dijo.
-# text_en = The donkey eats my things, he told her.
 1	Zumen	zumen	NOUN	n	_	2	nsubj	2:nsubj	_
 2	uʔu	ʔu	VERB	vt	Person[subj]=3	5	ccomp	5:ccomp	_
 3	hemaʔe	maʔe	NOUN	n	Number=Sing|Person=1|Poss=Yes|Rel=Cont	2	obj	2:obj	_
@@ -232,12 +144,6 @@
 8	wemirekope	eko	NOUN	n	Case=Dat|Nomzr=DevPass|Rel=Corf	6	appos	6:appos	_
 9	.	.	PUNCT	punct	_	8	punct	8:punct	_
 
-# sent_id = 479
-# text = Umaʔemumeʔu waiko uzeupeupe wà kurɨ .
-# text_port = Começaram a contar estórias uns aos outros (Harrison, 2000).
-# text_spa = Comenzaron a decirnos.
-# text_en = They started telling each other.
-1-2	Umaʔemumeʔu	_	_	_	_	_	_	_	_
 1	Umaʔe	maʔe	NOUN	n	Person[subj]=3	2	obj	2:obj	_
 2	mumeʔu	mumeʔu	VERB	v	_	0	root	0:root	_
 3	waiko	iko	AUX	aux	Number=Plur|Person[subj]=3	2	aux	2:aux	_
@@ -246,11 +152,6 @@
 6	kurɨ	kurɨ	PART	pcl	_	2	discourse	2:discourse	_
 7	.	.	PUNCT	punct	_	2	punct	2:punct	_
 
-# sent_id = 40
-# text = Hete katu Karipe aʔe no .
-# text_port = Karita também o acha gostoso (Sociedade Internacional de Lingüística, 1973:77)
-# text_spa = (El ñame) también está rico según Kari
-# text_eng = Kari also finds it tasty
 1	Hete	ete	VERB	vd	Rel=NCont	0	root	_	_
 2	katu	katu	ADV	adv	Emph=Yes	1	advmod	_	_
 3	Karipe	Kari	PROPN	pn	Case=Dat	1	obl	_	_
@@ -258,19 +159,9 @@
 5	no	no	PART	pcl	_	1	discourse	_	_
 6	.	.	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 20
-# text = Pixikaʔi aʔe
-# text_port = É muito pequeno (Harrison, 2013:18)
-# text_spa = Es muy pequeño
-# text_eng = It's very small
 1	Pixikaʔi	pixik	NOUN	n	Dimin=Yes	0	root	_	_
 2	aʔe	aʔe	PRON	pro	Person=3	1	nsubj	_	_
 
-# sent_id = 472
-# text = Te umeʔe aguza iàkàgwer ɨwɨ rehe har rehe .
-# text_port = De repente ela viu a cabeça do rato no chão (Harrison, 2000).
-# text_spa = De repente vio la cabeza del ratón en el suelo.
-# text_en = Suddenly she saw the mouse head on the floor.
 1	Te	te	PART	pcl	_	2	discourse	2:discourse	_
 2	umeʔe	meʔe	VERB	vi	Person[subj]=3	0	root	0:root	_
 3	aguza	aguza	NOUN	n	_	4	nmod	4:nmod	_
@@ -281,11 +172,6 @@
 8	rehe	ehe	ADP	posp	Rel=Cont	4	case	4:case	_
 9	.	.	PUNCT	punct	_	2	punct	2:punct	_
 
-# sent_id = 447
-# text = Omowok xu aipo pa , pe iwɨr pa , iʔi izupe .
-# text_port = Um espinho ao lado do caminho rasgou-a, ele explicou (Harrison, 2000).
-# text_spa = Una espina al lado del camino lo rompió, explicó.
-# text_en = A thorn beside the path tore it, he explained.
 1	Omowok	wok	VERB	vi	Person[subj]=3|Voice=Cau	10	ccomp	10:ccomp	_
 2	xu	xu	NOUN	n	_	1	nsubj	1:nsubj	_
 3	aipo	aipo	PART	pcl	_	1	discourse	1:discourse	_
@@ -299,22 +185,12 @@
 11	izupe	upe	ADP	posp	Rel=NCont	10	iobj	10:iobj	_
 12	.	.	PUNCT	punct	_	10	punct	10:punct	_
 
-# sent_id = 393
-# text = Ikatu ahɨ kwarahɨ Maripe .
-# text_port = Maria gosta do sol (Harrison, 2000).
-# text_spa = A María le gusta el sol.
-# text_en = Maria likes the sun.
 1	Ikatu	katu	VERB	vd	Rel=NCont	0	root	0:root	_
 2	ahɨ	ahɨ	ADV	adv	Emph=Yes	1	advmod	1:advmod	_
 3	kwarahɨ	kwarahɨ	NOUN	n	_	1	nsubj	1:nsubj	_
 4	Maripe	Mari	PROPN	pn	Case=Dat	1	obl	1:obl	_
 5	.	.	PUNCT	punct	_	1	punct	1:punct	_
 
-# sent_id = 85
-# text = Mari imemɨr aʔe , Kari her romo aʔe .
-# text_port = 0 nome da filha da Maria ê Karita (Sociedade Internacional de Lingüística, 1973:78).
-# text_spa = El nombre de la hija de Maria es Kari .
-# text_eng = The name of Mariʔs daugher is Kari .
 1	Mari	Mari	PROPN	ppn	_	2	nmod	_	_
 2	imemɨr	memɨr	NOUN	n	Rel=NCont	5	nsubj	_	_
 3	aʔe	aʔe	DET	dem	PronType=Dem	2	discourse	_	_
@@ -325,11 +201,6 @@
 8	aʔe	aʔe	DET	dem	PronType=Dem	5	discourse	_	_
 9	.	.	PUNCT	punct	_	5	punct	_	_
 
-# sent_id = 322
-# text = Wenu wiwi maʔe ipuipuhaw pino rehe har .
-# text_port = Ouviu de novo o ruído (Harrison, 2000).
-# text_spa = Oyó el ruido de nuevo.
-# text_en = She heard the noise again.
 1	Wenu	enu	VERB	vt	Person[subj]=3	0	root	0:root	_
 2	wiwi	wi	PART	pcl	Red=Mo	1	discourse	1:discourse	_
 3	maʔe	maʔe	NOUN	n	_	4	nmod	4:nmod	_
@@ -339,33 +210,18 @@
 7	har	har	ADV	adv	Nomzr=Ag	5	advmod	5:advmod	_
 8	.	.	PUNCT	punct	_	1	punct	1:punct	_
 
-# sent_id = 558
-# text = Amo uzuka miar kaʔape ?
-# text_port = Quem matou o animal na floresta?
-# text_spa = ¿Quién mató al animal en el bosque?
-# text_en = Who killed the animal in the forest? (Bonfim Duarte, 2018)
 1	Amo	amo	PRON	pro	PronType=Ind	2	nsubj	2:nsubj	_
 2	uzuka	zuka	VERB	vt	Person[subj]=3	0	root	0:root	_
 3	miar	miar	NOUN	n	_	2	obj	2:obj	_
 4	kaʔape	kaʔa	NOUN	n	Case=Loc	2	obl	2:obl	_
 5	?	?	PUNCT	punct	_	2	punct	2:punct	_
 
-# sent_id = 272
-# text = Weraha awaxi tawpe wa .
-# text_port = Eles levaram o milho para a aldeia (Sociedade Internacional de Lingüística, 1973:79).
-# text_spa = Llevaron juntos el maíz a la aldea.
-# text_eng = Together, they brought the corn to the village.
 1	Weraha	ha	VERB	vt	Person[subj]=3|Voice=Com	0	root	_	_
 2	awaxi	awaxi	NOUN	n	_	1	obj	_	_
 3	tawpe	taw	NOUN	n	Case=Loc	1	obl	_	_
 4	wa	wa	PART	pcl	Number=Plur	1	discourse	_	_
 5	.	.	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 141
-# text = Uwewe oho kaʔape wa kurɨ .
-# text_port = Elas voaram em direção ao mato (Sociedade Internacional de Lingüística, 1973:79).
-# text_spa = Ellas volaron hacia la selva.
-# text_eng = They flew towards the jungle.
 1	Uwewe	wewe	VERB	v	Person[subj]=3	0	root	_	_
 2	oho	ho	VERB	vi	Person[subj]=3	1	dep	_	_
 3	kaʔape	kaʔa	NOUN	n	Case=All	1	obl	_	_
@@ -373,21 +229,11 @@
 5	kurɨ	kurɨ	PART	pcl	_	1	discourse	_	_
 6	.	.	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 16
-# text = Wexak amo awa aʔepe
-# text_port = Viu algum homem lá (Harrison, 2013:12)
-# text_spa = Vió a algunos hombres allí
-# text_eng = He/She saw some men there
 1	Wexak	exak	VERB	vt	Person[subj]=3	0	root	_	_
 2	amo	amo	DET	dem	PronType=Ind	3	det	_	_
 3	awa	awa	NOUN	n	_	1	obj	_	_
 4	aʔepe	aʔe	PRON	pro	Case=Loc|PronType=Dem	1	obl	_	_
 
-# sent_id = 219
-# text = Kwa namono wer kwaw zepe herukaz rehe newe tɨ , taʔe reta amo maʔe aʔepe wà xe .
-# text_port = Eu não iria emprestar minha tocaia a você, pois tem umas coisas lá (Campos Castro 2020).
-# text_spa = No te prestaría mi trampa, porque hay algunas cosas allí.
-# text_en = I would not lend my trap to you, because there are some things there.
 1	Kwa	kwa	PART	pcl	_	2	discourse	_	_
 2	namono	amono	VERB	v	_	0	root	_	_
 3	wer	wer	ADV	adv	_	2	advmod	_	_
@@ -407,22 +253,12 @@
 17	xe	xe	PART	pcl	Number=Plur	12	discourse	_	_
 18	.	.	PUNCT	punct	_	12	punct	_	_
 
-# sent_id = 204
-# text = Izipɨ mehe Tentehar wazegarhaw herurawer
-# text_port = No início, quando os Tentehar trouxeram a cantoria (Campos Castro 2020)
-# text_spa = Al principio, cuando los Tentehar trajeron el canto
-# text_en = At first, when the Tentehar brought the singing
 1	Izipɨ	ipɨ	NOUN	n	Rel=NCont	5	obl	_	_
 2	mehe	mehe	ADP	posp	_	1	case	_	_
 3	Tentehar	Tentehar	PROPN	pn	_	5	nsubj	_	_
 4	wazegarhaw	zegar	NOUN	n	Nomzr=Circ|Number=Plur	5	nmod	_	_
 5	herurawer	ur	NOUN	n	Nomzr=Circ|Rel=NCont|Tense=Past|Voice=Com	0	root	_	_
 
-# sent_id = 303
-# text = Aipo iazu nànà raʔe , iʔi wiwi Kari izupe , hehe upuranupa .
-# text_port = "Será que o abacaxi está maduro agora? (Harrison, 2000)" (Kari perguntava insistente).
-# text_spa = "¿Estará la piña madura ahora?", le preguntaba Kari, insistiendo.
-# text_en = "Is the pineapple ripe now?", Kari would insist asking.
 1	Aipo	aipo	PART	pcl	Int=Yes	2	discourse	2:discourse	_
 2	iazu	azu	VERB	vd	Rel=NCont	6	ccomp	6:ccomp	_
 3	nànà	nànà	NOUN	n	_	2	nsubj	2:nsubj	_
@@ -437,35 +273,18 @@
 12	upuranupa	puranu	VERB	v	Rel=Corf|VerbForm=Ger	6	advcl	6:advcl	_
 13	.	.	PUNCT	punct	_	12	punct	12:punct	_
 
-# sent_id = 183
-# text = Uzapi kurɨ .
-# text_port = Atirou e acertou (Sociedade Internacional de Lingüística, 1973:80).
-# text_spa = Disparó y acertó.
-# text_eng = He fired and hit.
 1	Uzapi	api	VERB	vi	Person[subj]=3	0	root	_	_
 2	kurɨ	kurɨ	PART	pcl	_	1	discourse	_	_
 3	.	.	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 69
-# text = Heta maʔeputɨr ʔɨ ʔaromo .
-# text_port = Tem flores na superfície da ãgua (Sociedade Internacional de Lingüística, 1973:77).
-# text_spa = Hay flores en la superficie del agua
-# text_eng = There are flowers on the water surface .
 1	Heta	eta	VERB	vi	Person[subj]=3	0	root	_	_
-2-3	maʔeputɨr	_	_	_	_	_	_	_	_
 2	maʔe	maʔe	NOUN	n	_	1	nsubj	_	_
 3	putɨr	putɨr	NOUN	n	_	2	nmod	_	_
 4	ʔɨ	ʔɨ	NOUN	n	_	1	obl	_	_
 5	ʔaromo	ʔaromo	ADP	posp	Rel=Cont	4	case	_	_
 6	.	.	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 74
-# text = Oho maʔeputɨr rehe , mururu rehe .
-# text_port = Ele vai pelas flores e pelos mururus (Sociedade Internacional de Lingüística, 1973:77).
-# text_spa = Va a través de las flores, de los jacintos de agua
-# text_eng = It goes through the flowers and through the water hyacinths .
 1	Oho	ho	VERB	vi	Person[subj]=3	0	root	_	_
-2-3	maʔeputɨr	_	_	_	_	_	_	_	_
 2	maʔe	maʔe	NOUN	n	_	1	obl	_	_
 3	putɨr	putɨr	NOUN	n	_	2	nmod	_	_
 4	rehe	ehe	ADP	posp	Rel=Cont	2	case	_	_
@@ -474,12 +293,6 @@
 7	rehe	ehe	ADP	posp	Rel=Cont	6	case	_	_
 8	.	.	PUNCT	punct	_	6	punct	_	_
 
-# sent_id = 427
-# text = Xapatxigmaʔe umeʔeg kar no .
-# text_port = Ele comprou sapatos brancos (Harrison, 2000).
-# text_spa = Compró zapatos blancos.
-# text_en = He bought white shoes.
-1-2	Xapatxigmaʔe	_	_	_	_	_	_	_	_
 1	xapat	xapat	NOUN	n	_	2	nmod	2:nmod	_
 2	xigmaʔe	xig	NOUN	n	Nomzr=Abs|Rel=Cont	3	obj	3:obj	_
 3	umeʔeg	meʔeg	VERB	v	Person[subj]=3	0	root	0:root	_
@@ -487,11 +300,6 @@
 5	no	no	PART	pcl	_	3	discourse	3:discourse	_
 6	.	.	PUNCT	punct	_	3	punct	3:punct	_
 
-# sent_id = 290
-# text = Naʔe Maizu iziwà uiwɨrɨ hetekwer ikwapar ʔɨmaz .
-# text_port = Então, ele (o irmão mais velho) flechou o corpo do próprio irmão fingindo que não o conhecia (Campos Castro 2020).
-# text_spa = Así que él (el hermano mayor) disparó el propio cuerpo de su hermano fingiendo que no lo conocía.
-# text_en = So he (the older brother) shot his brother's own body pretending he did not know him.
 1	Naʔe	naʔe	PART	pcl	_	3	discourse	3:discourse	_
 2	Maizu	Maizu	PROPN	ppn	_	3	nsubj	3:nsubj	_
 3	iziwà	ziwà	VERB	vt	Person[subj]=3	0	root	0:root	_
@@ -501,11 +309,6 @@
 7	ʔɨmaz	ʔɨmaz	ADV	adv	Polarity=Neg	6	advmod	6:advmod	_
 8	.	.	PUNCT	punct	_	3	punct	3:punct	_
 
-# sent_id = 232
-# text = Taʔe zekaipo wetun hekwen xe .
-# text_port = Então, ele (um dos seres sobrenaturais) sentiu o cheiro dele do irmão mais novo (Campos Castro 2020).
-# text_spa = Luego, él (uno de los seres sobrenaturales) sintió el olor del hermano menor.
-# text_en = Then he (one of the supernatural beings) felt the smell of the younger brother.
 1	Taʔe	taʔe	CCONJ	cc	_	3	mark	_	_
 2	zekaipo	kwehe	ADV	adv	Evident=Nfh	3	advmod	_	_
 3	wetun	etun	VERB	vi	Person[subj]=3|Rel=Corf	0	root	_	_
@@ -513,31 +316,16 @@
 5	xe	xe	PART	pcl	_	3	discourse	_	_
 6	.	.	PUNCT	punct	_	3	punct	_	_
 
-# sent_id = 73
-# text = Oho kaʔapiʔi rehe .
-# text_port = Ele vai (anda) pelo capim (Sociedade Internacional de Lingüística, 1973:77).
-# text_spa = Va por la hierba
-# text_eng = It walks through the grass .
 1	Oho	ho	VERB	vi	Person[subj]=3	0	root	_	_
 2	kaʔapiʔi	kaʔapiʔi	NOUN	n	_	1	obl	_	_
 3	rehe	ehe	ADP	posp	Rel=Cont	2	case	_	_
 4	.	.	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 438
-# text = Uhem toʔoʔtoʔom me .
-# text_port = Chegou a um lamaçal (Harrison, 2000).
-# text_spa = Llegó a un barro.
-# text_en = He reached a mud.
 1	Uhem	hem	VERB	vi	Person[subj]=3	0	root	0:root	_
 2	toʔoʔtoʔom	toʔom	NOUN	n	Red=Di	1	obl	1:obl	_
 3	me	me	ADP	posp	Rel=Cont	2	case	2:case	_
 4	.	.	PUNCT	punct	_	1	punct	1:punct	_
 
-# sent_id = 87
-# text = Oho putar uhɨ rupi umaʔe iputukapa kurɨ .
-# text_port = Ela vai com a mãe lavar a roupa (Sociedade Internacional de Lingüística, 1973:78).
-# text_spa = Ella va con su madre a lavar la ropa .
-# text_eng = She goes with her mother to do the laundry .
 1	Oho	ho	VERB	vi	Person[subj]=3	0	root	_	_
 2	putar	putar	ADV	adv	_	1	advmod	_	_
 3	uhɨ	hɨ	NOUN	n	Rel=Corf	1	obl	_	_
@@ -547,11 +335,6 @@
 7	kurɨ	kurɨ	PART	pcl	_	1	discourse	_	_
 8	.	.	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 556
-# text = Maʔe te awa uzuka kaʔape ?
-# text_port = O que o homem matou na floresta?
-# text_spa = ¿Qué mató el hombre en el bosque?
-# text_en = What did the man kill in the forest? (Bonfim Duarte, 2018)
 1	Maʔe	maʔe	NOUN	n	_	4	obj	4:obj	_
 2	te	te	PART	pcl	Int=Yes	1	discourse	1:discourse	_
 3	awa	awa	NOUN	n	_	4	nsubj	4:nsubj	_
@@ -559,43 +342,23 @@
 5	kaʔape	kaʔa	NOUN	n	Case=Loc	4	obl	4:obl	_
 6	?	?	PUNCT	punct	_	4	punct	4:punct	_
 
-# sent_id = 345
-# text = Eraha kok ne nehe .
-# text_port = Vocé leva o cesto (Harrison, 2000).
-# text_spa = Toma la canasta.
-# text_en = You take the basket.
 1	Eraha	ho	VERB	vt	Mood=Imp|Number=Sing|Person[subj]=2|Voice=Com	0	root	0:root	_
 2	kok	kok	NOUN	n	_	1	obj	1:obj	_
 3	ne	ne	PRON	pro	Person=2|PronType=Prs	1	nsubj	1:nsubj	_
 4	nehe	nehe	PART	pcl	Tense=Fut	1	discourse	1:discourse	_
 5	.	.	PUNCT	punct	_	1	punct	1:punct	_
 
-# sent_id = 132
-# text = Heta awaxi teteaʔu aʔepe .
-# text_port = Tem muito milho lá (Sociedade Internacional de Lingüística, 1973:79).
-# text_spa = Allí hay mucho maíz.
-# text_eng = There is much corn there.
 1	Heta	eta	VERB	vi	Person[subj]=3	0	root	_	_
 2	awaxi	awaxi	NOUN	n	_	1	nsubj	_	_
 3	teteaʔu	tete	ADV	adv	Emph=Yes	2	advmod	_	_
 4	aʔepe	aʔe	PRON	pro	Case=Loc|PronType=Dem	1	obl	_	_
 5	.	.	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 267
-# text = Upuranu tuaʔu hehe :
-# text_port = O ancião perguntou a ele:  (Campos Castro 2020).
-# text_spa = El anciano le preguntó:
-# text_en = The old man asked him:
 1	Upuranu	puranu	VERB	v	Person[subj]=3	0	root	_	_
 2	tuaʔu	u	NOUN	n	Emph=Yes|Rel=Abs	1	obl	_	_
 3	hehe	ehe	ADP	posp	Rel=NCont	2	case	_	_
 4	:	:	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 395
-# text = Ipururuhu zanekɨhaw , aʔe rupi ximono kwarahɨ rupi zane , imukàgkarpa zane , iʔi Mari Karipe .
-# text_port = Nós suamos nas redes e então precisamos colocar no sol para secá-las, ela explicou a Karita (Harrison, 2000).
-# text_spa = Sudamos en las redes y luego tenemos que ponerlos al sol para secarlos, ella le explicó a Karita.
-# text_en = We sweat on the nets and then we need to put in the sun to dry them, she explained to Karita.
 1	Ipururuhu	pururuhu	VERB	vd	Rel=NCont	14	ccomp	14:ccomp	_
 2	zanekɨhaw	kɨhaw	NOUN	n	Clusivity=In|Number=Plur|Person[psor]=1|Poss=Yes|Rel=Cont	1	nsubj	1:nsubj	_
 3	,	,	PUNCT	punct	_	1	punct	1:punct	_
@@ -614,11 +377,6 @@
 16	Karipe	Karipe	PROPN	pn	_	14	obl	14:obl	_
 17	.	.	PUNCT	punct	_	14	punct	14:punct	_
 
-# sent_id = 133
-# text = Amo awa aʔe , Zuze tu aʔe , uputar awaxi Zuze kopehar aʔe .
-# text_port = 0 homem , o pai de José , quer milho da roça de José (Sociedade Internacional de Lingüística, 1973:79).
-# text_spa = El hombre, el padre de José, quiere maíz del campo de José.
-# text_eng = The man, José's father, wants corn from José's field.
 1	Amo	amo	DET	dem	PronType=Ind	2	det	_	_
 2	awa	awa	NOUN	n	_	9	nsubj	_	_
 3	aʔe	aʔe	PART	pcl	Person=3	2	discourse	_	_
@@ -634,18 +392,9 @@
 13	aʔe	aʔe	PART	pcl	Person=3	9	discourse	_	_
 14	.	.	PUNCT	punct	_	9	punct	_	_
 
-# sent_id = 102
-# text = Wiko aʔepe
-# text_spa = Él/Ella está aquí.
-# text_eng = He is there (Harrison, 1986:418).
 1	Wiko	iko	VERB	vi	Person[subj]=3	0	root	_	_
 2	aʔepe	aʔe	PRON	pro	Case=Loc|PronType=Dem	1	obl	_	_
 
-# sent_id = 76
-# text = Umeʔe hoko iko ipira rehe kurɨ .
-# text_port = 0 socó está olhando os peixes (Sociedade Internacional de Lingüística, 1973:77).
-# text_spa = El avetorillo está mirando los peces
-# text_eng = The little bittern is looking at the fishes
 1	Umeʔe	meʔe	VERB	vi	Person[subj]=3	0	root	_	_
 2	hoko	hoko	NOUN	n	_	1	nsubj	_	_
 3	iko	iko	AUX	aux	Aspect=Prog|Person[subj]=3	1	aux	_	_
@@ -654,11 +403,6 @@
 6	kurɨ	kurɨ	PART	pcl	_	1	discourse	_	_
 7	.	.	PUNCT	punct	_	1	punct	_	_
 
-# sent_id = 457
-# text = Uzemaraz iko hehe kurɨ , uzàn wi aguza oho izuwi no , pixàn upɨhɨk wi no .
-# text_port = Ele brincou um pouco com o rato, deixando correr e pegando de novo (Harrison, 2000).
-# text_spa = Bromeó un poco con el ratón, dejando correr y recogiéndose de nuevo.
-# text_en = He joked a little with the mouse, letting run and picking up again.
 1	Uzemaraz	zemaraz	VERB	vi	Person[subj]=3	0	root	0:root	_
 2	iko	iko	AUX	aux	Aspect=Prog|Person[subj]=3	1	aux	1:aux	_
 3	hehe	ehe	ADP	posp	Rel=NCont	1	obl	1:obl	_

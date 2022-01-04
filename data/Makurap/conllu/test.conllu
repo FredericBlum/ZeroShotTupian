@@ -1,27 +1,15 @@
-# sent_id = 28
-# text = ama etera kurux
-# text_eng = It became morning. He went, he arrived (Wiriyo's text)
 1	ama	ama	NOUN	n	_	0	root	_	_
 2	etera	tet	VERB	vi	Aspect=Imp|Person=3	1	parataxis	_	_
 3	kurux	kurux	VERB	vi	Aspect=Perf	2	xcomp	_	_
 
-# sent_id = 16
-# text = yeman ngot kana oen
-# text_eng = (He) had already eaten all the ngot (Wiriyo's text)
 1	yeman	yeman	ADV	adv	_	3	advmod	_	_
 2	ngot	ngot	NOUN	n	_	3	obj	_	_
 3	kana	kan	VERB	vt	Aspect=Imp|Person=3	0	root	_	_
 4	oen	oen	VERB	vt	Aspect=Perf|Person=3	3	dep	_	_
 
-# sent_id = 10
-# text = opũãtemwã ota
-# text_eng = I will be back (Wiriyo's text)
 1	opũãtemwã	pũãtem	VERB	vi	Aspect=Imp|Person=1	0	root	_	_
 2	ota	ta	AUX	vi	Person=1	1	aux	_	_
 
-# sent_id = 24
-# text = putorot xēke ke xēt
-# text_eng = He might be dead, he thought (Wiriyo's text)
 1	putorot	putorot	NOUN	n	_	0	root	_	_
 2	xēke	xēke	PART	pcl	Pcl=Dub	1	discourse	_	_
 3	ke	ke	PART	pcl	Evident=Nfh	1	discourse	_	_

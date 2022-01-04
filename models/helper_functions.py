@@ -1,4 +1,4 @@
-from conllu import parse
+from conllu import parse, TokenList
 from torch.utils.data import random_split
 import torch
 from flair.data import Corpus, Dictionary
@@ -260,7 +260,13 @@ def conllu_split(path_in, lang):
         doc = parse(doc)
 
         for sentence in doc:
-            raw = sentence.serialize()
+            utt = TokenList()
+
+            for item in sentence:
+                if item['upos'] != "_":
+                    utt.append(item)
+
+            raw = utt.serialize()
             data.append(raw)
 
     lang_train, validtext = train_test_split(data, random_state=42, test_size=.2)

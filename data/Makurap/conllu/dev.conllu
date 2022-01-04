@@ -1,12 +1,6 @@
-# sent_id = 9
-# text = etxekup keya
-# text_eng = He tears off a piece of wood and makes an arrow for himself (Wiriyo's text)
 1	etxekup	ekup	NOUN	n	Reflex=Yes	2	obj	_	_
 2	keya	key	VERB	vt	Aspect=Imp	0	root	_	_
 
-# sent_id = 18
-# text = ama ngot xiaret eya kurux amang ngot oen wimõ nitēt
-# text_eng = In the morning, the owner of the ngot arrived, he saw that the ngot had been completely eaten (Wiriyo's text)
 1	ama	ama	ADV	adv	_	4	advmod	_	_
 2	ngot	ngot	NOUN	n	_	3	nmod	_	_
 3	xiaret	iat	NOUN	n	Case=Gen|Rel=Cont	4	nsubj	_	_
@@ -18,9 +12,6 @@
 9	wimõ	wimõ	ADV	adv	_	8	advmod	_	_
 10	nitēt	nitēt	PART	pcl	_	8	discourse	_	_
 
-# sent_id = 30
-# text = kux kixa ngarap , pit
-# text_eng = He made a hole, digging the ground, nothing (Wiriyo's text)
 1	kux	kux	NOUN	n	_	2	obj	_	_
 2	kixa	kix	VERB	vt	Aspect=Imp	3	advcl	_	_
 3	ngarap	ngarap	VERB	vi	Aspect=Perf	0	root	_	_
