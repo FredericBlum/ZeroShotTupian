@@ -3271,5 +3271,5 @@
 7	kurɨ	kurɨ	PART	pcl	_	4	discourse	4:discourse	_
 8	.	.	PUNCT	punct	_	4	punct	4:punct	_
 
-1	Aʔepe	aʔe	PRON	pro	Case=Loc|PronType=Dem	2	obl	_	_
-2	hekon	eko	VERB	vi	NonFoc=Yes|Rel=NCont	0	root	_	_
+1	Aʔepe	aʔe	PRON	pro	Case=Loc|PronType=Dem	2	obl	2:obl	_
+2	hekon	eko	VERB	vi	NonFoc=Yes|Rel=NCont	0	root	0:root	_
