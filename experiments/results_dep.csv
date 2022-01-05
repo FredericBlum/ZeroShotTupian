@@ -13,11 +13,9 @@ gub	deprel	ind	1
 gub	deprel	ind	2								
 gub	deprel	ind	3								
 gub	deprel	ind	4								
-gub	deprel	ind	5	68.87	43.3	unk2					
-tpn	deprel	tupi3	1	66.28	44.19	unk3					
-tpn	deprel	ind	2	66.28	44.19						
+gub	deprel	ind	5								
+tpn	deprel	ind	1								
+tpn	deprel	ind	2								
 tpn	deprel	ind	3								
 tpn	deprel	ind	4								
 tpn	deprel	ind	5								
-upos3+azq	deprel	multi+3	1								
-upos3+myu	deprel	multi+3	1								

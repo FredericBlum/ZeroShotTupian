@@ -21,8 +21,7 @@ kaapor = make_testset(language = 'Kaapor')
 makurap = make_testset(language = 'Makurap')
 munduruku = make_testset(language = 'Munduruku')
 
-corpus = MultiCorpus([guajajara, karo, tupinamba])
-# corpus = karo
+corpus = MultiCorpus([karo, tupinamba])
 eval_corpus = MultiCorpus([akuntsu, kaapor, makurap, munduruku])
 
 label_type = 'upos'
