@@ -1,0 +1,1019 @@
+1	Naʔarewahɨ	naʔarew	ADV	adv	Emph=Yes	2	advmod	2:advmod	_
+2	oho	ho	VERB	vi	Person[subj]=3	0	root	0:root	_
+3	Kari	Kari	PROPN	pn	_	2	nsubj	2:nsubj	_
+4	takihe	takihe	NOUN	n	_	2	obl	2:obl	_
+5	ipiaromo	piar	ADP	posp	Case=Tra|Rel=NCont	4	case	4:case	_
+6	kurɨ	kurɨ	PART	pcl	_	2	discourse	2:discourse	_
+7	.	.	PUNCT	punct	_	2	punct	2:punct	_
+
+1	wira	wira	NOUN	n	_	7	ccomp	_	_
+2	hu	hu	NOUN	n	_	1	nmod	_	_
+3	ruʔu	ruʔu	PART	pcl	_	1	discourse	_	_
+4	aipo	aipo	PART	pcl	_	1	discourse	_	_
+5	ʔɨ	ʔɨ	PART	pcl	_	1	discourse	_	_
+6	,	,	PUNCT	punct	_	7	punct	_	_
+7	iʔi	ʔi	VERB	vt	Person[subj]=3	0	root	_	_
+8	izupe	zupe	ADP	posp	Case=Dat|Rel=NCont	7	iobj	_	_
+9	.	.	PUNCT	punct	_	7	punct	_	_
+
+1	Oʔok	ʔok	VERB	vt	Person[subj]=3	0	root	0:root	_
+2	teko	eko	NOUN	n	Rel=Abs	1	nsubj	1:nsubj	_
+3	maniʔok	maniʔok	NOUN	n	_	1	obj	1:obj	_
+4	ʔɨ	ʔɨ	NOUN	n	_	1	obl	1:obl	_
+5	wi	wi	ADP	posp	Rel=Cont	4	case	4:case	_
+6	kurɨ	kurɨ	PART	pcl	_	1	discourse	1:discourse	_
+
+1	Wenuhem	hem	VERB	vt	Person[subj]=3|Voice=Com	0	root	0:root	_
+2	uxapat	xapat	NOUN	n	Rel=Corf	1	obj	1:obj	_
+3	toʔom	toʔom	NOUN	n	_	1	obl	1:obl	_
+4	wi	wi	ADP	posp	Rel=Cont	3	case	3:case	_
+5	kurɨ	kurɨ	PART	pcl	_	1	discourse	1:discourse	_
+6	.	.	PUNCT	punct	_	1	punct	1:punct	_
+
+1	Exiroxiro	xiro	VERB	v	Mood=Imp|Person[subj]=2|Red=Di	0	root	_	_
+2	zo	zo	PART	pcl	_	1	discourse	_	_
+3	wanupe	upe	ADP	posp	Number=Plur|Person[psor]=3|Rel=Cont	1	iobj	_	_
+4	nehe	nehe	PART	pcl	_	1	discourse	_	_
+5	tɨ	tɨ	PART	pcl	_	1	discourse	_	_
+6	,	,	PUNCT	punct	_	1	punct	_	_
+7	maʔeputɨr	maʔeputɨr	NOUN	n	_	8	nmod	_	_
+8	tɨkwer	tɨ	NOUN	n	Nomzr=Pas	10	obj	_	_
+9	zogatu	zo	PART	pcl	Emph=Yes	10	discourse	_	_
+10	umuiʔe	iʔe	VERB	v	Person[subj]=3|Voice=Cau	1	conj	_	_
+11	putar	putar	ADV	adv	_	10	advmod	_	_
+12	aʔe	aʔe	PART	pcl	Person=3	10	discourse	_	_
+13	wà	wà	PART	pcl	Number=Plur	10	discourse	_	_
+14	tɨ	tɨ	PART	pcl	_	10	discourse	_	_
+15	aʔere	aʔe	PRON	pro	Case=Tem|PronType=Dem	16	obl	_	_
+16	oho	ho	VERB	v	Person[subj]=3	10	conj	_	_
+17	putar	putar	ADV	adv	_	16	advmod	_	_
+18	wà	wà	PART	pcl	Number=Plur	16	discourse	_	_
+19	kurɨ	kurɨ	PART	pcl	_	16	discourse	_	_
+20	.	.	PUNCT	punct	_	16	punct	_	_
+
+1	Aʔe	aʔe	PRON	pro	_	3	obl	_	_
+2	rupi	upi	ADP	posp	Rel=Cont	1	case	_	_
+3	uhaw	haw	VERB	v	Person[subj]=3	0	root	_	_
+4	awa	awa	NOUN	n	_	3	nsubj	_	_
+5	awaxi	awaxi	NOUN	n	_	3	obj	_	_
+6	oho	ho	VERB	vi	Person[subj]=3	3	dep	_	_
+7	wa	wa	PART	pcl	Number=Plur	3	discourse	_	_
+8	kurɨ	kurɨ	PART	pcl	_	3	discourse	_	_
+9	.	.	PUNCT	punct	_	3	punct	_	_
+
+1	Waro	aro	VERB	vt	Person[subj]=3	0	root	_	_
+2	Zuze	Zuze	PROPN	pn	_	1	nsubj	_	_
+3	aʔe	aʔe	PART	pcl	Person=3	1	discourse	_	_
+4	no	no	PART	pcl	_	1	discourse	_	_
+5	.	.	PUNCT	punct	_	1	punct	_	_
+
+1	Uʔu	ʔu	VERB	v	Person[subj]=3	0	root	_	_
+2	hoko	hoko	NOUN	n	_	1	nsubj	_	_
+3	akara	akara	NOUN	n	_	1	obl	_	_
+4	.	.	PUNCT	punct	_	1	punct	_	_
+
+1	Oho	ho	VERB	vi	Person[subj]=3	0	root	_	_
+2	hoko	hoko	NOUN	n	_	1	nsubj	_	_
+3	iko	iko	AUX	aux	Aspect=Prog|Person[subj]=3	1	aux	_	_
+4	ɨrɨhupe	ɨrɨk	NOUN	n	Case=All|Nomzr=DevPass	1	obl	_	_
+5	ipira	pira	NOUN	n	Rel=NCont	6	obj	_	_
+6	pɨhɨkpa	pɨhɨk	VERB	vt	VerbForm=Ger	1	advcl	_	_
+7	.	.	PUNCT	punct	_	1	punct	_	_
+
+1	Uzàn	zàn	VERB	vi	Person[subj]=3	0	root	0:root	_
+2	ko	ko	PRON	pro	PronType=Dem	1	obl	1:obl	_
+3	rupi	upi	ADP	posp	Rel=Cont	2	case	2:case	_
+4	,	,	PUNCT	punct	_	1	punct	1:punct	_
+5	uzàn	zàn	VERB	vi	Person[subj]=3	1	conj	1:conj	_
+6	kwe	kwe	PRON	pro	PronType=Dem	5	obl	5:obl	_
+7	rupi	upi	ADP	posp	Rel=Cont	6	case	6:case	_
+8	.	.	PUNCT	punct	_	5	punct	5:punct	_
+
+1	Wikuwe	we	VERB	vi	Aspect=Prog|Person[subj]=3	0	root	_	_
+2	kope	ko	NOUN	n	Case=Loc	1	obl	_	_
+3	wa	wa	PART	pcl	Number=Plur	1	discourse	_	_
+4	rihi	rihi	PART	pcl	_	1	discourse	_	_
+5	.	.	PUNCT	punct	_	1	punct	_	_
+
+1	Karuketeaʔi	karuk	NOUN	n	Dimin=Yes	0	root	_	_
+2	kurɨ	kurɨ	PART	pcl	_	1	discourse	_	_
+3	.	.	PUNCT	punct	_	1	punct	_	_
+
+1	Aʔere	aʔe	PRON	pro	Case=Tem|PronType=Dem	3	obl	_	_
+2	uzeapo	apo	VERB	v	Person[subj]=3|Reflex=Yes	0	root	_	_
+3	tahɨwai	ahɨw	NOUN	n	Dimin=Yes|Rel=Abs	4	nmod	_	_
+4	xixirogaturumu	xiro	NOUN	n	Case=Tra|Emph=Yes|Red=Mo|Rel=Cont	2	obl	_	_
+5	,	,	PUNCT	punct	_	2	punct	_	_
+6	naʔe	naʔe	PART	pcl	_	8	discourse	_	_
+7	zekaipo	kwehe	ADV	adv	Evident=Nfh	8	advmod	_	_
+8	uixe	ixe	VERB	v	Person[subj]=3	2	conj	_	_
+9	oho	ho	VERB	vi	Person[subj]=3	8	dep	_	_
+10	aʔe	aʔe	DET	dem	PronType=Dem	12	det	_	_
+11	tahɨwai	ahɨw	NOUN	n	Dimin=Yes|Rel=Abs	12	nmod	_	_
+12	ikwaw	kwaw	NOUN	n	Rel=NCont	8	obl	_	_
+13	rupi	upi	ADP	posp	Rel=Cont	12	case	_	_
+14	kurɨ	kurɨ	PART	pcl	_	8	discourse	_	_
+15	.	.	PUNCT	punct	_	8	punct	_	_
+
+1	Xo	xo	PART	pcl	_	2	discourse	2:discourse	_
+2	xapat	xapat	NOUN	n	_	4	obj	4:obj	_
+3	zo	zo	PART	pcl	_	2	discourse	2:discourse	_
+4	umeʔeg	meʔeg	VERB	v	Person[subj]=3	0	root	0:root	_
+5	kar	kar	ADV	adv	Voice=Cau	4	advmod	4:advmod	_
+6	.	.	PUNCT	punct	_	4	punct	4:punct	_
+
+1	Kwa	kwa	INTJ	intj	_	3	discourse	_	_
+2	!	!	PUNCT	punct	_	1	punct	_	_
+3	Napunerkwaw	apuner	VERB	v	Polarity=Neg	8	ccomp	_	_
+4	imonohaw	mono	NOUN	n	Nomzr=Circ|Rel=NCont	3	obj	_	_
+5	newe	we	ADP	posp	Person[psor]=2|Rel=Cont	3	obl	_	_
+6	tɨ	tɨ	PART	pcl	_	3	discourse	_	_
+7	,	,	PUNCT	punct	_	3	punct	_	_
+8	iʔi	ʔi	VERB	vt	Person[subj]=3	0	root	_	_
+9	tɨkɨʔɨr	ɨkɨʔɨr	NOUN	n	Rel=Abs	8	nsubj	_	_
+10	izupe	zupe	ADP	posp	Rel=NCont	8	iobj	_	_
+
+1	Heta	eta	VERB	vi	Person[subj]=3	0	root	_	_
+2	kara	kara	NOUN	n	_	1	nsubj	_	_
+3	teteaʔu	tete	ADV	adv	Emph=Yes	2	advmod	_	_
+4	kope	ko	NOUN	n	Case=Loc	1	obl	_	_
+5	.	.	PUNCT	punct	_	1	punct	_	_
+
+1	Hete	ete	VERB	vd	Rel=NCont	0	root	_	_
+2	katu	katu	ADV	adv	Emph=Yes	1	advmod	_	_
+3	kara	kara	NOUN	n	_	1	nsubj	_	_
+4	Zuzepe	Zuze	PROPN	pn	Case=Dat	1	obl	_	_
+5	aʔe	aʔe	DET	dem	PronType=Dem	4	discourse	_	_
+6	no	no	PART	pcl	_	1	discourse	_	_
+7	.	.	PUNCT	punct	_	1	punct	_	_
+
+1	Naʔe	naʔe	CCONJ	cc	_	7	discourse	7:discourse	_
+2	Zuze	Zuze	PROPN	pn	_	7	nsubj	7:nsubj	_
+3	aʔe	aʔe	PART	pcl	Person=3	2	discourse	2:discourse	_
+4	nehe	nehe	PART	pcl	Tense=Fut	2	discourse	2:discourse	_
+5	kurɨ	kurɨ	PART	pcl	_	2	discourse	2:discourse	_
+6	,	,	PUNCT	punct	_	2	punct	2:punct	_
+7	oho	ho	VERB	vi	Person[subj]=3	0	root	0:root	_
+8	putar	putar	ADV	adv	Tense=Fut	7	advmod	7:advmod	_
+9	tawpe	taw	NOUN	n	Case=All	7	obl	7:obl	_
+10	muhàg	hàg	NOUN	n	Voice=Cau	7	obl	7:obl	_
+11	ipiaromo	piar	ADP	posp	Case=Tra|Rel=NCont	10	case	10:case	_
+12	aʔe	aʔe	PART	pcl	Person=3	7	discourse	7:discourse	_
+13	nehe	nehe	PART	pcl	Tense=Fut	7	discourse	7:discourse	_
+14	kurɨ	kurɨ	PART	pcl	_	7	discourse	7:discourse	_
+15	.	.	PUNCT	punct	_	7	punct	7:punct	_
+
+1	Ikatu	katu	VERB	vd	Rel=NCont	0	root	0:root	_
+2	ahɨ	ahɨ	ADV	adv	_	1	advmod	1:advmod	_
+3	nànà	nànà	NOUN	n	_	1	nsubj	1:nsubj	_
+4	izupe	upe	ADP	posp	Rel=NCont	1	iobj	1:iobj	_
+5	.	.	PUNCT	punct	_	1	punct	1:punct	_
+
+1	Uputar	putar	VERB	v	Person[subj]=3	0	root	_	_
+2	awaxi	awaxi	NOUN	n	_	1	obj	_	_
+3	.	.	PUNCT	punct	_	1	punct	_	_
+
+1	Araha	ha	VERB	vt	Person[subj]=1|Voice=Com	12	ccomp	12:ccomp	_
+2	putar	putar	ADV	adv	Tense=Fut	1	advmod	1:advmod	_
+3	takihe	takihe	NOUN	n	_	1	obj	1:obj	_
+4	ihe	ihe	PRON	pro	Person=1|PronType=Prs	1	nsubj	1:nsubj	_
+5	nehe	nehe	PART	pcl	Tense=Fut	1	discourse	1:discourse	_
+6	,	,	PUNCT	punct	_	1	punct	1:punct	_
+7	mukaw	mukaw	NOUN	n	_	1	conj	1:conj	_
+8	ihe	ihe	PRON	pro	PronType=Prs	7	orphan	7:orphan	_
+9	nehe	nehe	PART	pcl	Tense=Fut	7	orphan	7:orphan	_
+10	no	no	PART	pcl	_	7	orphan	7:orphan	_
+11	,	,	PUNCT	punct	_	7	punct	7:punct	_
+12	iʔi	ʔi	VERB	vt	Person[subj]=3	0	root	0:root	_
+13	Zuze	Zuze	PROPN	pn	_	12	nsubj	12:nsubj	_
+14	izupe	upe	ADP	posp	Rel=NCont	12	iobj	12:iobj	_
+15	.	.	PUNCT	punct	_	12	punct	12:punct	_
+
+1	Heta	eta	VERB	vi	Person[subj]=3	0	root	_	_
+2	teteaʔu	tete	ADV	adv	Emph=Yes	1	advmod	_	_
+3	ipiraʔi	pira	NOUN	n	Dimin=Yes|Rel=Abs	1	nsubj	_	_
+4	ɨrɨhupe	ɨrɨk	NOUN	n	Case=Loc|Nomzr=DevPass	1	obl	_	_
+5	no	no	PART	pcl	_	1	discourse	_	_
+6	.	.	PUNCT	punct	_	1	punct	_	_
+
+1	Aʔe	aʔe	DET	dem	PronType=Dem	2	det	2:det	_
+2	awa	awa	NOUN	n	_	9	nsubj	9:nsubj	_
+3	aʔe	aʔe	PART	pcl	Person=3	2	discourse	2:discourse	_
+4	,	,	PUNCT	punct	_	6	punct	6:punct	_
+5	Zuze	Zuze	PROPN	pn	_	6	nmod	6:nmod	_
+6	tu	u	NOUN	n	Rel=Abs	2	appos	2:appos	_
+7	aʔe	aʔe	PART	pcl	Person=3	6	discourse	6:discourse	_
+8	,	,	PUNCT	punct	_	6	punct	6:punct	_
+9	wapɨk	apɨk	VERB	v	Person[subj]=3	0	root	0:root	_
+10	ko	ko	NOUN	n	_	9	obl	9:obl	_
+11	iwɨr	wɨr	ADP	posp	Rel=NCont	10	case	10:case	_
+12	aʔe	aʔe	PART	pcl	Person=3	9	discourse	9:discourse	_
+13	,	,	PUNCT	punct	_	15	punct	15:punct	_
+14	waʔɨr	aʔɨr	NOUN	n	Rel=Corf	15	nmod	15:nmod	_
+15	haropa	aro	VERB	v	Rel=NCont|VerbForm=Ger	9	advcl	9:advcl	_
+16	aʔe	aʔe	PART	pcl	Person=3	15	discourse	15:discourse	_
+17	.	.	PUNCT	punct	_	9	punct	9:punct	_
+
+1	Werur	ur	VERB	vt	Person[subj]=3|Voice=Com	0	root	_	_
+2	zapepo	zapepo	NOUN	n	_	3	nmod	_	_
+3	ipɨahumaʔe	pɨahu	NOUN	n	Nomzr=Abs|Rel=NCont	1	obj	_	_
+4	taw	taw	NOUN	n	_	1	obl	_	_
+5	wi	wi	ADP	posp	Rel=Cont	4	case	_	_
+6	.	.	PUNCT	punct	_	1	punct	_	_
+
+1	Uʔu	ʔu	VERB	v	Person[subj]=3	0	root	_	_
+2	ipira	pira	NOUN	n	Rel=Abs	1	obj	_	_
+3	teteaʔu	tete	ADV	adv	Emph=Yes	2	advmod	_	_
+4	.	.	PUNCT	punct	_	1	punct	_	_
+
+1	Oho	ho	VERB	vi	Person[subj]=3	0	root	_	_
+2	Mari	Mari	PROPN	pn	_	3	nmod	_	_
+3	memɨraʔi	memɨr	NOUN	n	Dimin=Yes|Rel=Cont	1	nsubj	_	_
+4	aʔe	aʔe	PART	pcl	Person=3	1	discourse	_	_
+5	no	no	PART	pcl	_	1	discourse	_	_
+6	.	.	PUNCT	punct	_	1	punct	_	_
+
+1	Uhaw	haw	VERB	v	Person[subj]=3	0	root	_	_
+2	awaxi	awaxi	NOUN	n	_	1	obj	_	_
+3	paw	paw	DET	dem	PronType=Tot	2	det	_	_
+4	aʔe	aʔe	PART	pcl	Person=3	1	discourse	_	_
+5	wa	wa	PART	pcl	Number=Plur	1	discourse	_	_
+6	.	.	PUNCT	punct	_	1	punct	_	_
+
+1	Maʔe	maʔe	NOUN	n	_	4	obj	4:obj	_
+2	taz	taz	NOUN	n	_	4	nsubj	4:nsubj	_
+3	ahu	hu	NOUN	n	_	2	nmod	2:nmod	_
+4	uʔu	ʔu	VERB	vt	Person[subj]=3	0	root	0:root	_
+5	kope	ko	NOUN	n	Case=All	4	obl	4:obl	_
+6	raʔe	raʔe	PART	pcl	Tense=Past	4	discourse	4:discourse	_
+7	.	.	PUNCT	punct	_	4	punct	4:punct	_
+
+1	Mair	mair	PROPN	ppn	_	2	nsubj	2:nsubj	_
+2	iʔi	ʔi	VERB	vt	Person[subj]=3	0	root	0:root	_
+3	izupe	zupe	ADP	posp	Rel=NCont	2	iobj	2:iobj	_
+4	:	:	PUNCT	punct	_	2	punct	2:punct	_
+5	Heta	Heta	VERB	v	Rel=NCont	10	ccomp	10:ccomp	_
+6	hepuneraw	epuner	NOUN	n	Nomzr=Circ|Rel=NCont	7	nmod	7:nmod	_
+7	purumukatuhaw	katu	NOUN	n	Detrans=Ind|Nomzr=Circ|Rel=Cont|Voice=Cau	5	nsubj	5:nsubj	_
+8	ihe	ihe	PART	pcl	Person=1	5	discourse	5:discourse	_
+9	tɨ	tɨ	PART	pcl	_	5	discourse	5:discourse	_
+10	iʔiʔ	ʔi	VERB	vt	Person[subj]=3	2	parataxis	2:parataxis	_
+11	izupe	zupe	ADP	posp	Rel=NCont	10	iobj	10:iobj	_
+12	.	.	PUNCT	punct	_	10	punct	10:punct	_
+
+1	Aʔe	aʔe	PRON	pro	Person=3|PronType=Dem	3	nsubj	3:nsubj	_
+2	ae	ae	PART	pcl	Emph=Yes	1	discourse	1:discourse	_
+3	umumeʔuputar	mumeʔuputar	VERB	vt	Person[subj]=3|Tense=Fut|Voice=Cau	0	root	0:root	_
+4	hemiapokwer	apo	NOUN	n	Nomzr=DevPass|Number=Sing|Person[psor]=1|Poss=Yes|Tense=Past	3	obj	3:obj	_
+5	aʔe	aʔe	PART	pcl	Person=3	3	discourse	3:discourse	_
+6	nehe	nehe	PART	pcl	Tense=Fut	3	discourse	3:discourse	_
+
+1	Epoʔo	poʔo	VERB	vt	Mood=Imp|Person=2	5	ccomp	5:ccomp	_
+2	zo	zo	ADV	adv	_	1	advmod	1:advmod	_
+3	rihi	rihi	PART	pcl	_	1	discourse	1:discourse	_
+4	,	,	PUNCT	punct	_	1	punct	1:punct	_
+5	iʔi	ʔi	VERB	v	Person[subj]=3	0	root	0:root	_
+6	Zuze	Zuze	PROPN	pn	_	5	nsubj	5:nsubj	_
+7	wazɨrpe	azɨr	NOUN	n	Case=Dat|Rel=Corf	5	obl	5:obl	_
+8	.	.	PUNCT	punct	_	5	punct	5:punct	_
+
+1	Imomorpa	momor	VERB	v	Rel=NCont|VerbForm=Ger	0	root	_	_
+2	uʔɨw	uʔɨw	NOUN	n	_	1	obl	_	_
+3	hehe	ehe	ADP	posp	Rel=NCont	2	case	_	_
+4	kurɨ	kurɨ	PART	pcl	_	1	discourse	_	_
+5	.	.	PUNCT	punct	_	1	punct	_	_
+
+1	Imaʔeahɨ	ahɨ	VERB	vd	Rel=NCont	0	root	0:root	_
+2	zekaipo	kwehe	ADV	adv	Evident=Nfh	1	advmod	1:advmod	_
+3	.	.	PUNCT	punct	_	1	punct	1:punct	_
+
+1	Aputar	putar	VERB	vt	Person[subj]=1	0	root	_	_
+2	aipo	aipo	DET	dem	PronType=Dem	3	det	_	_
+3	maʔe	maʔe	NOUN	n	_	1	obj	_	_
+4	ihe	ihe	PRON	pro	PronType=Prs	1	nsubj	_	_
+
+1	Aʔe	aʔe	PRON	pro	PronType=Dem	3	obl	3:obl	_
+2	re	re	ADP	posp	Rel=Cont	1	case	1:case	_
+3	waraha	ha	VERB	vi	Number=Plur|Person[subj]=3|Voice=Com	0	root	0:root	_
+4	zekaipo	kwehe	ADV	adv	Evident=Nfh	3	advmod	3:advmod	_
+5	imugwerawpa	gweraw	VERB	vt	Rel=NCont|VerbForm=Ger|Voice=Cau	3	advcl	3:advcl	_
+6	wà	wà	PART	pcl	Number=Plur	3	discourse	3:discourse	_
+7	.	.	PUNCT	punct	_	3	punct	3:punct	_
+
+1	Ikatu	katu	VERB	vd	Rel=NCont	0	root	_	_
+2	ahɨ	ahɨ	ADV	adv	_	1	advmod	_	_
+3	zapepo	zapepo	NOUN	n	_	1	nsubj	_	_
+4	Maripe	Mari	PROPN	pn	Case=Dat	1	obl	_	_
+5	.	.	PUNCT	punct	_	1	punct	_	_
+
+1	Uzuhez	zuhez	VERB	vt	Person[subj]=3	0	root	0:root	_
+2	katu	katu	ADV	adv	Emph=Yes	1	advmod	1:advmod	_
+3	tazahu	taz	NOUN	n	_	1	nsubj	1:nsubj	_
+4	ahu	hu	NOUN	n	_	3	nmod	3:nmod	_
+5	kara	kara	NOUN	n	_	1	obj	1:obj	_
+6	aʔe	aʔe	PART	pcl	Person=3	1	discourse	1:discourse	_
+7	.	.	PUNCT	punct	_	1	punct	1:punct	_
+
+1	Waro	aro	VERB	vt	Person[subj]=3	0	root	_	_
+2	Zuze	Zuze	PROPN	pn	_	1	nsubj	_	_
+3	arapuha	arapuha	NOUN	n	_	4	nmod	_	_
+4	turhaw	ur	NOUN	n	Nomzr=Abs|Rel=Abs	1	obj	_	_
+5	.	.	PUNCT	punct	_	1	punct	_	_
+
+1	Hurɨwete	urɨw	VERB	v	Person[subj]=3	0	root	_	_
+2	ahɨ	ahɨ	ADV	adv	_	1	advmod	_	_
+3	Zuze	Zuze	PROPN	pn	_	1	nsubj	_	_
+4	aʔe	aʔe	PART	pcl	Person=3	1	discourse	_	_
+5	.	.	PUNCT	punct	_	1	punct	_	_
+
+1	Okwa	okwa	INTJ	intj	_	3	discourse	_	_
+2	!	!	PUNCT	punct	_	1	punct	_	_
+3	Emururapiʔez	mururapiʔez	VERB	v	Mood=Imp|Person[subj]=2	0	root	_	_
+4	ihewe	we	ADP	posp	Case=Dat|Rel=NCont	3	obl	_	_
+5	tɨ	tɨ	PART	pcl	_	3	discourse	_	_
+6	tazuka	zuka	VERB	vt	Person[subj]=1	3	conj	_	_
+7	kutu	kutu	VERB	v	_	6	dep	_	_
+8	wiràmiri	wiràmiri	NOUN	n	_	6	obj	_	_
+9	hemaʔe	maʔe	NOUN	n	Number=Sing|Person[psor]=1|Poss=Yes|Rel=Cont	10	nmod	_	_
+10	izapopɨràm	zapo	NOUN	n	Nomzr=Pas|Rel=NCont|Tense=Fut	6	obl	_	_
+11	rehe	ehe	ADP	posp	Rel=Cont	10	case	_	_
+12	ihe	ihe	PRON	pro	PronType=Prs	6	nsubj	_	_
+13	no	no	PART	pcl	_	6	discourse	_	_
+14	tɨ	tɨ	PART	pcl	_	6	discourse	_	_
+15	,	,	PUNCT	punct	_	6	punct	_	_
+16	taʔe	taʔe	CCONJ	cc	_	17	mark	_	_
+17	izapopawete	zapo	VERB	vt	Aspect=Perf|Emph=Yes|Rel=NCont	6	ccomp	_	_
+18	nemaʔe	maʔe	NOUN	n	Number=Sing|Person[psor]=2|Poss=Yes	17	obj	_	_
+19	ne	ne	PART	pcl	Person=2	17	discourse	_	_
+20	wà	wà	PART	pcl	Number=Plur	17	discourse	_	_
+21	riʔi	riʔi	PART	pcl	_	17	discourse	_	_
+22	xe	xe	PART	pcl	_	17	discourse	_	_
+23	.	.	PUNCT	punct	_	17	punct	_	_
+
+1	Aʔe	aʔe	PRON	pro	PronType=Dem	3	obl	3:obl	_
+2	rupi	upi	ADP	posp	Rel=Cont	1	case	1:case	_
+3	iho	ho	VERB	vi	Rel=NCont	6	advcl	6:advcl	_
+4	mehe	mehe	ADV	adv	_	3	mark	3:mark	_
+5	,	,	PUNCT	punct	_	3	punct	3:punct	_
+6	upɨta	pɨta	VERB	vi	Person[subj]=3	0	root	0:root	_
+7	ixapat	xapat	NOUN	n	Rel=NCont	6	nsubj	6:nsubj	_
+8	xigmaʔe	xig	NOUN	n	Nomzr=Abs|Rel=Cont	7	nmod	7:nmod	_
+9	toʔom	toʔom	NOUN	n	_	6	obl	6:obl	_
+10	pupe	pupe	ADP	posp	Rel=Cont	9	case	9:case	_
+11	kurɨ	kurɨ	PART	pcl	_	6	discourse	6:discourse	_
+12	.	.	PUNCT	punct	_	6	punct	6:punct	_
+
+1	Wata	ata	VERB	vi	Person[subj]=3	0	root	0:root	_
+2	we	we	PART	pcl	_	1	discourse	1:discourse	_
+3	oho	ho	VERB	vi	Person[subj]=3	1	dep	1:dep	_
+4	Zuze	Zuze	PROPN	pn	_	1	nsubj	1:nsubj	_
+5	aʔe	aʔe	PART	pcl	Person=3	1	discourse	1:discourse	_
+6	.	.	PUNCT	punct	_	1	punct	1:punct	_
+
+1	Upaw	paw	VERB	vi	Person[subj]=3	0	root	0:root	_
+2	wamai	maʔe	NOUN	n	Number=Plur|Person[psor]=3|Poss=Yes	1	nsubj	1:nsubj	_
+3	ʔuhaw	ʔu	NOUN	n	Nomzr=Circ	2	nmod	2:nmod	_
+4	wà	wà	PART	pcl	Number=Plur|Person=3	1	discourse	1:discourse	_
+5	kurɨ	kurɨ	PART	pcl	_	1	discourse	1:discourse	_
+6	.	.	PUNCT	punct	_	1	punct	1:punct	_
+
+1	Ukamu	kamu	VERB	v	Person[subj]=3	0	root	_	_
+2	aʔe	aʔe	PRON	pro	Person=3	1	nsubj	_	_
+3	.	.	PUNCT	punct	_	1	punct	_	_
+
+1	Aʔe	aʔe	DET	det	PronType=Dem	2	det	_	_
+2	kuʔem	kuʔem	NOUN	n	_	4	obl	_	_
+3	re	re	ADP	posp	Rel=Cont	2	case	_	_
+4	oho	ho	VERB	v	Person[subj]=3	0	root	_	_
+5	zekaipo	kwehe	ADV	adv	Evident=Nfh	4	advmod	_	_
+6	wɨkɨʔɨm	ɨkɨʔɨr	NOUN	n	Rel=Corf	7	nmod	_	_
+7	hukaz	ukaz	NOUN	n	Rel=NCont	4	obl	_	_
+8	pupe	pupe	ADP	posp	Rel=Cont	7	case	_	_
+9	kurɨ	kurɨ	PART	pcl	_	4	discourse	_	_
+10	.	.	PUNCT	punct	_	4	punct	_	_
+
+1	Oho	ho	VERB	vi	Person[subj]=3	0	root	_	_
+2	Zuze	Zuze	PROPN	pn	_	1	nsubj	_	_
+3	tawpe	taw	NOUN	n	Case=All	1	obl	_	_
+4	aʔe	aʔe	PART	pcl	Person=3	1	discourse	_	_
+5	kurɨ	kurɨ	PART	pcl	_	1	discourse	_	_
+6	,	,	PUNCT	punct	_	1	punct	_	_
+7	u	u	NOUN	n	Rel=Corf	1	obl	_	_
+8	rupi	upi	ADP	posp	Rel=Cont	7	case	_	_
+9	aʔe	aʔe	PART	pcl	Person=3	7	discourse	_	_
+10	kurɨ	kurɨ	PART	pcl	_	7	discourse	_	_
+11	.	.	PUNCT	punct	_	7	punct	_	_
+
+1	Nuexak	exak	VERB	vt	Person[subj]=3|Polarity=Neg	0	root	0:root	_
+2	kwaw	kwaw	ADV	adv	Polarity=Neg	1	advmod	1:advmod	_
+3	.	.	PUNCT	punct	_	1	punct	1:punct	_
+
+1	Uhewikàzxi	hewikàz	VERB	v	Person[subj]=3|Tense=Past	0	root	_	_
+2	zekaipo	kwehe	ADV	adv	Evident=Nfh	1	advmod	_	_
+3	tɨkɨʔɨr	ɨkɨʔɨr	NOUN	n	Rel=Abs	1	nsubj	_	_
+4	aʔe	aʔe	DET	dem	PronType=Dem	6	det	_	_
+5	ɨaʔo	ɨaʔo	NOUN	n	_	6	nmod	_	_
+6	ikwar	kwar	NOUN	n	Rel=NCont	1	obj	_	_
+7	aʔe	aʔe	PART	pcl	Person=3	1	discourse	_	_
+8	,	,	PUNCT	punct	_	1	punct	_	_
+9	nuhemkwaw	hem	VERB	v	Person[subj]=3|Polarity=Neg	1	conj	_	_
+10	zekaipo	kwehe	ADV	adv	Evident=Nfh	9	advmod	_	_
+11	aʔe	aʔe	DET	dem	PronType=Dem	12	det	_	_
+12	wanekohawpe	eko	NOUN	n	Case=Loc|Nomzr=Circ|Number=Plur|Person[psor]=3|Rel=Cont	9	obl	_	_
+13	.	.	PUNCT	punct	_	12	punct	_	_
+
+1	Zuze	Zuze	PROPN	ppn	_	2	nmod	_	_
+2	reimaw	eimaw	NOUN	n	Rel=Cont	5	nsubj	_	_
+3	aʔe	aʔe	PART	pcl	Person=3	2	discourse	_	_
+4	,	,	PUNCT	punct	_	2	punct	_	_
+5	uʔu	ʔu	VERB	v	Person[subj]=3	0	root	_	_
+6	kupiʔi	kupiʔi	NOUN	n	_	5	obj	_	_
+7	iko	iko	AUX	aux	Aspect=Prog|Person[subj]=3	5	aux	_	_
+8	aʔe	aʔe	PART	pcl	Person=3	5	discourse	_	_
+9	.	.	PUNCT	punct	_	5	punct	_	_
+
+1	Tàpuz	àpuz	NOUN	n	Rel=Abs	0	root	0:root	_
+2	me	me	ADP	posp	Rel=Cont	1	case	1:case	_
+3	ruʔu	ruʔu	PART	pcl	Int=Yes	1	discourse	1:discourse	_
+4	.	.	PUNCT	punct	_	1	punct	1:punct	_
+
+1	Aʔe	aʔe	PRON	pro	Person=3	3	nsubj	3:nsubj	_
+2	ae	ae	PART	pcl	Emph=Yes	1	discourse	1:discourse	_
+3	umumeʔuputar	meʔu	VERB	vt	Person[subj]=3|Tense=Fut|Voice=Cau	0	root	0:root	_
+4	wanemiapokwer	apo	NOUN	n	Nomzr=DevPass|Number=Plur|Person[psor]=3|Rel=Cont|Tense=Past	3	obj	3:obj	_
+5	nehe	nehe	PART	pcl	Tense=Fut	3	discourse	3:discourse	_
+6	.	.	PUNCT	punct	_	3	punct	3:punct	_
+
+1	Uʔu	ʔu	VERB	v	Person[subj]=3	0	root	_	_
+2	zapukaz	zapukaz	NOUN	n	_	1	nsubj	_	_
+3	kupiʔi	kupiʔi	NOUN	n	_	1	obj	_	_
+4	iko	iko	AUX	aux	Aspect=Prog|Person[subj]=3	1	aux	_	_
+5	aʔe	aʔe	PART	pcl	Person=3	1	discourse	_	_
+6	.	.	PUNCT	punct	_	1	punct	_	_
+
+1	Taritɨkaʔi	taritɨk	ADV	adv	Dimin=Yes	2	advmod	_	_
+2	oho	ho	VERB	vi	Person[subj]=3	0	root	_	_
+3	mahaw	mahaw	NOUN	n	_	2	nsubj	_	_
+4	aʔe	aʔe	PRON	pro	PronType=Dem	2	obl	_	_
+5	wi	wi	ADP	posp	Rel=Cont	4	case	_	_
+6	.	.	PUNCT	punct	_	2	punct	_	_
+
+1	Aʔe	aʔe	PRON	pro	PronType=Dem	2	det	_	_
+2	awa	awa	NOUN	n	_	9	nsubj	_	_
+3	aʔe	aʔe	PART	pcl	Person=3	2	discourse	_	_
+4	,	,	PUNCT	punct	_	6	punct	_	_
+5	Zuze	Zuze	PROPN	pn	_	6	nmod	_	_
+6	tu	u	NOUN	n	Rel=Abs	2	appos	_	_
+7	aʔe	aʔe	PART	pcl	Person=3	6	discourse	_	_
+8	,	,	PUNCT	punct	_	6	punct	_	_
+9	oho	ho	VERB	vi	Person[subj]=3	0	root	_	_
+10	kope	ko	NOUN	n	Case=All	9	obl	_	_
+11	amo	amo	DET	dem	PronType=Ind	12	det	_	_
+12	maʔe	maʔe	NOUN	n	_	9	obl	_	_
+13	ipiaromo	piar	ADP	posp	Case=Tra|Rel=NCont	12	nmod	_	_
+14	.	.	PUNCT	punct	_	9	punct	_	_
+
+1	Wezɨw	ezɨw	VERB	vi	Person[subj]=3	0	root	0:root	_
+2	aguza	aguza	NOUN	n	_	1	nsubj	1:nsubj	_
+3	wà	wà	PART	pcl	Number=Plur|Person=3	1	discourse	1:discourse	_
+4	huake	uake	ADP	posp	Rel=NCont	1	obl	1:obl	_
+5	aʔi	aʔi	ADV	adv	Emph=Yes	4	advmod	4:advmod	_
+6	aʔe	aʔe	PART	pcl	Person=3	1	discourse	1:discourse	_
+7	kurɨ	kurɨ	PART	pcl	_	1	discourse	1:discourse	_
+8	,	,	PUNCT	punct	_	1	punct	1:punct	_
+9	temiʔu	ʔu	NOUN	n	Nomzr=DevPass|Rel=Abs	13	obj	13:obj	_
+10	ɨwɨ	ɨwɨ	NOUN	n	_	9	nmod	9:nmod	_
+11	rehe	ehe	ADP	posp	Rel=Cont	10	case	10:case	_
+12	har	har	ADV	adv	Nomzr=Ag	10	advmod	10:advmod	_
+13	hekarpa	ekar	VERB	vt	Rel=NCont|VerbForm=Ger	1	advcl	1:advcl	_
+14	aʔe	aʔe	PART	pcl	Person=3	13	discourse	13:discourse	_
+15	kurɨ	kurɨ	PART	pcl	_	13	discourse	13:discourse	_
+16	.	.	PUNCT	punct	_	13	punct	13:punct	_
+
+1	Pɨhaw	pɨ	NOUN	n	Nomzr=Circ	2	obl	2:obl	_
+2	ur	zur	VERB	vi	Person[subj]=3	0	root	0:root	_
+3	aguza	aguza	NOUN	n	_	2	nsubj	2:nsubj	_
+4	Zuze	Zuze	PROPN	pn	_	5	nmod	5:nmod	_
+5	ràpuz	àpuz	NOUN	n	Rel=Cont	2	obl	2:obl	_
+6	me	me	ADP	posp	Rel=Cont	5	case	5:case	_
+7	.	.	PUNCT	punct	_	2	punct	2:punct	_
+
+1	Awa	awa	NOUN	n	_	2	nsubj	2:nsubj	_
+2	wekar	ekar	VERB	vt	Person[subj]=3	0	root	0:root	_
+3	tapiʔir	tapiʔir	NOUN	n	Rel=Abs	2	obj	2:obj	_
+4	iko	iko	AUX	aux	Aspect=Prog|Person[subj]=3	2	aux	2:aux	_
+
+1	Tɨwɨr	ɨwɨr	NOUN	n	Rel=Abs	4	nsubj	4:nsubj	_
+2	Mairaʔi	Maira	PROPN	ppn	Dimin=Yes	1	flat	1:flat	_
+3	,	,	PUNCT	punct	_	1	punct	1:punct	_
+4	nukwaw	kwaw	VERB	vt	Person[subj]=3|Polarity=Neg	0	root	0:root	_
+5	kwaw	kwaw	ADV	adv	Polarity=Neg	4	advmod	4:advmod	_
+6	maʔe	maʔe	NOUN	n	_	7	nmod	7:nmod	_
+7	izapomaʔe	zapo	NOUN	n	Nomzr=Abs|Rel=NCont	4	obj	4:obj	_
+8	aʔe	aʔe	PART	pcl	Person=3	4	discourse	4:discourse	_
+9	,	,	PUNCT	punct	_	4	punct	4:punct	_
+10	naʔe	naʔe	PART	pcl	_	4	discourse	4:discourse	_
+11	uzewɨrɨ	zewɨr	VERB	v	Person[subj]=3	4	conj	4:conj	_
+12	oho	ho	VERB	vi	Person[subj]=3	11	dep	11:dep	_
+13	wekohawpe	eko	NOUN	n	Case=Loc|Nomzr=Circ|Rel=Corf	11	obl	11:obl	_
+14	wà	wà	PART	pcl	Number=Plur	11	discourse	11:discourse	_
+15	kurɨ	kurɨ	PART	pcl	_	11	discourse	11:discourse	_
+16	.	.	PUNCT	punct	_	11	punct	11:punct	_
+
+1	Wagaw	agaw	VERB	v	Person[subj]=3	0	root	_	_
+2	uʔɨw	uʔɨw	NOUN	n	_	1	obj	_	_
+3	aʔe	aʔe	PRON	pro	PronType=Dem	1	obl	_	_
+4	rehe	ehe	ADP	posp	Rel=Cont	3	case	_	_
+5	,	,	PUNCT	punct	_	1	punct	_	_
+6	umutɨk	mutɨk	VERB	v	Person[subj]=3	1	conj	_	_
+7	zekaipo	kwehe	ADV	adv	Evident=Nfh	6	advmod	_	_
+8	wɨrapar	wɨrapar	NOUN	n	_	6	obj	_	_
+9	kurɨ	kurɨ	PART	pcl	_	6	discourse	_	_
+10	.	.	PUNCT	punct	_	6	punct	_	_
+
+1	Anɨra	anɨra	NOUN	n	_	2	nsubj	_	_
+2	zanexiʔu	xiʔu	VERB	vt	Clusivity=In|Number=Plur|Person[psor]=1	0	root	_	_
+3	pɨhaw	pɨ	NOUN	n	Nomzr=Circ	2	obl	_	_
+4	aʔe	aʔe	PART	pcl	Person=3	1	discourse	_	_
+
+1	Omono	ho	VERB	vt	Person[subj]=3|Voice=Cau	0	root	0:root	_
+2	kɨhaw	kɨhaw	NOUN	n	_	1	nsubj	1:nsubj	_
+3	kwarahɨ	kwarahɨ	NOUN	n	_	1	obl	1:obl	_
+4	rupi	upi	ADP	posp	Rel=Cont	3	case	3:case	_
+5	.	.	PUNCT	punct	_	1	punct	1:punct	_
+
+1	Iazu	azu	VERB	vd	Rel=NCont	0	root	0:root	_
+2	tue	tue	PART	pcl	Emph=Yes	1	discourse	1:discourse	_
+3	nànà	nànà	NOUN	n	_	1	obj	1:obj	_
+4	.	.	PUNCT	punct	_	1	punct	1:punct	_
+
+1	Heta	eta	VERB	vi	Person[subj]=3	0	root	_	_
+2	muhu	muhu	NOUN	n	_	1	nsubj	_	_
+3	toʔom	toʔom	NOUN	n	_	1	obl	_	_
+4	pupe	pupe	ADP	posp	Rel=Cont	3	case	_	_
+5	.	.	PUNCT	punct	_	1	punct	_	_
+
+1	Ur	zur	VERB	v	Person[subj]=3	0	root	_	_
+2	mahaw	mahaw	NOUN	n	_	1	nsubj	_	_
+3	kope	ko	NOUN	n	Case=All	1	obl	_	_
+4	kurɨ	kurɨ	PART	pcl	_	1	discourse	_	_
+5	.	.	PUNCT	punct	_	1	punct	_	_
+
+1	Kaʔapiʔi	kaʔapiʔi	NOUN	n	_	2	nsubj	_	_
+2	umim	mim	VERB	vt	Person[subj]=3	0	root	_	_
+3	ipira	pira	NOUN	n	Rel=Abs	2	obj	_	_
+4	.	.	PUNCT	punct	_	2	punct	_	_
+
+1	Upɨhɨk	pɨhɨk	VERB	v	Person[subj]=3	0	root	_	_
+2	hoko	hoko	NOUN	n	_	1	nsubj	_	_
+3	akara	akara	NOUN	n	_	1	obj	_	_
+4	uxi	xi	NOUN	n	Rel=Corf	1	obl	_	_
+5	pupe	pupe	ADP	posp	Rel=Cont	4	case	_	_
+6	.	.	PUNCT	punct	_	1	punct	_	_
+
+1	Ne	ne	PRON	pro	PronType=Prs	7	ccomp	_	_
+2	xixirog	xixirog	ADV	adv	_	1	advmod	_	_
+3	wer	wer	ADV	adv	_	1	advmod	_	_
+4	wanupe	upe	ADP	posp	Number=Plur|Person[psor]=3|Rel=Cont	1	obl	_	_
+5	riʔi	riʔi	PART	pcl	_	1	discourse	_	_
+6	tɨ	tɨ	PART	pcl	_	1	discourse	_	_
+7	iʔi	ʔi	VERB	vt	Person[subj]=3	0	root	_	_
+8	izeupe	upe	NOUN	n	Reflex=Yes|Rel=NCont	7	iobj	_	_
+9	.	.	PUNCT	punct	_	7	punct	_	_
+
+1	Aikwez	aikwez	DET	dem	PronType=Dem	2	det	_	_
+2	aʔe	aʔe	PRON	pro	Person=3|PronType=Prs	0	root	_	_
+
+1	Umim	mim	VERB	v	Person[subj]=3	0	root	_	_
+2	akara	akara	NOUN	n	_	1	obj	_	_
+3	.	.	PUNCT	punct	_	1	punct	_	_
+
+1	Oho	ho	VERB	vi	Person[subj]=3	0	root	_	_
+2	akara	akara	NOUN	n	_	1	obl	_	_
+3	amo	amo	DET	dem	PronType=Ind	4	det	_	_
+4	ʔɨpe	ʔɨ	NOUN	n	Case=All	1	obl	_	_
+5	.	.	PUNCT	punct	_	1	punct	_	_
+
+1	Heta	eta	VERB	vi	Person[subj]=3	0	root	_	_
+2	kara	kara	NOUN	n	_	1	nsubj	_	_
+3	teteaʔu	tete	ADV	adv	Emph=Yes	2	advmod	_	_
+4	.	.	PUNCT	punct	_	1	punct	_	_
+
+1	Weraha	ha	VERB	vt	Person[subj]=3|Voice=Com	0	root	_	_
+2	Zuze	Zuze	PROPN	pn	_	1	nsubj	_	_
+3	kɨhaw	kɨhaw	NOUN	n	_	1	obj	_	_
+4	kurɨ	kurɨ	PART	pcl	_	1	discourse	_	_
+5	,	,	PUNCT	punct	_	7	punct	_	_
+6	arapuha	arapuha	NOUN	n	_	7	obj	_	_
+7	haropa	aro	VERB	vt	Rel=NCont|VerbForm=Ger	1	advcl	_	_
+8	ɨwate	ɨwak	ADV	adv	_	7	advmod	_	_
+9	kurɨ	kurɨ	PART	pcl	_	7	discourse	_	_
+10	.	.	PUNCT	punct	_	7	punct	_	_
+
+1	Ipuku	puku	VERB	vd	Rel=NCont	0	root	_	_
+2	aʔu	aʔu	ADV	adv	Emph=Yes	1	advmod	_	_
+3	ipɨ	pɨ	NOUN	n	Rel=NCont	1	nsubj	_	_
+4	no	no	PART	pcl	_	1	discourse	_	_
+5	.	.	PUNCT	punct	_	1	punct	_	_
+
+1	Ipira	pira	NOUN	n	Rel=NCont	2	nmod	2:nmod	_
+2	àkàgwer	àkàg	NOUN	n	Rel=Cont|Tense=Past	5	nsubj	5:nsubj	_
+3	ruʔu	ruʔu	PART	pcl	Int=Yes	2	discourse	2:discourse	_
+4	,	,	PUNCT	punct	_	2	punct	2:punct	_
+5	inemahɨ	nem	VERB	vd	Emph=Yes|Rel=NCont	10	ccomp	10:ccomp	_
+6	ruʔu	ruʔu	PART	pcl	Int=Yes	5	discourse	5:discourse	_
+7	pepe	pepe	NOUN	n	Case=Loc	5	obl	5:obl	_
+8	no	no	PART	pcl	_	5	discourse	5:discourse	_
+9	,	,	PUNCT	punct	_	5	punct	5:punct	_
+10	iʔi	ʔi	VERB	vt	Person[subj]=3	0	root	0:root	_
+11	Zuze	Zuze	PROPN	pn	_	12	nmod	12:nmod	_
+12	ihɨ	hɨ	NOUN	n	Rel=NCont	10	nsubj	10:nsubj	_
+13	amogwer	amo	NOUN	n	Number=Coll|PronType=Ind	10	iobj	10:iobj	_
+14	wanupe	upe	ADP	posp	Number=Plur|Person=3|Rel=Cont	13	case	13:case	_
+
+1	Heta	eta	VERB	vi	Person[subj]=3	0	root	_	_
+2	awaxi	awaxi	NOUN	n	_	1	nsubj	_	_
+3	Zuze	Zuze	PROPN	pn	_	4	nmod	_	_
+4	kope	ko	NOUN	n	Case=Loc	1	obl	_	_
+5	.	.	PUNCT	punct	_	1	punct	_	_
+
+1	Uzemumik	zemumik	VERB	v	Person[subj]=3	0	root	0:root	_
+2	ahɨ	ahɨ	ADV	adv	Emph=Yes	1	advmod	1:advmod	_
+3	zumen	zumen	NOUN	n	_	1	nsubj	1:nsubj	_
+4	kurɨ	kurɨ	PART	pcl	_	1	discourse	1:discourse	_
+5	.	.	PUNCT	punct	_	1	punct	1:punct	_
+
+1	Wapɨk	apɨk	VERB	v	Number=Plur|Person[subj]=3	0	root	_	_
+2	Zuze	Zuze	PROPN	pn	_	3	nmod	_	_
+3	tu	u	NOUN	n	Rel=Abs	1	nsubj	_	_
+4	ɨwɨra	ɨwɨra	NOUN	n	_	1	obl	_	_
+5	rehe	ehe	ADP	posp	Rel=Cont	4	case	_	_
+6	aʔe	aʔe	PART	pcl	Person=3	1	discourse	_	_
+7	,	,	PUNCT	punct	_	9	punct	_	_
+8	waʔɨr	aʔɨr	NOUN	n	Rel=Corf	9	obj	_	_
+9	haropa	aro	VERB	vt	Rel=NCont|VerbForm=Ger	1	advcl	_	_
+10	aʔe	aʔe	PART	pcl	Person=3	9	discourse	_	_
+11	,	,	PUNCT	punct	_	9	punct	_	_
+12	kope	ko	NOUN	n	Case=Loc	1	obl	_	_
+13	aʔe	aʔe	PART	pcl	Person=3	12	discourse	_	_
+14	.	.	PUNCT	punct	_	12	punct	_	_
+
+1	Iʔi	ʔi	VERB	vt	Person[subj]=3	0	root	_	_
+2	zekaipo	kwehe	ADV	adv	_	1	advmod	_	_
+3	wɨkɨʔɨrpe	ɨkɨʔɨr	NOUN	n	Case=Dat|Rel=Corf	1	obl	_	_
+4	:	:	PUNCT	punct	_	5	punct	_	_
+5	ikatuahɨ	katu	VERB	vd	Emph=Yes|Rel=NCont	1	parataxis	_	_
+6	tuwe	tuwe	ADV	adv	Emph=Yes	5	advmod	_	_
+7	aipo	aipo	ADV	adv	_	5	advmod	_	_
+8	nerukaz	ukaz	NOUN	n	Number=Sing|Person[psor]=2|Poss=Yes|Rel=Cont	5	nsubj	_	_
+9	aipo	aipo	ADV	adv	_	8	advmod	_	_
+10	nepa	ne	PRON	pro	Case=Dat|PronType=Prs	5	obl	_	_
+11	.	.	PUNCT	punct	_	5	punct	_	_
+
+1	Maʔepe	maʔe	PRON	pro	Case=Loc|PronType=Int	3	obl	3:obl	_
+2	Zuze	Zuze	PROPN	pn	_	3	nsubj	3:nsubj	_
+3	wenu	enu	VERB	vt	Person[subj]=3	0	root	0:root	_
+4	taz	taz	NOUN	n	_	3	obj	3:obj	_
+5	ahu	hu	NOUN	n	_	4	nmod	4:nmod	_
+6	raʔe	raʔe	PART	pcl	Tense=Past	3	discourse	3:discourse	_
+7	.	.	PUNCT	punct	_	3	punct	3:punct	_
+
+1	Hurɨwete	urɨw	VERB	v	Person[subj]=3	0	root	_	_
+2	ahɨ	ahɨ	ADV	adv	_	1	advmod	_	_
+3	putar	putar	ADV	adv	_	1	advmod	_	_
+4	Kari	Kari	PROPN	pn	_	1	nsubj	_	_
+5	aʔe	aʔe	PRON	pro	_	1	discourse	_	_
+6	nehe	nehe	ADV	adv	_	5	case	_	_
+7	no	no	PART	pcl	_	1	discourse	_	_
+8	.	.	PUNCT	punct	_	1	punct	_	_
+
+1	Oho	ho	VERB	vi	Person[subj]=3	0	root	_	_
+2	putar	putar	ADV	adv	_	1	advmod	_	_
+3	Mari	Mari	PROPN	pn	_	1	nsubj	_	_
+4	ʔɨpe	ʔɨ	NOUN	n	Case=All	1	obl	_	_
+5	aʔe	aʔe	DET	dem	PronType=Dem	3	discourse	_	_
+6	kurɨ	kurɨ	PART	pcl	_	1	discourse	_	_
+7	,	,	PUNCT	punct	_	1	punct	_	_
+8	umaʔe	maʔe	NOUN	n	Rel=Corf	9	obj	_	_
+9	iputukapa	putuka	VERB	vt	Rel=NCont|VerbForm=Ger	1	advcl	_	_
+10	kurɨ	kurɨ	PART	pcl	_	9	discourse	_	_
+11	.	.	PUNCT	punct	_	1	punct	_	_
+
+1	Amo	amo	DET	det	PronType=Ind	4	obl	4:obl	_
+2	iruramo	ru	ADP	posp	Case=Tra|Rel=NCont	1	case	1:case	_
+3	awa	awa	NOUN	n	_	4	nsubj	4:nsubj	_
+4	upɨhɨkràm	pɨhɨk	VERB	v	Person[subj]=3|Tense=Fut	0	root	0:root	_
+5	pira	pira	NOUN	n	_	4	obj	4:obj	_
+6	oho	ho	VERB	vi	Person[subj]=3	4	dep	4:dep	_
+
+1	Aze	aze	PART	pcl	_	4	ccomp	4:ccomp	_
+2	kɨn	kɨn	PART	pcl	_	1	discourse	1:discourse	_
+3	,	,	PUNCT	punct	_	1	punct	1:punct	_
+4	iʔi	ʔi	VERB	vt	Person[subj]=3	0	root	0:root	_
+5	Kari	Kari	PROPN	pn	_	4	nsubj	4:nsubj	_
+6	izupe	upe	ADP	posp	Rel=NCont	4	iobj	4:iobj	_
+7	,	,	PUNCT	punct	_	8	punct	8:punct	_
+8	uhɨpe	hɨ	NOUN	n	Case=Dat|Rel=Corf	6	appos	6:appos	_
+9	.	.	PUNCT	punct	_	8	punct	8:punct	_
+
+1	Ipuruʔu	ʔu	NOUN	n	Detrans=Ind|Rel=NCont	0	root	_	_
+2	wer	wer	ADV	adv	_	1	advmod	_	_
+3	Kari	Kari	PROPN	pn	_	1	nsubj	_	_
+4	arapuha	arapuha	NOUN	n	_	5	nmod	_	_
+5	roʔo	oʔo	NOUN	n	Rel=Cont	1	obl	_	_
+6	kwer	kwer	PART	pcl	Tense=Past	5	advmod	_	_
+7	rehe	ehe	ADP	posp	Rel=Cont	5	case	_	_
+8	.	.	PUNCT	punct	_	1	punct	_	_
+
+1	Uzuka	zuka	VERB	v	Person[subj]=3	0	root	_	_
+2	arapuha	arapuha	NOUN	n	_	1	obj	_	_
+3	.	.	PUNCT	punct	_	1	punct	_	_
+
+1	Aguza	aguza	NOUN	n	_	2	nsubj	2:nsubj	_
+2	wata	ata	VERB	vi	Person[subj]=3	0	root	0:root	_
+3	iko	iko	AUX	aux	Aspect=Prog|Person[subj]=3	2	aux	2:aux	_
+4	ɨwate	ɨwak	ADV	adv	Emph=Yes	5	advmod	5:advmod	_
+5	pino	pino	NOUN	n	_	2	obl	2:obl	_
+6	rehe	ehe	ADP	posp	Rel=Cont	5	case	5:case	_
+7	aʔe	aʔe	PART	pcl	Person=3	2	discourse	2:discourse	_
+8	.	.	PUNCT	punct	_	2	punct	2:punct	_
+
+1	Umuwɨwɨk	wɨwɨk	VERB	vt	Person[subj]=3|Voice=Cau	0	root	_	_
+2	ikamir	kamir	NOUN	n	Rel=Abs	1	obj	_	_
+3	aguz	aguz	NOUN	n	_	1	obl	_	_
+4	pupe	pupe	ADP	posp	Rel=Cont	3	case	_	_
+
+1	Maʔepe	maʔe	PRON	pro	Case=All|PronType=Int	2	obl	_	_
+2	oho	ho	VERB	vi	Person[subj]=3	0	root	_	_
+3	Zuze	Zuze	PROPN	pn	_	4	nmod	_	_
+4	hemireko	eko	NOUN	n	Rel=NCont	2	nsubj	_	_
+5	.	.	PUNCT	punct	_	2	punct	_	_
+
+1	Maʔe	maʔe	PRON	pro	PronType=Int	2	obj	2:obj	_
+2	erezapo	apo	VERB	vt	Person[subj]=2	5	ccomp	5:ccomp	_
+3	iko	iko	AUX	aux	Aspect=Prog|Person=3	2	aux	2:aux	_
+4	,	,	PUNCT	punct	_	2	punct	2:punct	_
+5	iʔi	ʔi	VERB	vt	Person[subj]=3	0	root	0:root	_
+6	Mari	Mari	PROPN	ppn	_	5	nsubj	5:nsubj	_
+7	umenpe	men	NOUN	n	Case=Dat|Rel=Corf	5	obl	5:obl	_
+8	.	.	PUNCT	punct	_	5	punct	5:punct	_
+
+1	iʔi	ʔi	VERB	vt	Person[subj]=3	0	root	_	_
+2	tɨkɨʔɨr	ɨkɨʔɨr	NOUN	n	Rel=Abs	1	nsubj	_	_
+3	izupe	zupe	ADP	posp	Rel=NCont	2	iobj	_	_
+4	:	:	PUNCT	punct	_	5	punct	_	_
+5	Teʔe	teʔe	NOUN	n	_	1	parataxis	_	_
+6	ere	ere	PRON	pro	Person=2|PronType=Prs	5	nsubj	_	_
+7	tɨ	tɨ	PART	pcl	_	5	discourse	_	_
+8	?	?	PUNCT	punct	_	5	punct	_	_
+
+1	Uzuka	zuka	VERB	v	Person[subj]=3	0	root	_	_
+2	wira	wira	NOUN	n	_	1	obj	_	_
+3	hu	hu	NOUN	n	_	2	nmod	_	_
+4	umukaw	mukaw	NOUN	n	Rel=Corf	1	obl	_	_
+5	pupe	pupe	ADP	posp	Rel=Cont	4	case	_	_
+6	.	.	PUNCT	punct	_	1	punct	_	_
+
+1	Uzepɨrog	pɨrog	VERB	v	Person[subj]=3|Reflex=Yes	0	root	_	_
+2	zekaipo	kwehe	ADV	adv	Evident=Nfh	1	advmod	_	_
+3	zawar	zawar	NOUN	n	_	1	nsubj	_	_
+4	maʔeputɨr	maʔeputɨr	NOUN	n	_	5	nmod	_	_
+5	imuiʔeʔehaw	iʔeʔe	NOUN	n	Nomzr=Circ|Rel=NCont|Voice=Cau	1	obl	_	_
+6	rehe	ehe	ADP	posp	Rel=Cont	5	case	_	_
+7	wà	wà	PART	pcl	Number=Plur	1	discourse	_	_
+8	.	.	PUNCT	punct	_	1	punct	_	_
+
+1	Aʔe	aʔe	PRON	pro	_	3	obl	_	_
+2	rupi	upi	ADP	posp	Rel=Cont	1	case	_	_
+3	uzemiʔi	miʔi	VERB	v	Person[subj]=3|Reflex=Yes	0	root	_	_
+4	kar	kar	ADV	adv	_	3	advmod	_	_
+5	Zuze	Zuze	PROPN	pn	_	3	nsubj	_	_
+6	oho	ho	VERB	vi	Person[subj]=3	3	dep	_	_
+7	kaʔa	kaʔa	NOUN	n	_	3	obl	_	_
+8	rupi	upi	ADP	posp	Rel=Cont	7	case	_	_
+9	.	.	PUNCT	punct	_	3	punct	_	_
+
+1	Oho	ho	VERB	vi	Person[subj]=3	0	root	_	_
+2	kok	kok	NOUN	n	_	1	obl	_	_
+3	ipiaromo	piar	ADP	posp	Case=Tra|Rel=NCont	2	case	_	_
+4	.	.	PUNCT	punct	_	1	punct	_	_
+
+1	Mon	mon	PRON	pro	PronType=Int	3	nsubj	_	_
+2	aipo	aipo	PART	pcl	Int=Yes	1	discourse	_	_
+3	ur	ur	VERB	vi	Person[subj]=3	0	root	_	_
+4	iko	iko	AUX	aux	Aspect=Prog|Person[subj]=3	3	aux	_	_
+5	aʔe	aʔe	DET	dem	PronType=Dem	3	discourse	_	_
+
+1	Hete	ete	VERB	vd	Rel=NCont	0	root	0:root	_
+2	katu	katu	ADV	adv	Emph=Yes	1	advmod	1:advmod	_
+3	Maripe	Maripe	PROPN	pn	Case=Dat	1	obl	1:obl	_
+4	no	no	PART	pcl	_	1	discourse	1:discourse	_
+5	.	.	PUNCT	punct	_	1	punct	1:punct	_
+
+1	Amo	amo	DET	dem	PronType=Ind	2	det	_	_
+2	ʔar	ʔar	NOUN	n	_	5	obl	_	_
+3	mehe	mehe	ADP	posp	_	2	case	_	_
+4	,	,	PUNCT	punct	_	2	punct	_	_
+5	oho	ho	VERB	vi	Person[subj]=3	0	root	_	_
+6	Zuze	Zuze	PROPN	pn	_	5	nsubj	_	_
+7	tawpe	taw	NOUN	n	Case=All	5	obl	_	_
+8	.	.	PUNCT	punct	_	5	punct	_	_
+
+1	Oho	ho	VERB	vi	Person[subj]=3	0	root	_	_
+2	awa	awa	NOUN	n	_	1	nsubj	_	_
+3	Zuze	Zuze	PROPN	pn	_	4	nmod	_	_
+4	kope	ko	NOUN	n	Case=All|Rel=NCont	1	obl	_	_
+5	.	.	PUNCT	punct	_	1	punct	_	_
+
+1	Heta	eta	VERB	vi	Person[subj]=3	0	root	0:root	_
+2	amo	amo	DET	det	PronType=Ind	4	det	4:det	_
+3	ae	ae	PART	pcl	Emph=Yes	2	discourse	2:discourse	_
+4	imemɨr	memɨr	NOUN	n	Rel=NCont	1	nsubj	1:nsubj	_
+5	Maripe	Mari	PROPN	pn	Case=Dat	1	obl	1:obl	_
+6	aʔe	aʔe	PART	pcl	Person=3	1	discourse	1:discourse	_
+7	,	,	PUNCT	punct	_	8	punct	8:punct	_
+8	kwarer	kwarer	NOUN	n	_	4	appos	4:appos	_
+9	aʔe	aʔe	PART	pcl	Person=3	8	discourse	8:discourse	_
+10	.	.	PUNCT	punct	_	8	punct	8:punct	_
+
+1	Naʔe	naʔe	PART	pcl	_	4	discourse	_	_
+2	aʔe	aʔe	DET	dem	PronType=Dem	3	det	_	_
+3	mainumɨ	mainumɨ	NOUN	n	_	4	nsubj	_	_
+4	uzeapo	apo	VERB	v	Person[subj]=3|Reflex=Yes	0	root	_	_
+5	tentehar	tentehar	NOUN	n	_	4	obl	_	_
+6	rumu	umu	NOUN	n	Rel=Cont	5	case	_	_
+7	izupe	zupe	ADP	posp	Rel=NCont	4	obl	_	_
+8	kurɨ	kurɨ	PART	pcl	_	4	discourse	_	_
+9	,	,	PUNCT	punct	_	4	punct	_	_
+10	uwexakar	wexak	VERB	v	Person[subj]=3|Voice=Cau	4	conj	_	_
+11	tɨwɨr	ɨwɨr	NOUN	n	Rel=Abs	10	obj	_	_
+12	hemiʔiwàkwer	iwà	NOUN	n	Nomzr=DevPass|Rel=NCont|Tense=Past	10	iobj	_	_
+13	izupe	zupe	ADP	posp	Rel=NCont	12	case	_	_
+14	no	no	PART	pcl	_	10	discourse	_	_
+15	.	.	PUNCT	punct	_	10	punct	_	_
+
+1	Heta	eta	VERB	vi	Person[subj]=3	0	root	_	_
+2	amo	amo	DET	dem	PronType=Ind	4	det	_	_
+3	ae	ae	ADV	adv	_	2	advmod	_	_
+4	imemɨr	memɨr	NOUN	n	Rel=NCont	1	nsubj	_	_
+5	Maripe	Mari	PROPN	pn	Case=Dat	1	obl	_	_
+6	.	.	PUNCT	punct	_	1	punct	_	_
+
+1	Hepuruʔu	ʔu	VERB	vi	Detrans=Ind|Person[subj]=3	8	ccomp	_	_
+2	wer	wer	ADV	adv	_	1	advmod	_	_
+3	arapuha	arapuha	NOUN	n	_	4	nmod	_	_
+4	roʔo	oʔo	NOUN	n	Rel=Cont	1	obl	_	_
+5	kwer	kwer	PART	pcl	Tense=Past	4	advmod	_	_
+6	rehe	ehe	ADP	posp	Rel=Cont	4	case	_	_
+7	,	,	PUNCT	punct	_	1	punct	_	_
+8	iʔi	ʔi	VERB	vt	Person[subj]=3	0	root	_	_
+9	Kari	Kari	PROPN	pn	_	8	nsubj	_	_
+10	upe	u	NOUN	n	Case=Dat	8	obl	_	_
+11	.	.	PUNCT	punct	_	8	punct	_	_
+
+1	Herur	zur	VERB	vt	Rel=NCont|Voice=Com	4	advcl	4:advcl	_
+2	mehe	mehe	ADV	adv	_	1	mark	1:mark	_
+3	Mari	Mari	PROPN	pn	_	4	nsubj	4:nsubj	_
+4	uzaikaikaw	zaikaw	VERB	vt	Person[subj]=3|Red=Mo	0	root	0:root	_
+5	nànà	nànà	NOUN	n	_	4	obj	4:obj	_
+6	.	.	PUNCT	punct	_	4	punct	4:punct	_
+
+1	Wexak	exak	VERB	vt	Person[subj]=3	0	root	_	_
+2	zekaipo	kwehe	ADV	adv	_	1	advmod	_	_
+3	wɨkɨʔɨr	ɨkɨʔɨr	NOUN	n	Rel=Abs	5	nmod	_	_
+4	imaʔe	maʔe	NOUN	n	Rel=NCont	5	nmod	_	_
+5	zapoapopɨrer	zapo	NOUN	n	Nomzr=Pas|Red=Di|Tense=Past	1	obj	_	_
+6	teteaʔu	tete	ADV	adv	Emph=Yes	5	advmod	_	_
+7	aʔepe	aʔe	PRON	pro	Case=Loc|PronType=Dem	1	obl	_	_
+8	.	.	PUNCT	punct	_	1	punct	_	_
+
+1	Pemɨrɨpar	urɨw	NOUN	n	Nomzr=Ag|Number=Plur|Person[psor]=2|Poss=Yes|Voice=Cau	3	obl	3:obl	_
+2	romo	romo	ADP	posp	_	1	case	1:case	_
+3	aiko	iko	VERB	vi	Person[subj]=1	0	root	0:root	_
+4	ihe	ihe	PRON	pro	Person=1|PronType=Prs	3	nsubj	3:nsubj	_
+5	.	.	PUNCT	punct	_	3	punct	3:punct	_
+
+1	Nan	nan	ADV	adv	Polarity=Neg	2	advmod	2:advmod	_
+2	kwehe	kwehe	ADV	adv	Tense=Past	4	advmod	4:advmod	_
+3	tete	tete	ADV	adv	Emph=Yes	2	advmod	2:advmod	_
+4	uhem	hem	VERB	vi	Person[subj]=3	0	root	0:root	_
+5	Kari	Kari	PROPN	pn	_	4	nsubj	4:nsubj	_
+6	aʔe	aʔe	PART	pcl	Person=3	4	discourse	4:discourse	_
+7	no	no	PART	pcl	_	4	discourse	4:discourse	_
+8	.	.	PUNCT	punct	_	4	punct	4:punct	_
+
+1	Wezar	ezar	VERB	vt	Person[subj]=3	0	root	0:root	_
+2	iàkàgwer	àkàg	NOUN	n	Rel=NCont|Tense=Past	1	nsubj	1:nsubj	_
+3	aʔepe	aʔe	PRON	pro	Case=Loc|PronType=Dem	1	obl	1:obl	_
+4	.	.	PUNCT	punct	_	1	punct	1:punct	_
+
+1	Wexak	exak	VERB	v	Person[subj]=3	0	root	_	_
+2	zekaipo	kwehe	ADV	adv	Evident=Nfh	1	advmod	_	_
+3	amo	amo	DET	dem	PronType=Ind	2	det	_	_
+4	huwɨkwer	uwɨ	NOUN	n	Rel=NCont|Tense=Past	1	obj	_	_
+5	kaʔa	kaʔa	NOUN	n	_	1	obl	_	_
+6	rehe	ehe	ADP	posp	Rel=Cont	5	case	_	_
+7	.	.	PUNCT	punct	_	1	punct	_	_
+
+1	Umaʔereko	eko	VERB	v	Person[subj]=3|Rel=Cont	0	root	0:root	_
+2	Zuze	Zuze	PROPN	pn	_	1	nsubj	1:nsubj	_
+3	iko	iko	AUX	aux	Aspect=Prog|Person=3	1	aux	1:aux	_
+4	aʔe	aʔe	PART	pcl	Person=3	1	discourse	1:discourse	_
+5	kurɨ	kurɨ	PART	pcl	_	1	discourse	1:discourse	_
+6	.	.	PUNCT	punct	_	1	punct	1:punct	_
+
+1	Zaha	ha	VERB	vi	Clusivity=In|Number=Plur|Person[subj]=1	4	ccomp	4:ccomp	_
+2	ʔɨ	ʔɨ	NOUN	n	_	1	discourse	1:discourse	_
+3	,	,	PUNCT	punct	_	1	punct	1:punct	_
+4	iʔi	ʔi	VERB	v	Person[subj]=3	0	root	0:root	_
+5	izupe	upe	ADP	posp	Rel=NCont	4	iobj	4:iobj	_
+6	.	.	PUNCT	punct	_	4	punct	4:punct	_
+
+1	Aʔe	aʔe	PRON	pro	Person=3	3	obl	3:obl	_
+2	re	re	ADP	posp	Rel=Cont	1	case	1:case	_
+3	ur	zur	VERB	vi	Person[subj]=3	0	root	0:root	_
+4	Mari	Mari	PROPN	pn	_	3	nsubj	3:nsubj	_
+5	.	.	PUNCT	punct	_	3	punct	3:punct	_
+
+1	Arapapa	arapapa	NOUN	n	_	2	nsubj	_	_
+2	ipira	pira	NOUN	n	Rel=NCont	0	root	_	_
+3	iʔuhar	ʔu	NOUN	n	Nomzr=Ag|Rel=NCont	2	obl	_	_
+4	romo	romo	ADP	posp	Rel=Cont	3	case	_	_
+5	aʔe	aʔe	DET	dem	PronType=Dem	2	discourse	_	_
+6	no	no	PART	pcl	_	2	discourse	_	_
+7	.	.	PUNCT	punct	_	2	punct	_	_
+
+1	Ukwaw	kwaw	VERB	v	Person[subj]=3	0	root	_	_
+2	kakwez	kakwez	PART	pcl	Evident=Fh|Tense=Past	1	discourse	_	_
+3	zeʔengete	zeʔeng	NOUN	n	_	4	nmod	_	_
+4	imungetahaw	mungeta	NOUN	n	Rel=NCont	1	obj	_	_
+5	aʔe	aʔe	PRON	pro	Person=3	1	nsubj	_	_
+6	wə	wə	PART	pcl	Number=Plur	5	nmod	_	_
+7	kurɨ	kurɨ	PART	pcl	_	1	discourse	_	_
+
+1	Ipɨ	pɨ	NOUN	n	Rel=NCont	2	nsubj	_	_
+2	uhuaʔu	uhu	VERB	vd	Emph=Yes|Rel=Corf	0	root	_	_
+3	.	.	PUNCT	punct	_	2	punct	_	_
+
+1	Umeʔegatu	meʔe	VERB	vi	Emph=Yes|Person[psor]=3	0	root	_	_
+2	zekaipo	kwehe	ADV	adv	Evident=Nfh	1	advmod	_	_
+3	tukaz	ukaz	NOUN	n	Rel=Abs	1	obl	_	_
+4	rehe	ehe	ADP	posp	Rel=Cont	3	case	_	_
+5	.	.	PUNCT	punct	_	1	punct	_	_
+
+1	Aʔepe	aʔe	PRON	pro	Case=Loc|PronType=Dem	2	obl	_	_
+2	hekon	eko	VERB	vi	NonFoc=Yes|Rel=NCont	0	root	_	_
+
+1	Uzuka	zuka	VERB	vt	Person[subj]=3	0	root	_	_
+2	kurɨ	kurɨ	PART	pcl	_	1	discourse	_	_
+3	.	.	PUNCT	punct	_	1	punct	_	_
+
+1	Imemɨraʔi	memɨr	NOUN	n	Dimin=Yes|Rel=NCont	0	root	_	_
+2	aʔe	aʔe	PRON	pn	PronType=Dem	1	nsubj	_	_
+3	.	.	PUNCT	punct	_	1	punct	_	_
+
+1	Maʔe	maʔe	NOUN	n	_	3	obj	3:obj	_
+2	Mari	Mari	PROPN	pro	_	3	nsubj	3:nsubj	_
+3	werur	zur	VERB	vt	Person[subj]=3|Voice=Com	0	root	0:root	_
+4	kok	kok	NOUN	n	_	3	obl	3:obl	_
+5	pupe	pupe	ADP	posp	Rel=Cont	4	case	4:case	_
+6	raʔe	raʔe	PART	pcl	Tense=Past	3	discourse	3:discourse	_
+7	.	.	PUNCT	punct	_	3	punct	3:punct	_
+
+1	Omowok	wok	VERB	vt	Person[subj]=3|Voice=Cau	5	ccomp	5:ccomp	_
+2	xu	xu	NOUN	n	_	1	nsubj	1:nsubj	_
+3	heremɨhar	eremɨhar	NOUN	n	Rel=NCont	1	obj	1:obj	_
+4	,	,	PUNCT	punct	_	1	punct	1:punct	_
+5	iʔi	ʔi	VERB	vt	Person[subj]=3	0	root	0:root	_
+6	uzeupe	upe	ADP	posp	Reflex=Yes|Rel=Corf	5	iobj	5:iobj	_
+7	.	.	PUNCT	punct	_	5	punct	5:punct	_
+
+1	Uwewe	wewe	VERB	vi	Person[subj]=3	0	root	_	_
+2	oho	ho	VERB	vi	Person[subj]=3	1	dep	_	_
+3	ɨwate	ɨwak	ADV	adv	_	1	advmod	_	_
+4	kaʔa	kaʔa	NOUN	n	_	1	obl	_	_
+5	kutɨr	kutɨr	ADP	posp	Rel=Cont	4	case	_	_
+6	wa	wa	PART	pcl	Number=Plur	1	discourse	_	_
+7	.	.	PUNCT	punct	_	1	punct	_	_
+
+1	Ukwaw	kwaw	VERB	vt	Person[subj]=3	0	root	0:root	_
+2	hehe	ehe	ADP	posp	Rel=NCont	3	obl	3:obl	_
+3	uzekaiw	zekaiw	NOUN	n	Rel=Corf	1	obj	1:obj	_
+4	paw	paw	ADV	adv	Nomzr=Circ	3	advmod	3:advmod	_
+5	no	no	PART	pcl	_	3	discourse	3:discourse	_
+6	.	.	PUNCT	punct	_	3	punct	3:punct	_
+
+1	Heta	eta	VERB	vi	Person[subj]=3	0	root	_	_
+2	toʔotoʔom	toʔom	NOUN	n	Red=Di	1	nsubj	_	_
+3	pe	pe	NOUN	n	_	1	obl	_	_
+4	rupi	upi	ADP	posp	Rel=Cont	3	case	_	_
+5	.	.	PUNCT	punct	_	1	punct	_	_
+
+1	Aʔepe	aʔe	PRON	pro	Case=Loc|PronType=Dem	6	obl	_	_
+2	zekaipo	kwehe	ADV	adv	Evident=Nfh	1	advmod	_	_
+3	aʔe	aʔe	DET	dem	PronType=Dem	4	det	_	_
+4	maʔe	maʔe	NOUN	n	_	6	nsubj	_	_
+5	wanekohaw	eko	NOUN	n	Nomzr=Circ|Number=Plur|Person[psor]=3|Rel=Cont	6	nmod	_	_
+6	ipiʔarà	piʔarà	NOUN	n	Rel=NCont	0	root	_	_
+7	.	.	PUNCT	punct	_	6	punct	_	_
+

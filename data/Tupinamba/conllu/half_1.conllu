@@ -1,0 +1,753 @@
+1	Tupã	Tupã	PROPN	propn	_	3	nmod	_	_
+2	Tuβa	uβa	NOUN	n	Rel=Hum	1	appos	_	_
+3	raʔɨreté	aʔɨr	NOUN	n	Rel=Cont	5	nmod	_	_
+4	ojepéβaʔeramo	ojepé	NOUN	n	Case=Tra	3	acl	_	_
+5	sekóreme	ekó	NOUN	n	Mood=Sub|Rel=NCont	0	root	_	_
+
+1	Seté	eté	NOUN	n	Rel=NCont	0	root	_	_
+2	jakatu	jakatu	ADP	posp	Intens=Yes	1	case	_	_
+3	.	.	PUNCT	punct	_	1	punct	_	_
+
+1	Tupã	Tupã	PROPN	propn	_	2	nmod	_	_
+2	raʔɨra	aʔɨr	NOUN	n	Case=Ref|Rel=Cont	6	ccomp	_	_
+3	ɲẽ	ɲẽ	PART	pcl	_	2	discourse	_	_
+4	ikó	ikó	DET	dem	_	5	nmod	_	_
+5	aβá	aβá	NOUN	n	_	2	nsubj	_	_
+6	eʔi	ʔi	VERB	v	Person=3	0	root	_	_
+7	,	,	PUNCT	punct	_	6	punct	_	_
+8	amõamõ	amõ	PRON	pro	Number=Plur|PronType=Ind	11	obl	_	_
+9	opotiʔa	potiʔ	NOUN	n	Case=Ref	11	obl	_	_
+10	resé	esé	ADP	posp	Rel=Cont	9	case	_	_
+11	opwáopwá	pwá	VERB	v	Aspect=Iter|Person=3|Red=Di	6	parataxis	_	_
+12	,	,	PUNCT	punct	_	11	punct	_	_
+13	oangajpawera	ram	NOUN	n	Case=Ref|Reflex=Yes|Tense=Past	14	obj	_	_
+14	moasɨ́aβo	_	VERB	v	VerbForm=Ger|Voice=Cau	11	advcl	_	_
+
+1	Marã	marã	ADV	pron	Int=Yes	2	advmod	_	_
+2	eʔipe	eʔi	VERB	v	Int=Yes	0	root	_	_
+3	aʔe	aʔe	DET	dem	_	2	obl	_	_
+4	riré	riré	ADP	posp	_	3	case	_	_
+5	?	?	PUNCT	punct	_	2	punct	_	_
+
+1	Kaj	kaj	INTJ	intj	_	3	discourse	3:discourse	_
+2	!	!	PUNCT	punct	_	3	punct	3:punct	_
+3	Rore	Rorens	PROPN	propn	_	0	root	0:root	_
+4	kaʔe	kaʔe	NOUN	n	_	3	nmod	3:nmod	_
+5	piã	jã	PART	prcl	Int=Yes	3	discourse	3:discourse	_
+6	?	?	PUNCT	punct	_	3	punct	3:punct	_
+
+1	Oker	ker	NOUN	n	Reflex=Yes	0	root	_	_
+2	janondé	janondé	ADP	posp	_	1	case	_	_
+3	,	,	PUNCT	punct	_	1	punct	_	_
+4	opakawérɨpe	ok	NOUN	n	Case=Loc|Reflex=Yes|Tense=Past	1	conj	_	_
+5	,	,	PUNCT	punct	_	4	punct	_	_
+6	oka	oka	NOUN	n	Case=Ref	8	obl	_	_
+7	swi	swi	ADP	posp	Rel=Cont	6	case	_	_
+8	osema	sem	NOUN	n	Case=Ref|Reflex=Yes	1	conj	_	_
+9	βé	βé	ADV	adv	_	1	advmod	_	_
+
+1	mbaʔepe	mbaʔe	PRON	pro	_	2	obl	_	_
+2	oɲonoŋ	noŋ	VERB	VT	Person[obj]=3|Person[subj]=3	0	root	_	_
+3	iakanga	akaŋ	NOUN	N	Rel=NCont	2	obl	_	_
+4	ʔárɨβo	ár	ADP	posp	Case=Per	3	case	_	_
+5	?	?	PUNCT	punct	_	2	punct	_	_
+
+1	Maʔerama	maʔe	PRON	pro	PronType=Int|Tense=Fut	2	nmod	2:nmod	_
+2	resépe	esé	ADP	posp	Int=Yes|Rel=Cont	4	obl	4:obl	_
+3	Tupã	Tupã	PROPN	PROPN	_	4	nmod	4:nmod	_
+4	imeʔeŋi	meʔeŋ	NOUN	n	NonFoc=Yes|Rel=NCont	0	root	0:root	_
+5	aséβe	asé	PRON	pro	_	4	obl	4:obl	_
+6	?	?	PUNCT	punct	_	4	punct	4:punct	_
+
+1	Aβápe	aβá	NOUN	n	_	2	nsubj	_	_
+2	JesusCristo	JesusCristo	PROPN	propn	_	0	root	_	_
+3	?	?	PUNCT	punct	_	2	punct	_	_
+
+1	Ojaratã	jaratã	VERB	v	Person[obj]=3|Person[subj]=3	0	root	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	neʔi	eʔi	ADV	adv	Polarity=Neg	7	advmod	_	_
+4	teʔe	_	ADV	adv	_	3	advmod	_	_
+5	aʔéreme	_	ADV	_	_	7	advmod	_	_
+6	judeus	judeus	NOUN	n	_	7	nsubj	_	_
+7	sekɨjatãmo	ekɨjatã	VERB	v	Rel=NCont|VerbForm=Ger	1	parataxis	_	_
+8	ipira	_	NOUN	n	Rel=NCont	10	nmod	_	_
+9	βe	βe	ADV	adv	_	10	advcl	_	_
+10	reru	er	NOUN	n	_	7	dep	_	_
+11	,	,	PUNCT	punct	_	10	punct	_	_
+12	suwɨ	_	NOUN	n	Rel=NCont	13	obj	_	_
+13	mosɨrɨka	sɨrɨk	VERB	v	VerbForm=Ger|Voice=Cau	7	dep	_	_
+14	iʃwi	swi	ADP	posp	Rel=NCont	13	obl	_	_
+
+1	iporeawsuβerekóβope	poreawsuβerekó	NOUN	n	Case=Per|Rel=NCont	3	dep	_	_
+2	emonã	emonã	ADV	adv	_	3	advmod	_	_
+3	seków	ekó	NOUN	n	Rel=NCont	0	root	_	_
+4	?	?	PUNCT	punct	_	3	punct	_	_
+
+1	Niapɨsɨki	pɨsɨk	NOUN	n	Polarity=Neg|Rel=NCont	0	root	_	_
+2	ʃwépemo	ʃwé	PART	pcl	Int=Yes|Mood=Cnd|Polarity=Neg	1	dep	_	_
+3	seroβjasara	eroβjar	NOUN	n	Case=Tra|Nomzr=Ag|Rel=NCont	1	nsubj	_	_
+4	opɨʔape	pɨʔa	NOUN	n	Case=Loc|Reflex=Yes	6	obl	_	_
+5	ɲõte	ɲõte	ADV	adv	_	6	advmod	_	_
+6	seroβjámo	eroβjár	NOUN	n	Rel=NCont	1	advcl	_	_
+7	?	?	PUNCT	punct	_	1	punct	_	_
+
+1	Ojpotakatu	potar	VERB	v	Intens=Yes|Person[obj]=3|Person[subj]=3	0	root	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	Sesé	esé	ADP	posp	Rel=NCont	4	case	_	_
+4	omaʔendwaramo	maʔendwar	NOUN	n	Case=Tra|Reflex=Yes	8	xcomp	_	_
+5	é	é	PART	pcl	_	4	discourse	_	_
+6	asé	asé	PRON	pro	PronType=Prs	8	nmod	_	_
+7	Tupã	Tupã	NOUN	n	_	8	nmod	_	_
+8	rawsúβi	awsuβ	NOUN	n	Rel=Cont	1	parataxis	_	_
+9	opɨʔape	pɨʔa	NOUN	n	Case=Loc|Reflex=Yes	8	obl	_	_
+10	seko	eko	NOUN	n	Rel=NCont	12	nmod	_	_
+11	aβɨ	aβɨ	VERB	v	_	12	nmod	_	_
+12	potareʔɨma	potar	NOUN	n	Case=Ref|Polarity=Neg|VerbForm=Ger	8	advcl	_	_
+
+1	Aʔãni	aʔãni	INTJ	intj	_	3	discourse	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	t'oβasem	oβasem	VERB	v	Mood=Perm|Person=3	0	root	_	_
+4	esapɨʔa	esapɨʔa	ADV	adv	_	3	advmod	_	_
+5	ojukawame	juka	NOUN	n	Case=Loc|Reflex=Yes|Tense=Fut	3	obl	_	_
+6	ojaβo	_	VERB	v	Person=3|VerbForm=Ger	3	dep	_	_
+7	e	e	PART	prcl	_	6	discourse	_	_
+
+1	Marã	marã	PRON	pron	PronType=Int	2	nsubj	_	_
+2	eʔipe	ʔi	VERB	v	Int=Yes|Person=3	0	root	_	_
+3	saʔang	aʔang	NOUN	n	Rel=NCont	2	nmod	_	_
+4	iré	riré	ADP	posp	_	3	case	_	_
+5	?	?	PUNCT	punct	_	2	punct	_	_
+
+1	Amoramwé	_	VERB	vt	Number=Plur|Person[subj]=1|Voice=Cau	0	root	0:root	_
+2	;	;	PUNCT	punct	_	1	punct	1:punct	_
+3	opá	opá	PRON	pro	_	4	nmod	4:nmod	_
+4	ʃeɲeʔeŋ	ɲeʔeŋ	NOUN	n	Number=Sing|Person[psor]=1	5	obj	5:obj	_
+5	enuβi	enub	NOUN	n	NonFoc=Yes	1	parataxis	1:parataxis	_
+6	.	.	PUNCT	punct	_	5	punct	5:punct	_
+
+1	Jandé	jandé	PRON	pro	Clusivity=In|Number=Plur|Person=1	2	nmod	_	_
+2	jara	jara	NOUN	n	Case=Ref	3	nmod	_	_
+3	JesusCristo	JesusCristo	PROPN	pn	_	4	nmod	_	_
+4	reʔõawera	eʔõaβa	NOUN	n	Case=Ref|Nomzr=Circ|Tense=Past	0	root	_	_
+
+1	iʔárɨβo	ʔar	ADP	posp	Rel=NCont	2	case	_	_
+2	omanõmo	manõ	VERB	V	Person=3|VerbForm=Ger	0	root	_	_
+3	jandéjara	jar	NOUN	n	Case=Ref|Clusivity=In|Number=Plur|Person=1|Rel=Cont	2	nsubj	_	_
+4	jandérepɨmeʔengawera	ram	NOUN	n	Case=Ref|Clusivity=In|Number=Sing|Person=1|Rel=Cont|Tense=Past	2	obl	_	_
+5	resé	esé	ADP	posp	Rel=Cont	4	case	_	_
+6	,	,	PUNCT	punct	_	2	punct	_	_
+7	Aɲanga	Aɲanga	PROPN	propn	_	8	nmod	_	_
+8	ratá	atá	NOUN	n	Rel=Cont	10	obl	_	_
+9	swi	swi	ADP	posp	Rel=Cont	8	case	_	_
+10	jandépɨsɨrõ	pɨsɨrõ	NOUN	n	Clusivity=In|Number=Plur|Person=1	2	obl	_	_
+11	resé	esé	ADP	posp	Rel=Cont	10	case	_	_
+12	βé	βé	ADV	adv	_	10	advmod	_	_
+
+1	ʃerapiʃá	apiʃá	NOUN	n	Number=Sing|Person[psor]=1|Rel=Cont	0	root	0:root	_
+2	sarawaia	sarawai	NOUN	n	_	1	nsubj	1:nsubj	_
+3	,	,	PUNCT	punct	_	1	punct	1:punct	_
+4	apɨaba	apɨab	NOUN	n	Case=Ref	5	nsubj	5:nsubj	_
+5	ʃepokwá	pokwá	NOUN	n	Number=Sing|Person[psor]=1	1	parataxis	1:parataxis	_
+6	,	,	PUNCT	punct	_	5	punct	5:punct	_
+7	sesé	esé	ADP	posp	Rel=NCont	9	obl	9:obl	_
+8	ɲe	ɲe	PART	prcl	_	9	discourse	9:discourse	_
+9	ajekotɨá	kotɨá	VERB	v	Number=Sing|Person[subj]=1|Reflex=Yes	1	parataxis	1:parataxis	_
+
+1	Marãneme	Marãneme	ADV	adv	_	0	root	_	_
+2	βépe	βe	ADV	adv	Int=Yes	1	discourse	_	_
+3	?	?	PUNCT	punct	_	1	punct	_	_
+
+1	Ojmoapɨ	moapɨ	VERB	v	Person[obj]=3|Person[subj]=3|Voice=Cau	0	root	_	_
+2	aβá	aβá	NOUN	n	_	1	obl:subj	_	_
+3	kuiaβa	aβá	NOUN	n	Case=Ref	1	obl:obj	_	_
+4	;	;	PUNCT	punct	_	1	punct	_	_
+5	ʔaŋa	ʔaŋ	NOUN	n	Case=Ref	7	nsubj	_	_
+6	e	e	PART	prcl	_	7	discourse	_	_
+7	semimotara	emimotar	NOUN	n	Case=Ref|Dev=Pass|Rel=NCont	1	parataxis	_	_
+
+1	Ke	ke	ADV	adv	_	3	advmod	3:advmod	_
+2	aβá	aβá	NOUN	n	_	3	nmod	3:nmod	_
+3	reków	ikó	NOUN	n	NonFoc=Yes|Rel=NCont	0	root	0:root	_
+4	aɲe	aɲe	ADV	adv	_	3	advmod	3:advmod	_
+5	ʃerenopuʔãpuʔama	enopuʔãm	NOUN	n	Aspect=Iter|Number=Sing|Person[psor]=1|Red=Di|VerbForm=Ger	3	advcl	3:advcl	_
+
+1	aʔe	aʔe	DET	dem	_	2	nmod	_	_
+2	rameʔĩpe	rameʔĩ	ADV	adv	_	5	advcl	_	_
+3	ɨβɨá	ɨβɨá	PART	prcl	_	5	nsubj	_	_
+4	ipɨ	pɨ	NOUN	n	Rel=NCont	5	obj	_	_
+5	rereków	erekó	NOUN	n	NonFoc=Yes|Rel=Cont	0	root	_	_
+6	,	,	PUNCT	punct	_	5	punct	_	_
+7	itapɨwá	itapɨwá	NOUN	_	_	9	obl	_	_
+8	pupé	pupé	ADP	posp	Rel=Cont	7	case	_	_
+9	imojáno	mojár	VERB	v	Rel=NCont|VerbForm=Ger	5	advcl	_	_
+10	?	?	PUNCT	punct	_	9	punct	_	_
+
+1	Eẽ	eẽ	PART	prcl	_	5	discourse	5:discourse	_
+2	,	,	PUNCT	_	_	5	punct	5:punct	_
+3	janémoetéβo	moeté	VERB	v	Clusivity=In|Number=Sing|Person[subj]=1|VerbForm=Ger|Voice=Cau	5	advcl	5:advcl	_
+4	apɨaβa	apɨab	NOUN	n	Case=Ref	5	nsubj	5:nsubj	_
+5	jemosaraj	jemosaraj	VERB	v	Reflex=Yes	0	root	0:root	_
+
+1	Karaíβa	Karaíb	NOUN	n	Case=Ref	3	obl	3:obl	_
+2	ipó	ipó	PART	_	_	3	discourse	3:discourse	_
+3	nojkó	ikó	VERB	v	Number=Sing|Person=3|Polarity=Neg	0	root	0:root	_
+4	aŋaip	aŋaipab	NOUN	n	_	3	nmod	3:nmod	_
+5	pɨrɨb	pɨrɨb	ADV	adv	Polarity=Neg	3	advmod	3:advmod	_
+
+1	Apɨaβa	apɨab	NOUN	n	Case=Ref	2	obj	2:obj	_
+2	rawsupa	awsub	VERB	v	Rel=Cont|VerbForm=Ger	8	advcl	8:advcl	_
+3	ɲe	ɲe	PART	prcl	_	2	discourse	2:discourse	_
+4	,	,	PUNCT	punct	_	2	punct	2:punct	_
+5	orérapiara	apiar	NOUN	n	Clusivity=Ex|Number=Plur|Person=1	6	obj	6:obj	_
+6	potá	potar	VERB	v	VerbForm=Ger	8	advcl	8:advcl	_
+7	,	,	PUNCT	punct	_	8	punct	8:punct	_
+8	oréputupá	putupab	VERB	v	Clusivity=Ex|Number=Plur|Person[subj]=1	0	root	0:root	_
+9	sesé	esé	ADP	posp	Rel=NCont	8	obl	8:obl	_
+
+1	Erĩ	erĩ	INTJ	intj	_	0	root	0:root	_
+2	,	,	PUNCT	punct	_	1	punct	1:punct	_
+3	aani	aani	ADV	adv	_	1	discourse	1:discourse	_
+4	!	!	PUNCT	punct	_	1	punct	1:punct	_
+
+1	Marã	marã	ADV	adv	_	2	advmod	_	_
+2	eʔipe	ʔi	VERB	vt	Person=3	0	root	_	_
+3	Pilatos	Pilatos	PROPN	propn	_	2	nsubj	_	_
+4	judeus	judeus	NOUN	n	_	2	obl	_	_
+5	supé	supé	ADP	posp	Rel=Cont	4	case	_	_
+6	?	?	PUNCT	punct	_	2	punct	_	_
+
+1	ɨβɨ	ɨβɨ	NOUN	n	_	5	obl	_	_
+2	rupi	upi	ADP	posp	Rel=Cont	1	case	_	_
+3	βépe	βe	ADV	adv	Int=Yes	1	advmod	_	_
+4	suwɨ	uwɨ	NOUN	n	Rel=NCont	5	nmod	_	_
+5	sɨrɨki	_	NOUN	n	NonFoc=Yes	0	root	_	_
+6	?	?	PUNCT	punct	_	5	punct	_	_
+
+1	Turusukatupe	eburusu	NOUN	n	Intens=Yes|Rel=NCont	3	nmod	_	_
+2	aʔe	aʔe	DET	dem	_	3	nmod	_	_
+3	cruz	cruz	NOUN	n	_	0	root	_	_
+4	erimbaʔe	erimbaʔe	ADV	adv	_	3	advmod	_	_
+5	?	?	PUNCT	punct	_	3	punct	_	_
+
+1	aʔe	aʔe	PRON	pron	PronType=Dem	0	root	0:root	_
+2	!	!	PUNCT	punct	_	1	punct	1:punct	_
+3	Bastião	Bastião	PROPN	propn	_	1	conj	1:conj	_
+4	abé	abé	ADV	adv	_	1	cc	1:cc	_
+5	!	!	PUNCT	punct	_	1	punct	1:punct	_
+
+1	Marãpe	marãpe	ADV	adv	Int=Yes	2	advmod	_	_
+2	seków	_	NOUN	n	NonFoc=Yes|Rel=NCont	0	root	_	_
+3	ipupé	pupé	ADP	posp	Rel=Cont	4	case	_	_
+4	imondeβ	mondeβ	NOUN	n	Rel=NCont	7	advcl	_	_
+5	iré	riré	ADP	posp	_	4	case	_	_
+6	iʃuí	swi	ADP	posp	Rel=NCont	7	case	_	_
+7	osóβo	so	VERB	v	Person=3|VerbForm=Ger	2	advcl	_	_
+8	?	?	PUNCT	punct	_	2	punct	_	_
+
+1	Marã	marã	ADV	adv	_	2	advmod	_	_
+2	serekóβope	erekó	VERB	v	Rel=NCont|VerbForm=Ger	0	root	_	_
+3	?	?	PUNCT	punct	_	2	punct	_	_
+
+1	Ojerokɨpe	jerokɨ	VERB	vt	Int=Yes|Person[obj]=3|Person[subj]=3|Voice=Mid	0	root	_	_
+2	asé	asé	PRON	pro	PronType=Prs	1	obl:subj	_	_
+3	jandéjara	jar	NOUN	n	Case=Ref|Clusivity=In|Number=Plur|Person=1|Rel=Cont	4	nmod	_	_
+4	raʔangaβa	aʔang	NOUN	n	Case=Ref|Nomzr=Circ	1	obl	_	_
+5	supé	supé	ADP	posp	_	4	case	_	_
+6	,	,	PUNCT	punct	_	1	punct	_	_
+7	SantaMaria	SantaMaria	PROPN	propn	_	8	nmod	_	_
+8	raʔangaβa	aʔang	NOUN	n	Case=Ref|Nomzr=Circ	1	obl	_	_
+9	supé	supé	ADP	posp	Rel=Cont	8	case	_	_
+10	,	,	PUNCT	punct	_	1	punct	_	_
+11	santos	santo	NOUN	n	_	13	nmod	_	_
+12	ɨβakɨpendwara	ɨβak	NOUN	n	Case=Loc|Nomzr=CCirc	11	acl	_	_
+13	raʔangaβa	aʔang	NOUN	n	Case=Ref|Nomzr=Circ	1	obl	_	_
+14	supé	supé	ADP	posp	Rel=Cont	13	case	_	_
+15	βé	βé	ADV	adv	_	1	advmod	_	_
+16	?	?	PUNCT	punct	_	1	punct	_	_
+
+1	Ojukaawera	juká	NOUN	n	Case=Ref|Reflex=Yes|Tense=Past	2	nmod	_	_
+2	repɨramo	epɨ	NOUN	n	Case=Tra|Rel=Cont	15	nmod	_	_
+3	amõ	amõ	PRON	pro	PronType=Ind	4	nmod	_	_
+4	apɨaβa	apɨaβa	NOUN	n	Case=Ref	15	nmod	_	_
+5	toβajara	oβajar	NOUN	n	Case=Ref|Rel=Hum	4	conj	_	_
+6	marana	marana	NOUN	n	_	8	nmod	_	_
+7	ri	ri	ADP	posp	_	6	case	_	_
+8	tekoara	eko	NOUN	n	Case=Ref|Rel=Hum	5	conj	_	_
+9	irã	irã	ADV	adv	_	16	advmod	_	_
+10	akwé	akwé(j)	DET	dem	_	11	nmod	_	_
+11	taβusu	aβa	NOUN	n	Rel=Cont	14	nmod	_	_
+12	Jerusalém	Jerusalém	PROPN	_	_	11	appos	_	_
+13	ʔiaβa	ʔi	NOUN	n	_	12	amod	_	_
+14	pora	por	NOUN	n	Case=Ref	8	appos	_	_
+15	mombeβawama	mombeβ	NOUN	n	Case=Ref|Tense=Fut	16	obj	_	_
+16	kwapa	kwaβ	VERB	v	VerbForm=Ger	19	advcl	_	_
+17	ɲẽ	ɲẽ	PART	pcl	_	19	discourse	_	_
+18	ajpó	ajpó	DET	dem	_	19	obj	_	_
+19	iʔew	iʔe	NOUN	n	NonFoc=Yes	0	root	_	_
+
+1	Oɲeɨɲaŋ	jeɨɲaŋ	VERB	v	Person=3|Reflex=Yes	0	root	0:root	_
+2	umã	umã	ADV	adv	_	1	advmod	1:advmod	_
+3	sesé	esé	ADP	posp	Rel=NCont	1	case	1:case	_
+4	kunumĩetá	kunumĩ	NOUN	n	Number=Plur	1	obl	1:obl	_
+5	kawara	kaʔu	NOUN	n	Case=Ref|Nomzr=Ag	4	nmod	4:nmod	_
+6	,	,	PUNCT	punct	_	4	punct	4:punct	_
+7	ko	ko	DET	dem	_	8	det	8:det	_
+8	taβa	tab	NOUN	n	Case=Ref	9	nmod	9:nmod	_
+9	moaŋajpapara	moaŋajpab	NOUN	b	Case=Ref|Nomzr=Ag	4	appos	4:appos	_
+10	,	,	PUNCT	punct	_	9	punct	9:punct	_
+11	wajbĩ	wajbĩ	NOUN	n	_	4	conj	4:conj	_
+12	tujβaʔe	tujβaʔe	NOUN	n	_	11	nmod	11:nmod	_
+13	aβé	abé	ADV	adv	_	11	cc	11:cc	_
+14	,	,	PUNCT	punct	_	11	punct	11:punct	_
+15	kuɲã	kuɲã	NOUN	n	_	4	conj	4:conj	_
+16	muku	puku	NOUN	n	_	15	nmod	15:nmod	_
+17	imoreʔɨmara	_	NOUN	n	Case=Ref|Hum=Yes|Nomzr=Ag|Rel=NCont	15	nmod	15:nmod	_
+
+1	Aɲanga	Aɲanga	PROPN	propn	_	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+1	Te	te	INTJ	intj	_	3	discourse	3:discourse	_
+2	,	,	PUNCT	punct	_	3	punct	3:punct	_
+3	awjékatuteɲe	awjé	ADV	adv	Intens=Yes	0	root	0:root	_
+4	!	!	PUNCT	punct	_	3	punct	3:punct	_
+
+1	Mokõj	mokõj	NUM	num	NumType=Card	2	nummod	_	_
+2	mondá	mondá	NOUN	n	Case=Ref	0	root	_	_
+3	iʔekatwaβa	ʔekatwaβa	NOUN	n	Rel=NCont	5	obl	_	_
+4	kotɨ	kotɨ	ADP	posp	_	3	case	_	_
+5	amõ	amõ	PRON	pro	PronType=Ind	2	appos	_	_
+6	,	,	PUNCT	punct	_	5	punct	_	_
+7	aé	aé	PART	pcl	_	5	discourse	_	_
+8	amõ	amõ	PRON	pro	PronType=Ind	5	conj	_	_
+9	iasu	asu	NOUN	n	Rel=NCont	8	obl	_	_
+10	kotɨ	kotɨ	ADP	posp	_	9	case	_	_
+
+1	Ndaʔei	ʔi	AUX	aux	Number=Sing|Person[subj]=1|Polarity=Neg	6	aux	6:aux	_
+2	teʔe	teʔe	PART	prcl	_	6	discourse	6:discourse	_
+3	,	,	PUNCT	punct	_	6	punct	6:punct	_
+4	nderatãŋatu	_	NOUN	n	Intens=Yes|Number=Sing|Person[psor]=1|Rel=Cont	6	obl	6:obl	_
+5	resé	esé	ADP	posp	Rel=Cont	4	case	4:case	_
+6	wijekoka	jekok	VERB	v	Corf=Yes|Number=Sing|Person[subj]=1|Reflex=Yes|VerbForm=Ger	0	root	0:root	_
+7	,	,	PUNCT	punct	_	6	punct	6:punct	_
+8	wijeroβjá	eroβjar	VERB	v	Corf=Yes|Number=Sing|Person[subj]=1|Reflex=Yes|VerbForm=Ger	6	conj	6:conj	_
+9	.	.	PUNCT	punct	_	8	punct	8:punct	_
+
+1	Eneʔĩ	eneʔĩ	INTJ	intj	_	3	discourse	3:discourse	_
+2	!	!	PUNCT	punct	_	1	punct	1:punct	_
+3	tasó	asó	VERB	vi	Mood=Perm|Number=Sing|Person[subj]=1	0	root	0:root	_
+4	mamõ	mamõ	ADV	adv	_	3	advmod	3:advmod	_
+5	,	,	PUNCT	punct	_	3	punct	3:punct	_
+6	iʃé	iʃé	PRON	pron	Number=Sing|Person=1|PronType=Prs	13	nsubj	13:nsubj	_
+7	,	,	PUNCT	punct	_	6	punct	6:punct	_
+8	Sarawai	Sarawaia	PROPN	propn	_	6	appos	6:appos	_
+9	orɨβa	orɨb	NOUN	n	_	8	nmod	8:nmod	_
+10	,	,	PUNCT	punct	_	8	punct	8:punct	_
+11	iʃé	iʃé	PRON	pron	Number=Sing|Person=1|PronType=Prs	13	dep	13:dep	_
+12	,	,	PUNCT	punct	_	11	punct	11:punct	_
+13	Sarawaiusu	Sarawaia	PROPN	propn	Augm=Yes	3	parataxis	3:parataxis	_
+14	!	!	PUNCT	punct	_	13	punct	13:punct	_
+
+1	Marãnamope	Marãnamo	ADV	adv	Int=Yes	3	advmod	_	_
+2	asé	asé	PRON	pro	PronType=Prs	3	nsubj	_	_
+3	joβasaβetáetáwne	joβasaβ	NOUN	vt	Emph=Yes|NonFoc=Yes|Red=Di|Tense=Fut	0	root	_	_
+4	?	?	PUNCT	punct	_	3	punct	_	_
+
+1	Lourenço	Lourenço	PROPN	propn	_	0	root	0:root	_
+2	Santo	santo	NOUN	n	_	1	nmod	1:nmod	_
+3	poraŋa	poraŋ	NOUN	n	Case=Ref	2	nmod	2:nmod	_
+4	,	,	PUNCT	punct	_	1	punct	1:punct	_
+5	Tupã	Tupã	NOUN	n	_	7	obl	7:obl	_
+6	pɨri	pɨri	ADP	posp	_	5	case	5:case	_
+7	ojkóβaʔe	ikó	NOUN	_	_	1	appos	1:appos	_
+8	.	.	PUNCT	_	_	7	punct	7:punct	_
+
+1	ʃepotaβa	potab	NOUN	n	Case=Ref|Nomzr=Circ|Number=Sing|Person[psor]=1	0	root	0:root	_
+2	kauĩ	kauĩ	NOUN	n	_	1	nsubj	1:nsubj	_
+3	ra	ra	PART	prcl	_	1	discourse	1:discourse	_
+
+1	Tapujpé	tapujper	NOUN	n	_	3	obj	3:obj	_
+2	wajβĩ	wajβĩ	NOUN	n	_	1	nmod	1:nmod	_
+3	aru	eru	VERB	v	Number=Sing|Person[subj]=1	0	root	0:root	_
+4	amõ	amõ	ADV	adv	_	3	obl	3:obl	_
+5	Maweá	Maweá	PROPN	propn	_	4	appos	4:appos	_
+6	swi	swi	ADP	posp	_	4	case	4:case	_
+
+1	aʔejβé	aʔejβé	ADV	adv	_	0	root	_	_
+2	.	.	PUNCT	punct	_	1	punct	_	_
+
+1	Opa	opa	PRON	pro	_	3	nmod	3:nmod	_
+2	ko	ko	DET	dem	_	3	nmod	3:nmod	_
+3	mbo	po	NOUN	n	_	6	nummod	6:nummod	_
+4	mosapɨr	mosapɨr	NUM	num	_	5	nummod	5:nummod	_
+5	mɨsã	pɨsã	NOUN	n	_	3	dep	3:dep	_
+6	ʔara	ʔar	NOUN	n	Case=Ref	7	nmod	7:nmod	_
+7	sɨk'eme	sɨk	NOUN	n	_	39	advcl	39:advcl	_
+8	,	,	PUNCT	punct	_	7	punct	7:punct	_
+9	apɨaβamo	apɨaβ	NOUN	n	Case=Tra	14	obl	14:obl	_
+10	osɨ	sɨ	NOUN	n	Reflex=Yes	11	nmod	11:nmod	_
+11	rɨgé	rɨgé	NOUN	n	Rel=Cont	14	nmod	14:nmod	_
+12	swi	swi	ADP	posp	_	11	case	11:case	_
+13	Tupã	Tupã	NOUN	n	_	14	nmod	14:nmod	_
+14	taʔɨra	aʔɨr	NOUN	n	Rel=NCont	15	nmod	15:nmod	_
+15	ʔarʔiré	ʔar	NOUN	n	_	39	advcl	39:advcl	_
+16	,	,	PUNCT	punct	_	15	punct	15:punct	_
+17	mosapɨr	mosapɨr	NUM	num	_	18	nummod	18:nummod	_
+18	moruβiʃaβa	moruβiʃaβ	NOUN	n	Case=Ref	39	obl	39:obl	_
+19	,	,	PUNCT	punct	_	18	punct	18:punct	_
+20	Reis	rei	NOUN	n	_	18	appos	18:appos	_
+21	ʔiaβa	ʔiaβa	ADV	adv	_	20	amod	20:amod	_
+22	,	,	PUNCT	punct	_	20	punct	20:punct	_
+23	kwarasɨ	kwarasɨ	NOUN	n	_	24	nmod	24:nmod	_
+24	sembaβa	sem	NOUN	n	Nomzr=Circ	25	nmod	25:nmod	_
+25	kotɨ	kotɨ	NOUN	n	_	27	obl	27:obl	_
+26	swi	swi	ADP	pos	_	25	case	25:case	_
+27	ourɨβaʔe	ur	NOUN	n	Nomzr=Rel|Person=3	18	acl	18:acl	_
+28	,	,	PUNCT	punct	_	27	punct	27:punct	_
+29	jasɨtatá	jasɨtatá	NOUN	n	_	27	obl	27:obl	_
+30	serekoarama	erekó	NOUN	n	Rel=NCont|Tense=Fut	29	nmod	29:nmod	_
+31	resé	esé	ADP	posp	Rel=Cont	30	case	30:case	_
+32	,	,	PUNCT	punct	_	31	punct	31:punct	_
+33	Tupã	Tupã	NOUN	n	_	34	nmod	34:nmod	_
+34	remimoɲanga	moɲang	NOUN	n	Case=Ref|Nomzr=Pas|Rel=Cont	29	appos	29:appos	_
+35	pɨsasu	pɨsasu	NOUN	n	_	34	obl	34:obl	_
+36	pe	pe	NOUN	n	_	37	nmod	37:nmod	_
+37	jaramo	jar	NOUN	n	Case=Tra	34	obl	34:obl	_
+38	iʃupé	supé	ADP	posp	Rel=NCont	34	obl	34:obl	_
+39	ogueru	ur	VERB	v	Person=3|Voice=Com	0	root	0:root	_
+40	jetanongaβamo	jetanong	NOUN	n	Case=Tra|Nomzr=Circ	39	obl	39:obl	_
+41	itajuβa	itajuβa	NOUN	n	Case=Ref	39	obj	39:obj	_
+42	,	,	PUNCT	punct	_	41	punct	41:punct	_
+43	ɨsɨkatã	ɨsɨkatã	NOUN	n	_	41	conj	41:conj	_
+44	sɨapwanɨβaʔe	ɨapwan	NOUN	n	Nomzr=Rel|Rel=NCont	43	nmod	43:nmod	_
+45	,	,	PUNCT	punct	_	43	punct	43:punct	_
+46	mirra	mirra	NOUN	n	_	43	conj	43:conj	_
+47	,	,	PUNCT	punct	_	46	punct	46:punct	_
+48	mosanga	posang	NOUN	n	Case=Ref|Rel=Hum	46	appos	46:appos	_
+49	toʔo	oʔo	NOUN	n	Rel=Hum	48	nmod	48:nmod	_
+50	swi	swi	ADP	posp	_	49	case	49:case	_
+
+1	Aβape	aβape	PRON	pron	PronType=Int	0	root	0:root	_
+2	aʔe	aʔe	PRON	dem	_	1	nsubj	1:nsubj	_
+3	?	?	PUNCT	punct	_	1	punct	1:punct	_
+
+1	iaowérape	aoβ	NOUN	Case=Ref|Rel=NCont|Tense=Past	_	4	dep	_	_
+2	,	,	PUNCT	punct	_	4	punct	_	_
+3	marã	marã	ADV	adv	_	4	advmod	_	_
+4	sereków	erekó	NOUN	n	NonFoc=Yes|Rel=NCont	0	root	_	_
+5	?	?	PUNCT	punct	_	4	punct	_	_
+
+1	Nepoʃɨ	poʃɨ	NOUN	n	Number=Sing|Person=2	0	root	0:root	_
+2	wĩ	wĩ	PART	prcl	_	1	discourse	1:discourse	_
+3	!	!	PUNCT	punct	_	1	punct	1:punct	_
+4	Nereʔui	ʔu	VERB	v	Number=Sing|Person=2|Polarity=Neg	1	parataxis	1:parataxis	_
+5	ʃo	ʃo	PART	prcl	_	4	dep	4:dep	_
+6	kori	kori	ADV	adv	_	4	advmod	4:advmod	_
+7	ʃereminuʔune	_	NOUN	n	Dev=Pass|Number=Sing|Person=2|Rel=Cont|Tense=Fut	4	obj	4:obj	_
+8	!	!	PUNCT	punct	_	4	punct	4:punct	_
+
+1	ʃemendwera	men	NOUN	n	Case=Ref|Number=Sing|Person=1|Tense=Past	0	root	0:root	_
+2	ipó	ipó	ADV	adv	_	1	advmod	1:advmod	_
+3	reʔĩ	reʔĩ	PART	prcl	_	1	discourse	1:discourse	_
+4	,	,	PUNCT	punct	_	1	punct	1:punct	_
+5	Pirakaʔẽ	Pirakaʔẽ	PROPN	propn	_	1	appos	1:appos	_
+6	amɨrĩ	amɨrĩ	NOUN	noun	_	5	nmod	5:nmod	_
+7	!	!	PUNCT	punct	_	1	punct	1:punct	_
+
+1	Iʃé	iʃé	PRON	pron	Number=Sing|Person=1|PronType=Prs	0	root	0:root	_
+2	seroβiarɨpɨra	eroβjar	NOUN	n	Nomzr=Pas|Rel=NCont	1	appos	1:appos	_
+3	,	,	PUNCT	punct	_	1	punct	1:punct	_
+4	ʃeaɲangusumiʃɨra	aɲangusumiʃɨr	NOUN	n	Nomzr=Pas|Number=Sing|Person=1	1	conj	1:conj	_
+5	,	,	PUNCT	punct	_	4	punct	4:punct	_
+6	Waiʃará	Guaixará	PROPN	propn	_	7	nmod	7:nmod	_
+7	serɨβaʔe	er	NOUN	Nomzr=Rel|Rel=NCont	_	1	conj	1:conj	_
+8	,	,	PUNCT	punct	_	7	punct	7:punct	_
+9	kwepe	kwepe	ADV	adv	_	10	advmod	10:advmod	_
+10	imoerapwanɨmbɨra	_	NOUN	n	Nomzr=Pas|Rel=NCont|Voice=Cau	1	conj	1:conj	_
+
+1	Opa	opa	PART	pcl	_	2	nmod	_	_
+2	sama	sama	NOUN	n	_	4	obj	_	_
+3	pupé	pupé	ADP	posp	Rel=Cont	2	case	_	_
+4	iapɨtĩw	apɨtĩ	NOUN	n	NonFoc=Yes|Rel=NCont	0	root	_	_
+5	,	,	PUNCT	punct	_	4	punct	_	_
+6	sekɨjsekɨjetéβo	ekɨj	VERB	v	Aspect=Iter|Rel=NCont|VerbForm=Ger	4	advcl	_	_
+7	,	,	PUNCT	punct	_	6	punct	_	_
+8	ikanga	kang	NOUN	n	Case=Ref|Rel=NCont	9	nmod	_	_
+9	jepotasaβa	jepotasaβa	NOUN	Case=Ref	_	10	obj	_	_
+10	peʔaβo	peʔa	VERB	vt	VerbForm=Ger	6	parataxis	_	_
+11	ojoswi	swi	ADP	posp	Reflex=Yes	10	obl	_	_
+
+1	Ejori	ur	VERB	v	Mood=Imp|Number=Sing|Person=2	0	root	0:root	_
+2	muru	muru	NOUN	n	_	3	obj	3:obj	_
+3	moiŋóβo	moiŋó	VERB	v	_	1	advcl	1:advcl	_
+4	janéɲeʔeŋa	ɲeʔeŋ	NOUN	n	Case=Ref|Number=Plur|Person[psor]=1	3	obl	3:obl	_
+5	rupi	rupi	ADP	posp	_	4	case	4:case	_
+
+1	Ojtɨ́kɨpe	tɨk	VERB	v	Int=Yes|Person=3|Rel=NCont	0	root	_	_
+2	ɨβɨɨá	ɨβɨɨá	PART	pcl	_	1	obl	_	_
+3	erimbaʔe	erimbaʔe	ADV	adv	_	1	advmod	_	_
+4	ɲeʔenga	ɲeʔenga	NOUN	n	Case=Ref	1	obl	_	_
+5	sesé	sesé	ADP	posp	Rel=NCont	4	case	_	_
+6	?	?	PUNCT	punct	_	1	punct	_	_
+
+1	Okárɨpe	okár	NOUN	n	_	2	obl	_	_
+2	senosẽmi	enosẽm	NOUN	n	_	0	root	_	_
+3	cruz	cruz	NOUN	n	_	4	obj	_	_
+4	nonga	nong	VERB	v	VerbForm=Ger	2	advcl	_	_
+5	iatiʔɨβ	atiʔɨβ	NOUN	n	Rel=NCont	4	obl	_	_
+6	ʔári	ʔári	ADP	posp	Rel=Cont	5	case	_	_
+
+1	Iaŋaipá	aŋaipá(b)	NOUN	n	Rel=NCont	0	root	0:root	_
+2	;	;	PUNCT	punct	_	1	punct	1:punct	_
+
+1	Aβá	aβá	PRON	pro	PronType=Int	3	nsubj	_	_
+2	aβépe	aβé	ADV	adv	Int=Yes	3	advcl	_	_
+3	oʔam	ʔam	VERB	vi	_	0	root	_	_
+4	cruz	cruz	NOUN	n	_	3	obl	_	_
+5	ɨpɨpe	ɨpɨpe	ADP	posp	_	4	case	_	_
+6	aʔéreme	aʔéreme	ADV	adv	_	3	advmod	_	_
+7	?	?	PUNCT	punct	_	3	punct	_	_
+
+1	aʔepe	_	PART	pcl	_	6	discourse	_	_
+2	aʔe	_	DET	dem	_	5	nmod	_	_
+3	marana	marana	NOUN	n	_	5	nmod	_	_
+4	ri	ri	ADP	posp	_	3	case	_	_
+5	tekoara	eko	NOUN	n	Case=Ref|Nomzr=Ag|Rel=Hum	6	nmod	_	_
+6	so	so	NOUN	n	_	0	root	_	_
+7	re	re	ADP	posp	_	6	case	_	_
+8	,	,	PUNCT	punct	_	6	punct	_	_
+9	marã	marã	PRON	pron	PronType=Int	6	advcl	_	_
+10	?	?	PUNCT	punct	_	9	punct	_	_
+
+1	naipotari	potar	VERB	vt	Number=Sing|Person[obj]=3|Person[subj]=1|Polarity=Neg	0	root	0:root	_
+2	aβá	aβá	NOUN	n	_	3	nmod	3:nmod	_
+3	imomɨka	momɨka	VERB	v	Rel=NCont|VerbForm=Ger	1	obl	1:obl	_
+4	.	.	PUNCT	punct	_	1	punct	1:punct	_
+
+1	Mokoɲõ	mokoɲõ	PRON	pron	_	9	nsubj	9:nsubj	_
+2	,	,	PUNCT	punct	_	1	punct	1:punct	_
+3	Tupã	Tupã	NOUN	n	_	4	obj	4:obj	_
+4	rawsupa	awsub	VERB	v	Rel=Cont|VerbForm=Ger	9	advcl	9:advcl	_
+5	,	,	PUNCT	punct	_	4	punct	4:punct	_
+6	ko	ko	DET	dem	_	7	nmod	7:nmod	_
+7	taβa	tab	NOUN	n	Case=Ref	9	obl	9:obl	_
+8	pupé	pupé	ADP	posp	_	7	case	7:case	_
+9	seków	ikó	NOUN	n	NonFoc=Yes|Rel=NCont	0	root	0:root	_
+10	,	,	PUNCT	punct	_	9	punct	9:punct	_
+11	ojepɨsɨrõmo	pɨsɨrõ	VERB	v	Person=3|Reflex=Yes|VerbForm=Ger	9	advcl	9:advcl	_
+12	okupa	kub	AUX	aux	Person=3|VerbForm=Ger	11	aux	11:aux	_
+13	.	.	PUNCT	punct	_	11	punct	11:punct	_
+
+1	Mamõpe	mamõ	ADV	adv	Int=Yes	2	advmod	_	_
+2	iʃow	so	NOUN	n	NonFoc=Yes|Rel=NCont	0	root	_	_
+3	ombaʔe	mbaʔe	NOUN	n	Reflex=Yes	4	dep	_	_
+4	ʔupaβ	ʔupaβ	VERB	v	Aspect=Compl	2	obl	_	_
+5	iré	iré	ADP	posp	Rel=Cont	4	case	_	_
+6	?	?	PUNCT	punct	_	2	punct	_	_
+
+1	ʃemoajumarangatu	moajumarangatu	NOUN	n	Number=Sing|Person=1	6	nmod	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	ʃemoɨrõetékatuaβo	moɨrõetékatuaβo	VERB	v	Intens=Yes|Number=Sing|Person=1|VerbForm=Ger	1	advcl	_	_
+4	,	,	PUNCT	punct	_	3	punct	_	_
+5	ajpó	ajpó	DET	dem	_	6	nmod	_	_
+6	tekópɨsasu	ekópɨsasu	NOUN	n	Rel=Hum	0	root	_	_
+
+1	Aipotákatu	potar	VERB	v	Intens=Yes|Number=Sing|Person[obj]=3|Person[subj]=1	0	root	0:root	_
+2	tenhẽ	tenhẽ	PART	prcl	_	1	discourse	1:discourse	_
+3	opaβĩ	opaβĩ	PRON	pro	_	4	nmod	4:nmod	_
+4	taβa	tab	NOUN	n	Case=Ref	5	obj	5:obj	_
+5	mondɨka	mondɨk	VERB	v	VerbForm=Ger	1	xcomp	1:xcomp	_
+6	.	.	PUNCT	punct	_	1	punct	1:punct	_
+
+1	je	je	PART	prcl	_	2	discourse	2:discourse	_
+2	tasóne	so	VERB	v	Mood=Perm|Number=Sing|Person[subj]=1|Tense=Fut	0	root	0:root	_
+3	ʃemonoápe	monoáb	NOUN	Case=All|Nomzr=Circ|Number=Sing|Person[psor]=1|	Number=Sing|Person=1	2	obl	2:obl	_
+4	.	.	PUNCT	punct	_	2	punct	2:punct	_
+5	Meme	_	ADV	adv	_	6	discourse	6:discourse	_
+6	iʃé	iʃé	PRON	pron	Number=Sing|Person=1|PronType=Prs	12	dislocated	12:dislocated	_
+7	,	,	PUNCT	punct	_	12	punct	12:punct	_
+8	ʃepɨʔape	pɨʔa	NOUN	n	Case=Loc|Number=Sing|Person[psor]=1	12	obl	12:obl	_
+9	,	,	PUNCT	punct	_	8	punct	8:punct	_
+10	emonã	_	ADV	adv	_	12	advmod	12:advmod	_
+11	tekó	ikó	NOUN	dem	_	12	obj	12:obj	_
+12	potá	potar	VERB	v	VerbForm=Ger	2	advcl	2:advcl	_
+
+1	jandéjara	jar	NOUN	n	Case=Ref|Clusivity=In|Number=Plur|Person=1|Rel=Cont	0	root	_	_
+2	JesusCristo	Jesus	PROPN	propn	_	1	appos	_	_
+3	.	.	PUNCT	punct	_	1	punct	_	_
+
+1	Ojmoʔɨʔupe	ʔu	VERB	vt	Incorp=Yes|Int=Yes|Person[obj]=3|Person[subj]=3|Voice=Cau	0	root	_	_
+2	ɨβɨá	ɨβɨá	PART	pcl	_	1	obl	_	_
+3	?	?	PUNCT	punct	_	1	punct	_	_
+
+1	Marãnamope	marãnamo	ADV	adv	Int=Yes	0	root	_	_
+2	?	?	PUNCT	punct	_	1	punct	_	_
+
+1	tasó	so	VERB	vi	Mood=Perm|Number=Sing|Person[subj]=1	0	root	0:root	_
+2	kori	kori	ADV	adv	_	1	advmod	1:advmod	_
+3	,	,	PUNCT	punct	_	1	punct	1:punct	_
+4	nerejápe	ejar	VERB	v	Case=Loc|Number=Sing|Person[subj]=2|VerbForm=Ger	1	advcl	1:advcl	_
+5	,	,	PUNCT	punct	_	1	punct	1:punct	_
+6	apɨaβa	apɨab	NOUN	n	Case=Ref	7	obj	7:obj	_
+7	pɨsɨka	pɨsɨk	VERB	v	VerbForm=Ger	1	advcl	1:advcl	_
+8	pa	pa	PART	prcl	_	7	dep	7:dep	_
+
+1	iʃɨ	sɨ	NOUN	n	Rel=NCont	0	root	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	iirũetá	irũ	NOUN	n	Number=Plur|Rel=NCont	1	conj	_	_
+4	aβé	aβé	ADV	adv	_	1	advmod	_	_
+
+1	ʃerekó	ekó	NOUN	n	Number=Sing|Person=1|Rel=Cont	2	nsubj	_	_
+2	iporangete	porang	NOUN	n	Intens=Yes|Rel=NCont	0	root	_	_
+
+1	Setápe	etá	NOUN	n	Int=Yes|Rel=NCont	0	root	_	_
+2	inupãnupãsara	nupã	NOUN	n	Aspect=Iter|Nomzr=Ag|Red=Di|Rel=NCont	1	appos	_	_
+3	?	?	PUNCT	punct	_	1	punct	_	_
+
+1	Marã	marã	ADV	adv	Int=Yes	12	advmod	_	_
+2	itá	itá	NOUN	n	_	12	obl:obj	_	_
+3	ɲẽpe	ɲẽ	PART	pcl	Int=Yes	2	discourse	_	_
+4	,	,	PUNCT	punct	_	2	punct	_	_
+5	kojpó	kojpó	CCONJ	cc	ConjType=Disj	2	cc	_	_
+6	ɨβɨrá	ɨβɨrá	NOUN	n	_	2	conj	_	_
+7	,	,	PUNCT	punct	_	6	punct	_	_
+8	ɲauʔuma	ɲauʔum	NOUN	n	Case=Ref	2	conj	_	_
+9	imoɲangɨmbɨra	moɲang	NOUN	n	Rel=NCont	8	appos	_	_
+10	ɲẽpe	ɲẽ	PART	pcl	Int=Yes	8	discourse	_	_
+11	asé	asé	PRON	pro	PronType=Prs	12	obl:subj	_	_
+12	ojmoeté	eté	VERB	vt	Person[obj]=3|Person[subj]=3|Voice=Cau	0	root	_	_
+13	?	?	PUNCT	punct	_	12	punct	_	_
+
+1	Erĩ	erĩ	INTJ	intj	_	0	root	0:root	_
+2	,	,	PUNCT	punct	_	1	punct	1:punct	_
+3	awjé	awjé	INTJ	intj	_	1	parataxis	1:parataxis	_
+4	.	,	PUNCT	punct	_	1	punct	1:punct	_
+5	ʃemoorɨkatu	orɨb	NOUN	n	Intens=Yes|Number=Sing|Person[psor]=1|Voice=Cau	1	parataxis	1:parataxis	_
+6	jepé	jepé	PRON	pron	_	5	obl	5:obl	_
+7	,	,	PUNCT	punct	_	5	punct	5:punct	_
+8	inã	inã	ADV	adv	_	10	advmod	10:advmod	_
+9	tekó	ikó	NOUN	n	Rel=Hum	10	obj	10:obj	_
+10	momewaβo	momeʔu	VERB	v	VerbForm=Ger	5	advcl	5:advcl	_
+11	.	.	PUNCT	punct	_	10	punct	10:punct	_
+
+1	Jori	jur	VERB	vi	Mood=Imp	0	root	0:root	_
+2	,	,	PUNCT	punct	_	1	punct	1:punct	_
+3	esenõj	enõj	VERB	vt	Mood=Imp|Number=Sing|Person[subj]=2|Rel=NCont	1	parataxis	1:parataxis	_
+4	aŋá	_	ADV	n	_	3	discourse	3:discourse	_
+5	kwejβo	kwejβo	ADV	adv	_	3	advmod	3:advmod	_
+6	nderemimoawjé	awjé	NOUN	n	Dev=Pass|Person[psor]=2|Rel=NCont|Voice=Cau	3	obj	3:obj	_
+7	.	.	PUNCT	punct	_	3	punct	3:punct	_
+8	Aβápe	aβá	PRON	punct	Int=Yes	9	obj	9:obj	_
+9	eremoaŋajpá	aŋajpab	VERB	v	Number=Sing|Person[subj]=2|Voice=Cau	3	parataxis	3:parataxis	_
+10	?	?	PUNCT	punct	_	9	punct	9:punct	_
+
+1	Osokendaβ	okendaβ	VERB	v	Person[obj]=3|Person[subj]=3	0	root	_	_
+2	aʔe	aʔe	DET	dem	_	3	nmod	_	_
+3	karamemwã	karamemwã	NOUN	n	_	1	obl	_	_
+4	itawasu	itawasu	NOUN	n	_	1	obl	_	_
+5	pupé	pupé	ADP	posp	Rel=Cont	4	case	_	_
+
+1	Ojpɨsó	pɨsó	VERB	v	Person[obj]=3|Person[subj]=3	0	root	_	_
+2	ɨβɨrajoasaβa	ɨβɨrajoasaβ	NOUN	n	Case=Ref|Nomzr=Circ	1	obl	_	_
+3	ʔárɨβo	ʔar	NOUN	n	Case=Per	2	case	_	_
+4	,	,	PUNCT	punct	_	1	punct	_	_
+5	itapɨwá	itapɨwá	NOUN	n	_	1	obl	_	_
+6	pupé	pupé	ADP	posp	Rel=Cont	5	case	_	_
+7	ipó	ipó	DET	dem	_	8	nsubj	_	_
+8	kutuka	kutuk	VERB	v	VerbForm=Ger	1	conj	_	_
+9	,	,	PUNCT	punct	_	8	punct	_	_
+10	imojá	mojár	VERB	v	VerbForm=Ger	1	dep	_	_
+
+1	Sesé	sesé	ADP	posp	Rel=NCont	2	case	_	_
+2	imojarɨpɨ́ramo	_	NOUN	n	Case=Tra|Dev=Pass|Rel=NCont	3	advcl	_	_
+3	omanõmo	manõ	VERB	V	Person=3|VerbForm=Ger	4	advcl	_	_
+4	ojemoatãawera	ram	NOUN	n	Case=Ref|Reflex=Yes|Tense=Past	0	root	_	_
+5	resé	esé	ADP	posp	Rel=Cont	4	case	_	_
+6	.	.	PUNCT	punct	_	4	punct	_	_
+
+1	Umã	umã	PRON	pron	PronType=Int	0	root	0:root	_
+2	?	?	PUNCT	punct	_	1	punct	1:punct	_
+
+1	Ajpotaretékatu	potar	VERB	v	Intens=Yes|Number=Sing|Person[obj]=3|Person[subj]=1	0	root	0:root	_
+2	okɨbɨɲa	okɨbɨj	NOUN	n	Case=Ref	3	obj	3:obj	_
+3	neiʃusupa	sub	VERB	v	Aspect=Iter|Number=Sing|Person=2|Red=Mo|VerbForm=Ger	1	obl	1:obl	_
+4	;	;	PUNCT	punct	_	1	punct	1:punct	_
+5	iʃuβ	sub	NOUN	n	Rel=NCont	7	obl	7:obl	_
+6	iré	riré	ADP	posp	_	5	case	5:case	_
+7	tereju	jur	VERB	v	Mood=Perm|Number=Sing|Person[subj]=2	1	parataxis	1:parataxis	_
+
+1	Cristo	Cristo	PROPN	propn	_	3	nmod	_	_
+2	jandéjara	jar	NOUN	n	Case=Ref|Clusivity=In|Number=Plur|Person=1|Rel=Cont	1	appos	_	_
+3	reroβjasáramo	eroβjar	NOUN	n	Case=Tra|Nomzr=Ag|Rel=Cont	4	obl	_	_
+4	sekóreme	ekó	NOUN	n	Mood=Sub|Rel=NCont	0	root	_	_
+5	,	,	PUNCT	punct	_	4	punct	_	_
+6	sekó	ekó	NOUN	n	Rel=NCont	7	nmod	_	_
+7	mombewáramo	mombewár	NOUN	n	Case=Tra	8	obl	_	_
+8	sekóreme	ekó	NOUN	n	Mood=Sub|Rel=NCont	4	parataxis	_	_
+
+1	Owerasó	so	VERB	v	Person=3|Voice=Com	0	root	_	_
+2	amõ	amõ	PRON	pro	PronType=Ind	3	nmod	_	_
+3	okusupe	ok	NOUN	n	Case=All	1	obl	_	_
+4	,	,	PUNCT	punct	_	1	punct	_	_
+5	serojkjaβo	iké	VERB	v	Rel=NCont|VerbForm=Ger	1	advcl	_	_
+6	,	,	PUNCT	punct	_	5	punct	_	_
+7	aʔepe	aʔe	ADV	adv	_	9	advmod	_	_
+8	maranaritekoaratã	maranaritekoar	NOUN	n	_	9	nmod	_	_
+9	reʔɨɲanga	eʔɨɲang	VERB	V	Rel=Cont|VerbForm=Ger	5	conj	_	_
+10	sesé	sesé	ADP	posp	Rel=NCont	9	case	_	_
+
+1	Ekwãj	kwãj	VERB	v	Mood=Imp|Number=Sing|Person=2	0	root	0:root	_
+2	moʃɨ	poʃɨ	NOUN	n	Rel=Hum	3	obj	3:obj	_
+3	moʔa	ʔar	VERB	v	Voice=Cau	1	advcl	1:advcl	_
+4	janéjusana	jusan	NOUN	n	Case=Ref|Clusivity=In|Number=Sing|Person=1	3	obl	3:obl	_
+5	pupé	pupé	ADP	posp	_	4	case	4:case	_
+6	!	!	PUNCT	punct	_	1	punct	1:punct	_
+
+1	ɨβɨ	ɨβɨ	NOUN	n	_	0	root	_	_
+2	rupi	upi	ADP	posp	Rel=Cont	1	case	_	_
+3	βé	βé	ADV	adv	_	1	advmod	_	_
+4	.	.	PUNCT	punct	_	1	punct	_	_
+
+1	Angari	angari	ADV	adv	_	3	advmod	3:advmod	_
+2	,	,	PUNCT	punct	_	1	punct	1:punct	_
+3	ajosuβ	suβ	VERB	v	Person[obj]=3|Person[subj]=1	0	root	0:root	_
+4	aβá	aβá	NOUN	n	_	5	nmod	5:nmod	_
+5	kotɨ	kotɨ	NOUN	n	_	3	obl	3:obl	_
+6	,	,	PUNCT	punct	_	3	punct	3:punct	_
+7	taʃereroβjar	eroβjar	NOUN	n	Mood=Perm|Number=Sing|Person=1|Rel=Cont	8	obj	8:obj	_
+8	wiʔiaβo	ʔi	VERB	v	Number=Sing|Person=1|VerbForm=Ger	3	advcl	3:advcl	_
+9	.	.	PUNCT	punct	_	3	punct	3:punct	_
+10	0u	u	VERB	v	Number=Sing|Person=3	3	parataxis	3:parataxis	_
+11	teɲẽ	teɲẽ	ADV	adv	_	10	advmod	10:advmod	_
+12	ʃepeʔaβo	peʔa	VERB	v	Number=Sing|Person=1|VerbForm=Ger	10	advcl	10:advcl	_
+13	aβaré	aβaré	NOUN	n	_	10	nsubj	10:nsubj	_
+14	ʔiaβa	ʔi	DET	pro	_	13	det	13:det	_
+15	,	,	PUNCT	punct	_	10	punct	10:punct	_
+16	kori	kori	ADV	adv	_	20	advmod	20:advmod	_
+17	,	,	PUNCT	punct	_	16	punct	16:punct	_
+18	Tupã	Tupã	PROPN	pron	_	19	nmod	19:nmod	_
+19	rekó	ekó	NOUN	n	Rel=Cont	20	obj	20:obj	_
+20	momewaβo	momeʔu	VERB	v	VerbForm=Ger	10	advcl	10:advcl	_
+21	.	.	PUNCT	punct	_	10	punct	10:punct	_
+
+1	Marãeteʔĩpe	Marã	ADV	adv	_	0	root	_	_
+2	Jesus	Jesus	PROPN	propn	_	1	nsubj	_	_
+3	oenoseme	sem	NOUN	n	Case=Loc|Reflex=Yes|Voice=Com	2	obl	_	_
+4	?	?	PUNCT	punct	_	1	punct	_	_
+
+1	Osó	so	VERB	vi	Person=3	0	root	_	gloss_port=3-ir
+2	kuɲã	kuɲã	NOUN	n	_	1	obl	_	gloss_port=mulher-REF
+3	semimboʔeetá	emimboʔe	NOUN	n	Number=Plur	2	appos	_	gloss_port=Rel2-pupil-COLL
+4	sapirõmo	apirõ	VERB	vt	VerbForm=Ger	1	dep	_	gloss_port=Rel2-mourn-GER
+
+1	Karaíβa	Karaíb	NOUN	n	Case=Ref	2	nsubj	2:nsubj	_
+2	nasetáj	etá	NOUN	n	Polarity=Neg|Rel=NCont	0	root	0:root	_
+3	,	,	PUNCT	punct	_	2	punct	2:punct	_
+4	São	são	NOUN	n	_	5	compound	5:compound	_
+5	Sebastião	Sebastião	PROPN	pron	_	7	obl	7:obl	_
+6	aʔe	aʔe	CCONJ	cconj	_	7	cc	7:cc	_
+7	omondɨk	mondɨk	VERB	v	Person[subj]=3|Voice=Cau	2	conj	2:conj	_
+8	tatá	atá	NOUN	n	Rel=Abs	7	obl	7:obl	_
+9	sesé	esé	ADP	posp	Rel=NCont	8	case	8:case	_
+10	,	,	PUNCT	punct	_	7	punct	7:punct	_
+11	imondɨja	mondɨj	VERB	_	Rel=NCont|VerbForm=Ger	7	advcl	7:advcl	_
+

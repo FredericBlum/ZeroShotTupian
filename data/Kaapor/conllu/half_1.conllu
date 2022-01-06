@@ -1,0 +1,115 @@
+1	neke	ne	PRON	pro	Case=Aff	3	nsubj	_	_
+2	uʔike	uʔi	NOUN	n	Case=Aff	3	obj	_	_
+3	rekarãjta	karãj	VERB	vt	Number=Sing|Person=2|Tense=Fut	0	root	_	_
+
+1	aʔerehe	aʔerehe	ADV	adv	_	4	advmod	_	_
+2	tarũ	tarũ	PROPN	prpn	_	4	nsubj	_	_
+3	neʃĩke	neʃĩ	PROPN	prpn	Case=Aff	4	obj	_	_
+4	joʔok	joʔok	VERB	vt	Person=3	0	root	_	_
+
+1	ajameʔẽ	ajameʔẽ	ADV	v	_	5	advmod	_	_
+2	ke	ke	PART	prcl	_	3	discourse	_	_
+3	Urupe	urupe	PROPN	propn	_	5	nsubj	_	_
+4	jeʔẽha	jeʔẽ	NOUN	n	Nomzr=Circ	5	obj	_	_
+5	mondo	mondo	VERB	vt	Person=3	0	root	_	_
+6	tĩ	tĩ	ADV	adv	_	5	advmod	_	_
+
+1	ne	ne	PRON	pro	_	3	nsubj	_	_
+2	ihẽke	ihẽ	PRON	pro	Case=Aff	3	obj	_	_
+3	renupã	nupã	VERB	vt	Number=Sing|Person=2	6	advcl	_	_
+4	rahã	rahã	SCONJ	sc	_	3	mark	_	_
+5	ihẽ	ihẽ	PRON	pro	_	6	obj	_	_
+6	ahota	ho	VERB	vi	Number=Sing|Person=1|Tense=Fut	0	root	_	_
+
+1	a’eta	a'e	PRON	pro	Number=Plur	2	nsubj	_	_
+2	ajengar	jengar	VERB	vt	Person=1	0	root	_	_
+
+1	ne	ne	PRON	pro	_	3	nsubj	_	_
+2	ihẽke	ihẽ	PRON	pro	Case=Aff	3	iobj	_	_
+3	remusak	sak	VERB	vt	Voice=Cau	0	root	_	_
+4	ʔɪ	ʔɪ	AUX	aux	Aspect=Perf	3	aux	_	_
+
+1	aʔeke	aʔe	PRON	pro	_	2	nsubj	_	_
+2	uʔuta	ʔu	VERB	vt	Person=3|Tense=Fut	0	root	_	_
+3	pɪpɪhu	pɪpɪhu	NOUN	n	_	2	obj	_	_
+4	ketĩ	ke	PART	pcl	_	2	discourse	_	_
+
+1	ihẽ	ihẽ	PRON	pro	Person=1	3	nsubj	_	_
+2	ikɪ	kɪ	NOUN	n	Rel=NCont	3	obj	_	_
+3	ajiʔok	jiʔok	VERB	vt	Person=3	0	root	_	_
+4	ʔɪ	ʔɪ	AUX	aux	Aspect=Perf	3	aux	_	_
+
+1	netawate	tawa	VERB	vi	Intense=Yes|Person=2	0	root	_	_
+2	nekeã	ã	PRON	pro	Case=Aff|Person=2	1	nsubj	_	_
+3	nejɪtɪʔɪmte	jɪtɪʔɪm	VERB	vi	Intense=Yes|Person=2	1	conj	_	_
+4	amõ	amõ	ADV	adv	_	3	advmod	_	_
+5	ʔɪ	ʔɪ	PART	pcl	_	3	discourse	_	_
+
+1	ne	ne	PRON	pro	_	3	nsubj	_	_
+2	taɁɪnke	taɁɪn	NOUN	n	Case=Aff	3	obj	_	_
+3	eremuɁe	Ɂe	VERB	vt	Person=2|Voice=Cau	0	root	_	_
+
+1	ihē	ihē	PRON	pro	_	2	nmod	_	_
+2	rãi	rãi	NOUN	n	_	4	obj	_	_
+3	ihē	ihē	PRON	pro	_	4	nsubj	_	_
+4	amoīta	moī	VERB	vt	Number=Sing|Person=1|Tense=Fut	0	root	_	_
+5	tipe	tipe	PART	pcl	Aspect=Frus	4	discourse	_	_
+
+1	ihẽ	ihẽ	PRON	pro	_	3	nsubj	_	_
+2	neke	ne	PRON	pro	_	3	obj	_	_
+3	akutukta	kutuk	VERB	vt	Person=1|Tense=Fut	0	root	_	_
+
+1	ko	ko	ADV	adv	_	4	advmod	_	_
+2	riki	riki	ADP	pp	_	1	case	_	_
+3	ihē	ihē	PRON	pro	_	4	nsubj	_	_
+4	ahɪk	hɪk	VERB	vt	Number=Sing|Person=1	0	root	_	_
+5	ajur	jur	VERB	vi	Number=Sing|Person=1	4	csubj	_	_
+6	jarupa	jarupa	NOUN	n	_	4	obl	_	_
+7	rehe	rehe	ADP	pp	_	6	case	_	_
+
+1	apo	apo	ADV	n	_	4	advmod	_	_
+2	pehẽ	pehẽ	PRON	pro	_	4	nsubj	_	_
+3	ihẽke	ihẽ	PRON	pro	Case=Aff	4	obj	_	_
+4	peharõta	harõ	VERB	vt	Number=Plur|Person=2|Tense=Fut	0	root	_	_
+
+1	pāsɪkwer	pāsɪkwer	NOUN	n	_	3	obj	_	_
+2	riki	riki	ADV	adv	_	3	advmod	_	_
+3	matɪr	atɪr	VERB	vt	Person=3	0	root	_	_
+4	uhu	uhu	ADV	adv	_	1	advmod	_	_
+5	ngā	gā	PRON	pro	Number=Plur|Person=3	3	nsubj	_	_
+6	ipe	pe	ADP	pp	_	1	case	_	_
+
+1	neke	ne	PRON	pro	Case=Aff	3	nsubj	_	_
+2	ihẽ	ihẽ	PRON	pro	_	3	obj	_	_
+3	remupuʔam	puʔam	VERB	vt	Number=Sing|Person=2|Voice=Cau	0	root	_	_
+4	ʔɪ	ʔɪ	AUX	aux	Aspect=Perf	3	aux	_	_
+
+1	pe	pe	ADV	adv	_	5	advmod	_	_
+2	imu	mu	NOUN	n	Person=3	5	nsubj	_	_
+3	uʔɪ	uʔɪ	NOUN	n	_	5	obj	_	_
+4	raʔɪr	raʔɪr	NOUN	n	_	3	amod	_	_
+5	mujã	mujã	VERB	vt	_	0	root	_	_
+6	ipe	pe	PRON	ppn	Person=3	5	iobj	_	_
+7	je	je	PART	pcl	_	5	discourse	_	_
+8	uʔɪ	uʔɪ	NOUN	n	_	5	obl	_	_
+9	sepetu	sepetu	NOUN	n	_	10	nmod	_	_
+10	ɪrapar	ɪrapar	NOUN	n	_	8	nmod	_	_
+11	raʔɪr	raʔɪr	NOUN	n	_	10	amod	_	_
+
+1	Anake	Ana	PROPN	pn	_	2	nmod	_	_
+2	heɁõɁɪ	eɁõɁɪ	NOUN	n	Rel=NCont	0	root	_	_
+
+1	mɪra	mɪra	NOUN	n	_	5	nsubj	_	_
+2	pirerke	pirer	NOUN	n	Case=Aff	1	nmod	_	_
+3	teʔe	teʔe	ADV	adv	_	5	advmod	_	_
+4	pirawan	pirawan	NOUN	n	_	5	obj	_	_
+5	muwak	wak	VERB	vt	Person=1|Voice=Cau	0	root	_	_
+
+1	ko	ko	ADV	adv	_	5	advmod	_	_
+2	ihē	ihē	PRON	pro	_	5	nsubj	_	_
+3	paper	paper	NOUN	n	_	5	obj	_	_
+4	pinim	pinim	NOUN	n	_	3	amod	_	_
+5	amuwɪr	wɪr	VERB	vi	Number=Sing|Person=1|Voice=Cau	0	root	_	_
+6	nde	nde	PRON	pro	_	5	iobj	_	_
+7	pe	pe	ADP	pp	_	6	case	_	_
+

@@ -1,0 +1,748 @@
+1	maŋaptem	_	ADJ	adj	_	3	advmod	_	_
+2	ŋaap	_	AUX	aux	Clas=Fem|Decl=AssertFoc|Number=Sing|Person=3	3	aux	_	_
+3	otoba	_	VERB	v	Number=Sing|Person=1|VerbForm=Ger	0	root	_	_
+
+1	wat	wat	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod	_	_
+2	manikap	_	NOUN	n	_	5	obl	_	_
+3	peʔ	_	ADP	adp	Case=Loc	2	case	_	_
+4	ahyə	ahyə	PART	part	Int=Yes	5	case	_	_
+5	ekerap	_	VERB	v	Decl=AssertFoc|Number=Sing|Person=2	0	root	_	_
+
+1	tap	tap	PRON	pron	Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
+2	toroyapít	_	VERB	v	Decl=Assert|Person=3	0	root	_	_
+
+1	karam	_	NOUN	n	_	2	compound	_	_
+2	nãk	_	NOUN	n	_	0	root	_	_
+3	pɨʔ	_	ADJ	adj	Clas=Cyls	2	clf	_	_
+4	ʔĩt	_	ADJ	adj	_	2	amod	_	_
+5	pɨʔ	_	ADJ	adj	Clas=Cyls	2	clf	_	_
+
+1	ameko	ameko	NOUN	n	_	3	nsubj	_	_
+2	cú	_	ADJ	adj	_	1	amod	_	_
+3	yaʔwa	_	VERB	v	Decl=Assert	0	root	_	_
+4	yat	yat	PART	part	Tense=Fut	3	mark	_	_
+
+1	wenwen	wen	VERB	v	Aspect=Iter|Redup=Yes	0	root	_	_
+2	we	_	AUX	aux	Number=Sing|Person=1	1	aux	_	_
+3	mãm	mãm	PART	part	_	1	discourse	_	_
+
+1	cutcut	cut	VERB	v	Aspect=Iter|Redup=Yes	0	root	_	_
+2	ʔet	_	AUX	aux	Decl=Assert|Number=Sing|Person=2	1	aux	_	_
+3	ahyə	ahyə	PART	part	Int=Yes	1	discourse	_	_
+4	ŋakəy	_	PRON	pron	Case=Dat|Clas=Fem|Number=Sing|Person=3	1	obj	_	_
+
+1	kõm	kõm	ADV	adv	_	3	advmod	_	_
+2	péŋ	péŋ	NOUN	n	_	3	nsubj	_	_
+3	ʔet	_	AUX	aux	Decl=Assert	0	root	_	_
+4	nyahmãm	mãm	PART	part	_	3	advmod	_	_
+5	apik	_	ADP	adp	Case=All|Number=Sing|Person=3	3	case	_	_
+
+1	towagon	_	NOUN	n	Corf=Yes|Person=3	0	root	_	_
+2	gəy	kəy	PART	part	Case=Dat	1	case	_	_
+
+1	aʔwĩa	_	VERB	v	Person=3|VerbForm=Ger	0	root	_	_
+2	púŋ	_	VERB	v	_	1	obl	_	_
+3	ʔa	_	AUX	aux	Number=Sing|Person=2|VerbForm=Ger	1	aux	_	_
+
+1	kãykãy	kãy	VERB	v	Aspect=Iter|Redup=Yes	0	root	_	_
+2	ʔa	_	AUX	aux	Number=Sing|Person=2|VerbForm=Ger	1	aux	_	_
+3	et	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	4	nmod	_	_
+4	kaʔa	_	NOUN	n	_	1	obl	_	_
+5	ʔa	_	ADJ	adj	Clas=Rd	4	clf	_	_
+6	peʔ	_	ADP	adp	Case=Loc	4	case	_	_
+
+1	maʔpəy	_	NOUN	n	_	4	nsubj	_	_
+2	rah	_	PART	part	Case=Com	1	case	_	_
+3	mõm	_	ADV	adv	_	1	advmod	_	_
+4	ikérat	_	VERB	v	Person=3Imp	0	root	_	_
+
+1	məy	_	ADV	adv	_	8	advmod	_	_
+2	yét	yét	PRON	pron	PronType=Dem	3	det	_	_
+3	maʔpəy	_	NOUN	n	_	8	nsubj	_	_
+4	ŋa	ŋa	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	3	clf	_	_
+5	waʔye	_	AUX	aux	_	8	aux	_	_
+6	cán	_	NOUN	n	_	8	obj	_	_
+7	nã	_	PART	part	_	6	clf	_	_
+8	makɨra	_	VERB	v	VerbForm=Ger|Voice=Cau	0	root	_	_
+
+1	wayo	wayo	NOUN	n	_	3	compound	_	_
+2	bap	_	ADJ	adj	Clas=Cylb	1	clf	_	_
+3	ci	_	NOUN	n	_	0	root	_	_
+
+1	nãn	nã	AUX	aux	Int=Yes	3	nsubj	_	_
+2	mãygãra	mãygãra	NOUN	n	_	3	obj	_	_
+3	wīn	_	VERB	v	Decl=Assert	0	root	_	_
+
+1	oyaʔwan	yaʔwat	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	_	_
+2	nyar	yat	PART	part	Tense=Fut	1	dep	_	_
+3	aʔtoy	top	VERB	v	Decl=Assert|Number=Sing|Person=3	1	xcomp	_	_
+4	iga	iga	PART	part	_	1	dep	_	_
+
+1	õn	õn	PRON	pron	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+2	okõna	_	ADP	adp	Number=Sing|Person=1	1	mark	_	_
+3	ip	_	NOUN	n	_	4	obj	_	_
+4	ʔɨy	ʔɨy	VERB	v	Decl=Assert	0	root	_	_
+
+1	owirup	_	NOUN	n	Number=Sing|Person=1	2	obj	_	_
+2	tɨra	_	VERB	v	VerbForm=Ger	0	root	_	_
+3	ẽn	ẽn	PRON	pron	Number=Sing|Person=2	2	appos	_	_
+
+1	icãp	_	NOUN	_	Person=3Imp	0	root	_	_
+2	pɨʔ	_	ADJ	adj	Clas=Cyls	1	clf	_	_
+
+1	wat	wat	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod	_	_
+2	kaʔa	_	NOUN	n	_	6	obl	_	_
+3	ʔa	_	ADJ	adj	Clas=Rd	2	clf	_	_
+4	peʔ	_	ADP	adp	Case=Loc	2	case	_	_
+5	web	_	AUX	aux	Decl=AssertFoc|Number=Sing|Person=1	6	aux	_	_
+6	aʔpɨya	_	VERB	v	Number=Sing|Person=3|VerbForm=Ger	0	root	_	_
+
+1	ẽn	ẽn	PRON	pron	Number=Sing|Person=2|PronType=Prs	0	root	_	_
+2	ahyə	ahyə	PART	part	Int=Yes	1	mark	_	_
+3	púŋ	_	VERB	v	_	1	dep	_	_
+4	ye	_	AUX	aux	Person=3Imp	3	aux	_	_
+
+1	naʔwəy	_	NOUN	n	_	2	nsubj	_	_
+2	yaʔi	_	VERB	v	Decl=Assert	0	root	_	_
+3	maʔɨp	_	NOUN	n	_	2	obl	_	_
+4	ʔay	_	ADP	adp	Case=Abl	3	case	_	_
+
+1	haran	_	NOUN	n	_	0	root	_	_
+2	narap	_	ADJ	adj	_	1	amod	_	_
+
+1	kiganape	_	ADV	adv	_	3	advmod	_	_
+2	ep	_	AUX	aux	Decl=AssertFoc|Number=Sing|Person=2	3	aux	_	_
+3	eken	_	VERB	v	Decl=Assert|Number=Sing|Person=2	0	root	_	_
+4	yahmãm	mãm	PART	part	_	3	advmod	_	_
+
+1	kɨrɨwep	_	NOUN	n	_	0	root	_	_
+2	pát	_	ADJ	adj	_	1	amod	_	_
+
+1	owekuy	pekuy	NOUN	n	Number=Sing|Person=1	0	root	_	_
+2	nãn	nã	AUX	aux	Decl=Assert	1	aux	_	_
+3	iʔkɨy	iʔkɨy	PART	part	Evident=Fh	1	discourse	_	_
+4	tə	tə	PART	part	Evident=Nfh	1	discourse	_	_
+
+1	paramu	_	VERB	v	_	0	root	_	_
+2	ʔa	_	AUX	aux	Number=Sing|Person=2|VerbForm=Ger	1	aux	_	_
+3	owikop	_	ADP	adp	Case=Abe|Number=Sing|Person=1	1	obl	_	_
+
+1	taykir	_	PART	part	_	3	advmod	_	_
+2	at	at	PRON	pron	Number=Sing|Person=3	3	nsubj	_	_
+3	aʔtoy	top	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	_	_
+4	iga	_	PART	part	Tense=Fut	3	mark	_	_
+
+1	oyaʔkoy	_	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	_	_
+
+1	oken	_	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	_	_
+2	kãy	_	VERB	v	_	3	obj	_	_
+3	kãy	_	VERB	v	_	1	obj	_	_
+4	kanãp	_	ADV	adv	_	1	advmod	_	_
+
+1	õn	õn	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	[aʔwéro	_	VERB	v	Number=Sing|Person=3	3	obj	_	_
+3	toy]	_	VERB	v	Decl=Assert	0	root	_	_
+
+1	agóaʔpət	agóaʔpət	NOUN	n	_	2	nmod	_	_
+2	naká	_	NOUN	n	_	0	root	_	_
+
+1	agóaʔpət	agóaʔpət	NOUN	n	_	2	nsubj	_	_
+2	ken	_	VERB	v	Decl=Assert	0	root	_	_
+
+1	et	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	2	nmod	_	_
+2	owã	_	NOUN	n	_	3	nsubj	_	_
+3	emakət	_	VERB	v	Decl=Assert|Number=Sing|Person=2|Voice=Cau	0	root	_	_
+
+1	cak	_	ADV	adv	_	5	obl	_	_
+2	mãm	mãm	PART	part	_	5	discourse	_	_
+3	okap	_	AUX	aux	Decl=AssertFoc|Number=Sing|Person=1|Tense=Fut	5	aux	_	_
+4	cĩm	_	NOUN	n	_	5	obj	_	_
+5	ʔóa	_	VERB	v	VerbForm=Ger	0	root	_	_
+
+1	cĩm	_	NOUN	n	_	2	obj	_	_
+2	yegat	_	VERB	v	Decl=Assert	0	root	_	_
+3	yahmãm	mãm	PART	part	_	2	advmod	_	_
+4	tẽna	_	ADV	adv	_	2	advmod	_	_
+
+1	ci	_	NOUN	n	_	2	compound	_	_
+2	mininĩ	_	NOUN	n	_	5	obj	_	_
+3	ʔa	_	ADJ	adj	Clas=Rd	2	clf	_	_
+4	mõm	_	ADV	adv	_	2	advmod	_	_
+5	mawɨya	_	VERB	v	VerbForm=Ger|Voice=Cau	0	root	_	_
+
+1	mãygãra	mãygãra	NOUN	n	_	2	obj	_	_
+2	wĩa	_	VERB	v	VerbForm=Ger	0	root	_	_
+3	iʔke	iʔke	PART	part	Polarity=Neg	2	advmod	_	_
+4	[war	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	5	nmod	_	_
+5	owẽ]	_	NOUN	n	_	2	nsubj	_	_
+6	gay	_	AUX	aux	Decl=Assert|Tense=Fut	2	aux	_	_
+
+1	wəwə	_	NOUN	n	_	0	root	_	_
+2	cɨʔ	_	ADJ	adj	Clas=Tflat	1	clf	_	_
+
+1	kanãy	_	ADV	adv	_	6	advmod	_	_
+2	at	at	PRON	pron	Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
+3	toat	_	PRON	pron	Corf=Yes|Person=3	4	nmod	_	_
+4	kaʔa	_	NOUN	n	_	6	obj	_	_
+5	ʔaʔ	_	ADJ	adj	Clas=Rd	4	clf	_	_
+6	pẽya	_	VERB	v	VerbForm=Ger	0	root	_	_
+
+1	péŋ	péŋ	NOUN	n	_	2	nsubj	_	_
+2	iʔkɨy	iʔkɨy	PART	part	Evident=Fh	0	root	_	_
+3	aʔwĩa	_	VERB	v	Number=Sing|Person=3|VerbForm=Ger	2	xcomp	_	_
+4	wet	_	AUX	aux	Decl=Assert|Number=Sing|Person=1	2	aux	_	_
+
+1	õn	õn	PRON	pron	Number=Sing|Person=1	2	nsubj	_	_
+2	aʔyamón	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	_	_
+
+1	õn	õn	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	aʔtigat	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	_	_
+
+1	at	at	PRON	pron	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	epɨy	_	VERB	v	Decl=Assert|Number=Sing|Person=2	0	root	_	_
+3	et	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	4	nmod	_	_
+4	kaʔa	_	NOUN	n	_	2	obl	_	_
+5	ʔa	_	ADJ	adj	Clas=Rd	4	clf	_	_
+6	peʔ	_	PART	part	_	4	case	_	_
+
+1	oyaʔwan	_	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	_	_
+2	[ocaʔyõk	_	VERB	v	Number=Sing|Person=1	1	dep	_	_
+3	nãt	_	SCONJ	sconj	_	2	mark	_	_
+4	wa]	_	AUX	aux	Number=Sing|Person=1|VerbForm=Ger	2	aux	_	_
+
+1	at	at	PRON	pron	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	ĩya	_	NOUN	n	_	3	obj	_	_
+3	wĩn	wĩ	VERB	v	Decl=Assert	0	root	_	_
+4	kokõ	_	NOUN	n	_	5	obj	_	_
+5	wĩa	_	VERB	v	VerbForm=Ger	3	conj	_	_
+6	kõam	_	PART	part	_	5	mark	_	_
+
+1	cúrem	_	ADV	adv	_	2	advmod	_	_
+2	at	at	PRON	pron	Number=Sing|Person=3	0	root	_	_
+3	tokõna	_	ADP	adp	Corf=Yes|Person=3|PronType=Emp	2	case	_	_
+
+1	õn	õn	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	amaken	_	VERB	v	Decl=Assert|Number=Sing|Person=2|Voice=Cau	0	root	_	_
+
+1	õn	õn	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	aʔtoy	top	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	_	_
+3	pattem	_	ADJ	adj	_	2	advmod	_	_
+
+1	mẽt	_	ADV	adv	_	3	advmod	_	_
+2	ap	_	AUX	aux	Decl=AssertFoc|Number=Sing|Person=3	3	aux	_	_
+3	púŋ	_	VERB	v	_	0	root	_	_
+4	toʔwa	_	AUX	aux	Corf=Yes|Person=3|VerbForm=Ger	3	aux	_	_
+
+1	aʔti	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	_	_
+2	toat	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	4	nmod	_	_
+3	macaʔɨt	_	NOUN	n	_	4	obj	_	_
+4	wĩ	_	VERB	v	_	1	dep	_	_
+5	nãt	_	SCONJ	sconj	_	4	mark	_	_
+6	toʔwa	_	AUX	aux	Corf=Yes|Person=3|VerbForm=Ger	4	aux	_	_
+
+1	mãygãra	mãygãra	NOUN	n	_	0	root	_	_
+2	bap	_	ADJ	adj	Clas=Cylb	1	clf	_	_
+
+1	maʔẽ	_	NOUN	n	_	0	root	_	_
+2	gáʔ	_	ADJ	adj	Clas=Ccv	1	clf	_	_
+
+1	maʔwɨt	_	NOUN	n	_	2	nsubj	_	_
+2	ʔet	_	AUX	aux	Decl=Assert	0	root	_	_
+3	matet	_	ADV	adv	_	2	obl	_	_
+
+1	cat	_	NOUN	n	_	3	compound	_	_
+2	pap	_	ADJ	adj	Clas=Cylb	1	clf	_	_
+3	cakɨ	_	NOUN	n	_	0	root	_	_
+4	wɨn	_	ADJ	adj	_	3	amod	_	_
+5	map	pap	ADJ	adj	Clas=Cylb	3	clf	_	_
+
+1	ẽn	ẽn	PRON	pron	Number=Sing|Person=2|PronType=Prs	0	root	_	_
+2	ahyə	ahyə	PART	part	Int=Yes	1	mark	_	_
+3	béŋ	_	NOUN	n	_	4	obj	_	_
+4	noy	_	VERB	v	Decl=Assert	1	dep	_	_
+
+1	tabat	tabat	PRON	pron	Number=Plur|Person=3|PronType=Prs	0	root	_	_
+2	tap	tap	PART	part	Case=Com	1	case	_	_
+
+1	aʔken	ket	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	_	_
+2	memã	memã	VERB	v	_	1	parataxis	_	_
+
+1	maʔwɨr	maʔwɨt	NOUN	n	_	3	nsubj	_	_
+2	yét	yét	PRON	pron	PronType=Dem	3	obj	_	_
+3	toy	top	VERB	v	Decl=Assert	0	root	_	_
+
+1	at	at	PRON	pron	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	mãygãra	mãygãra	NOUN	n	_	3	obj	_	_
+3	wĩn	wĩ	VERB	v	Decl=Assert	0	root	_	_
+4	menə	menə	PART	part	Evident=Nfh	3	mark	_	_
+
+1	ar	at	PRON	pron	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	inãw	inãw	NOUN	n	_	3	obj	_	_
+3	rati	rati	VERB	v	Decl=Assert	0	root	_	_
+
+1	ewét	_	VERB	v	Decl=Assert|Number=Sing|Person=2	0	root	_	_
+2	yahmãm	mãm	PART	part	_	1	advmod	_	_
+
+1	ipá	_	NOUN	n	Person=3Imp	0	root	_	_
+2	beʔ	_	ADJ	adj	Clas=Flat	1	clf	_	_
+
+1	kaʔmep	_	VERB	v	_	0	root	_	_
+2	wet	_	AUX	aux	Decl=Assert|Number=Sing|Person=1	1	aux	_	_
+3	aʔkəy	_	ADP	adp	Case=Dat|Number=Sing|Person=3	1	obj	_	_
+
+1	kaʔto	kaʔto	PRON	pron	Number=Plur|Person=2|PronType=Prs	2	nsubj	_	_
+2	karorocapét	capé	VERB	v	Decl=Assert|Number=Plur|Person=2	0	root	_	_
+3	ahyə	ahyə	PART	part	Int=Yes	2	mark	_	_
+
+1	at	at	PRON	pron	Number=Sing|Person=3	3	nsubj	_	_
+2	mɨrɨrɨy	_	NOUN	n	_	3	obj	_	_
+3	ramoy	_	VERB	v	Case=Com|Decl=Assert	0	root	_	_
+
+1	owẽ	_	NOUN	n	_	2	compound	_	_
+2	gun	_	NOUN	n	_	0	root	_	_
+
+1	mõm	_	VERB	v	_	0	root	_	_
+2	ʔat	_	AUX	aux	Decl=Assert|Number=Sing|Person=3	1	aux	_	_
+3	okəy	_	ADP	adp	Case=Dat|Number=Sing|Person=1	1	obl	_	_
+
+1	mekõm	_	ADP	adp	_	0	root	_	_
+2	iʔke	iʔke	PART	part	Polarity=Neg	1	advmod	_	_
+3	iʔyat	_	PRON	pron	Number=Plur|Person=1|PronType=Prs	1	nsubj	_	_
+4	kotigap	_	VERB	v	Decl=AssertFoc	1	acl	_	_
+5	mɨy	_	ADV	adv	_	4	advmod	_	_
+6	mãm	mãm	PART	part	_	1	discourse	_	_
+
+1	péŋ	péŋ	NOUN	n	_	0	root	_	_
+2	aʔnãn	nã	AUX	aux	Decl=Assert|Number=Sing|Person=3	1	cop	_	_
+
+1	paʔpiktem	_	ADJ	adj	_	0	root	_	_
+2	iʔke	iʔke	PART	part	Polarity=Neg	1	advmod	_	_
+3	war	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	4	nmod	_	_
+4	owẽ	_	NOUN	n	_	1	nsubj	_	_
+5	rap	_	PART	part	Case=Com	4	case	_	_
+
+1	maʔwɨt	_	NOUN	n	_	3	nmod	_	_
+2	at	at	PRON	pron	PronType=Prs	1	nmod	_	_
+3	tágɨp	_	NOUN	n	_	0	root	_	_
+
+1	kɨrɨwep	_	NOUN	n	_	2	compound	_	_
+2	tem	_	NOUN	n	_	0	root	_	_
+3	cɨʔ	_	ADJ	adj	Clas=Tflat	2	clf	_	_
+
+1	naco	_	NOUN	n	_	5	obl	_	_
+2	ʔerem	_	ADP	adp	Case=Disp	1	case	_	_
+3	ye	_	AUX	aux	Clusivity=In|Number=Plur|Person=1	5	aux	_	_
+4	kanãp	_	SCONJ	sconj	_	5	mark	_	_
+5	iʔkəga	_	VERB	v	Number=Plur|Person=1|VerbForm=Ger	0	root	_	_
+
+1	õn	õn	PRON	pron	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+2	wat	wat	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nmod	_	_
+3	awe	_	NOUN	n	_	4	obj	_	_
+4	rabitẽy	_	VERB	v	Case=Com|Decl=Assert	0	root	_	_
+
+1	taykit	_	PART	part	_	2	advmod	_	_
+2	ebiaʔan	_	VERB	v	Decl=Assert|Number=Sing|Person=2	0	root	_	_
+3	iga	_	PART	part	Tense=Fut	2	mark	_	_
+4	mɨrɨrɨy	_	NOUN	n	_	2	obl	_	_
+5	kəy	_	ADP	adp	_	4	case	_	_
+
+1	iyã	_	NOUN	n	_	0	root	_	_
+2	gap	_	ADJ	adj	Clas=Bss	1	clf	_	_
+
+1	agóaʔpət	agóaʔpət	NOUN	n	_	0	root	_	_
+2	cú	_	ADJ	adj	_	1	amod	_	_
+3	aʔnãn	nã	AUX	aux	Decl=Assert|Number=Sing|Person=3	1	cop	_	_
+4	Cabirera	_	PROPN	propn	_	1	obl	_	_
+5	kõm	kõm	ADP	adp	Case=Sim	4	case	_	_
+
+1	aʔken	ket	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	_	_
+2	pə	pə	PART	part	Evident=Fh	1	discourse	_	_
+3	coke	coke	PART	part	Evident=Fh	1	discourse	_	_
+
+1	iyõm	iyõm	NOUN	n	_	2	nsubj	_	_
+2	ŋen	_	VERB	v	Decl=Assert	0	root	_	_
+3	co	_	PART	part	Tense=Past	2	dep	_	_
+4	matet	_	ADV	adv	_	2	obl	_	_
+
+1	wayo	wayo	NOUN	n	_	3	nmod	_	_
+2	bah	bap	ADJ	adj	Clas=Cylb	1	clf	_	_
+3	yu	yu	NOUN	n	_	0	root	_	_
+
+1	owirup	wirup	NOUN	n	Number=Sing|Person=1	2	nsubj	_	_
+2	tẽy	tẽp	VERB	v	Decl=Assert	0	root	_	_
+3	kokəy	kəy	ADP	adp	Case=Dat|Nomzr=Circ	2	obl	_	_
+4	okap	kap	AUX	aux	Decl=AssertFoc|Number=Sing|Person=1|Tense=Fut	2	aux	_	_
+5	ocagəpto	cagəp	NOUN	n	Number=Plur|Person=1	6	obj	_	_
+6	cára	cát	VERB	v	VerbForm=Ger	2	xcomp	_	_
+7	koãm	koãm	ADV	adv	_	6	advmod	_	_
+
+1	pattem	_	ADJ	adj	_	0	root	_	_
+2	iʔke	iʔke	PART	part	Polarity=Neg	1	advmod	_	_
+3	õn	õn	PRON	pron	Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
+
+1	õn	õn	PRON	pron	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+2	wat	wat	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nmod	_	_
+3	owã	_	NOUN	n	_	5	obj	_	_
+4	ŋa	ŋa	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	3	clf	_	_
+5	pɨy	_	VERB	v	Decl=Assert	0	root	_	_
+
+1	nãn	nãn	PRON	pron	_	0	root	_	_
+2	ahyə	ahyə	PART	part	Int=Yes	1	discourse	_	_
+3	mẽr	_	ADV	adv	_	1	advmod	_	_
+4	ã	_	X	x	_	1	dep	_	_
+
+1	at	at	PRON	pron	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	tomãmwĩn	_	VERB	v	Corf=Yes|Decl=Assert|Person=3|Reflex=Yes	0	root	_	_
+
+1	maʔpəy	_	NOUN	n	_	0	root	_	_
+2	iʔke	iʔke	PART	part	Polarity=Neg	1	advmod	_	_
+3	aʔnãn	nã	AUX	aux	Decl=Assert|Number=Sing|Person=3	1	cop	_	_
+
+1	aʔken	ket	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	_	_
+
+1	eken	_	VERB	v	Decl=Assert|Number=Sing|Person=2	0	root	_	_
+2	mattem	_	ADJ	adj	_	1	advmod	_	_
+3	ahyə	ahyə	PART	part	Int=Yes	1	mark	_	_
+
+1	péŋ	péŋ	NOUN	n	_	2	nsubj	_	_
+2	aʔwĩn	wĩ	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	_	_
+3	tágɨh	_	NOUN	n	_	2	obl	_	_
+4	mã	_	ADP	adp	Case=Ins	3	case	_	_
+
+1	iyá	_	NOUN	n	_	0	root	_	_
+2	beʔ	_	ADJ	adj	Clas=Flat	1	clf	_	_
+
+1	kaʔaroʔ	_	NOUN	n	Number=Plur	0	root	_	_
+
+1	təgana	_	ADV	adv	_	5	advmod	_	_
+2	peʔ	_	ADP	adp	Case=Loc	5	case	_	_
+3	õn	õn	PRON	pron	Number=Sing|Person=1	5	nsubj	_	_
+4	mãygãra	mãygãra	NOUN	n	_	5	obj	_	_
+5	wĩm	_	VERB	v	Decl=AssertFoc	0	root	_	_
+
+1	muturum	_	VERB	v	_	0	root	_	_
+2	yahmãm	mãm	PART	part	_	1	advmod	_	_
+
+1	eken	_	VERB	v	Decl=Assert|Number=Sing|Person=2	0	root	_	_
+2	ahyə	ahyə	PART	part	Int=Yes	1	mark	_	_
+3	co	_	PART	part	Tense=Past	1	dep	_	_
+4	battem	_	ADJ	adj	_	1	advmod	_	_
+
+1	korét	_	NOUN	n	_	0	root	_	_
+2	capõt	_	ADJ	adj	_	1	compound	_	_
+3	pat	_	ADJ	adj	_	1	amod	_	_
+
+1	piro	_	NOUN	n	Number=Plur	0	root	_	_
+2	cú	_	ADJ	adj	_	1	amod	_	_
+
+1	nãnã	nãnã	ADV	adv	_	4	advmod	_	_
+2	ahyə	ahyə	PART	part	Int=Yes	1	discourse	_	_
+3	agóaʔpət	agóaʔpət	NOUN	n	_	4	nsubj	_	_
+4	óra	óra	NOUN	n	_	0	root	_	_
+5	wɨy	wɨy	VERB	v	Decl=Assert	4	compound	_	_
+6	maŋaptem	maŋap	ADJ	adj	_	4	advmod	_	_
+
+1	agóaʔpət	agóaʔpət	NOUN	n	_	3	nsubj	_	_
+2	péŋ	péŋ	NOUN	n	_	3	obj	_	_
+3	wĩn	wĩ	VERB	v	Decl=Assert	0	root	_	_
+4	paʔpiktem	_	ADJ	adj	_	2	advmod	_	_
+
+1	o=ker-a	_	VERB	v	Number=Sing|Person=1|VerbForm=Ger	0	root	_	_
+2	kanã	_	PART	part	Nomzr=Circ	1	mark	_	_
+
+1	maʔwɨr	maʔwɨt	NOUN	n	_	3	nmod	_	_
+2	at	at	PART	part	_	1	case	_	_
+3	kaʔa	_	NOUN	n	_	0	root	_	_
+
+1	cób	_	NOUN	n	_	2	obj	_	_
+2	mawɨya	_	VERB	v	VerbForm=Ger|Voice=Cau	0	root	_	_
+
+1	mɨrɨrɨy	_	NOUN	n	_	0	root	_	_
+2	ahyə	ahyə	PART	part	Int=Yes	1	mark	_	_
+3	imaterãn	_	VERB	v	Decl=Assert|Number=Plur|Person=1|Voice=Cau	1	acl	_	_
+4	nãnin	nãnin	PART	part	Evident=Fh	3	advmod	_	_
+
+1	õn	õn	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	aʔtoy	top	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	_	_
+
+1	war	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod	_	_
+2	iyõm	iyõm	NOUN	n	_	3	obj	_	_
+3	ʔet	_	AUX	aux	_	0	root	_	_
+4	okəy	_	ADP	adp	_	3	case	_	_
+5	matet	_	ADV	adv	_	3	obl	_	_
+
+1	məy	_	ADV	adv	_	4	advmod	_	_
+2	maʔpəy	_	NOUN	n	_	4	nsubj	_	_
+3	ŋa	ŋa	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	2	clf	_	_
+4	waʔye	_	AUX	aux	_	0	root	_	_
+
+1	kiganape	_	ADV	adv	_	4	advmod	_	_
+2	ap	_	AUX	aux	Decl=AssertFoc|Number=Sing|Person=2	4	aux	_	_
+3	naʔto	_	NOUN	n	_	4	obj	_	_
+4	roy	top	VERB	v	Decl=AssertFoc	0	root	_	_
+5	yahmãm	mãm	PART	part	_	4	advmod	_	_
+
+1	at	at	PRON	pron	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	amabaraʔkət	_	VERB	v	Decl=Assert|Number=Sing|Person=3|Voice=Cau	0	root	_	_
+
+1	mani	_	NOUN	n	_	0	root	_	_
+2	nãʔ	_	ADJ	adj	Clas=X	1	clf	_	_
+3	cú	_	ADJ	adj	_	1	amod	_	_
+4	nãʔ	_	ADJ	adj	Clas=X	1	clf	_	_
+
+1	õn	õn	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	mãygãra	mãygãra	NOUN	n	_	3	obj	_	_
+3	toy	top	VERB	v	Decl=Assert	0	root	_	_
+
+1	õn	õn	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	aʔtoy	top	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	_	_
+3	uéué	ué	VERB	v	Redup=Yes	2	dep	_	_
+4	kanãp	_	ADV	adv	_	2	advmod	_	_
+
+1	ci	_	NOUN	n	_	2	nmod	_	_
+2	baʔpe	_	NOUN	n	_	5	obl	_	_
+3	bem	_	ADP	adp	_	2	case	_	_
+4	wep	_	AUX	aux	Decl=AssertFoc|Number=Sing|Person=1	5	aux	_	_
+5	owaraʔkəga	_	VERB	v	Number=Sing|Person=1|VerbForm=Ger	0	root	_	_
+
+1	eken	_	VERB	v	Decl=Assert|Number=Sing|Person=2	0	root	_	_
+2	wat	wat	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nmod	_	_
+3	manikap	_	NOUN	b	_	1	obl	_	_
+4	peʔ	_	ADP	adp	Case=Loc	3	case	_	_
+5	battem	_	ADJ	adj	_	1	advmod	_	_
+6	ahyə	ahyə	PART	part	Int=Yes	1	mark	_	_
+
+1	iyõm	iyõm	NOUN	n	_	2	nsubj	_	_
+2	ikap	_	AUX	aux	Decl=AssertFoc|Person=3Imp|Tense=Fut	0	root	_	_
+3	towenaoba	_	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	2	xcomp	_	_
+4	co	_	PART	part	Tense=Past	3	dep	_	_
+
+1	agóaʔpər	_	NOUN	n	_	3	nmod	_	_
+2	at	at	PART	part	PronType=Prs	1	case	_	_
+3	kaʔa	_	NOUN	n	_	0	root	_	_
+
+1	õn	õn	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	opit	_	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	_	_
+3	məy	_	ADV	adv	_	2	advmod	_	_
+4	mãm	mãm	PART	part	_	2	discourse	_	_
+5	co	_	PART	part	Tense=Past	2	dep	_	_
+6	kán	_	PART	part	Tense=RPast	2	dep	_	_
+
+1	caʔwət	_	NOUN	n	_	0	root	_	_
+2	pab	_	ADJ	adj	Clas=Cylb	1	clf	_	_
+3	aʔ	_	ADJ	adj	Clas=Rd	1	clf	_	_
+
+1	ekera	_	VERB	v	Number=Sing|Person=2|VerbForm=Ger	0	root	_	_
+
+1	iyá	_	NOUN	n	_	0	root	_	_
+2	ʔaʔ	_	ADJ	adj	Clas=Rd	1	clf	_	_
+
+1	inãwroʔ	_	NOUN	n	Number=Plur	0	root	_	_
+
+1	were	_	NOUN	n	_	0	root	_	_
+2	beʔ	_	ADJ	adj	Clas=Flat	1	clf	_	_
+
+1	wayo	_	NOUN	n	_	2	nmod	_	_
+2	yogá	_	NOUN	n	_	0	root	_	_
+3	beʔ	_	ADJ	adj	Clas=Flat	1	clf	_	_
+
+1	karokéran	_	VERB	v	Decl=Assert|Number=Plur|Person=2	0	root	_	_
+2	yahmãm	mãm	PART	part	_	1	advmod	_	_
+
+1	õn	õn	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	abeʔnoy	_	VERB	v	Decl=Assert|Mood=Opt|Number=Sing|Person=3	0	root	_	_
+
+1	péŋ	péŋ	NOUN	n	_	0	root	_	_
+2	nãnin	nãnin	PART	part	Evident=Fh	1	advmod	_	_
+3	aʔwĩn	wĩ	VERB	v	Decl=Assert|Number=Sing|Person=3	1	dep	_	_
+4	nãnin	nãnin	PART	part	Evident=Fh	1	advmod	_	_
+
+1	péŋ	péŋ	NOUN	n	_	0	root	_	_
+2	mecéb	_	ADJ	adj	_	1	amod	_	_
+3	iʔke	iʔke	PART	part	Polarity=Neg	1	advmod	_	_
+4	aʔmãn	_	AUX	aux	Decl=Assert|Number=Sing|Person=3	1	cop	_	_
+
+1	maʔpəy	_	NOUN	n	_	0	root	_	_
+2	pat	_	ADJ	adj	_	1	amod	_	_
+
+1	õn	õn	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	aʔtoy	top	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	_	_
+3	yat	yat	PART	part	Tense=Fut	2	mark	_	_
+
+1	yate	yate	NOUN	n	_	2	nmod	_	_
+2	naʔcəg	naʔcək	NOUN	n	_	0	root	_	_
+3	wew	wew	ADJ	adj	_	2	amod	_	_
+
+1	opá	_	NOUN	n	Number=Sing|Person=1	0	root	_	_
+2	gáʔ	_	ADJ	adj	Clas=Ccv	1	clf	_	_
+
+1	ar	at	PRON	pron	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	wayo	wayo	NOUN	n	_	4	obj	_	_
+3	gap	_	ADJ	adj	_	2	amod	_	_
+4	ʔot	_	VERB	v	Decl=Assert	0	root	_	_
+
+1	karam	_	NOUN	n	_	2	obj	_	_
+2	natia	_	VERB	v	Case=Com|VerbForm=Ger	0	root	_	_
+
+1	abegahmõm	_	VERB	v	Number=Sing|Person=3|Voice=Pass	0	root	_	_
+2	nã	_	AUX	aux	VerbForm=Ger	1	cop	_	_
+
+1	õn	õn	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	mãygãra	mãygãra	NOUN	n	_	3	obj	_	_
+3	wĩn	wĩ	VERB	v	Decl=Assert	0	root	_	_
+4	təgana	_	ADV	_	_	3	obl	_	_
+5	peʔ	_	ADP	_	Case=Loc	3	case	_	_
+
+1	pattem	_	ADJ	adj	_	0	root	_	_
+2	iʔke	iʔke	PART	part	Polarity=Neg	1	advmod	_	_
+3	ap	_	AUX	aux	Decl=AssertFoc|Number=Sing|Person=3	1	cop	_	_
+4	towerowɨya	_	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	1	dep	_	_
+
+1	kõm	kõm	ADV	adv	_	4	advmod	_	_
+2	iʔkay	_	AUX	aux	Decl=Assert|Number=Plur|Person=1|Tense=Fut	4	aux	_	_
+3	Kabirera	_	PROPN	propn	_	4	obj	_	_
+4	wĩa	_	VERB	v	VerbForm=Ger	0	root	_	_
+5	iʔkõna	_	PART	part	Clusivity=In|Number=Plur|Person=1	4	nsubj	_	_
+
+1	péŋ	péŋ	NOUN	n	_	2	nsubj	_	_
+2	yaʔwan	_	VERB	v	Decl=Assert	0	root	_	_
+3	[towéya	_	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	2	dep	_	_
+4	kanãp]	_	SCONJ	sconj	_	3	mark	_	_
+
+1	õn	õn	PRON	pron	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+2	aʔwĩa	_	VERB	v	Number=Sing|Person=3|VerbForm=Ger	4	xcomp	_	_
+3	kanã	_	PART	adp	Nomzr=Circ	4	mark	_	_
+4	yaʔti	_	VERB	v	_	0	root	_	_
+5	nãn	nã	AUX	aux	Decl=Assert	4	cop	_	_
+
+1	kaʔtay	_	VERB	v	_	0	root	_	_
+2	at	ʔe	AUX	aux	_	1	aux	_	_
+3	naʔwəy	_	NOUN	n	_	1	obl	_	_
+4	kəy	_	ADP	adp	Case=Dat	3	case	_	_
+5	aʔi	_	NOUN	n	_	1	obl	_	_
+6	kəy	_	ADP	adp	Case=Dat	5	case	_	_
+7	kõam	_	PART	part	_	1	mark	_	_
+
+1	ar	at	PRON	pron	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	otoy	_	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	_	_
+3	iʔke	iʔke	PART	part	Polarity=Neg	2	advmod	_	_
+
+1	et	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	2	nmod	_	_
+2	kaʔa	kaʔa	NOUN	n	_	0	root	_	_
+3	ʔa	_	ADJ	adj	Clas=Rd	2	clf	_	_
+4	peʔ	_	ADP	adp	Case=Loc	2	case	_	_
+5	at	at	PRON	pron	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+6	epɨyap	_	VERB	v	Decl=AssertFoc|Number=Sing|Person=2	2	parataxis	_	_
+
+1	et	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	2	nmod	_	_
+2	tágɨp	_	NOUN	n	_	0	root	_	_
+
+1	cárarem	_	ADV	adv	_	0	root	_	_
+2	õn	õn	PRON	pron	Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
+
+1	itɨ	_	NOUN	n	_	0	root	_	_
+2	op	_	ADJ	adj	_	1	compound	_	_
+
+1	kãram	_	NOUN	n	_	2	obj	_	_
+2	meʔnẽy	_	VERB	v	Decl=Assert|Mood=Opt	0	root	_	_
+
+1	iʔnõ	nõ	PRON	pron	Number=Plur|Person=1	0	root	_	_
+2	gəy	kəy	ADP	adp	Case=Dat	1	case	_	_
+3	rə	tə	PART	part	Evident=Nfh	1	mark	_	_
+
+1	wayo	_	NOUN	n	_	2	compound	_	_
+2	naká	_	NOUN	n	_	0	root	_	_
+
+1	ŋa	ŋa	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	oʔtoy	_	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	_	_
+3	maŋaptem	_	ADJ	adj	_	2	advmod	_	_
+
+1	maʔwɨt	_	NOUN	n	_	3	nsubj	_	_
+2	iʔke	iʔke	PART	part	Polarity=Neg	3	discourse	_	_
+3	cokcok	cok	VERB	v	Aspect=Iter|Redup=Yes	0	root	_	_
+4	toʔwa	_	AUX	aux	Corf=Yes|Person=3|VerbForm=Ger	3	aux	_	_
+
+1	onoroŋ	_	VERB	v	_	0	root	_	_
+2	at	ʔe	AUX	aux	Decl=Assert|Number=Sing|Person=3	1	aux	_	_
+3	tocit	_	NOUN	n	Corf=Yes|Person=3	1	obl	_	_
+4	paʔpara	_	VERB	v	VerbForm=Ger	1	dep	_	_
+
+1	iyɨt	_	VERB	v	_	0	root	_	_
+2	okay	_	AUX	aux	Decl=Assert|Number=Sing|Person=1|Tense=Fut	1	aux	_	_
+3	oʔa	_	VERB	v	Number=Sing|Person=1|VerbForm=Ger	1	dep	_	_
+4	ecap	_	NOUN	n	Number=Sing|Person=2	1	obj	_	_
+5	pɨʔtoʔ	_	ADJ	adj	Clas=Cyls|Number=Plur	4	clf	_	_
+6	peʔ	_	ADP	adp	Case=Loc	4	case	_	_
+
+1	wat	wat	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod	_	_
+2	apəy	_	NOUN	n	_	4	nsubj	_	_
+3	ŋa	ŋa	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	2	clf	_	_
+4	pepat	_	VERB	v	Decl=Assert	0	root	_	_
+5	cək	_	ADV	adv	_	4	advmod	_	_
+6	mãm	mãm	PART	part	_	4	discourse	_	_
+
+1	õn	õn	PRON	pron	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
+2	wat	wat	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nmod	_	_
+3	mok	_	NOUN	n	_	7	obj	_	_
+4	pe	_	PART	part	_	3	clf	_	_
+5	cára	_	VERB	v	VerbForm=Ger	7	xcomp	_	_
+6	kanã	_	PART	part	Nomzr=Circ	5	mark	_	_
+7	yaʔti	_	VERB	v	_	0	root	_	_
+8	nãn	nã	AUX	aux	Decl=Assert	7	aux	_	_
+9	iʔke	iʔke	PART	part	Polarity=Neg	7	advmod	_	_
+
+1	karo	_	NOUN	n	_	2	compound	_	_
+2	nãg	_	NOUN	n	_	0	root	_	_
+3	aʔ	_	ADJ	adj	Clas=Rd	2	clf	_	_
+4	pĩg	_	ADJ	adj	_	2	amod	_	_
+5	aʔ	_	ADJ	adj	Clas=Rd	2	clf	_	_
+
+1	abebeʔtɨra	_	VERB	v	Person=3|VerbForm=Ger|Voice=Pass	0	root	_	_
+
+1	kanãy	_	ADV	adv	_	3	advmod	_	_
+2	péŋ	péŋ	NOUN	n	_	3	nsubj	_	_
+3	ʔet	_	AUX	aux	Decl=Assert	0	root	_	_
+4	(...)	_	PUNCT	punct	_	3	punct	_	_
+
+1	maʔpəy	_	NOUN	n	_	3	nsubj	_	_
+2	óra	óra	NOUN	n	_	3	compound	_	_
+3	wɨy	wɨy	VERB	v	Decl=Assert	0	root	_	_
+
+1	cokcok	cok	VERB	v	Aspect=Iter|Redup=Yes	0	root	_	_
+2	maʔpəy	_	NOUN	n	_	1	nsubj	_	_
+3	ʔet	_	AUX	aux	Decl=Assert	2	aux	_	_
+4	yat	yat	PART	part	Tense=Fut	2	discourse	_	_
+5	iʔke	iʔke	PART	part	Polarity=Neg	2	advmod	_	_
+
+1	makap	_	NOUN	n	_	0	root	_	_
+2	kap	_	ADJ	adj	Clas=Bss	1	clf	_	_
+
+1	iyã	_	NOUN	n	_	0	root	_	_
+2	ʔaʔ	_	ADJ	adj	Clas=Rd	1	clf	_	_
+
+1	aʔan	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	_	_
+
+1	õn	õn	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	amapəri	_	VERB	v	Decl=Assert|Number=Sing|Person=3|Voice=Cau	0	root	_	_
+
+1	iyãy	yãy	NOUN	n	Person=3Imp	0	root	_	_
+2	gõm	kõm	ADP	adp	_	1	case	_	_
+
+1	karam	_	NOUN	n	_	2	nmod	_	_
+2	nãk	_	NOUN	n	_	0	root	_	_
+3	pɨʔ	_	ADJ	adj	Clas=Cyls	1	clf	_	_
+
+1	parato	_	NOUN	n	_	2	nmod	_	_
+2	cək	_	NOUN	n	_	0	root	_	_
+
+1	inakároʔ	_	NOUN	n	Number=Plur|Person=3Imp	0	root	_	_
+
+1	war	_	PRON	pron	Number=Sing|Person=1	2	nmod	_	_
+2	owã	_	NOUN	n	_	4	nsubj	_	_
+3	ŋa	ŋa	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	2	clf	_	_
+4	bakán	_	VERB	v	Decl=Assert	0	root	_	_
+5	okəy	_	ADP	adp	Case=Dat|Number=Sing|Person=1	4	case	_	_
+
+1	maʔwɨt	_	NOUN	n	_	2	nsubj	_	_
+2	[ken]	_	VERB	v	Decl=Assert	0	root	_	_
+
