@@ -1,0 +1,260 @@
+1	ixe	ixe	PRON	pro	PronType=Dem	3	nsubj	3:nsubj	_
+2	iẽn	ẽn	NOUN	n	Rel=NCont	3	obj	3:obj	_
+3	'o'om	'o	VERB	vi	Aspect=Imp	0	root	0:root	_
+4	kaw	kaw	NOUN	n	_	2	nmod	2:nmod	_
+5	ta	da	NOUN	cl	Class=Seed	4	clf	4:clf	_
+6	eju	eju	ADP	pp	Rel=NCont	4	case	4:case	_
+
+1	wekobe	kobe	NOUN	n	Poss=Ali	5	obl	_	_
+2	wita	wita	NOUN	n	_	5	obl	_	_
+3	'a	'a	NOUN	cl	Class=Round	2	clf	_	_
+4	kay	kay	ADP	pp	Rel=Cont	2	case	_	_
+5	og̃uyjayjay	jayjay	VERB	vt	Aspect=Perf|Person=13|Voice=Cau	0	root	_	_
+
+1	Toxaw	toxaw	NOUN	n	_	2	obl	2:obl	_
+2	oexe	xe	VERB	vi	Aspect=Perf|Person=3	0	root	0:root	_
+
+1	Uk'a	uk	NOUN	n	Class=Round	2	nsubj	2:nsubj	_
+2	yadip	dip	NOUN	n	Class=Round|Rel=NCont	0	root	0:root	_
+3	o'yanuy	nuy	AUX	aux	Class=Round|Person=3|Rel=NCont	2	cop	2:cop	_
+
+1	Tawe	tawe	NOUN	n	_	2	obl	2:obl	_
+2	oajẽm	ajẽm	VERB	v	Aspect=Perf|Person=3	0	root	0:root	_
+3	xa	xa	NOUN	n	_	2	obl	2:obl	_
+4	xe	xe	ADP	pp	_	3	case	3:case	_
+
+1	kobe	kobe	NOUN	n	_	5	obl	5:obl	_
+2	xixi	xixi	NOUN	n	_	1	nmod	1:nmod	_
+3	badi	badi	ADV	adv	_	5	obl	5:obl	_
+4	wi	wi	ADP	pp	_	3	case	3:case	_
+5	o'jebuk	buk	VERB	vi	Aspect=Perf|Number=Sing|Person=3|Voice=Mid	0	root	0:root	_
+
+1	Kapusu	kapusu	ADV	adv	_	2	advcl	2:advcl	_
+2	oajẽm	ajẽm	VERB	vi	Aspect=Perf|Number=Sing|Person=1	0	root	0:root	_
+3	owag̃o	wag̃o	NOUN	n	Number=Sing|Person=1|Poss=Ina	4	nmod	4:nmod	_
+4	duk'a	uk	NOUN	n	Class=Round|Rel=Cont	2	obl	2:obl	_
+5	be	be	ADP	posp	_	4	case	4:case	_
+
+1	ceebay	bay	NOUN	n	Number=Sing|Person=3|Poss=Ali	2	nsubj	2:nsubj	_
+2	icokcok	cok	NOUN	n	Rel=NCont	0	root	0:root	_
+3	cicã	cicã	ADV	adv	_	4	advmod	4:advmod	_
+4	idip	dip	NOUN	n	Rel=NCont	2	advcl	2:advcl	_
+5	cicã	cicã	ADV	a	_	4	advmod	4:advmod	_
+6	buye	buye	CCONJ	cc	_	4	mark	4:mark	_
+7	bekicat	bekicat	NOUN	n	_	4	nsubj	4:nsubj	_
+8	yadappek	adappek	NOUN	n	Rel=NCont	7	parataxis	7:parataxis	_
+
+1	ipi	ipi	NOUN	n	_	2	nmod	2:nmod	_
+2	teg̃	teg̃	ADP	posp	_	5	advcl	5:advcl	_
+3	kaxi	kaxi	NOUN	n	_	2	nsubj	2:nsubj	_
+4	bima	bima	SCONJ	sc	_	3	advcl	3:advcl	_
+5	o'taxadig̃curug̃	_	VERB	v	Aspect=Perf|Person=3|Rel=NCont	0	root	0:root	gloss=3-RNCont-fire-smoke.PERF
+
+1	wamõat	wamõat	NOUN	n	_	3	obl	3:obl	_
+2	ag̃okatkat	ag̃okatkat	NOUN	n	_	3	obl	3:obl	_
+3	o'sutayxida	tayxi	VERB	vt	Person=33|Trans=Yes	0	root	0:root	_
+
+1	xek	xek	NOUN	n	_	3	obl	3:obl	_
+2	pu	pu	NOUN	n	Class=CilFlx	1	clf	1:clf	_
+3	o'subumõg̃mõg̃	mõg̃	VERB	v	Aspect=Perf|Class=CilFlx|Person=3|Rel=NCont	0	root	0:root	_
+4	wita	wita	NOUN	n	_	3	obl	3:obl	_
+5	'a	'a	NOUN	n	Class=CilFlx	4	clf	4:clf	_
+6	be	be	ADP	posp	_	4	case	4:case	_
+
+1	Ite	ite	PRON	pro	_	3	obl	3:obl	_
+2	awi	awi	NOUN	n	_	3	obl	3:obl	_
+3	o'tobuxik	dobuxik	VERB	vt	Aspect=Perf|Person=3	0	root	0:root	_
+
+1	Ag̃okatkat	ag̃okatkat	NOUN	n	_	4	obl	4:obl	_
+2	acã	acã	ADV	adv	_	4	advmod	4:advmod	_
+3	cũg̃'i	cũg̃	X	x	_	4	dep	4:dep	_
+4	osunuy	osunuy	AUX	aux	_	0	root	0:root	_
+5	sũg̃tabi	sũg̃tabi	NOUN	n	_	4	obl	4:obl	_
+6	eju	eju	ADP	posp	_	5	case	5:case	_
+7	g̃axĩn	g̃axĩn	ADV	adv	_	9	advmod	9:advmod	_
+8	ma	ma	PART	pcl	_	7	discourse	7:discourse	_
+9	oajẽm	ajẽm	VERB	v	Aspect=Perf|Number=Sing|Person=1	4	advcl	4:advcl	_
+10	puye	puye	ADP	_	_	9	case	9:case	_
+
+1	Jexat	xat	NOUN	n	_	2	obl	2:obl	_
+2	o'tobuxik	dobuxik	VERB	v	Aspect=Perf|Person=33	0	root	0:root	_
+3	iku	ku	NOUN	n	_	2	obl	2:obl	_
+4	be	be	ADP	pp	_	3	case	3:case	_
+
+1	Awawa	awawa	NOUN	n	_	2	nsubj	2:nsubj	_
+2	ixaxet	xat	NOUN	n	Red=Ex	0	root	0:root	_
+
+1	G̃ebuje	g̃ebuje	ADV	adv	_	3	advmod	3:advmod	SpaceAfter=No
+2	,	,	PUNCT	punct	_	3	punct	3:punct	punct=
+3	yobog̃ayũ	bog̃	NOUN	n	Number=Plur|Rel=NCont	4	obj	4:obj	_
+4	wuywuy	wuy	VERB	v	Aspect=Iter	0	root	0:root	_
+5	ip	ip	PRON	pro	Number=Plur|Person=3|PronType=Prs	4	nsubj	4:nsubj	_
+6	baseya'a	baseya	NOUN	n	Class=Round	4	obl	4:obl	_
+7	be	be	ADP	posp	_	6	case	6:case	SpaceAfter=No
+8	.	.	PUNCT	PUNCT	_	4	punct	4:punct	punct=
+9	Yobog̃ayũ	bog̃	NOUN	n	Number=Plur|Rel=NCont	10	nmod	10:nmod	_
+10	uk	uk	NOUN	n	_	11	obj	11:obj	_
+11	kakam	ka	VERB	v	Aspect=DurIprf	4	parataxis	4:parataxis	_
+12	ip	ip	PRON	pro	Number=Plur|Person=3|PronType=Prs	11	nsubj	11:nsubj	_
+13	e'em	e'em	AUX	aux	Aspect=DurIprf	11	aux	11:aux	SpaceAfter=No
+14	.	.	PUNCT	PUNCT	_	11	punct	11:punct	_
+15	Axima	axima	NOUN	n	_	16	nmod	16:nmod	_
+16	uk	uk	NOUN	n	_	17	obj	17:obj	_
+17	kakam	ka	VERB	v	Aspect=DurIprf	22	advcl	22:advcl	_
+18	ip	ip	PRON	pro	Number=Plur|Person=3|PronType=Prs	17	nsubj	17:nsubj	_
+19	pima	pima	ADV	adv	_	17	advmod	17:advmod	SpaceAfter=No
+20	,	,	PUNCT	punct	_	17	punct	17:punct	_
+21	ixep	xep	NOUN	n	Rel=NCont	22	obj	22:obj	_
+22	uk'ug̃	uk	VERB	v	_	4	parataxis	4:parataxis	_
+23	ip	ip	PRON	pro	Number=Plur|Person=3|PronType=Prs	22	nsubj	22:nsubj	SpaceAfter=No
+24	.	.	PUNCT	PUNCT	_	22	punct	22:punct	_
+25	Ixep	xep	NOUN	n	Rel=NCont	26	obj	26:obj	_
+26	muekabekbeg̃	ekabek	VERB	v	Voice=Cau	4	parataxis	4:parataxis	_
+27	ip	ip	PRON	pro	Number=Plur|Person=3|PronType=Prs	26	nsubj	26:nsubj	_
+28	uktup	uk	NOUN	n	_	26	obl	26:obl	_
+29	pe	be	ADP	posp	_	27	case	27:case	SpaceAfter=No
+30	.	.	PUNCT	punct	_	26	punct	26:punct	_
+31	Ade	ade	ADJ	adj	_	32	amod	32:amod	_
+32	axima	axima	NOUN	n	_	33	nmod	33:nmod	_
+33	uk	uk	NOUN	n	_	34	obj	34:obj	_
+34	kakam	ka	VERB	v	_	4	parataxis	4:parataxis	_
+35	ip	ip	PRON	pro	Number=Plur|Person=3|PronType=Prs	34	nsubj	34:nsubj	SpaceAfter=No
+36	.	.	PUNCT	PUNCT	_	34	punct	34:punct	_
+37	Ixep	xep	NOUN	n	_	38	obj	38:obj	_
+38	muekabekbeg̃	ekabek	VERB	v	Voice=Cau	4	parataxis	4:parataxis	_
+39	ip	ip	PRON	pro	Number=Plur|Person=3|PronType=Prs	38	nsubj	38:nsubj	_
+40	uktup	uk	NOUN	n	_	38	obl	38:obl	_
+41	pe	pe	ADP	posp	_	40	case	40:case	SpaceAfter=No
+42	,	,	PUNCT	punct	_	38	punct	38:punct	_
+43	ayacayũ	ayacat	NOUN	n	Number=Plur	38	parataxis	38:parataxis	SpaceAfter=No
+44	.	.	PUNCT	PUNCT	_	38	punct	38:punct	_
+
+1	Ag̃okatkayũ	ag̃okatkat	NOUN	n	Number=Plur	3	nsubj	3:nsubj	_
+2	axĩma	axĩma	NOUN	n	_	3	obj	3:obj	_
+3	muyuhum	u	VERB	v	Aspect=Imp|Rel=NCont|Voice=Cau	0	root	0:root	_
+4	idibi	idibi	NOUN	n	_	3	obj	3:obj	_
+5	tag̃	dag̃	ADP	posp	Rel=NCont	4	case	4:case	_
+6	.	.	PUNCT	PUNCT	_	3	punct	3:punct	punct=
+7	Axĩma	axĩma	NOUN	n	_	8	obj	8:obj	_
+8	muyuhum	u	VERB	v	Aspect=Imp|Rel=NCont|Voice=Cau	3	parataxis	3:parataxis	_
+9	ip	ip	PRON	pro	Number=Plur|Person=3|PronType=Prs	8	nsubj	8:nsubj	_
+10	pig̃am	pig̃a	NOUN	n	Case=Ins	8	obl	8:obl	_
+11	.	.	PUNCT	PUNCT	_	8	punct	8:punct	punct=
+
+1	oexexe	exexe	VERB	vi	Aspect=Perf|Number=Plur|Person=3	0	root	0:root	_
+2	ip	ip	PART	pcl	_	1	dep	1:dep	_
+3	uk	uk	NOUN	n	_	1	obj	1:obj	_
+4	'a	'a	NOUN	cl	_	3	nmod	3:nmod	_
+5	be	be	ADP	pp	_	3	case	3:case	_
+6	puybit	puybit	NOUN	n	_	7	obj	7:obj	_
+7	kukug̃	kukug̃	VERB	vt	Aspect=Imp|Number=Plur|Person=3	1	dep	1:dep	_
+
+1	Abu	abu	PRON	pro	_	3	obl	3:obl	_
+2	tawe	tawe	NOUN	n	_	3	obl	3:obl	_
+3	o'tobuxik	dobuxik	VERB	vt	Aspect=Perf|Person=3	0	root	0:root	_
+4	?	?	PUNCT	punct	_	3	punct	3:punct	_
+
+1	Ka'ũma	ka'ũma	INTJ	intj	_	0	root	0:root	_
+2	!	!	PUNCT	punct	_	1	punct	1:punct	_
+
+1	Xa	xa	NOUN	n	_	4	obl	4:obl	_
+2	xe	xe	ADP	pp	_	1	case	1:case	_
+3	tawe	tawe	NOUN	n	_	4	obl	4:obl	_
+4	o'tobuxik	dobuxik	VERB	vt	Aspect=Perf|Person=33	0	root	0:root	_
+
+1	Kabiam	Kabiam	ADV	adv	_	3	amod	3:amod	_
+2	doa	_	NOUN	n	_	5	nsubj	5:nsubj	_
+3	iba'orere	ba'orere	ADJ	adj	_	2	amod	2:amod	_
+4	jedoti	_	NOUN	n	_	5	obl	5:obl	_
+5	mug̃ẽg̃ẽm	_	VERB	v	Aspect=DurIprf	0	root	0:root	_
+6	daxa	daxa	NOUN	n	_	5	obj	5:obj	_
+7	xe	xe	ADP	pp	_	6	case	6:case	_
+
+1	xepxep	xepxep	NUM	num	NumType=Card	2	nummod	2:nummod	_
+2	pa	ba	NOUN	n	Class=CilRig	3	nmod	3:nmod	_
+3	akoba	ako	NOUN	n	Class=CilRig	4	obl	4:obl	_
+4	o'suba'o	'o	VERB	v	Class=CilRig|Person=3|Rel=NCont	0	root	0:root	gloss=3-RN-CLA-eat
+
+1	Abu	abu	PRON	pro	_	2	nsubj	2:nsubj	_
+2	awi	awi	NOUN	n	_	0	root	0:root	_
+3	kay	kay	ADP	pp	_	2	case	2:case	_
+4	?	?	PUNCT	punct	_	2	punct	2:punct	_
+
+1	ejot	jot	VERB	vi	Aspect=Imp|Person=2	0	root	0:root	_
+2	cuy	cuy	PART	imppart	_	1	discourse	1:discourse	_
+3	,	,	PUNCT	punct	_	4	punct	4:punct	_
+4	muto'o	muto'o	NOUN	n	_	1	advcl	1:advcl	_
+5	bima	bima	ADP	pp	_	4	case	4:case	_
+6	,	,	PUNCT	punct	_	7	punct	7:punct	_
+7	kaxi	kaxi	NOUN	n	_	4	nmod	4:nmod	_
+8	wuyase	ase	ADP	pp	_	7	case	7:case	_
+9	bima	bima	ADP	pp	_	7	case	7:case	_
+
+1	ag̃okatkat	ag̃okatkat	NOUN	n	_	3	nsubj	3:nsubj	_
+2	bio	bio	NOUN	n	_	3	obj	3:obj	_
+3	aoka	aoka	VERB	vt	_	6	advcl	6:advcl	_
+4	buje	buje	SCONJ	sconj	_	3	mark	3:mark	_
+5	wida	wida	NOUN	n	_	6	obl	6:obl	_
+6	o'jenapõn	napõn	VERB	vi	Aspect=Perf|Person=3|Voice=Mid	0	root	0:root	_
+
+1	oxi	xi	NOUN	n	Poss=Ina	2	nsubj	2:nsubj	_
+2	uk	uk	NOUN	n	_	0	root	0:root	_
+3	‘a	‘a	NOUN	cl	_	2	clf	2:clf	_
+4	be	be	ADP	pp	_	2	case	2:case	_
+
+1	Tõm	tõm	NOUN	n	_	2	nsubj	2:nsubj	_
+2	karaw	karaw	VERB	v	_	7	advcl	7:advcl	_
+3	bima	pima	SCONJ	sconj	_	2	mark	2:mark	_
+4	,	,	PUNCT	punct	_	2	punct	2:punct	_
+5	tõm	tõm	NOUN	n	_	6	nmod	6:nmod	_
+6	pi	pi	NOUN	n	_	7	obj	7:obj	_
+7	riprim	rip	VERB	v	Aspect=DurIprf	0	root	0:root	_
+8	pag̃eiro’a	pag̃eiro	NOUN	n	Class=Round	7	obl	7:obl	_
+9	be	be	ADP	posp	_	8	case	8:case	_
+10	.	.	PUNCT	punct	_	7	punct	7:punct	_
+11	Tõm	tõm	NOUN	n	_	12	nmod	12:nmod	_
+12	pi	pi	NOUN	n	_	13	nmod	13:nmod	_
+13	rip	rip	VERB	v	Aspect=Perf	18	advcl	18:advcl	_
+14	puje	_	SCONJ	sconj	_	13	mark	13:mark	_
+15	,	,	PUNCT	punct	_	13	punct	13:punct	_
+16	iwi	wi	NOUN	n	Rel=NCont	18	obl	18:obl	_
+17	be	be	ADP	posp	_	16	case	16:case	_
+18	imõg̃mõg̃	mok	VERB	v	Aspect=DurIprf|Rel=NCont	2	parataxis	2:parataxis	_
+19	ip	ip	PRON	pro	_	18	nsubj	18:nsubj	_
+20	daxa	daxa	NOUN	n	_	18	obl	18:obl	_
+21	ase	ase	ADP	posp	_	20	case	20:case	_
+22	tõm	tõm	NOUN	n	_	23	obj	23:obj	_
+23	mudaxip	daxip	VERB	v	Voice=Cau	18	advcl	18:advcl	_
+24	am	am	SCONJ	sconj	_	23	mark	23:mark	_
+25	.	.	PUNCT	punct	_	18	punct	18:punct	_
+26	Imõg̃mõg̃	mok	VERB	v	Aspect=DurIprf|Rel=NCont	2	parataxis	2:parataxis	_
+27	ip	ip	PRON	pro	_	26	nsubj	26:nsubj	_
+28	daxa	daxa	NOUN	n	_	26	obl	26:obl	_
+29	ase	ase	ADP	posp	_	28	case	28:case	_
+30	tõm	tõm	NOUN	n	_	31	obj	31:obj	_
+31	mukaraw	karaw	VERB	v	Voice=Cau	26	advcl	26:advcl	_
+32	am	am	SCONJ	sconj	_	31	mark	31:mark	_
+33	.	.	PUNCT	punct	_	26	punct	26:punct	_
+
+1	jexat	xat	NOUN	n	_	2	obl	2:obl	_
+2	o'tobuxik	dobuxik	VERB	v	Aspect=Perf|Number=Sing|Person=33	0	root	0:root	_
+
+1	Ikibit	ikibit	NOUN	n	_	0	root	_	_
+2	awi	awi	NOUN	n	_	1	nmod	_	_
+3	kay	kay	ADP	pp	Rel=Cont	2	case	_	_
+
+1	Tao	dao	NOUN	n	Rel=NCont	2	obj	2:obj	_
+2	uk'ug̃	uk	VERB	v	Aspect=DurIprf	0	root	0:root	_
+3	iwi	wi	NOUN	n	_	2	obl	2:obl	_
+4	xe	xe	ADP	posp	_	3	case	3:case	_
+5	ãõyũ	ao	NOUN	n	Number=Plur	2	nsubj	2:nsubj	_
+6	.	.	PUNCT	PUNCT	_	2	punct	2:punct	punct=
+7	Tao	dao	NOUN	n	Rel=NCont	8	obj	8:obj	_
+8	uk'ug̃	uk	VERB	v	Aspect=DurIprf	2	parataxis	2:parataxis	_
+9	ip	_	PRON	pro	Number=Plur|Person=3|PronType=Prs	10	dep	10:dep	_
+10	ayacayũ	ayacat	NOUN	n	_	8	nsubj	8:nsubj	_
+11	,	,	PUNCT	punct	_	8	punct	8:punct	punct=
+12	axima	axima	NOUN	n	_	13	nmod	13:nmod	_
+13	dao	dao	NOUN	n	Rel=Cont	7	appos	7:appos	_
+14	.	.	PUNCT	PUNCT	_	2	punct	2:punct	punct=
+

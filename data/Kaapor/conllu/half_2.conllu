@@ -1,0 +1,105 @@
+1	aʔe	aʔe	PRON	pro	Person=3	3	nsubj	_	_
+2	ikɪke	kɪ	NOUN	n	Case=Aff|Rel=NCont	3	obj	_	_
+3	jiʔok	jiʔok	VERB	vt	Person=3	0	root	_	_
+
+1	Tɪapu	tɪapu	NOUN	n	_	0	root	_	_
+2	riki	riki	PART	pcl	_	1	discourse	_	_
+
+1	Arahã	_	ADV	adv	_	6	advmod	_	_
+2	maʔe	maʔe	NOUN	n	_	6	obj	_	_
+3	Kaninde	Kaninde	PROPN	propn	_	6	obl	_	_
+4	rehe	ehe	ADP	posp	Rel=Cont	3	case	_	_
+5	ihẽ	ihẽ	PRON	pro	_	6	nsubj	_	_
+6	araho	raho	VERB	v	Number=Sing|Person=1	0	root	_	_
+
+1	Purutu	Purutu	PROPN	ppn	_	2	nsubj	_	_
+2	ahem	ahem	VERB	vi	Person=3	0	root	_	_
+
+1	Tuti	Tuti	PROPN	prpn	_	4	obj	_	_
+2	ke	ke	PART	pcl	_	1	discourse	_	_
+3	ʃaʔe	ʃaʔe	PROPN	prpn	_	4	nsubj	_	_
+4	jukwa	jukwa	VERB	vt	Person=3	0	root	_	_
+
+1	mahem	mahem	VERB	vt	Person=3	0	root	_	_
+2	arapuha	arapuha	NOUN	n	_	1	nsubj	_	_
+3	himiʔu	himiʔu	NOUN	n	_	1	obj	_	_
+4	oho	ho	AUX	aux	Person=3	1	aux	_	_
+
+1	pe	pe	CCONJ	cc	_	5	cc	_	_
+2	riki	riki	ADV	adv	_	5	advmod	_	_
+3	katar	katar	NOUN	n	_	5	obj	_	_
+4	ngã	ngã	PRON	pro	Number=Plur|Person=3	5	nsubj	_	_
+5	muhɪk	hɪk	VERB	vi	Person=3|Voice=Cau	0	root	_	_
+
+1	Oho	ho	VERB	vi	Person=3	0	root	_	_
+2	uĩ	uĩ	VERB	vi	Person=3	1	xcomp	_	_
+3	tipe	tipe	PART	pcl	Aspect=Frus	1	discourse	_	_
+4	ã	ã	PART	pcl	_	1	discourse	_	_
+
+1	jane	jane	PRON	pro	Number=Sing|Person=1	2	nsubj	_	_
+2	japikũj	pikũj	VERB	vi	_	0	root	_	_
+3	mi	mi	PART	pcl	_	2	discourse	_	_
+4	?	?	PUNCT	punct	_	2	punct	_	_
+
+1	ihē	ihē	PRON	pro	_	3	nsubj	_	_
+2	ndeke	nde	PRON	pro	Case=Aff	3	obj	_	_
+3	araho	raho	VERB	vt	Number=Sing|Person=1	0	root	_	_
+4	tar	tar	VERB	vt	_	3	ccomp	_	_
+5	katu	katu	ADV	adv	_	3	advmod	_	_
+6	tipe	tipe	PART	pcl	Aspect=Frus	3	discourse	_	_
+
+1	ihē	ihē	PRON	pro	_	3	nsubj	_	_
+2	ahota	ho	VERB	vi	Number=Sing|Person=1|Tense=Fut	3	csubj	_	_
+3	asak	sak	VERB	vt	Number=Sing|Person=1	0	root	_	_
+
+1	aʔeke	aʔe	PRON	pro	_	3	nsubj	_	_
+2	ipɪke	pɪ	NOUN	n	Case=Aff|Rel=NCont	3	obj	_	_
+3	tukwa	tukwa	VERB	vt	Person=3	0	root	_	_
+
+1	Tapiʔir	Tapi	NOUN	n	Animacy=Anim|Number=Sing	2	obj	_	_
+2	ujan	jan	VERB	vi	Person=3	0	root	_	_
+3	oho	ho	VERB	vi	Person=3	2	compound	_	_
+
+1	Pe	pe	ADV	adv	_	4	advmod	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	imãi	mãi	NOUN	n	_	4	obj	_	_
+4	ihĩ	hĩ	VERB	v	Person=3	0	root	_	_
+
+1	Xõru	_	PROPN	propn	_	2	nsubj	_	_
+2	nixói	_	VERB	v	Person=3	0	root	_	_
+3	se	_	NOUN	n	_	2	obj	_	_
+4	aʔe	_	PRON	pro	_	2	nmod	_	_
+
+1	Mataru	mataru	PROPN	pn	Animacy=Hum|Number=Sing	4	nsubj	_	_
+2	ʃaʔe	ʃaʔe	PROPN	pn	Animacy=Hum|Number=Sing	4	obj	_	_
+3	ke	ke	PART	pcl	_	2	discourse	_	_
+4	nupã	nupã	VERB	vt	Person=3	0	root	_	_
+5	tĩ	tĩ	PART	pcl	_	4	discourse	_	_
+
+1	Maírake	Maíra	PROPN	pn	_	2	nsubj	_	_
+2	wata	wata	VERB	vt	_	0	root	_	_
+
+1	pe	pe	CCONJ	cc	_	7	cc	_	_
+2	taramō	taramō	ADV	adv	_	7	advmod	_	_
+3	kaitā	kaitā	PROPN	ppn	_	7	nsubj	_	_
+4	juʔipape	juʔipape	NOUN	n	_	5	nmod	_	_
+5	piʔa	piʔa	NOUN	n	_	7	iobj	_	_
+6	usak	sak	VERB	vt	Person=3	7	ccomp	_	_
+7	oho	ho	VERB	vi	Person=3	0	root	_	_
+8	tī	tī	ADV	adv	_	7	advmod	_	_
+9	pɪtuniwe	pɪtuniwe	ADV	adv	_	7	advmod	_	_
+
+1	uʔike	uʔi	NOUN	n	Case=Aff	4	obj	_	_
+2	wiraʔi	wiraʔi	PRON	pro	_	3	nmod	_	_
+3	take	ta	PRON	pro	Case=Aff|Number=Plur	4	nsubj	_	_
+4	uʔu	ʔu	VERB	vt	Person=3	0	root	_	_
+5	ɪm	ɪm	PART	pcl	_	4	discourse	_	_
+
+1	ihẽ	ihẽ	PRON	pro	_	3	nsubj	_	_
+2	narãjke	narãj	NOUN	n	Case=Aff	3	obj	_	_
+3	apirok	pirok	VERB	vt	_	0	root	_	_
+
+1	Oropo	Oropo	PROPN	propn	_	3	nsubj	_	_
+2	huʔɨ	uʔɨ	NOUN	n	Rel=NCont	3	obj	_	_
+3	pɨhɨk	pɨhɨk	VERB	vt	_	0	root	_	_
+

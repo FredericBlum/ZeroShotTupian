@@ -1,0 +1,87 @@
+1	ama	ama	NOUN	n	_	0	root	_	_
+2	etera	tet	VERB	vi	Aspect=Imp|Person=3	1	parataxis	_	_
+3	kurux	kurux	VERB	vi	Aspect=Perf	2	xcomp	_	_
+
+1	yeman	yeman	ADV	adv	_	3	advmod	_	_
+2	ngot	ngot	NOUN	n	_	3	obj	_	_
+3	kana	kan	VERB	vt	Aspect=Imp|Person=3	0	root	_	_
+4	oen	oen	VERB	vt	Aspect=Perf|Person=3	3	dep	_	_
+
+1	putorot	putorot	NOUN	n	_	0	root	_	_
+2	xēke	xēke	PART	pcl	Pcl=Dub	1	discourse	_	_
+3	ke	ke	PART	pcl	Evident=Nfh	1	discourse	_	_
+4	xēt	xēt	PART	past	Tense=Past	1	dep	_	_
+
+1	ama	ama	ADV	adv	_	4	advmod	_	_
+2	ngot	ngot	NOUN	n	_	3	nmod	_	_
+3	xiaret	iat	NOUN	n	Case=Gen|Rel=Cont	4	nsubj	_	_
+4	eya	y	VERB	vi	Aspect=Imp|Person=3	0	root	_	_
+5	kurux	kurux	VERB	vi	Aspect=Imp	4	dep	_	_
+6	amang	amang	VERB	vi	Aspect=Imp	4	dep	_	_
+7	ngot	ngot	NOUN	n	_	8	obj	_	_
+8	oen	oen	VERB	vt	Aspect=Perf	4	parataxis	_	_
+9	wimõ	wimõ	ADV	adv	_	8	advmod	_	_
+10	nitēt	nitēt	PART	pcl	_	8	discourse	_	_
+
+1	etxekup	ekup	NOUN	n	Reflex=Yes	2	obj	_	_
+2	keya	key	VERB	vt	Aspect=Imp	0	root	_	_
+
+1	opũãtemwã	pũãtem	VERB	vi	Aspect=Imp|Person=1	0	root	_	_
+2	ota	ta	AUX	vi	Person=1	1	aux	_	_
+
+1	kux	kux	NOUN	n	_	2	obj	_	_
+2	kixa	kix	VERB	vt	Aspect=Imp	3	advcl	_	_
+3	ngarap	ngarap	VERB	vi	Aspect=Perf	0	root	_	_
+4	,	,	PUNCT	n	_	3	punct	_	_
+5	pit	pit	PRON	pro	Polarity=Neg	3	parataxis	_	_
+
+1	etera	tet	VERB	vi	Aspect=Imp|Person=3	0	root	_	_
+2	korop	korop	VERB	vi	Aspect=Perf	1	xcomp	_	_
+
+1	op	op	ADV	adv	_	2	advmod	_	_
+2	ten	ten	VERB	vt	_	0	root	_	_
+3	eya	eya	PART	pcl	Tense=Fut	2	dep	_	_
+4	õn	õn	PRON	pro	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+
+1	Kito	Kito	NOUN	n	_	7	nsubj	_	_
+2	nãkowut	nãkowut	NOUN	n	_	7	obj	_	_
+3	moat	moat	NOUN	n	_	4	dep	_	_
+4	xauwet	aup	NOUN	n	Case=Gen|Rel=Cont	2	nmod	_	_
+5	moke	moke	NOUN	n	_	4	conj	_	_
+6	kepit	kepit	CCONJ	conj	_	5	cc	_	_
+7	xagara	agat	VERB	vt	Aspect=Imp|Rel=Cont	0	root	_	_
+
+1	etera	tet	VERB	vi	Aspect=Imp|Person=3	0	root	_	_
+2	kurux	kurux	VERB	vi	Aspect=Perf	1	parataxis	_	_
+3	amang	amang	VERB	vt	Aspect=Perf	1	parataxis	_	_
+4	ngot	ngot	NOUN	n	_	5	obj	_	_
+5	keya	key	VERB	vt	Aspect=Imp	1	parataxis	_	_
+6	pīxe	pīxe	ADV	adv	_	5	advmod	_	_
+
+1	mokat	mokat	ADV	adv	_	2	advmod	_	_
+2	etera	tet	VERB	vi	Aspect=Imp|Person=3	0	root	_	_
+3	korop	korop	VERB	vi	Aspect=Perf	2	dep	_	_
+4	noa	noa	NOUN	n	_	3	obl	_	_
+5	pe	pe	ADP	posp	_	4	case	_	_
+
+1	mokat	mokat	ADV	adv	_	2	advmod	_	_
+2	etera	tet	VERB	vi	Aspect=Imp|Person=3	0	root	_	_
+3	kurux	kurux	VERB	vi	Aspect=Perf	2	parataxis	_	_
+4	amang	amang	VERB	vt	Aspect=Perf	2	parataxis	_	_
+5	pīxe	pīxe	ADV	adv	_	4	advmod	_	_
+
+1	xop	xop	DET	dem	Deixis=Prox	2	obj	_	_
+2	ten	ten	VERB	vt	_	0	root	_	_
+3	eya	eya	PART	pcl	Tense=Fut	2	dep	_	_
+4	on	on	PRON	pro	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+5	ke	ke	PART	pcl	Evident=Fh	2	discourse	_	_
+
+1	nãpẽrenã	nãpẽrenã	ADV	adv	_	3	advmod	_	_
+2	kito	kito	NOUN	n	_	3	nsubj	_	_
+3	eapītera	apītet	VERB	vi	Aspect=Imp|Person=3	0	root	_	_
+4	pīxe	pīxe	AUX	vi	_	3	aux	_	_
+
+1	wotye	woty	VERB	vi	Aspect=Imp	0	root	_	_
+2	pukpuga	puk	VERB	vi	Aspect=Perf	1	advcl	_	_
+3	pit	pit	PRON	pro	Polarity=Neg	2	parataxis	_	_
+
