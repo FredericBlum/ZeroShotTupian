@@ -15,7 +15,7 @@ munduruku = make_finetuneset(language = 'Munduruku')
 # tagger = SequenceTagger.load('pos-multi')
 tagger = SequenceTagger.load('models/resources/taggers/my-upos-3/final-model.pt')
 
-corpus = munduruku
+corpus = akuntsu
 trainer = ModelTrainer(tagger, corpus)
 trainer.fine_tune('models/resources/taggers/finetune', mini_batch_size=32, max_epochs=30, use_final_model_for_eval=False)
 

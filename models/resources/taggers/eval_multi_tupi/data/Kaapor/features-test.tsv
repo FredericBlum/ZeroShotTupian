@@ -1,450 +1,449 @@
-token gold_tag gold_arc predicted_tag predicted_arc
-aʔe  None root 0
-ta  None root 0
-ke  None root 0
-uʔuta  None root 0
-moj  None root 0
-ke  None root 0
-tĩ  None root 0
-
-jane  None root 0
-japikũj  None root 0
-mi  None root 0
-?  None punct 0
-
-Mataru  None root 0
-ʃaʔe  None root 0
-ke  None root 0
-nupã  None root 0
-tĩ  None root 0
-
-aʔe  None root 0
-tatu  None root 0
-ke  None root 0
-uʔuta  None root 0
-
-aʔe  None root 0
-ke  None root 0
-uʔuta  None root 0
-pɪpɪhu  None root 0
-ke  None aux 0
-tĩ  None root 0
-
-sawaʔe  None root 0
-panem  None root 0
-ta  None root 0
-ke  None root 0
-upa  None root 0
-
-Tuti  None root 0
-ke  None advmod 0
-ʃaʔe  None root 0
-jukwa  None root 0
-
-taʔɪn  None root 0
-ukwerta  None root 0
-je  None advmod 0
-tĩ  None root 0
-,  None punct 0
-ko  None root 0
-aʔi  None root 0
-iháike  None root 0
-piɾokhũ  None root 0
-je  None case 0
-pe  None root 0
-iʔaɾpe  None root 0
-pɪnuhũ  None root 0
-
-ne  None root 0
-ihẽke  None root 0
-remusak  None root 0
-ʔɪ  None root 0
-
-kakake  None root 0
-kurumĩ  None root 0
-uʔu  None root 0
-rahã  None root 0
-aʔe  None root 0
-hãʔĩmke  None root 0
-matɪr  None root 0
-
-Arauxu  None root 0
-ahem  None root 0
-uhu  None root 0
-
-a’eta  None root 0
-ajengar  None root 0
-
-ihẽ  None root 0
-a’etake  None root 0
-amujengar  None root 0
-
-a’eta  None root 0
-ma’e  None root 0
-jukwahá  None root 0
-ihẽke  None root 0
-pe  None case 0
-me’ẽ  None root 0
-
-Oho  None root 0
-uĩ  None root 0
-tipe  None obl 0
-ã  None root 0
-
-aʔerehe  None root 0
-tarũ  None root 0
-neʃĩke  None root 0
-joʔok  None root 0
-
-Maiɾ  None root 0
-ɪwɪke  None root 0
-hapɪ  None root 0
-
-ihẽ  None root 0
-narãjke  None root 0
-apirok  None root 0
-
-ihẽke  None root 0
-aʔar  None root 0
-
-ihẽ  None root 0
-taɁɪnke  None root 0
-amuɁe  None root 0
-
-ne  None root 0
-taɁɪnke  None root 0
-eremuɁe  None root 0
-
-aʔeke  None root 0
-uʔuta  None root 0
-pɪpɪhu  None root 0
-ketĩ  None root 0
-
-neke  None root 0
-uʔike  None root 0
-rekarãjta  None root 0
-
-ihẽ  None root 0
-neke  None root 0
-akutukta  None root 0
-
-Maírake  None root 0
-wata  None root 0
-
-Maíra  None root 0
-wata  None root 0
-
-Anake  None root 0
-heɁõɁɪ  None root 0
-
-aʔeke  None root 0
-ipɪke  None root 0
-tukwa  None root 0
-
-aʔeke  None root 0
-ehake  None root 0
-tukwatĩ  None root 0
-
-mɪra  None root 0
-pirerke  None root 0
-teʔe  None root 0
-pirawan  None root 0
-muwak  None root 0
-
-ihẽke  None root 0
-ajumukahem  None root 0
-
-ne  None root 0
-ihẽ  None root 0
-miʔuke  None root 0
-reʔutĩ  None root 0
-
-apo  None root 0
-pehẽ  None root 0
-ihẽke  None root 0
-peharõta  None root 0
-
-aʔe  None root 0
-ʔokke  None root 0
-mujã  None root 0
-
-ihẽ  None root 0
-ʔok  None root 0
-amujã  None root 0
-
-ihẽke  None root 0
-uʔi  None root 0
-akarãj  None root 0
-
-neke  None root 0
-uʔike  None root 0
-rekarãjta  None root 0
-
-Oropo  None root 0
-huʔɨ  None root 0
-pɨhɨk  None root 0
-
-ajameʔẽ  None root 0
-ke  None root 0
-Urupe  None root 0
-jeʔẽha  None root 0
-mondo  None root 0
-tĩ  None root 0
-
-pe  None root 0
-kamarar  None root 0
-jarusu  None root 0
-raʔɪr  None root 0
-raho  None root 0
-
-Tapiʔir  None root 0
-ujan  None root 0
-
-Tɪapu  None root 0
-riki  None root 0
-
-Tuktuktuk  None root 0
-aja  None root 0
-riki  None root 0
-
-Tapiʔir  None root 0
-ujan  None root 0
-oho  None root 0
-
-Pe  None root 0
-,  None punct 0
-taʔɪrer  None root 0
-ujan  None root 0
-
-Pe  None root 0
-,  None punct 0
-ihẽ  None root 0
-asak  None root 0
-
-Pe  None root 0
-,  None punct 0
-imãi  None root 0
-ihĩ  None root 0
-
-Pe  None root 0
-,  None punct 0
-ihẽ  None root 0
-ajapi  None root 0
-indo  None root 0
-
-Xõru  None root 0
-nixói  None root 0
-se  None advmod 0
-aʔe  None root 0
-
-Peteĩ  None root 0
-Xõru  None root 0
-jahy  None root 0
-kanim  None root 0
-oho  None root 0
-
-Arahã  None root 0
-maʔe  None nsubj 0
-Kaninde  None root 0
-rehe  None case 0
-ihẽ  None root 0
-araho  None root 1
-
-mahem  None root 0
-arapuha  None root 0
-himiʔu  None root 0
-oho  None root 0
-
-ne  None root 0
-ihẽke  None root 0
-renupã  None root 0
-rahã  None root 0
-ihẽ  None root 0
-ahota  None root 0
-
-pɪnupɪnuate  None root 0
-ehe  None root 0
-je  None root 0
-
-pe  None root 0
-oho  None root 0
-je  None root 0
-tĩ  None root 0
-
-panduʔɪmanu  None root 0
-taʔɪn  None root 0
-je  None aux 0
-tĩ  None root 0
-
-karai  None root 0
-riki  None root 0
-muka  None root 0
-mopok  None root 0
-
-neke  None root 0
-ihẽ  None root 0
-remupuʔam  None root 0
-ʔɪ  None root 0
-
-ihẽ  None root 0
-neke  None root 0
-apɪhɪk  None root 0
-ʔɪ  None root 0
-
-aʔe  None root 0
-ikɪke  None root 0
-jiʔok  None root 0
-
-ihẽ  None root 0
-ikɪ  None root 0
-ajiʔok  None root 0
-ʔɪ  None root 0
-
-taʔin  None root 0
-hokwenke  None root 0
-nupã  None root 0
-uʔam  None root 0
-
-Purutuke  None root 0
-ahem  None root 0
-
-Purutu  None root 0
-ahem  None root 0
-
-taʔɪnke  None root 0
-itawa  None root 0
-imu  None root 0
-parahɪahɪ  None root 0
-ipe  None root 0
-je  None root 0
-
-netawate  None root 0
-nekeã  None root 0
-nejɪtɪʔɪmte  None root 0
-amõ  None root 0
-ʔɪ  None root 0
-
-pe  None root 0
-imu  None root 0
-uʔɪ  None root 0
-raʔɪr  None root 0
-mujã  None root 0
-ipe  None root 11
-je  None root 0
-uʔɪ  None root 0
-sepetu  None root 0
-ɪrapar  None root 0
-raʔɪr  None root 0
-
-pe  None root 0
-aʔi  None root 0
-ai  None root 0
-tur  None root 0
-je  None root 0
-tĩ  None root 0
-
-pe  None root 0
-saʔe  None root 0
-aʔi  None root 0
-ihái  None root 0
-ʃirurke  None root 0
-pirokhũ  None root 0
-je  None root 0
-ihai  None root 0
-aike  None root 0
-
-ɪmante  None root 0
-pe  None root 0
-aʔike  None root 0
-manõ  None root 0
-je‘ɪ  None root 0
-
-kujãtake  None root 0
-upa  None root 0
-mupinim  None root 0
-
-ko  None root 0
-ihē  None root 0
-paper  None root 0
-pinim  None root 0
-amuwɪr  None root 0
-nde  None root 0
-pe  None root 0
-
-ne  None root 0
-raʔɪr  None root 0
-ihē  None root 0
-apɪhɪk  None root 0
-aʃo  None root 0
-
-pe  None root 0
-riki  None root 0
-katar  None root 0
-ngã  None root 0
-muhɪk  None root 0
-
-pe  None root 0
-taramō  None root 0
-kaitā  None root 0
-juʔipape  None root 0
-piʔa  None root 0
-usak  None root 0
-oho  None root 0
-tī  None aux 0
-pɪtuniwe  None root 0
-
-pahar  None root 0
-pahar  None root 0
-je  None root 0
-kɪse  None root 0
-meʔē  None root 0
-ngā  None root 0
-
-ihē  None root 0
-ndeke  None root 0
-araho  None root 0
-tar  None root 0
-katu  None root 0
-tipe  None root 0
-
-uʔike  None root 0
-wiraʔi  None root 0
-take  None root 0
-uʔu  None root 0
-ɪm  None root 0
-
-ihē  None root 0
-rãi  None root 0
-ihē  None root 0
-amoīta  None root 0
-tipe  None root 0
-
-pāsɪkwer  None root 0
-riki  None root 0
-matɪr  None root 0
-uhu  None root 0
-ngā  None root 0
-ipe  None root 0
-
-ihē  None root 0
-ahota  None root 0
-asak  None root 0
-
-ko  None root 0
-riki  None root 0
-ihē  None root 0
-ahɪk  None root 0
-ajur  None root 0
-jarupa  None root 0
-rehe  None case 0
-
-pe  None root 0
-ɪ  None root 0
-rɪmɪʔɪ  None root 0
-rehe  None case 0
-riki  None root 0
-kamarar  None root 0
-ta  None root 0
-pirer  None root 0
-pirā  None root 0
+aʔe B-PRON B-DET
+ta B-PART B-NOUN
+ke B-PART B-ADV
+uʔuta B-VERB B-NOUN
+moj B-NOUN B-VERB
+ke B-PART B-PART
+tĩ B-PART B-VERB
+
+jane B-PRON B-ADV
+japikũj B-VERB B-NOUN
+mi B-PART B-NOUN
+? B-PUNCT B-PUNCT
+
+Mataru B-PROPN B-VERB
+ʃaʔe B-PROPN B-PART
+ke B-PART B-ADV
+nupã B-VERB B-NOUN
+tĩ B-PART B-VERB
+
+aʔe B-PRON B-DET
+tatu B-NOUN B-NOUN
+ke B-PART B-ADV
+uʔuta B-VERB B-VERB
+
+aʔe B-PRON B-DET
+ke B-PART B-ADV
+uʔuta B-VERB B-NOUN
+pɪpɪhu B-NOUN B-VERB
+ke B-PART B-ADV
+tĩ B-PART B-VERB
+
+sawaʔe B-NOUN B-NOUN
+panem B-ADJ B-ADJ
+ta B-PART B-VERB
+ke B-PART B-ADV
+upa B-DET B-VERB
+
+Tuti B-PROPN B-VERB
+ke B-PART B-ADV
+ʃaʔe B-PROPN B-NOUN
+jukwa B-VERB B-VERB
+
+taʔɪn B-NOUN B-VERB
+ukwerta B-VERB B-NOUN
+je B-PART B-PART
+tĩ B-PART B-NOUN
+, B-PUNCT B-PUNCT
+ko B-DET B-DET
+aʔi B-NOUN B-NOUN
+iháike B-NOUN B-NOUN
+piɾokhũ B-VERB B-VERB
+je B-PART B-PART
+pe B-ADV B-NOUN
+iʔaɾpe B-ADV B-NOUN
+pɪnuhũ B-VERB B-VERB
+
+ne B-PRON B-PRON
+ihẽke B-PRON B-NOUN
+remusak B-VERB B-NOUN
+ʔɪ B-AUX B-ADJ
+
+kakake B-NOUN B-NOUN
+kurumĩ B-NOUN B-NOUN
+uʔu B-VERB B-NOUN
+rahã B-SCONJ B-VERB
+aʔe B-PRON B-DET
+hãʔĩmke B-NOUN B-NOUN
+matɪr B-VERB B-ADJ
+
+Arauxu B-PROPN B-NOUN
+ahem B-VERB B-NOUN
+uhu B-ADV B-VERB
+
+a’eta B-PRON B-NOUN
+ajengar B-VERB B-VERB
+
+ihẽ B-PRON B-NOUN
+a’etake B-PRON B-NOUN
+amujengar B-VERB B-VERB
+
+a’eta B-PRON B-NOUN
+ma’e B-NOUN B-NOUN
+jukwahá B-NOUN B-NOUN
+ihẽke B-PRON B-VERB
+pe B-ADP B-PART
+me’ẽ B-VERB B-ADV
+
+Oho B-VERB B-NOUN
+uĩ B-VERB B-NOUN
+tipe B-PART B-PART
+ã B-PART B-PART
+
+aʔerehe B-ADV B-ADV
+tarũ B-PROPN B-NOUN
+neʃĩke B-PROPN B-NOUN
+joʔok B-VERB B-VERB
+
+Maiɾ B-PROPN B-NOUN
+ɪwɪke B-NOUN B-NOUN
+hapɪ B-VERB B-VERB
+
+ihẽ B-PRON B-NOUN
+narãjke B-NOUN B-NOUN
+apirok B-VERB B-VERB
+
+ihẽke B-PRON B-NOUN
+aʔar B-VERB B-VERB
+
+ihẽ B-PRON B-NOUN
+taɁɪnke B-NOUN B-VERB
+amuɁe B-VERB B-ADV
+
+ne B-PRON B-PRON
+taɁɪnke B-NOUN B-VERB
+eremuɁe B-VERB B-NOUN
+
+aʔeke B-PRON B-VERB
+uʔuta B-VERB B-NOUN
+pɪpɪhu B-NOUN B-NOUN
+ketĩ B-PART B-VERB
+
+neke B-PRON B-NOUN
+uʔike B-NOUN B-NOUN
+rekarãjta B-VERB B-VERB
+
+ihẽ B-PRON B-NOUN
+neke B-PRON B-NOUN
+akutukta B-VERB B-VERB
+
+Maírake B-PROPN B-NOUN
+wata B-VERB B-VERB
+
+Maíra B-PROPN B-NOUN
+wata B-VERB B-VERB
+
+Anake B-PROPN B-NOUN
+heɁõɁɪ B-NOUN B-VERB
+
+aʔeke B-PRON B-VERB
+ipɪke B-NOUN B-NOUN
+tukwa B-VERB B-VERB
+
+aʔeke B-PRON B-NOUN
+ehake B-NOUN B-NOUN
+tukwatĩ B-VERB B-VERB
+
+mɪra B-NOUN B-NOUN
+pirerke B-NOUN B-VERB
+teʔe B-ADV B-ADV
+pirawan B-NOUN B-NOUN
+muwak B-VERB B-VERB
+
+ihẽke B-PRON B-NOUN
+ajumukahem B-VERB B-VERB
+
+ne B-PRON B-PRON
+ihẽ B-PRON B-NOUN
+miʔuke B-NOUN B-NOUN
+reʔutĩ B-VERB B-VERB
+
+apo B-ADV B-NOUN
+pehẽ B-PRON B-NOUN
+ihẽke B-PRON B-NOUN
+peharõta B-VERB B-VERB
+
+aʔe B-PRON B-DET
+ʔokke B-NOUN B-NOUN
+mujã B-VERB B-VERB
+
+ihẽ B-PRON B-NOUN
+ʔok B-NOUN B-NOUN
+amujã B-VERB B-VERB
+
+ihẽke B-PRON B-NOUN
+uʔi B-NOUN B-NOUN
+akarãj B-VERB B-VERB
+
+neke B-PRON B-NOUN
+uʔike B-NOUN B-NOUN
+rekarãjta B-VERB B-VERB
+
+Oropo B-PROPN B-VERB
+huʔɨ B-NOUN B-NOUN
+pɨhɨk B-VERB B-VERB
+
+ajameʔẽ B-ADV B-NOUN
+ke B-PART B-ADV
+Urupe B-PROPN B-NOUN
+jeʔẽha B-NOUN B-VERB
+mondo B-VERB B-NOUN
+tĩ B-ADV B-VERB
+
+pe B-CCONJ B-NOUN
+kamarar B-NOUN B-NOUN
+jarusu B-NOUN B-NOUN
+raʔɪr B-NOUN B-NOUN
+raho B-VERB B-NOUN
+
+Tapiʔir B-NOUN B-NOUN
+ujan B-VERB B-VERB
+
+Tɪapu B-NOUN B-VERB
+riki B-PART B-NOUN
+
+Tuktuktuk B-NOUN B-NOUN
+aja B-ADV B-VERB
+riki B-PART B-NOUN
+
+Tapiʔir B-NOUN B-VERB
+ujan B-VERB B-NOUN
+oho B-VERB B-VERB
+
+Pe B-ADV B-INTJ
+, B-PUNCT B-PUNCT
+taʔɪrer B-NOUN B-NOUN
+ujan B-VERB B-VERB
+
+Pe B-ADV B-INTJ
+, B-PUNCT B-PUNCT
+ihẽ B-PRON B-NOUN
+asak B-VERB B-VERB
+
+Pe B-ADV B-INTJ
+, B-PUNCT B-PUNCT
+imãi B-NOUN B-NOUN
+ihĩ B-VERB B-VERB
+
+Pe B-ADV B-INTJ
+, B-PUNCT B-PUNCT
+ihẽ B-PRON B-NOUN
+ajapi B-VERB B-NOUN
+indo B-NOUN B-VERB
+
+Xõru B-PROPN B-NOUN
+nixói B-VERB B-NOUN
+se B-NOUN B-PART
+aʔe B-PRON B-PART
+
+Peteĩ B-PRON B-VERB
+Xõru B-PROPN B-NOUN
+jahy B-NOUN B-VERB
+kanim B-VERB B-ADV
+oho B-VERB B-VERB
+
+Arahã B-ADV B-VERB
+maʔe B-NOUN B-NOUN
+Kaninde B-PROPN B-NOUN
+rehe B-ADP B-ADP
+ihẽ B-PRON B-NOUN
+araho B-VERB B-VERB
+
+mahem B-VERB B-ADV
+arapuha B-NOUN B-NOUN
+himiʔu B-NOUN B-NOUN
+oho B-AUX B-VERB
+
+ne B-PRON B-PRON
+ihẽke B-PRON B-NOUN
+renupã B-VERB B-VERB
+rahã B-SCONJ B-PART
+ihẽ B-PRON B-NOUN
+ahota B-VERB B-VERB
+
+pɪnupɪnuate B-VERB B-NOUN
+ehe B-ADP B-VERB
+je B-PART B-PART
+
+pe B-ADV B-NOUN
+oho B-VERB B-NOUN
+je B-PART B-PART
+tĩ B-ADV B-VERB
+
+panduʔɪmanu B-VERB B-NOUN
+taʔɪn B-NOUN B-VERB
+je B-PART B-AUX
+tĩ B-ADV B-VERB
+
+karai B-NOUN B-NOUN
+riki B-ADV B-NOUN
+muka B-NOUN B-NOUN
+mopok B-VERB B-VERB
+
+neke B-PRON B-NOUN
+ihẽ B-PRON B-NOUN
+remupuʔam B-VERB B-NOUN
+ʔɪ B-AUX B-ADJ
+
+ihẽ B-PRON B-NOUN
+neke B-PRON B-NOUN
+apɪhɪk B-VERB B-NOUN
+ʔɪ B-AUX B-ADJ
+
+aʔe B-PRON B-DET
+ikɪke B-NOUN B-NOUN
+jiʔok B-VERB B-VERB
+
+ihẽ B-PRON B-NOUN
+ikɪ B-NOUN B-NOUN
+ajiʔok B-VERB B-VERB
+ʔɪ B-AUX B-ADJ
+
+taʔin B-NOUN B-VERB
+hokwenke B-NOUN B-NOUN
+nupã B-VERB B-NOUN
+uʔam B-ADV B-VERB
+
+Purutuke B-PROPN B-NOUN
+ahem B-VERB B-VERB
+
+Purutu B-PROPN B-PROPN
+ahem B-VERB B-VERB
+
+taʔɪnke B-NOUN B-VERB
+itawa B-NOUN B-NOUN
+imu B-NOUN B-NOUN
+parahɪahɪ B-VERB B-NOUN
+ipe B-PRON B-NOUN
+je B-PART B-PART
+
+netawate B-VERB B-NOUN
+nekeã B-PRON B-NOUN
+nejɪtɪʔɪmte B-VERB B-VERB
+amõ B-ADV B-PRON
+ʔɪ B-PART B-ADJ
+
+pe B-ADV B-PART
+imu B-NOUN B-NOUN
+uʔɪ B-NOUN B-NOUN
+raʔɪr B-NOUN B-NOUN
+mujã B-VERB B-VERB
+ipe B-PRON B-NOUN
+je B-PART B-PART
+uʔɪ B-NOUN B-NOUN
+sepetu B-NOUN B-NOUN
+ɪrapar B-NOUN B-NOUN
+raʔɪr B-NOUN B-VERB
+
+pe B-ADV B-NOUN
+aʔi B-NOUN B-NOUN
+ai B-NOUN B-NOUN
+tur B-VERB B-VERB
+je B-PART B-PART
+tĩ B-ADV B-VERB
+
+pe B-ADV B-PART
+saʔe B-NOUN B-NOUN
+aʔi B-NOUN B-NOUN
+ihái B-NOUN B-NOUN
+ʃirurke B-NOUN B-NOUN
+pirokhũ B-VERB B-NOUN
+je B-PART B-PART
+ihai B-NOUN B-NOUN
+aike B-NOUN B-VERB
+
+ɪmante B-ADV B-NOUN
+pe B-ADV B-NOUN
+aʔike B-NOUN B-VERB
+manõ B-VERB B-NOUN
+je‘ɪ B-PART B-VERB
+
+kujãtake B-NOUN B-VERB
+upa B-PART B-PART
+mupinim B-VERB B-NOUN
+
+ko B-ADV B-DET
+ihē B-PRON B-NOUN
+paper B-NOUN B-ADP
+pinim B-NOUN B-NOUN
+amuwɪr B-VERB B-VERB
+nde B-PRON B-ADV
+pe B-ADP B-PART
+
+ne B-DET B-PRON
+raʔɪr B-NOUN B-NOUN
+ihē B-PRON B-NOUN
+apɪhɪk B-VERB B-VERB
+aʃo B-AUX B-PART
+
+pe B-CCONJ B-NOUN
+riki B-ADV B-NOUN
+katar B-NOUN B-ADJ
+ngã B-PRON B-NOUN
+muhɪk B-VERB B-VERB
+
+pe B-CCONJ B-NOUN
+taramō B-ADV B-NOUN
+kaitā B-PROPN B-NOUN
+juʔipape B-NOUN B-NOUN
+piʔa B-NOUN B-NOUN
+usak B-VERB B-NOUN
+oho B-VERB B-NOUN
+tī B-ADV B-NOUN
+pɪtuniwe B-ADV B-NOUN
+
+pahar B-ADV B-NOUN
+pahar B-ADV B-VERB
+je B-PART B-PART
+kɪse B-NOUN B-ADV
+meʔē B-VERB B-NOUN
+ngā B-PRON B-ADJ
+
+ihē B-PRON B-NOUN
+ndeke B-PRON B-NOUN
+araho B-VERB B-NOUN
+tar B-VERB B-VERB
+katu B-ADV B-NOUN
+tipe B-PART B-NOUN
+
+uʔike B-NOUN B-NOUN
+wiraʔi B-PRON B-NOUN
+take B-PRON B-VERB
+uʔu B-VERB B-NOUN
+ɪm B-PART B-ADJ
+
+ihē B-PRON B-NOUN
+rãi B-NOUN B-NOUN
+ihē B-PRON B-NOUN
+amoīta B-VERB B-VERB
+tipe B-PART B-PART
+
+pāsɪkwer B-NOUN B-NOUN
+riki B-ADV B-NOUN
+matɪr B-VERB B-NOUN
+uhu B-ADV B-NOUN
+ngā B-PRON B-NOUN
+ipe B-ADP B-NOUN
+
+ihē B-PRON B-NOUN
+ahota B-VERB B-NOUN
+asak B-VERB B-VERB
+
+ko B-ADV B-DET
+riki B-ADP B-NOUN
+ihē B-PRON B-NOUN
+ahɪk B-VERB B-VERB
+ajur B-VERB B-NOUN
+jarupa B-NOUN B-NOUN
+rehe B-ADP B-ADP
+
+pe B-CCONJ B-NOUN
+ɪ B-NOUN B-ADJ
+rɪmɪʔɪ B-NOUN B-VERB
+rehe B-ADP B-ADP
+riki B-ADP B-NOUN
+kamarar B-PROPN B-VERB
+ta B-PRON B-PART
+pirer B-NOUN B-NOUN
+pirā B-NOUN B-NOUN
 

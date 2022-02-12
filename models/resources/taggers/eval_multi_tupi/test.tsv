@@ -1,2088 +1,2087 @@
-token gold_tag gold_arc predicted_tag predicted_arc
-ep  None root 0
-koa  None root 0
-jẽ  None root 0
-
-apara  None root 0
-tep  None root 0
-tʃopa  None root 0
-jẽ  None root 0
-
-Konibu  None root 0
-apara  None root 0
-koa  None root 0
-
-kitʃe  None root 0
-aramĩra  None root 0
-
-Tʃaruj  None root 0
-kɨjtpit  None root 0
-õa  None root 0
-te  None root 0
-Kanibõ  None root 0
-
-pero  None root 0
-okwaj  None root 0
-tokwaj  None root 0
-perek  None root 0
-
-Ariano  None root 0
-teita  None root 0
-kɨrẽ  None root 0
-
-kitʃe  None root 0
-tawtʃe  None root 0
-koa  None root 0
-
-Kani  None root 0
-okɨpi  None root 0
-kem  None root 0
-kɨ  None root 0
-rom  None root 0
-
-kwako  None root 0
-kɨpek  None root 0
-koa  None root 0
-
-pi  None root 0
-maã  None root 0
-en  None root 0
-
-Kɨte  None root 0
-babape  None root 0
-at  None root 0
-
-Buko  None root 0
-kɨte  None root 0
-korakora  None root 0
-mi  None root 0
-
-ep  None root 0
-koa  None root 0
-jẽ  None root 0
-
-kitʃetara  None root 0
-kom  None root 0
-
-Karow  None root 0
-etap  None root 0
-tek  None root 0
-iw  None root 0
-
-teti  None root 0
-pururu  None root 0
-aj  None root 0
-ɨmɨmere  None root 0
-etʃe  None root 0
-
-kopiba  None root 0
-mõatʃoa  None root 0
-on  None root 0
-
-Pura  None root 0
-ikoa  None root 0
-te  None case 0
-
-erape  None root 0
-okwata  None root 0
-kom  None root 0
-
-potʃek  None root 0
-momo  None root 0
-tejã  None root 0
-otek  None root 0
-etʃe  None root 0
-
-en  None root 0
-ikoromka  None root 0
-
-oetara  None root 0
-otoa  None root 0
-
-kwaẽ  None root 0
-te  None discourse 0
-ipitka  None root 0
-
-erẽ  None root 0
-epo  None root 0
-tʃoga  None root 0
-erẽ  None root 0
-
-jẽ  None root 0
-kem  None root 0
-kɨ  None root 0
-jẽ  None root 0
-kem  None root 0
-kɨ  None root 0
-rom  None root 0
-
-oatap  None root 0
-ãka  None root 0
-ẽ  None root 0
-ẽ  None root 0
-,  None punct 0
-oatap  None root 0
-õkwa  None root 0
-on  None root 0
-
-on  None root 0
-ita  None root 0
-tʃoktʃok  None root 0
-
-tʃoktʃok  None root 0
-atiti  None root 0
-ta  None root 0
-
-karã  None root 0
-tepna  None root 0
-
-oko  None root 0
-oko  None root 0
-te  None advmod 0
-iw  None root 0
-
-okwako  None root 0
-ikona  None root 0
-
-erẽ  None root 0
-ekoro  None root 0
-nõm  None root 0
-
-kotin  None root 0
-,  None punct 0
-eme  None root 0
-peka  None root 0
-
-koro  None root 0
-,  None punct 0
-oerekwa  None root 0
-
-okɨp  None root 0
-atap  None root 0
-erom  None root 0
-,  None punct 0
-ke  None root 0
-kɨp  None root 0
-atap  None root 0
-
-Karow  None root 0
-,  None punct 0
-omepirẽpitet  None root 0
-,  None punct 0
-kwep  None root 0
-te  None discourse 0
-
-ke  None root 0
-Kani  None root 0
-
-koni  None root 0
-tʃe  None root 0
-okɨp  None root 0
-etʃe  None root 0
-
-eboro  None root 0
-etʃe  None root 0
-
-kwako  None root 0
-aj  None root 0
-ek  None root 0
-etʃe  None root 0
-
-ek  None root 0
-etʃe  None root 0
-imaã  None root 0
-
-teatap  None root 0
-nĩap  None root 0
-ete  None root 0
-
-itoap  None root 0
-atʃoap  None root 0
-ete  None root 0
-
-aparapia  None root 0
-tet  None root 0
-ete  None root 0
-?  None punct 0
-
-omapi  None root 0
-ete  None root 0
-?  None punct 0
-
-en  None root 0
-baj  None root 0
-ete  None root 0
-
-tekwata  None root 0
-Buko  None root 0
-ete  None root 0
-
-omepit  None root 0
-tek  None root 0
-pi  None root 0
-tʃopa  None root 0
-on  None root 0
-
-ojẽ  None root 0
-pi  None root 0
-õkwa  None root 0
-
-poga  None root 0
-pe  None case 0
-pi  None root 0
-,  None punct 0
-ameko  None root 0
-ikora  None root 0
-tʃe  None root 0
-
-okere  None root 0
-atʃi  None root 0
-pibõ  None root 0
-
-otʃipap  None root 0
-tabɨtõ  None root 0
-ka  None root 0
-
-aparapia  None root 0
-kwamoa  None root 0
-tekõ  None root 0
-
-ekõ  None root 0
-ka  None root 0
-
-tebõ  None root 0
-kɨte  None root 0
-purururu  None root 0
-,  None punct 0
-kebõ  None root 0
-nõm  None root 0
-
-kojõpebõ  None root 0
-kɨjtpit  None root 0
-at  None aux 0
-kom  None root 0
-
-erape  None root 0
-tekwata  None root 0
-,  None punct 0
-kɨrẽbõ  None root 0
-nõm  None root 0
-
-pabapebõ  None root 0
-ɨkɨ  None root 0
-kiramka  None root 0
-en  None root 0
-
-kɨpek  None root 0
-atʃiri  None root 0
-aj  None root 0
-
-tawtʃeri  None root 0
-mia  None root 0
-kɨjtpit  None root 0
-nõm  None root 0
-
-kɨrẽri  None root 0
-ta  None root 0
-paja  None root 0
-,  None punct 0
-kiwkiw  None root 0
-
-kwena  None root 0
-,  None punct 0
-tawtʃena  None root 0
-,  None punct 0
-takɨrapna  None root 0
-,  None punct 8
-tawpɨkna  None root 12
-,  None punct 0
-tatona  None root 0
-,  None punct 0
-tato  None root 0
-kwakwa  None root 0
-,  None punct 8
-takɨrap  None root 0
-kwakwa  None root 0
-
-imen  None root 0
-iõ  None root 0
-imepit  None root 0
-menna  None root 0
-
-ɨkɨ  None root 0
-pekã  None root 0
-ana  None root 0
-
-ɨkɨ  None root 0
-ata  None root 0
-en  None root 0
-ɨkɨpe  None root 0
-
-kɨp  None root 0
-tep  None root 0
-eanampe  None root 0
-
-tʃarimẽ  None root 0
-okwaj  None root 0
-,  None punct 0
-tokwajet  None root 0
-
-mepitet  None root 0
-jẽ  None root 0
-,  None punct 0
-jẽrom  None root 0
-tɨrɨ  None root 0
-
-aparapiat  None root 0
-kwamoa  None root 0
-oirika  None root 0
-
-te  None root 0
-aj  None root 0
-koa  None root 0
-,  None punct 0
-ajet  None root 0
-koa  None root 0
-
-on  None root 0
-ikiramka  None root 0
-,  None punct 0
-ɨkɨ  None root 0
-tʃooo  None root 0
-,  None punct 0
-kɨpitʃik  None root 0
-ɨkɨt  None root 0
-ãka  None root 0
-
-aramĩra  None root 0
-nõm  None root 0
-,  None punct 0
-aramĩra  None root 0
-,  None punct 0
-aparapia  None root 0
-dow  None root 0
-,  None punct 0
-nako  None root 13
-ata  None root 0
-ãka  None root 0
-,  None punct 0
-ɨkɨ  None root 0
-ape  None advmod 0
-dow  None root 0
-aparapiat  None root 0
-
-õjpe  None root 0
-pajapna  None root 0
-
-tʃopa  None root 0
-te  None aux 0
-parãap  None root 0
-
-tawtʃe  None root 0
-tʃogaap  None root 0
-
-niam  None root 0
-Tʃaruj  None root 0
-imokwa  None root 0
-
-oiko  None root 0
-tokwa  None root 0
-ojã  None root 0
-
-otojẽpitin  None root 0
-ẽ  None root 0
-tow  None root 0
-ẽ  None aux 0
-tow  None root 0
-ebapap  None root 0
-ɨro  None root 0
-tojẽpitin  None root 0
-
-on  None root 0
-opoatʃo  None root 0
-en  None root 0
-te  None aux 0
-tʃokĩn  None root 0
-
-Pupak  None root 0
-kɨjtpitatʃo  None root 0
-ata  None root 0
-kom  None root 0
-
-ke  None root 0
-boroteatʃori  None root 0
-tʃooo  None root 0
-,  None punct 0
-jẽrom  None root 0
-barobaro  None root 0
-
-itʃoke  None root 0
-tʃop  None root 0
-en  None root 0
-
-koa  None root 0
-koa  None root 0
-tʃoke  None root 0
-
-Patʃo  None root 0
-Patʃe  None root 0
-tɨɾɨ  None root 0
-tajtʃi  None root 0
-
-Pura  None root 0
-te  None advmod 0
-kɨte  None root 0
-
-en  None root 0
-aramĩra  None root 0
-,  None punct 0
-aramĩra  None root 0
-baba  None root 0
-
-erẽ  None root 0
-baba  None root 0
-,  None punct 0
-oerekwa  None root 0
-
-on  None root 0
-eni  None root 0
-erepe  None root 0
-,  None punct 0
-on  None root 0
-terepe  None root 0
-
-kwiro  None root 0
-,  None punct 0
-on  None root 0
-ikɨta  None root 0
-
-pea  None root 0
-,  None punct 0
-en  None root 0
-ipoka  None root 0
-
-temen  None root 0
-tekɨjt  None root 0
-ata  None root 0
-
-en  None root 0
-iata  None root 0
-ka  None root 0
-
-kitʃe  None root 0
-kɨp  None root 0
-boja  None root 0
-
-enõ  None root 0
-kɨ  None root 0
-pi  None root 0
-?  None punct 0
-
-orẽ  None root 0
-oerekwa  None root 0
-
-kirẽbõ  None root 0
-kipera  None root 0
-
-koro  None root 0
-am  None root 0
-,  None punct 0
-eme  None root 0
-tetna  None root 0
-
-en  None root 0
-ekem  None root 0
-kɨ  None root 0
-pi  None root 0
-,  None punct 0
-jẽbõ  None root 0
-nõm  None root 0
-
-pero  None root 0
-jẽrom  None root 0
-te  None aux 0
-aj  None root 0
-
-Pupak  None root 0
-ko  None root 0
-ata  None root 0
-kebõ  None root 0
-
-aʔe  None root 0
-ta  None root 0
-ke  None root 0
-uʔuta  None root 0
-moj  None root 0
-ke  None root 0
-tĩ  None root 0
-
-jane  None root 0
-japikũj  None root 0
-mi  None root 0
-?  None punct 0
-
-Mataru  None root 0
-ʃaʔe  None root 0
-ke  None root 0
-nupã  None root 0
-tĩ  None root 0
-
-aʔe  None root 0
-tatu  None root 0
-ke  None root 0
-uʔuta  None root 0
-
-aʔe  None root 0
-ke  None root 0
-uʔuta  None root 0
-pɪpɪhu  None root 0
-ke  None aux 0
-tĩ  None root 0
-
-sawaʔe  None root 0
-panem  None root 0
-ta  None root 0
-ke  None root 0
-upa  None root 0
-
-Tuti  None root 0
-ke  None advmod 0
-ʃaʔe  None root 0
-jukwa  None root 0
-
-taʔɪn  None root 0
-ukwerta  None root 0
-je  None advmod 0
-tĩ  None root 0
-,  None punct 0
-ko  None root 0
-aʔi  None root 0
-iháike  None root 0
-piɾokhũ  None root 0
-je  None case 0
-pe  None root 0
-iʔaɾpe  None root 0
-pɪnuhũ  None root 0
-
-ne  None root 0
-ihẽke  None root 0
-remusak  None root 0
-ʔɪ  None root 0
-
-kakake  None root 0
-kurumĩ  None root 0
-uʔu  None root 0
-rahã  None root 0
-aʔe  None root 0
-hãʔĩmke  None root 0
-matɪr  None root 0
-
-Arauxu  None root 0
-ahem  None root 0
-uhu  None root 0
-
-a’eta  None root 0
-ajengar  None root 0
-
-ihẽ  None root 0
-a’etake  None root 0
-amujengar  None root 0
-
-a’eta  None root 0
-ma’e  None root 0
-jukwahá  None root 0
-ihẽke  None root 0
-pe  None case 0
-me’ẽ  None root 0
-
-Oho  None root 0
-uĩ  None root 0
-tipe  None obl 0
-ã  None root 0
-
-aʔerehe  None root 0
-tarũ  None root 0
-neʃĩke  None root 0
-joʔok  None root 0
-
-Maiɾ  None root 0
-ɪwɪke  None root 0
-hapɪ  None root 0
-
-ihẽ  None root 0
-narãjke  None root 0
-apirok  None root 0
-
-ihẽke  None root 0
-aʔar  None root 0
-
-ihẽ  None root 0
-taɁɪnke  None root 0
-amuɁe  None root 0
-
-ne  None root 0
-taɁɪnke  None root 0
-eremuɁe  None root 0
-
-aʔeke  None root 0
-uʔuta  None root 0
-pɪpɪhu  None root 0
-ketĩ  None root 0
-
-neke  None root 0
-uʔike  None root 0
-rekarãjta  None root 0
-
-ihẽ  None root 0
-neke  None root 0
-akutukta  None root 0
-
-Maírake  None root 0
-wata  None root 0
-
-Maíra  None root 0
-wata  None root 0
-
-Anake  None root 0
-heɁõɁɪ  None root 0
-
-aʔeke  None root 0
-ipɪke  None root 0
-tukwa  None root 0
-
-aʔeke  None root 0
-ehake  None root 0
-tukwatĩ  None root 0
-
-mɪra  None root 0
-pirerke  None root 0
-teʔe  None root 0
-pirawan  None root 0
-muwak  None root 0
-
-ihẽke  None root 0
-ajumukahem  None root 0
-
-ne  None root 0
-ihẽ  None root 0
-miʔuke  None root 0
-reʔutĩ  None root 0
-
-apo  None root 0
-pehẽ  None root 0
-ihẽke  None root 0
-peharõta  None root 0
-
-aʔe  None root 0
-ʔokke  None root 0
-mujã  None root 0
-
-ihẽ  None root 0
-ʔok  None root 0
-amujã  None root 0
-
-ihẽke  None root 0
-uʔi  None root 0
-akarãj  None root 0
-
-neke  None root 0
-uʔike  None root 0
-rekarãjta  None root 0
-
-Oropo  None root 0
-huʔɨ  None root 0
-pɨhɨk  None root 0
-
-ajameʔẽ  None root 0
-ke  None root 0
-Urupe  None root 0
-jeʔẽha  None root 0
-mondo  None root 0
-tĩ  None root 0
-
-pe  None root 0
-kamarar  None root 0
-jarusu  None root 0
-raʔɪr  None root 0
-raho  None root 0
-
-Tapiʔir  None root 0
-ujan  None root 0
-
-Tɪapu  None root 0
-riki  None root 0
-
-Tuktuktuk  None root 0
-aja  None root 0
-riki  None root 0
-
-Tapiʔir  None root 0
-ujan  None root 0
-oho  None root 0
-
-Pe  None root 0
-,  None punct 0
-taʔɪrer  None root 0
-ujan  None root 0
-
-Pe  None root 0
-,  None punct 0
-ihẽ  None root 0
-asak  None root 0
-
-Pe  None root 0
-,  None punct 0
-imãi  None root 0
-ihĩ  None root 0
-
-Pe  None root 0
-,  None punct 0
-ihẽ  None root 0
-ajapi  None root 0
-indo  None root 0
-
-Xõru  None root 0
-nixói  None root 0
-se  None advmod 0
-aʔe  None root 0
-
-Peteĩ  None root 0
-Xõru  None root 0
-jahy  None root 0
-kanim  None root 0
-oho  None root 0
-
-Arahã  None root 0
-maʔe  None nsubj 0
-Kaninde  None root 0
-rehe  None case 0
-ihẽ  None root 0
-araho  None root 1
-
-mahem  None root 0
-arapuha  None root 0
-himiʔu  None root 0
-oho  None root 0
-
-ne  None root 0
-ihẽke  None root 0
-renupã  None root 0
-rahã  None root 0
-ihẽ  None root 0
-ahota  None root 0
-
-pɪnupɪnuate  None root 0
-ehe  None root 0
-je  None root 0
-
-pe  None root 0
-oho  None root 0
-je  None root 0
-tĩ  None root 0
-
-panduʔɪmanu  None root 0
-taʔɪn  None root 0
-je  None aux 0
-tĩ  None root 0
-
-karai  None root 0
-riki  None root 0
-muka  None root 0
-mopok  None root 0
-
-neke  None root 0
-ihẽ  None root 0
-remupuʔam  None root 0
-ʔɪ  None root 0
-
-ihẽ  None root 0
-neke  None root 0
-apɪhɪk  None root 0
-ʔɪ  None root 0
-
-aʔe  None root 0
-ikɪke  None root 0
-jiʔok  None root 0
-
-ihẽ  None root 0
-ikɪ  None root 0
-ajiʔok  None root 0
-ʔɪ  None root 0
-
-taʔin  None root 0
-hokwenke  None root 0
-nupã  None root 0
-uʔam  None root 0
-
-Purutuke  None root 0
-ahem  None root 0
-
-Purutu  None root 0
-ahem  None root 0
-
-taʔɪnke  None root 0
-itawa  None root 0
-imu  None root 0
-parahɪahɪ  None root 0
-ipe  None root 0
-je  None root 0
-
-netawate  None root 0
-nekeã  None root 0
-nejɪtɪʔɪmte  None root 0
-amõ  None root 0
-ʔɪ  None root 0
-
-pe  None root 0
-imu  None root 0
-uʔɪ  None root 0
-raʔɪr  None root 0
-mujã  None root 0
-ipe  None root 11
-je  None root 0
-uʔɪ  None root 0
-sepetu  None root 0
-ɪrapar  None root 0
-raʔɪr  None root 0
-
-pe  None root 0
-aʔi  None root 0
-ai  None root 0
-tur  None root 0
-je  None root 0
-tĩ  None root 0
-
-pe  None root 0
-saʔe  None root 0
-aʔi  None root 0
-ihái  None root 0
-ʃirurke  None root 0
-pirokhũ  None root 0
-je  None root 0
-ihai  None root 0
-aike  None root 0
-
-ɪmante  None root 0
-pe  None root 0
-aʔike  None root 0
-manõ  None root 0
-je‘ɪ  None root 0
-
-kujãtake  None root 0
-upa  None root 0
-mupinim  None root 0
-
-ko  None root 0
-ihē  None root 0
-paper  None root 0
-pinim  None root 0
-amuwɪr  None root 0
-nde  None root 0
-pe  None root 0
-
-ne  None root 0
-raʔɪr  None root 0
-ihē  None root 0
-apɪhɪk  None root 0
-aʃo  None root 0
-
-pe  None root 0
-riki  None root 0
-katar  None root 0
-ngã  None root 0
-muhɪk  None root 0
-
-pe  None root 0
-taramō  None root 0
-kaitā  None root 0
-juʔipape  None root 0
-piʔa  None root 0
-usak  None root 0
-oho  None root 0
-tī  None aux 0
-pɪtuniwe  None root 0
-
-pahar  None root 0
-pahar  None root 0
-je  None root 0
-kɪse  None root 0
-meʔē  None root 0
-ngā  None root 0
-
-ihē  None root 0
-ndeke  None root 0
-araho  None root 0
-tar  None root 0
-katu  None root 0
-tipe  None root 0
-
-uʔike  None root 0
-wiraʔi  None root 0
-take  None root 0
-uʔu  None root 0
-ɪm  None root 0
-
-ihē  None root 0
-rãi  None root 0
-ihē  None root 0
-amoīta  None root 0
-tipe  None root 0
-
-pāsɪkwer  None root 0
-riki  None root 0
-matɪr  None root 0
-uhu  None root 0
-ngā  None root 0
-ipe  None root 0
-
-ihē  None root 0
-ahota  None root 0
-asak  None root 0
-
-ko  None root 0
-riki  None root 0
-ihē  None root 0
-ahɪk  None root 0
-ajur  None root 0
-jarupa  None root 0
-rehe  None case 0
-
-pe  None root 0
-ɪ  None root 0
-rɪmɪʔɪ  None root 0
-rehe  None case 0
-riki  None root 0
-kamarar  None root 0
-ta  None root 0
-pirer  None root 0
-pirā  None root 0
-
-Kito  None root 0
-nãkowut  None root 0
-moat  None obj 0
-xauwet  None root 0
-moke  None root 0
-kepit  None root 0
-xagara  None root 0
-
-ngot  None root 0
-xiaret  None root 0
-
-yãn  None root 0
-oxepngoret  None root 0
-oerã  None root 0
-kepit  None root 0
-eta  None root 0
-on  None root 0
-toa  None root 0
-
-xeke  None root 0
-xēke  None root 0
-ke  None root 0
-
-etera  None root 0
-kurux  None root 0
-amang  None root 0
-ngot  None root 0
-keya  None root 0
-pīxe  None root 0
-
-mokat  None root 0
-etera  None root 0
-kurux  None root 0
-amang  None root 0
-pīxe  None root 0
-
-ã  None root 0
-en  None root 0
-emẽ  None root 0
-xop  None root 0
-nẽnẽkaret  None root 0
-
-woaret  None root 0
-koa  None root 0
-
-etxekup  None root 0
-keya  None root 0
-
-opũãtemwã  None root 0
-ota  None root 0
-
-mokat  None root 0
-etera  None root 0
-kurux  None root 0
-
-nãpẽrenã  None root 0
-kito  None root 0
-eapītera  None root 0
-pīxe  None root 0
-
-op  None root 0
-ten  None root 0
-eya  None root 0
-õn  None root 0
-
-xop  None root 0
-ten  None root 0
-eya  None root 0
-on  None root 0
-ke  None root 0
-
-mawo  None root 0
-papīknga  None root 0
-mokat  None root 0
-etyenkuax  None root 0
-nã  None root 0
-xoknga  None root 0
-xok  None root 0
-
-yeman  None root 0
-ngot  None root 0
-kana  None root 0
-oen  None root 0
-
-mokat  None root 0
-etera  None root 0
-korop  None root 0
-noa  None aux 0
-pe  None root 0
-
-ama  None root 0
-ngot  None root 0
-xiaret  None root 0
-eya  None root 0
-kurux  None root 0
-amang  None root 0
-ngot  None root 0
-oen  None root 0
-wimõ  None root 0
-nitēt  None root 0
-
-arimot  None root 0
-urot  None root 0
-arimot  None root 0
-urot  None root 0
-
-xop  None root 0
-koa  None root 0
-ten  None root 0
-nã  None root 0
-peka  None root 0
-
-i  None root 0
-eya  None root 0
-on  None root 0
-wet  None root 0
-toa  None root 0
-ke  None root 0
-pit  None root 0
-
-mokat  None root 0
-peitõã  None root 0
-etera  None root 0
-amang  None root 0
-korop  None root 0
-kux  None root 0
-me  None root 0
-
-wotye  None root 0
-pukpuga  None root 0
-pit  None root 0
-
-putorot  None root 0
-xēke  None root 0
-ke  None root 0
-xēt  None root 0
-
-etera  None root 0
-korop  None root 0
-
-kito  None root 0
-moke  None root 0
-xiat  None root 0
-ekuwaora  None root 0
-kepit  None root 0
-pukpuga  None root 0
-õn  None root 0
-
-kepit  None root 0
-eya  None root 0
-õn  None nsubj 0
-waokatmõ  None root 0
-papiknga  None root 0
-ke  None root 0
-
-ama  None root 0
-etera  None root 0
-kurux  None root 0
-
-xop  None root 0
-me  None root 0
-pote  None root 0
-worawiget  None root 0
-xop  None root 0
-me  None root 0
-
-kux  None root 0
-kixa  None root 0
-ngarap  None root 0
-,  None punct 0
-pit  None root 0
-
-põrom  None root 0
-toa  None root 0
-,  None punct 0
-pit  None root 0
-
-Ajojot  None root 0
-jekobe  None root 0
-be  None aux 0
-cum  None root 0
-
-jexat  None root 0
-o'tobuxik  None root 0
-
-Tit  None root 0
-tak  None root 0
-o'titobuxik  None root 0
-tu  None root 0
-?  None punct 0
-
-Ka'ũma  None root 0
-!  None punct 0
-
-Ka'ũma  None root 0
-!  None punct 0
-
-Tawe  None root 0
-oajẽm  None root 0
-iku  None root 0
-be  None case 0
-
-Jexat  None root 0
-o'tobuxik  None root 0
-iku  None root 0
-be  None case 0
-
-Xa  None root 0
-iku  None root 0
-xe  None advmod 0
-
-Tawe  None root 0
-oajẽm  None root 0
-xa  None root 0
-xe  None root 0
-
-Tawe  None root 0
-oajẽm  None root 0
-ka  None root 0
-xe  None root 0
-
-Toxaw  None root 0
-oajẽm  None root 0
-ka  None root 0
-be  None root 0
-
-Toxaw  None root 0
-dak  None root 0
-jexat  None root 0
-o'tobuxik  None root 0
-
-Toxaw  None root 0
-tawe  None root 0
-o'tobuxik  None root 0
-
-Xa  None root 0
-xe  None root 0
-tawe  None root 0
-o'tobuxik  None root 0
-
-Ikibit  None root 0
-awi  None root 0
-kay  None root 0
-
-Awawa  None root 0
-oajẽm  None root 0
-ika  None root 0
-be  None root 0
-,  None punct 0
-jekibit  None root 0
-ka  None root 0
-be  None root 0
-
-Awi  None root 0
-awawa  None root 0
-bubut  None root 0
-
-Ite  None root 0
-awi  None root 0
-o'tobuxik  None root 0
-
-Awawa  None root 0
-o'tobuxik  None root 0
-
-Toxaw  None root 0
-tawe  None root 0
-o'tobuxik  None root 0
-tu  None root 0
-?  None punct 0
-
-Abu  None root 0
-tawe  None root 0
-o'tobuxik  None root 0
-?  None punct 0
-
-Abu  None root 0
-awi  None root 0
-o'tobuxik  None root 0
-?  None punct 0
-
-Abu  None root 0
-jexat  None root 0
-o'tobuxik  None root 0
-?  None punct 0
-
-Abu  None root 0
-awi  None root 0
-kay  None root 0
-?  None punct 0
-
-Abu  None root 0
-o'titobuxik  None root 0
-?  None punct 0
-
-Awawa  None root 0
-awi  None root 0
-o'tobuxik  None root 0
-jekibit  None root 0
-ka  None root 0
-be  None root 0
-
-Oexe  None root 0
-awawa  None root 0
-
-Toxaw  None root 0
-dak  None root 0
-oexe  None root 0
-
-Awawa  None root 0
-tawe  None root 0
-kay  None root 0
-
-Toxaw  None root 0
-tawe  None root 0
-o'tobuxik  None root 0
-
-Jexat  None root 0
-o'tobuxik  None root 0
-
-Tawe  None root 0
-ixat  None root 0
-,  None punct 0
-toxaw  None root 0
-xat  None root 0
-
-Awawa  None root 0
-ixaxet  None root 0
-
-Awawa  None root 0
-ixiwe  None root 0
-kay  None root 0
-
-Ixiwe  None root 0
-ako  None root 0
-xe  None advmod 0
-
-Awawa  None root 0
-cum  None root 0
-ako  None root 0
-xe  None root 0
-
-Ixiwe  None root 0
-o'tobuxik  None root 0
-ako  None root 0
-xe  None case 0
-
-cum  None root 0
-jeku  None root 0
-be  None case 0
-
-Awawa  None root 0
-jeku  None root 0
-be  None case 0
-oajẽm  None root 0
-
-Akoba  None root 0
-iku  None root 0
-be  None advmod 0
-opop  None root 0
-.  None punct 0
-
-Tit  None root 0
-tak  None root 0
-iku  None root 0
-be  None case 0
-opop  None root 0
-,  None punct 0
-awawa  None root 0
-ku  None root 0
-be  None root 0
-.  None punct 0
-
-Ixi  None root 0
-uk  None root 0
-'a  None aux 0
-be  None root 0
-
-I'it  None root 0
-tak  None root 0
-uk'a  None root 0
-be  None case 0
-
-Toxaw  None root 0
-oexe  None root 0
-
-I'it  None root 0
-wa  None root 0
-du  None root 0
-?  None punct 0
-
-Toxaw  None root 0
-i'it  None root 0
-o'tobuxik  None root 0
-uk  None root 0
-'a  None case 0
-be  None root 0
-.  None punct 0
-
-I'it  None root 0
-ixet  None root 0
-
-Ixi  None root 0
-wa'e  None root 0
-kug̃  None root 0
-
-Wa'e  None root 0
-ibubut  None root 0
-,  None punct 0
-ixi  None root 0
-bubut  None root 0
-
-Wexik  None root 0
-'a  None root 0
-kake  None root 0
-wa'e  None root 0
-be  None root 0
-
-Ixat  None root 0
-'a  None root 0
-kake  None root 0
-wa'e  None root 0
-be  None root 0
-,  None punct 0
-uk'a  None root 0
-be  None root 0
-
-Wa'e  None root 0
-uk'a  None root 0
-be  None advmod 0
-opop  None root 0
-
-puybit  None root 0
-ka'ũmg̃u  None root 0
-o'e  None root 0
-
-ag̃okatkat  None root 0
-o'ju  None root 0
-puybit  None root 0
-aokam  None root 0
-
-oexexe  None root 0
-ip  None root 0
-uk  None root 0
-'a  None root 0
-be  None root 0
-puybit  None root 0
-kukug̃  None root 0
-
-Daje  None root 0
-ade  None nsubj 0
-o'yaoka  None root 0
-ip  None root 0
-pima  None root 0
-,  None punct 0
-puybit  None root 0
-kuka  None root 0
-o'e  None root 3
-ade  None root 0
-
-Soat  None root 0
-bekitkit  None root 0
-ibeg̃beg̃  None root 0
-o'e  None root 0
-ade  None root 0
-puybit  None root 0
-puye  None root 0
-
-Kabiam  None root 0
-doa  None root 0
-iba'orere  None root 0
-jedoti  None root 0
-mug̃ẽg̃ẽm  None root 0
-daxa  None root 0
-xe  None root 0
-
-Karosakaybu  None root 0
-daje  None root 0
-o'g̃uju  None root 0
-,  None punct 0
-tacup  None root 0
-puye  None root 0
-ip  None root 0
-.  None punct 0
-
-pariwat  None root 0
-tomuwã  None root 0
-buje  None root 0
-juy  None root 0
-puybit  None root 0
-ejomõg̃  None root 0
-mesa  None root 0
-jeje  None root 0
-
-kabido  None root 0
-xixi  None root 0
-ajẽm  None root 0
-puje  None root 0
-soat  None root 0
-o'at  None root 0
-
-taxit  None root 0
-mẽnpit  None root 0
-ikukpin'ũm  None root 0
-osunuy  None root 0
-ag̃okatkat  None root 0
-pe  None root 0
-,  None punct 0
-i'e'em  None root 0
-ajojoyũ'ũm'ũm  None root 0
-
-wexik'a  None root 0
-kake  None root 0
-ixi  None root 0
-duk'a  None root 0
-be  None case 0
-
-oxi  None root 0
-uk  None root 0
-‘a  None root 0
-be  None root 0
-
-wida  None root 0
-ayacat  None root 0
-o’yaoka  None root 0
-Katõ  None root 0
-be  None root 0
-
-wetabut  None root 0
-pe  None root 0
-obure  None root 0
-Wida  None root 0
-o'yaoka  None root 0
-
-bekicat  None root 0
-o'akõm  None root 0
-wetabut  None root 0
-pe  None case 0
-
-ẽn  None root 0
-eg̃ũm  None root 0
-kise  None root 0
-ayacat  None root 0
-pe  None root 0
-
-puy  None root 0
-bu  None root 0
-bekicat  None root 0
-o'joa  None root 0
-
-õn  None nsubj 0
-bekicat  None root 0
-ojoaat  None root 0
-puy  None root 0
-bu  None root 0
-be  None root 0
-
-wida  None root 0
-ayacat'ũm  None root 0
-o'yaoka  None root 0
-
-wekobe  None root 0
-wita  None root 0
-'a  None root 0
-kay  None root 0
-og̃uyjayjay  None root 0
-
-oxi  None root 0
-eg̃ru  None root 0
-ipi  None root 0
-tẽg̃  None root 0
-
-o'xet  None root 0
-io'e  None root 0
-xiri  None root 0
-xe  None root 0
-
-ixe  None root 0
-iẽn  None root 0
-'o'om  None root 0
-kaw  None root 0
-ta  None root 0
-eju  None root 0
-
-puybit  None root 0
-kug̃  None root 0
-o'ju  None root 0
-bio  None root 0
-kug̃  None root 0
-,  None punct 0
-dapsem  None root 0
-kug̃  None root 0
-
-xa  None root 0
-diot  None root 0
-pe  None aux 0
-o'xet  None root 0
-
-wexey  None root 0
-bi  None root 0
-wida  None root 0
-biopak  None root 0
-o'yaoka  None root 0
-
-kat  None root 0
-pujeat  None root 0
-ocemudirem  None root 0
-
-ag̃okatkat  None root 0
-bio  None root 0
-dakat  None root 0
-puje  None root 0
-bekicat  None root 0
-o'suẽn'o  None root 0
-
-ey'at  None root 0
-pima  None root 0
-ocewayway  None root 0
-jĩjã  None root 0
-
-ixem  None root 0
-õn  None nsubj 0
-wetaybit  None root 0
-g̃u  None root 0
-ojojo  None root 0
-g̃u  None root 0
-ma  None root 0
-buye  None root 0
-
-ag̃okatkat  None root 0
-bio  None root 0
-aoka  None root 0
-buje  None root 0
-wida  None root 0
-o'jenapõn  None root 0
-
-ejot  None root 0
-cuy  None root 0
-,  None punct 0
-muto'o  None root 0
-bima  None root 0
-,  None punct 0
-kaxi  None root 0
-wuyase  None root 0
-bima  None root 0
-
-pug̃  None root 0
-em  None root 0
-o'e  None root 0
-jeebay  None root 0
-be  None root 0
-
-jeorokap  None root 0
-wap  None root 0
-ip  None root 0
-o'ju  None root 0
-
-ag̃okatkat  None root 0
-itakomã  None root 0
-jijã  None root 0
-o'e  None root 0
-wida  None root 0
-buxim  None root 0
-
-kobe  None root 0
-xixi  None root 0
-badi  None root 0
-wi  None root 0
-o'jebuk  None root 0
-
-Kog̃ũnpi  None root 0
-be  None root 0
-okapap  None root 0
-kabuk  None root 0
-opop  None root 0
-
-Jeorog̃  None root 0
-ip  None root 0
-cum  None root 0
-kapusu  None root 0
-daje  None root 0
-aoka  None root 0
-ojuyiap  None root 0
-tag̃  None root 0
-
-Kapusu  None root 0
-dapsem  None root 0
-o'yaokaiat  None root 0
-g̃oku  None root 0
-,  None punct 0
-Katõ  None root 0
-bewi  None root 0
-oajẽmiat  None root 0
-
-Soat  None root 0
-ip  None root 0
-o'g̃u'ũm  None root 0
-iwipat  None root 0
-
-wamõat  None root 0
-ag̃okatkat  None root 0
-o'sutayxida  None root 0
-
-õn  None nsubj 0
-ag̃okatkat  None root 0
-o'sutayxidaat  None root 0
-wamõat  None root 0
-pe  None case 0
-
-ag̃okatkat  None root 0
-o'jetayxidaat  None root 0
-wamõat  None root 0
-pe  None case 0
-
-wida  None root 0
-o'jeaokaat  None root 0
-ag̃okatkat  None root 0
-pe  None case 0
-
-ceebay  None root 0
-icokcok  None root 0
-cicã  None root 0
-idip  None root 0
-cicã  None root 0
-buye  None root 0
-bekicat  None root 0
-yadappek  None root 0
-
-ipi  None root 0
-teg̃  None root 0
-kaxi  None root 0
-bima  None root 0
-o'taxadig̃curug̃  None root 0
-
-Kapusu  None root 0
-oajẽm  None root 0
-owag̃o  None root 0
-duk'a  None root 0
-be  None case 0
-
-Ag̃okatkat  None root 0
-acã  None root 0
-cũg̃'i  None root 0
-osunuy  None root 0
-sũg̃tabi  None root 0
-eju  None root 0
-g̃axĩn  None root 0
-ma  None root 0
-oajẽm  None root 0
-puye  None root 0
-
-Wuy'adapmude'o'onapti  None root 0
-dak  None root 0
-otibu  None root 0
-
-Eg̃uycũg̃  None root 0
-pimap  None root 0
-,  None punct 0
-ecepe  None root 0
-eg̃rũ  None root 0
-be  None root 0
-
-Puybit  None root 0
-aoka'ũm  None root 0
-pima  None root 0
-,  None punct 0
-irere  None root 0
-jeedop  None root 0
-ip  None root 0
-
-Kapusu  None root 0
-dapsem  None root 0
-o'yaokaiat  None root 0
-g̃oku  None root 0
-
-xepxep  None root 0
-pa  None root 0
-akoba  None root 0
-o'suba'o  None root 0
-
-xek  None root 0
-pu  None advmod 0
-o'subumõg̃mõg̃  None root 0
-wita  None root 0
-'a  None root 0
-be  None root 0
-
-Uk'a  None root 0
-yadip  None root 0
-o'yanuy  None root 0
-
-kapedi  None root 0
-tidaxip  None root 0
-
-ebubut  None root 0
-pupum  None root 0
-tu  None root 0
-epesot  None root 0
-?  None punct 0
-
-Ag̃okatkayũ  None root 0
-axĩma  None root 0
-muyuhum  None root 0
-idibi  None root 0
-tag̃  None root 0
-.  None punct 11
-Axĩma  None root 0
-muyuhum  None root 0
-ip  None root 0
-pig̃am  None root 0
-.  None punct 0
-
-Ag̃okatkayũ  None root 0
-soat  None root 0
-axima  None root 0
-muyuhum  None root 0
-:  None punct 0
-wasũbu  None root 0
-,  None punct 0
-potip  None root 10
-,  None punct 11
-potiprip  None root 0
-,  None punct 0
-pakodup  None root 10
-,  None punct 11
-pirãydup  None root 10
-,  None punct 0
-pirũm  None root 0
-.  None punct 0
-
-Idib  None root 0
-dag̃  None root 0
-soat  None root 0
-axima  None root 0
-.  None punct 0
-Pũg̃pũg̃  None root 0
-axima  None root 2
-yopit  None root 3
-ma  None root 0
-.  None punct 0
-Pirãydup  None root 0
-,  None punct 0
-pirũm  None root 0
-yopit  None root 0
-ma  None root 0
-.  None punct 0
-
-Pũg̃pũg̃  None root 0
-axima  None root 0
-yobog̃  None root 0
-ma  None root 0
-.  None punct 0
-Wasũbu  None root 0
-,  None punct 9
-potip  None root 0
-,  None punct 0
-yobog̃ayũ  None root 0
-.  None punct 0
-Ag̃okatkayũ  None root 0
-axima  None root 0
-muyuhum  None root 0
-pig̃am  None root 0
-.  None punct 0
-
-Wara'at  None root 0
-axima  None root 12
-yobog̃bug̃  None root 13
-.  None punct 0
-Potiprit  None root 0
-,  None punct 0
-pakodup  None root 0
-yobog̃bug̃yũ  None root 0
-.  None punct 0
-Pig̃ãm  None root 0
-axima  None root 0
-muyhum  None root 0
-ip  None root 0
-.  None punct 0
-
-Ibu  None root 0
-buje  None root 0
-,  None punct 0
-tujuxexem  None root 0
-ip  None root 0
-uk’a  None root 0
-be  None aux 0
-ayacayũ  None root 0
-be  None root 0
-,  None punct 0
-ta  None root 0
-am  None root 0
-.  None punct 0
-
-Yopĩutayũ  None root 0
-muekabekbeg̃  None root 0
-ip  None root 0
-uktup  None root 0
-pe  None root 0
-.  None punct 13
-Ayacayũ  None root 0
-yopĩutayũ  None root 0
-muekabekbeg̃  None root 0
-ip  None root 0
-uktup  None root 4
-pe  None root 0
-.  None punct 0
-
-G̃ebuje  None root 0
-,  None punct 0
-yobog̃ayũ  None root 9
-wuywuy  None root 0
-ip  None root 33
-baseya'a  None root 28
-be  None root 0
-.  None punct 30
-Yobog̃ayũ  None root 0
-uk  None root 0
-kakam  None root 33
-ip  None root 0
-e'em  None root 35
-.  None punct 30
-Axima  None root 0
-uk  None root 0
-kakam  None root 0
-ip  None root 0
-pima  None root 0
-,  None punct 42
-ixep  None root 0
-uk'ug̃  None root 0
-ip  None root 0
-.  None punct 30
-Ixep  None root 0
-muekabekbeg̃  None root 0
-ip  None root 11
-uktup  None root 0
-pe  None root 0
-.  None punct 0
-Ade  None root 0
-axima  None root 0
-uk  None root 0
-kakam  None root 0
-ip  None root 0
-.  None punct 30
-Ixep  None root 9
-muekabekbeg̃  None root 10
-ip  None root 17
-uktup  None root 12
-pe  None root 0
-,  None punct 0
-ayacayũ  None root 0
-.  None punct 0
-
-Axima  None root 0
-yobog̃at  None root 0
-mupurukpurug̃  None root 0
-ip  None root 0
-iwi  None root 0
-be  None root 0
-daxa  None root 0
-ase  None root 0
-.  None punct 0
-Ade  None root 19
-bima  None root 0
-,  None punct 0
-ade  None root 0
-imupurukpurug̃  None root 0
-ip  None root 0
-iwi  None root 0
-be  None root 0
-.  None punct 0
-Ade  None root 0
-bima  None root 0
-,  None punct 0
-yobog̃  None root 1
-iwi  None root 0
-e'em  None root 0
-.  None punct 9
-Ade  None root 1
-ũm  None root 0
-pima  None root 0
-,  None punct 0
-iwi  None root 0
-yopit  None root 0
-ma  None root 0
-e'em  None root 0
-.  None punct 0
-
-Ade  None root 0
-tao  None root 0
-bima  None root 0
-,  None punct 0
-tao  None root 0
-uk'ug̃  None root 0
-ip  None root 0
-iwi  None root 0
-xe  None root 0
-.  None punct 0
-
-Tao  None root 0
-uk'ug̃  None root 0
-iwi  None root 0
-xe  None root 0
-ãõyũ  None root 0
-.  None punct 14
-Tao  None root 0
-uk'ug̃  None root 0
-ip  None root 0
-ayacayũ  None root 0
-,  None punct 0
-axima  None root 0
-dao  None root 0
-.  None punct 0
-
-Tao  None root 0
-uk  None root 0
-puje  None obl 0
-,  None punct 0
-imõg̃mõg̃  None root 0
-ip  None root 0
-iwi  None root 0
-be  None root 0
-daxa  None root 0
-ase  None root 0
-.  None punct 0
-Tao  None root 0
-uk  None root 0
-puje  None advmod 0
-axima  None root 0
-tatam  None root 0
-ip  None root 0
-uktup  None root 0
-pe  None root 0
-.  None punct 0
-
-Iwi  None root 0
-be  None root 10
-imõg̃mõg̃  None root 0
-ip  None root 0
-ta  None root 0
-am  None root 0
-.  None punct 15
-Tao  None root 0
-uk  None root 0
-puje  None root 0
-axima  None root 0
-nõm  None root 0
-e'em  None root 0
-ip  None root 0
-.  None punct 0
-Axima  None root 0
-tatam  None root 0
-ip  None root 0
-uktup  None root 0
-pe  None root 0
-.  None punct 0
-Iwi  None root 0
-be  None root 9
-imõg̃mõg̃  None root 0
-ip  None root 0
-uktup  None root 0
-pe  None obl 0
-axima  None root 0
-mupuruk  None root 0
-am  None root 0
-.  None punct 0
-
-Tõm  None root 0
-e'em  None root 0
-ip  None root 0
-.  None punct 29
-Ẽ  None root 0
-be  None root 0
-ijukjug̃  None root 0
-ip  None root 3
-.  None punct 0
-Axima  None root 0
-nõm  None root 0
-cukcug̃  None root 0
-ip  None root 0
-ẽ  None root 0
-be  None root 0
-,  None punct 0
-wãẽn  None root 0
-tuk'a  None root 0
-be  None root 23
-.  None punct 9
-Tõm  None root 0
-cuk  None root 0
-puje  None root 0
-,  None punct 0
-tõm  None root 0
-ipriprim  None root 0
-pag̃eiro'a  None root 0
-be  None root 0
-.  None punct 0
-
-Tõm  None root 0
-karaw  None root 0
-bima  None root 0
-,  None punct 0
-tõm  None root 0
-pi  None root 0
-riprim  None root 0
-pag̃eiro’a  None root 23
-be  None root 0
-.  None punct 0
-Tõm  None root 0
-pi  None root 0
-rip  None root 0
-puje  None root 24
-,  None punct 25
-iwi  None root 26
-be  None root 0
-imõg̃mõg̃  None root 0
-ip  None root 27
-daxa  None root 0
-ase  None root 0
-tõm  None root 0
-mudaxip  None root 0
-am  None root 0
-.  None punct 0
-Imõg̃mõg̃  None root 0
-ip  None root 0
-daxa  None root 0
-ase  None root 0
-tõm  None root 0
-mukaraw  None root 23
-am  None root 0
-.  None punct 0
+ep B-NOUN B-PRON
+koa B-VERB B-VERB
+jẽ B-DET B-PART
+
+apara B-NOUN B-NOUN
+tep B-NOUN B-NOUN
+tʃopa B-VERB B-VERB
+jẽ B-DET B-PART
+
+Konibu B-PROPN B-NOUN
+apara B-NOUN B-NOUN
+koa B-VERB B-VERB
+
+kitʃe B-PRON B-NOUN
+aramĩra B-NOUN B-VERB
+
+Tʃaruj B-PROPN B-NOUN
+kɨjtpit B-NOUN B-VERB
+õa B-VERB B-ADV
+te B-PART B-PART
+Kanibõ B-PROPN B-VERB
+
+pero B-NOUN B-NOUN
+okwaj B-NOUN B-VERB
+tokwaj B-NOUN B-NOUN
+perek B-ADJ B-VERB
+
+Ariano B-PROPN B-NOUN
+teita B-VERB B-VERB
+kɨrẽ B-ADV B-ADV
+
+kitʃe B-PRON B-NOUN
+tawtʃe B-NOUN B-VERB
+koa B-VERB B-PART
+
+Kani B-PROPN B-NOUN
+okɨpi B-NOUN B-VERB
+kem B-NOUN B-ADV
+kɨ B-NOUN B-NOUN
+rom B-ADV B-VERB
+
+kwako B-NOUN B-NOUN
+kɨpek B-NOUN B-ADV
+koa B-VERB B-PART
+
+pi B-NOUN B-NOUN
+maã B-VERB B-NOUN
+en B-PRON B-VERB
+
+Kɨte B-NUM B-ADV
+babape B-NOUN B-VERB
+at B-VERB B-AUX
+
+Buko B-PROPN B-VERB
+kɨte B-NUM B-ADV
+korakora B-NOUN B-NOUN
+mi B-VERB B-VERB
+
+ep B-NOUN B-PRON
+koa B-VERB B-VERB
+jẽ B-DET B-PART
+
+kitʃetara B-VERB B-NOUN
+kom B-PART B-VERB
+
+Karow B-PROPN B-NOUN
+etap B-NOUN B-VERB
+tek B-NOUN B-NOUN
+iw B-NOUN B-VERB
+
+teti B-NOUN B-NOUN
+pururu B-VERB B-NOUN
+aj B-VERB B-VERB
+ɨmɨmere B-NOUN B-NOUN
+etʃe B-ADP B-VERB
+
+kopiba B-NOUN B-NOUN
+mõatʃoa B-VERB B-VERB
+on B-PRON B-AUX
+
+Pura B-PROPN B-NOUN
+ikoa B-VERB B-VERB
+te B-PART B-PART
+
+erape B-ADV B-VERB
+okwata B-VERB B-NOUN
+kom B-PART B-VERB
+
+potʃek B-NOUN B-NOUN
+momo B-ADV B-VERB
+tejã B-VERB B-NOUN
+otek B-NOUN B-NOUN
+etʃe B-ADP B-VERB
+
+en B-PRON B-PRON
+ikoromka B-VERB B-VERB
+
+oetara B-VERB B-NOUN
+otoa B-AUX B-VERB
+
+kwaẽ B-NOUN B-NOUN
+te B-PRON B-PART
+ipitka B-NOUN B-VERB
+
+erẽ B-PRON B-ADV
+epo B-NOUN B-NOUN
+tʃoga B-VERB B-VERB
+erẽ B-PRON B-PART
+
+jẽ B-DET B-NOUN
+kem B-NOUN B-ADV
+kɨ B-NOUN B-NOUN
+jẽ B-DET B-PART
+kem B-NOUN B-ADV
+kɨ B-NOUN B-NOUN
+rom B-ADV B-VERB
+
+oatap B-NOUN B-NOUN
+ãka B-PART B-NOUN
+ẽ B-INTJ B-PART
+ẽ B-INTJ B-ADV
+, B-PUNCT B-PUNCT
+oatap B-NOUN B-NOUN
+õkwa B-VERB B-NOUN
+on B-PRON B-VERB
+
+on B-PRON B-PRON
+ita B-VERB B-NOUN
+tʃoktʃok B-VERB B-VERB
+
+tʃoktʃok B-VERB B-VERB
+atiti B-NOUN B-NOUN
+ta B-VERB B-VERB
+
+karã B-NOUN B-ADV
+tepna B-NOUN B-VERB
+
+oko B-NOUN B-NOUN
+oko B-NOUN B-VERB
+te B-PART B-PART
+iw B-NOUN B-NOUN
+
+okwako B-NOUN B-NOUN
+ikona B-NOUN B-VERB
+
+erẽ B-PRON B-ADV
+ekoro B-NOUN B-VERB
+nõm B-ADV B-ADV
+
+kotin B-NOUN B-VERB
+, B-PUNCT B-PUNCT
+eme B-DET B-NOUN
+peka B-VERB B-VERB
+
+koro B-NOUN B-PRON
+, B-PUNCT B-PUNCT
+oerekwa B-VERB B-VERB
+
+okɨp B-NOUN B-NOUN
+atap B-NOUN B-NOUN
+erom B-ADV B-VERB
+, B-PUNCT B-PUNCT
+ke B-DET B-ADV
+kɨp B-NOUN B-ADJ
+atap B-NOUN B-AUX
+
+Karow B-PROPN B-NOUN
+, B-PUNCT B-PUNCT
+omepirẽpitet B-NOUN B-VERB
+, B-PUNCT B-PUNCT
+kwep B-VERB B-NOUN
+te B-PART B-PART
+
+ke B-DET B-ADV
+Kani B-PROPN B-VERB
+
+koni B-NOUN B-NOUN
+tʃe B-VERB B-VERB
+okɨp B-NOUN B-NOUN
+etʃe B-ADP B-VERB
+
+eboro B-NOUN B-NOUN
+etʃe B-ADP B-VERB
+
+kwako B-NOUN B-NOUN
+aj B-VERB B-VERB
+ek B-NOUN B-NOUN
+etʃe B-ADP B-VERB
+
+ek B-NOUN B-VERB
+etʃe B-ADP B-NOUN
+imaã B-VERB B-VERB
+
+teatap B-NOUN B-VERB
+nĩap B-NOUN B-AUX
+ete B-ADP B-VERB
+
+itoap B-NOUN B-NOUN
+atʃoap B-NOUN B-VERB
+ete B-ADP B-VERB
+
+aparapia B-NOUN B-NOUN
+tet B-NOUN B-VERB
+ete B-ADP B-NOUN
+? B-PUNCT B-PUNCT
+
+omapi B-NOUN B-NOUN
+ete B-ADP B-NOUN
+? B-PUNCT B-PUNCT
+
+en B-PRON B-PRON
+baj B-NOUN B-ADJ
+ete B-ADP B-VERB
+
+tekwata B-VERB B-VERB
+Buko B-PROPN B-NOUN
+ete B-ADP B-VERB
+
+omepit B-NOUN B-VERB
+tek B-NOUN B-NOUN
+pi B-NOUN B-NOUN
+tʃopa B-VERB B-VERB
+on B-PRON B-AUX
+
+ojẽ B-NOUN B-NOUN
+pi B-NOUN B-NOUN
+õkwa B-VERB B-VERB
+
+poga B-NOUN B-VERB
+pe B-NOUN B-PART
+pi B-NOUN B-NOUN
+, B-PUNCT B-PUNCT
+ameko B-NOUN B-NOUN
+ikora B-VERB B-NOUN
+tʃe B-AUX B-PART
+
+okere B-NOUN B-NOUN
+atʃi B-NOUN B-VERB
+pibõ B-NOUN B-ADP
+
+otʃipap B-NOUN B-NOUN
+tabɨtõ B-NOUN B-VERB
+ka B-VERB B-PART
+
+aparapia B-NOUN B-VERB
+kwamoa B-NOUN B-NOUN
+tekõ B-NOUN B-VERB
+
+ekõ B-NOUN B-VERB
+ka B-VERB B-SCONJ
+
+tebõ B-PRON B-VERB
+kɨte B-NUM B-ADV
+purururu B-NOUN B-NOUN
+, B-PUNCT B-PUNCT
+kebõ B-DET B-ADV
+nõm B-ADV B-VERB
+
+kojõpebõ B-NOUN B-NOUN
+kɨjtpit B-NOUN B-VERB
+at B-VERB B-AUX
+kom B-PART B-PART
+
+erape B-ADV B-NOUN
+tekwata B-VERB B-VERB
+, B-PUNCT B-PUNCT
+kɨrẽbõ B-NOUN B-NOUN
+nõm B-ADV B-VERB
+
+pabapebõ B-NOUN B-NOUN
+ɨkɨ B-NOUN B-VERB
+kiramka B-VERB B-NOUN
+en B-PRON B-VERB
+
+kɨpek B-NOUN B-NOUN
+atʃiri B-NOUN B-VERB
+aj B-VERB B-PART
+
+tawtʃeri B-NOUN B-VERB
+mia B-VERB B-NOUN
+kɨjtpit B-NOUN B-ADJ
+nõm B-ADV B-ADJ
+
+kɨrẽri B-NOUN B-ADV
+ta B-DET B-PRON
+paja B-VERB B-NOUN
+, B-PUNCT B-PUNCT
+kiwkiw B-VERB B-VERB
+
+kwena B-NOUN B-NOUN
+, B-PUNCT B-PUNCT
+tawtʃena B-NOUN B-NOUN
+, B-PUNCT B-PUNCT
+takɨrapna B-NOUN B-NOUN
+, B-PUNCT B-PUNCT
+tawpɨkna B-NOUN B-NOUN
+, B-PUNCT B-PUNCT
+tatona B-NOUN B-NOUN
+, B-PUNCT B-PUNCT
+tato B-NOUN B-NOUN
+kwakwa B-VERB B-NOUN
+, B-PUNCT B-PUNCT
+takɨrap B-NOUN B-NOUN
+kwakwa B-VERB B-NOUN
+
+imen B-NOUN B-NOUN
+iõ B-NOUN B-NOUN
+imepit B-NOUN B-VERB
+menna B-NOUN B-PART
+
+ɨkɨ B-NOUN B-NOUN
+pekã B-NOUN B-NOUN
+ana B-PART B-VERB
+
+ɨkɨ B-NOUN B-NOUN
+ata B-VERB B-NOUN
+en B-PRON B-VERB
+ɨkɨpe B-NOUN B-NOUN
+
+kɨp B-NOUN B-NOUN
+tep B-NOUN B-NOUN
+eanampe B-NOUN B-VERB
+
+tʃarimẽ B-NOUN B-NOUN
+okwaj B-NOUN B-VERB
+, B-PUNCT B-PUNCT
+tokwajet B-NOUN B-VERB
+
+mepitet B-NOUN B-VERB
+jẽ B-DET B-PART
+, B-PUNCT B-PUNCT
+jẽrom B-DET B-NOUN
+tɨrɨ B-NUM B-VERB
+
+aparapiat B-NOUN B-VERB
+kwamoa B-NOUN B-NOUN
+oirika B-VERB B-VERB
+
+te B-PRON B-PART
+aj B-NOUN B-PRON
+koa B-VERB B-NOUN
+, B-PUNCT B-PUNCT
+ajet B-NOUN B-PRON
+koa B-VERB B-PART
+
+on B-PRON B-PRON
+ikiramka B-VERB B-VERB
+, B-PUNCT B-PUNCT
+ɨkɨ B-NOUN B-NOUN
+tʃooo B-VERB B-VERB
+, B-PUNCT B-PUNCT
+kɨpitʃik B-NOUN B-VERB
+ɨkɨt B-NOUN B-NOUN
+ãka B-PART B-VERB
+
+aramĩra B-NOUN B-NOUN
+nõm B-ADV B-VERB
+, B-PUNCT B-PUNCT
+aramĩra B-NOUN B-NOUN
+, B-PUNCT B-PUNCT
+aparapia B-NOUN B-NOUN
+dow B-VERB B-NOUN
+, B-PUNCT B-PUNCT
+nako B-NOUN B-NOUN
+ata B-VERB B-NOUN
+ãka B-PART B-NOUN
+, B-PUNCT B-PUNCT
+ɨkɨ B-NOUN B-NOUN
+ape B-NOUN B-NOUN
+dow B-VERB B-NOUN
+aparapiat B-NOUN B-VERB
+
+õjpe B-NOUN B-NOUN
+pajapna B-NOUN B-VERB
+
+tʃopa B-VERB B-VERB
+te B-PART B-PART
+parãap B-NOUN B-ADJ
+
+tawtʃe B-NOUN B-NOUN
+tʃogaap B-NOUN B-VERB
+
+niam B-NOUN B-NOUN
+Tʃaruj B-PROPN B-NOUN
+imokwa B-NOUN B-VERB
+
+oiko B-NOUN B-NOUN
+tokwa B-VERB B-NOUN
+ojã B-AUX B-VERB
+
+otojẽpitin B-NOUN B-VERB
+ẽ B-DET B-PART
+tow B-NOUN B-VERB
+ẽ B-DET B-PART
+tow B-NOUN B-VERB
+ebapap B-NOUN B-NOUN
+ɨro B-NOUN B-NOUN
+tojẽpitin B-NOUN B-VERB
+
+on B-PRON B-PRON
+opoatʃo B-NOUN B-VERB
+en B-PRON B-AUX
+te B-PART B-PART
+tʃokĩn B-NOUN B-VERB
+
+Pupak B-PROPN B-NOUN
+kɨjtpitatʃo B-NOUN B-VERB
+ata B-VERB B-NOUN
+kom B-PART B-VERB
+
+ke B-DET B-ADV
+boroteatʃori B-NOUN B-NOUN
+tʃooo B-NOUN B-VERB
+, B-PUNCT B-PUNCT
+jẽrom B-DET B-NOUN
+barobaro B-NOUN B-NOUN
+
+itʃoke B-NOUN B-VERB
+tʃop B-VERB B-AUX
+en B-PRON B-VERB
+
+koa B-VERB B-NOUN
+koa B-VERB B-NOUN
+tʃoke B-NOUN B-VERB
+
+Patʃo B-PROPN B-VERB
+Patʃe B-PROPN B-NOUN
+tɨɾɨ B-NUM B-NOUN
+tajtʃi B-NOUN B-VERB
+
+Pura B-PROPN B-NOUN
+te B-PART B-PART
+kɨte B-NUM B-ADV
+
+en B-PRON B-PRON
+aramĩra B-NOUN B-VERB
+, B-PUNCT B-PUNCT
+aramĩra B-NOUN B-NOUN
+baba B-NOUN B-VERB
+
+erẽ B-PRON B-ADV
+baba B-NOUN B-NOUN
+, B-PUNCT B-PUNCT
+oerekwa B-VERB B-VERB
+
+on B-PRON B-PRON
+eni B-NOUN B-NOUN
+erepe B-VERB B-VERB
+, B-PUNCT B-PUNCT
+on B-PRON B-PRON
+terepe B-VERB B-NOUN
+
+kwiro B-NOUN B-NOUN
+, B-PUNCT B-PUNCT
+on B-PRON B-PRON
+ikɨta B-VERB B-VERB
+
+pea B-NOUN B-NOUN
+, B-PUNCT B-PUNCT
+en B-PRON B-PRON
+ipoka B-VERB B-VERB
+
+temen B-NOUN B-VERB
+tekɨjt B-NOUN B-NOUN
+ata B-VERB B-VERB
+
+en B-PRON B-PRON
+iata B-VERB B-VERB
+ka B-VERB B-SCONJ
+
+kitʃe B-PRON B-NOUN
+kɨp B-NOUN B-ADJ
+boja B-VERB B-VERB
+
+enõ B-PRON B-ADV
+kɨ B-NOUN B-ADV
+pi B-NOUN B-NOUN
+? B-PUNCT B-PUNCT
+
+orẽ B-PRON B-NOUN
+oerekwa B-VERB B-VERB
+
+kirẽbõ B-NOUN B-ADV
+kipera B-VERB B-VERB
+
+koro B-NOUN B-NOUN
+am B-NOUN B-PART
+, B-PUNCT B-PUNCT
+eme B-DET B-NOUN
+tetna B-NOUN B-VERB
+
+en B-PRON B-PRON
+ekem B-NOUN B-VERB
+kɨ B-NOUN B-ADV
+pi B-NOUN B-NOUN
+, B-PUNCT B-PUNCT
+jẽbõ B-DET B-NOUN
+nõm B-ADV B-VERB
+
+pero B-NOUN B-NOUN
+jẽrom B-DET B-VERB
+te B-PART B-PART
+aj B-VERB B-VERB
+
+Pupak B-PROPN B-VERB
+ko B-NOUN B-DET
+ata B-VERB B-NOUN
+kebõ B-DET B-VERB
+
+aʔe B-PRON B-DET
+ta B-PART B-NOUN
+ke B-PART B-ADV
+uʔuta B-VERB B-NOUN
+moj B-NOUN B-VERB
+ke B-PART B-PART
+tĩ B-PART B-VERB
+
+jane B-PRON B-ADV
+japikũj B-VERB B-NOUN
+mi B-PART B-NOUN
+? B-PUNCT B-PUNCT
+
+Mataru B-PROPN B-VERB
+ʃaʔe B-PROPN B-PART
+ke B-PART B-ADV
+nupã B-VERB B-NOUN
+tĩ B-PART B-VERB
+
+aʔe B-PRON B-DET
+tatu B-NOUN B-NOUN
+ke B-PART B-ADV
+uʔuta B-VERB B-VERB
+
+aʔe B-PRON B-DET
+ke B-PART B-ADV
+uʔuta B-VERB B-NOUN
+pɪpɪhu B-NOUN B-VERB
+ke B-PART B-ADV
+tĩ B-PART B-VERB
+
+sawaʔe B-NOUN B-NOUN
+panem B-ADJ B-ADJ
+ta B-PART B-VERB
+ke B-PART B-ADV
+upa B-DET B-VERB
+
+Tuti B-PROPN B-VERB
+ke B-PART B-ADV
+ʃaʔe B-PROPN B-NOUN
+jukwa B-VERB B-VERB
+
+taʔɪn B-NOUN B-VERB
+ukwerta B-VERB B-NOUN
+je B-PART B-PART
+tĩ B-PART B-NOUN
+, B-PUNCT B-PUNCT
+ko B-DET B-DET
+aʔi B-NOUN B-NOUN
+iháike B-NOUN B-NOUN
+piɾokhũ B-VERB B-VERB
+je B-PART B-PART
+pe B-ADV B-NOUN
+iʔaɾpe B-ADV B-NOUN
+pɪnuhũ B-VERB B-VERB
+
+ne B-PRON B-PRON
+ihẽke B-PRON B-NOUN
+remusak B-VERB B-NOUN
+ʔɪ B-AUX B-ADJ
+
+kakake B-NOUN B-NOUN
+kurumĩ B-NOUN B-NOUN
+uʔu B-VERB B-NOUN
+rahã B-SCONJ B-VERB
+aʔe B-PRON B-DET
+hãʔĩmke B-NOUN B-NOUN
+matɪr B-VERB B-ADJ
+
+Arauxu B-PROPN B-NOUN
+ahem B-VERB B-NOUN
+uhu B-ADV B-VERB
+
+a’eta B-PRON B-NOUN
+ajengar B-VERB B-VERB
+
+ihẽ B-PRON B-NOUN
+a’etake B-PRON B-NOUN
+amujengar B-VERB B-VERB
+
+a’eta B-PRON B-NOUN
+ma’e B-NOUN B-NOUN
+jukwahá B-NOUN B-NOUN
+ihẽke B-PRON B-VERB
+pe B-ADP B-PART
+me’ẽ B-VERB B-ADV
+
+Oho B-VERB B-NOUN
+uĩ B-VERB B-NOUN
+tipe B-PART B-PART
+ã B-PART B-PART
+
+aʔerehe B-ADV B-ADV
+tarũ B-PROPN B-NOUN
+neʃĩke B-PROPN B-NOUN
+joʔok B-VERB B-VERB
+
+Maiɾ B-PROPN B-NOUN
+ɪwɪke B-NOUN B-NOUN
+hapɪ B-VERB B-VERB
+
+ihẽ B-PRON B-NOUN
+narãjke B-NOUN B-NOUN
+apirok B-VERB B-VERB
+
+ihẽke B-PRON B-NOUN
+aʔar B-VERB B-VERB
+
+ihẽ B-PRON B-NOUN
+taɁɪnke B-NOUN B-VERB
+amuɁe B-VERB B-ADV
+
+ne B-PRON B-PRON
+taɁɪnke B-NOUN B-VERB
+eremuɁe B-VERB B-NOUN
+
+aʔeke B-PRON B-VERB
+uʔuta B-VERB B-NOUN
+pɪpɪhu B-NOUN B-NOUN
+ketĩ B-PART B-VERB
+
+neke B-PRON B-NOUN
+uʔike B-NOUN B-NOUN
+rekarãjta B-VERB B-VERB
+
+ihẽ B-PRON B-NOUN
+neke B-PRON B-NOUN
+akutukta B-VERB B-VERB
+
+Maírake B-PROPN B-NOUN
+wata B-VERB B-VERB
+
+Maíra B-PROPN B-NOUN
+wata B-VERB B-VERB
+
+Anake B-PROPN B-NOUN
+heɁõɁɪ B-NOUN B-VERB
+
+aʔeke B-PRON B-VERB
+ipɪke B-NOUN B-NOUN
+tukwa B-VERB B-VERB
+
+aʔeke B-PRON B-NOUN
+ehake B-NOUN B-NOUN
+tukwatĩ B-VERB B-VERB
+
+mɪra B-NOUN B-NOUN
+pirerke B-NOUN B-VERB
+teʔe B-ADV B-ADV
+pirawan B-NOUN B-NOUN
+muwak B-VERB B-VERB
+
+ihẽke B-PRON B-NOUN
+ajumukahem B-VERB B-VERB
+
+ne B-PRON B-PRON
+ihẽ B-PRON B-NOUN
+miʔuke B-NOUN B-NOUN
+reʔutĩ B-VERB B-VERB
+
+apo B-ADV B-NOUN
+pehẽ B-PRON B-NOUN
+ihẽke B-PRON B-NOUN
+peharõta B-VERB B-VERB
+
+aʔe B-PRON B-DET
+ʔokke B-NOUN B-NOUN
+mujã B-VERB B-VERB
+
+ihẽ B-PRON B-NOUN
+ʔok B-NOUN B-NOUN
+amujã B-VERB B-VERB
+
+ihẽke B-PRON B-NOUN
+uʔi B-NOUN B-NOUN
+akarãj B-VERB B-VERB
+
+neke B-PRON B-NOUN
+uʔike B-NOUN B-NOUN
+rekarãjta B-VERB B-VERB
+
+Oropo B-PROPN B-VERB
+huʔɨ B-NOUN B-NOUN
+pɨhɨk B-VERB B-VERB
+
+ajameʔẽ B-ADV B-NOUN
+ke B-PART B-ADV
+Urupe B-PROPN B-NOUN
+jeʔẽha B-NOUN B-VERB
+mondo B-VERB B-NOUN
+tĩ B-ADV B-VERB
+
+pe B-CCONJ B-NOUN
+kamarar B-NOUN B-NOUN
+jarusu B-NOUN B-NOUN
+raʔɪr B-NOUN B-NOUN
+raho B-VERB B-NOUN
+
+Tapiʔir B-NOUN B-NOUN
+ujan B-VERB B-VERB
+
+Tɪapu B-NOUN B-VERB
+riki B-PART B-NOUN
+
+Tuktuktuk B-NOUN B-NOUN
+aja B-ADV B-VERB
+riki B-PART B-NOUN
+
+Tapiʔir B-NOUN B-VERB
+ujan B-VERB B-NOUN
+oho B-VERB B-VERB
+
+Pe B-ADV B-INTJ
+, B-PUNCT B-PUNCT
+taʔɪrer B-NOUN B-NOUN
+ujan B-VERB B-VERB
+
+Pe B-ADV B-INTJ
+, B-PUNCT B-PUNCT
+ihẽ B-PRON B-NOUN
+asak B-VERB B-VERB
+
+Pe B-ADV B-INTJ
+, B-PUNCT B-PUNCT
+imãi B-NOUN B-NOUN
+ihĩ B-VERB B-VERB
+
+Pe B-ADV B-INTJ
+, B-PUNCT B-PUNCT
+ihẽ B-PRON B-NOUN
+ajapi B-VERB B-NOUN
+indo B-NOUN B-VERB
+
+Xõru B-PROPN B-NOUN
+nixói B-VERB B-NOUN
+se B-NOUN B-PART
+aʔe B-PRON B-PART
+
+Peteĩ B-PRON B-VERB
+Xõru B-PROPN B-NOUN
+jahy B-NOUN B-VERB
+kanim B-VERB B-ADV
+oho B-VERB B-VERB
+
+Arahã B-ADV B-VERB
+maʔe B-NOUN B-NOUN
+Kaninde B-PROPN B-NOUN
+rehe B-ADP B-ADP
+ihẽ B-PRON B-NOUN
+araho B-VERB B-VERB
+
+mahem B-VERB B-ADV
+arapuha B-NOUN B-NOUN
+himiʔu B-NOUN B-NOUN
+oho B-AUX B-VERB
+
+ne B-PRON B-PRON
+ihẽke B-PRON B-NOUN
+renupã B-VERB B-VERB
+rahã B-SCONJ B-PART
+ihẽ B-PRON B-NOUN
+ahota B-VERB B-VERB
+
+pɪnupɪnuate B-VERB B-NOUN
+ehe B-ADP B-VERB
+je B-PART B-PART
+
+pe B-ADV B-NOUN
+oho B-VERB B-NOUN
+je B-PART B-PART
+tĩ B-ADV B-VERB
+
+panduʔɪmanu B-VERB B-NOUN
+taʔɪn B-NOUN B-VERB
+je B-PART B-AUX
+tĩ B-ADV B-VERB
+
+karai B-NOUN B-NOUN
+riki B-ADV B-NOUN
+muka B-NOUN B-NOUN
+mopok B-VERB B-VERB
+
+neke B-PRON B-NOUN
+ihẽ B-PRON B-NOUN
+remupuʔam B-VERB B-NOUN
+ʔɪ B-AUX B-ADJ
+
+ihẽ B-PRON B-NOUN
+neke B-PRON B-NOUN
+apɪhɪk B-VERB B-NOUN
+ʔɪ B-AUX B-ADJ
+
+aʔe B-PRON B-DET
+ikɪke B-NOUN B-NOUN
+jiʔok B-VERB B-VERB
+
+ihẽ B-PRON B-NOUN
+ikɪ B-NOUN B-NOUN
+ajiʔok B-VERB B-VERB
+ʔɪ B-AUX B-ADJ
+
+taʔin B-NOUN B-VERB
+hokwenke B-NOUN B-NOUN
+nupã B-VERB B-NOUN
+uʔam B-ADV B-VERB
+
+Purutuke B-PROPN B-NOUN
+ahem B-VERB B-VERB
+
+Purutu B-PROPN B-PROPN
+ahem B-VERB B-VERB
+
+taʔɪnke B-NOUN B-VERB
+itawa B-NOUN B-NOUN
+imu B-NOUN B-NOUN
+parahɪahɪ B-VERB B-NOUN
+ipe B-PRON B-NOUN
+je B-PART B-PART
+
+netawate B-VERB B-NOUN
+nekeã B-PRON B-NOUN
+nejɪtɪʔɪmte B-VERB B-VERB
+amõ B-ADV B-PRON
+ʔɪ B-PART B-ADJ
+
+pe B-ADV B-PART
+imu B-NOUN B-NOUN
+uʔɪ B-NOUN B-NOUN
+raʔɪr B-NOUN B-NOUN
+mujã B-VERB B-VERB
+ipe B-PRON B-NOUN
+je B-PART B-PART
+uʔɪ B-NOUN B-NOUN
+sepetu B-NOUN B-NOUN
+ɪrapar B-NOUN B-NOUN
+raʔɪr B-NOUN B-VERB
+
+pe B-ADV B-NOUN
+aʔi B-NOUN B-NOUN
+ai B-NOUN B-NOUN
+tur B-VERB B-VERB
+je B-PART B-PART
+tĩ B-ADV B-VERB
+
+pe B-ADV B-PART
+saʔe B-NOUN B-NOUN
+aʔi B-NOUN B-NOUN
+ihái B-NOUN B-NOUN
+ʃirurke B-NOUN B-NOUN
+pirokhũ B-VERB B-NOUN
+je B-PART B-PART
+ihai B-NOUN B-NOUN
+aike B-NOUN B-VERB
+
+ɪmante B-ADV B-NOUN
+pe B-ADV B-NOUN
+aʔike B-NOUN B-VERB
+manõ B-VERB B-NOUN
+je‘ɪ B-PART B-VERB
+
+kujãtake B-NOUN B-VERB
+upa B-PART B-PART
+mupinim B-VERB B-NOUN
+
+ko B-ADV B-DET
+ihē B-PRON B-NOUN
+paper B-NOUN B-ADP
+pinim B-NOUN B-NOUN
+amuwɪr B-VERB B-VERB
+nde B-PRON B-ADV
+pe B-ADP B-PART
+
+ne B-DET B-PRON
+raʔɪr B-NOUN B-NOUN
+ihē B-PRON B-NOUN
+apɪhɪk B-VERB B-VERB
+aʃo B-AUX B-PART
+
+pe B-CCONJ B-NOUN
+riki B-ADV B-NOUN
+katar B-NOUN B-ADJ
+ngã B-PRON B-NOUN
+muhɪk B-VERB B-VERB
+
+pe B-CCONJ B-NOUN
+taramō B-ADV B-NOUN
+kaitā B-PROPN B-NOUN
+juʔipape B-NOUN B-NOUN
+piʔa B-NOUN B-NOUN
+usak B-VERB B-NOUN
+oho B-VERB B-NOUN
+tī B-ADV B-NOUN
+pɪtuniwe B-ADV B-NOUN
+
+pahar B-ADV B-NOUN
+pahar B-ADV B-VERB
+je B-PART B-PART
+kɪse B-NOUN B-ADV
+meʔē B-VERB B-NOUN
+ngā B-PRON B-ADJ
+
+ihē B-PRON B-NOUN
+ndeke B-PRON B-NOUN
+araho B-VERB B-NOUN
+tar B-VERB B-VERB
+katu B-ADV B-NOUN
+tipe B-PART B-NOUN
+
+uʔike B-NOUN B-NOUN
+wiraʔi B-PRON B-NOUN
+take B-PRON B-VERB
+uʔu B-VERB B-NOUN
+ɪm B-PART B-ADJ
+
+ihē B-PRON B-NOUN
+rãi B-NOUN B-NOUN
+ihē B-PRON B-NOUN
+amoīta B-VERB B-VERB
+tipe B-PART B-PART
+
+pāsɪkwer B-NOUN B-NOUN
+riki B-ADV B-NOUN
+matɪr B-VERB B-NOUN
+uhu B-ADV B-NOUN
+ngā B-PRON B-NOUN
+ipe B-ADP B-NOUN
+
+ihē B-PRON B-NOUN
+ahota B-VERB B-NOUN
+asak B-VERB B-VERB
+
+ko B-ADV B-DET
+riki B-ADP B-NOUN
+ihē B-PRON B-NOUN
+ahɪk B-VERB B-VERB
+ajur B-VERB B-NOUN
+jarupa B-NOUN B-NOUN
+rehe B-ADP B-ADP
+
+pe B-CCONJ B-NOUN
+ɪ B-NOUN B-ADJ
+rɪmɪʔɪ B-NOUN B-VERB
+rehe B-ADP B-ADP
+riki B-ADP B-NOUN
+kamarar B-PROPN B-VERB
+ta B-PRON B-PART
+pirer B-NOUN B-NOUN
+pirā B-NOUN B-NOUN
+
+Kito B-NOUN B-VERB
+nãkowut B-NOUN B-NOUN
+moat B-NOUN B-VERB
+xauwet B-NOUN B-NOUN
+moke B-NOUN B-VERB
+kepit B-CCONJ B-AUX
+xagara B-VERB B-VERB
+
+ngot B-NOUN B-NOUN
+xiaret B-NOUN B-VERB
+
+yãn B-ADV B-VERB
+oxepngoret B-NOUN B-VERB
+oerã B-VERB B-NOUN
+kepit B-CCONJ B-ADJ
+eta B-VERB B-VERB
+on B-PRON B-AUX
+toa B-VERB B-VERB
+
+xeke B-PRON B-NOUN
+xēke B-PART B-VERB
+ke B-PART B-ADV
+
+etera B-VERB B-NOUN
+kurux B-VERB B-NOUN
+amang B-VERB B-NOUN
+ngot B-NOUN B-NOUN
+keya B-VERB B-VERB
+pīxe B-ADV B-NOUN
+
+mokat B-ADV B-NOUN
+etera B-VERB B-VERB
+kurux B-VERB B-NOUN
+amang B-VERB B-NOUN
+pīxe B-ADV B-VERB
+
+ã B-INTJ B-PART
+en B-PRON B-PRON
+emẽ B-DET B-NOUN
+xop B-DET B-NOUN
+nẽnẽkaret B-NOUN B-VERB
+
+woaret B-NOUN B-VERB
+koa B-PART B-PART
+
+etxekup B-NOUN B-NOUN
+keya B-VERB B-VERB
+
+opũãtemwã B-VERB B-NOUN
+ota B-AUX B-VERB
+
+mokat B-ADV B-VERB
+etera B-VERB B-NOUN
+kurux B-VERB B-NOUN
+
+nãpẽrenã B-ADV B-NOUN
+kito B-NOUN B-VERB
+eapītera B-VERB B-NOUN
+pīxe B-AUX B-VERB
+
+op B-ADV B-NOUN
+ten B-VERB B-VERB
+eya B-PART B-VERB
+õn B-PRON B-PRON
+
+xop B-DET B-NOUN
+ten B-VERB B-VERB
+eya B-PART B-VERB
+on B-PRON B-AUX
+ke B-PART B-ADV
+
+mawo B-NOUN B-NOUN
+papīknga B-VERB B-NOUN
+mokat B-ADV B-NOUN
+etyenkuax B-NOUN B-VERB
+nã B-VERB B-ADV
+xoknga B-VERB B-NOUN
+xok B-VERB B-VERB
+
+yeman B-ADV B-VERB
+ngot B-NOUN B-NOUN
+kana B-VERB B-NOUN
+oen B-VERB B-VERB
+
+mokat B-ADV B-NOUN
+etera B-VERB B-VERB
+korop B-VERB B-NOUN
+noa B-NOUN B-VERB
+pe B-ADP B-PART
+
+ama B-ADV B-NOUN
+ngot B-NOUN B-VERB
+xiaret B-NOUN B-NOUN
+eya B-VERB B-VERB
+kurux B-VERB B-NOUN
+amang B-VERB B-NOUN
+ngot B-NOUN B-NOUN
+oen B-VERB B-VERB
+wimõ B-ADV B-ADV
+nitēt B-PART B-VERB
+
+arimot B-NOUN B-VERB
+urot B-NOUN B-NOUN
+arimot B-NOUN B-VERB
+urot B-NOUN B-VERB
+
+xop B-DET B-NOUN
+koa B-PART B-NOUN
+ten B-ADV B-VERB
+nã B-VERB B-AUX
+peka B-VERB B-VERB
+
+i B-INTJ B-NOUN
+eya B-PART B-VERB
+on B-PRON B-PRON
+wet B-ADV B-AUX
+toa B-VERB B-VERB
+ke B-PART B-ADV
+pit B-ADV B-PART
+
+mokat B-ADV B-VERB
+peitõã B-ADV B-NOUN
+etera B-VERB B-VERB
+amang B-VERB B-NOUN
+korop B-VERB B-NOUN
+kux B-NOUN B-NOUN
+me B-ADP B-ADJ
+
+wotye B-VERB B-VERB
+pukpuga B-VERB B-NOUN
+pit B-PRON B-ADJ
+
+putorot B-NOUN B-NOUN
+xēke B-PART B-VERB
+ke B-PART B-ADV
+xēt B-PART B-VERB
+
+etera B-VERB B-NOUN
+korop B-VERB B-VERB
+
+kito B-NOUN B-NOUN
+moke B-NOUN B-VERB
+xiat B-NOUN B-NOUN
+ekuwaora B-VERB B-VERB
+kepit B-CCONJ B-NOUN
+pukpuga B-VERB B-VERB
+õn B-PRON B-PRON
+
+kepit B-CCONJ B-NOUN
+eya B-PART B-VERB
+õn B-PRON B-PRON
+waokatmõ B-ADV B-VERB
+papiknga B-VERB B-VERB
+ke B-PART B-ADV
+
+ama B-NOUN B-NOUN
+etera B-VERB B-NOUN
+kurux B-VERB B-VERB
+
+xop B-DET B-VERB
+me B-ADP B-NOUN
+pote B-ADV B-NOUN
+worawiget B-NOUN B-VERB
+xop B-DET B-NOUN
+me B-ADP B-ADJ
+
+kux B-NOUN B-NOUN
+kixa B-VERB B-VERB
+ngarap B-VERB B-NOUN
+, B-PUNCT B-PUNCT
+pit B-PRON B-ADJ
+
+põrom B-ADV B-NOUN
+toa B-VERB B-VERB
+, B-PUNCT B-PUNCT
+pit B-PRON B-ADJ
+
+Ajojot B-NOUN B-VERB
+jekobe B-NOUN B-NOUN
+be B-ADP B-PART
+cum B-VERB B-NOUN
+
+jexat B-NOUN B-NOUN
+o'tobuxik B-VERB B-VERB
+
+Tit B-NOUN B-NOUN
+tak B-ADV B-NOUN
+o'titobuxik B-VERB B-VERB
+tu B-PART B-NOUN
+? B-PUNCT B-PUNCT
+
+Ka'ũma B-INTJ B-INTJ
+! B-PUNCT B-PUNCT
+
+Ka'ũma B-INTJ B-INTJ
+! B-PUNCT B-PUNCT
+
+Tawe B-NOUN B-NOUN
+oajẽm B-VERB B-NOUN
+iku B-NOUN B-VERB
+be B-ADP B-PART
+
+Jexat B-NOUN B-VERB
+o'tobuxik B-VERB B-NOUN
+iku B-NOUN B-VERB
+be B-ADP B-PART
+
+Xa B-NOUN B-NOUN
+iku B-NOUN B-VERB
+xe B-ADP B-PART
+
+Tawe B-NOUN B-NOUN
+oajẽm B-VERB B-VERB
+xa B-NOUN B-PART
+xe B-ADP B-PART
+
+Tawe B-NOUN B-NOUN
+oajẽm B-VERB B-VERB
+ka B-NOUN B-NOUN
+xe B-ADP B-PART
+
+Toxaw B-NOUN B-NOUN
+oajẽm B-VERB B-VERB
+ka B-NOUN B-SCONJ
+be B-ADP B-AUX
+
+Toxaw B-NOUN B-VERB
+dak B-ADV B-PART
+jexat B-NOUN B-NOUN
+o'tobuxik B-VERB B-VERB
+
+Toxaw B-NOUN B-NOUN
+tawe B-NOUN B-NOUN
+o'tobuxik B-VERB B-VERB
+
+Xa B-NOUN B-PRON
+xe B-ADP B-PART
+tawe B-NOUN B-NOUN
+o'tobuxik B-VERB B-VERB
+
+Ikibit B-NOUN B-NOUN
+awi B-NOUN B-VERB
+kay B-ADP B-AUX
+
+Awawa B-NOUN B-VERB
+oajẽm B-VERB B-NOUN
+ika B-NOUN B-VERB
+be B-ADP B-PART
+, B-PUNCT B-PUNCT
+jekibit B-NOUN B-NOUN
+ka B-NOUN B-NOUN
+be B-ADP B-PART
+
+Awi B-NOUN B-NOUN
+awawa B-NOUN B-NOUN
+bubut B-VERB B-NOUN
+
+Ite B-PRON B-NOUN
+awi B-NOUN B-NOUN
+o'tobuxik B-VERB B-VERB
+
+Awawa B-NOUN B-NOUN
+o'tobuxik B-VERB B-VERB
+
+Toxaw B-NOUN B-VERB
+tawe B-NOUN B-ADV
+o'tobuxik B-VERB B-NOUN
+tu B-PART B-NOUN
+? B-PUNCT B-PUNCT
+
+Abu B-PRON B-NOUN
+tawe B-NOUN B-NOUN
+o'tobuxik B-VERB B-VERB
+? B-PUNCT B-PUNCT
+
+Abu B-PRON B-NOUN
+awi B-NOUN B-NOUN
+o'tobuxik B-VERB B-VERB
+? B-PUNCT B-PUNCT
+
+Abu B-PRON B-NOUN
+jexat B-NOUN B-VERB
+o'tobuxik B-VERB B-NOUN
+? B-PUNCT B-PUNCT
+
+Abu B-PRON B-NOUN
+awi B-NOUN B-NOUN
+kay B-ADP B-AUX
+? B-PUNCT B-PUNCT
+
+Abu B-PRON B-NOUN
+o'titobuxik B-VERB B-VERB
+? B-PUNCT B-PUNCT
+
+Awawa B-NOUN B-VERB
+awi B-NOUN B-NOUN
+o'tobuxik B-VERB B-NOUN
+jekibit B-NOUN B-VERB
+ka B-NOUN B-SCONJ
+be B-ADP B-AUX
+
+Oexe B-VERB B-NOUN
+awawa B-NOUN B-VERB
+
+Toxaw B-NOUN B-NOUN
+dak B-ADV B-NOUN
+oexe B-VERB B-VERB
+
+Awawa B-NOUN B-VERB
+tawe B-NOUN B-ADV
+kay B-ADP B-AUX
+
+Toxaw B-NOUN B-NOUN
+tawe B-NOUN B-NOUN
+o'tobuxik B-VERB B-VERB
+
+Jexat B-NOUN B-NOUN
+o'tobuxik B-VERB B-VERB
+
+Tawe B-NOUN B-NOUN
+ixat B-NOUN B-VERB
+, B-PUNCT B-PUNCT
+toxaw B-NOUN B-NOUN
+xat B-NOUN B-PART
+
+Awawa B-NOUN B-NOUN
+ixaxet B-NOUN B-VERB
+
+Awawa B-NOUN B-NOUN
+ixiwe B-NOUN B-VERB
+kay B-ADP B-AUX
+
+Ixiwe B-NOUN B-VERB
+ako B-NOUN B-DET
+xe B-ADP B-PART
+
+Awawa B-NOUN B-VERB
+cum B-VERB B-NOUN
+ako B-NOUN B-DET
+xe B-ADP B-PART
+
+Ixiwe B-NOUN B-NOUN
+o'tobuxik B-VERB B-VERB
+ako B-NOUN B-DET
+xe B-ADP B-PART
+
+cum B-VERB B-NOUN
+jeku B-NOUN B-VERB
+be B-ADP B-PART
+
+Awawa B-NOUN B-NOUN
+jeku B-NOUN B-VERB
+be B-ADP B-PART
+oajẽm B-VERB B-VERB
+
+Akoba B-NOUN B-NOUN
+iku B-NOUN B-VERB
+be B-ADP B-PART
+opop B-VERB B-AUX
+. B-PUNCT B-PUNCT
+
+Tit B-NOUN B-NOUN
+tak B-ADV B-VERB
+iku B-NOUN B-NOUN
+be B-ADP B-PART
+opop B-VERB B-NOUN
+, B-PUNCT B-PUNCT
+awawa B-NOUN B-NOUN
+ku B-NOUN B-NOUN
+be B-ADP B-PART
+. B-PUNCT B-PUNCT
+
+Ixi B-NOUN B-VERB
+uk B-NOUN B-NOUN
+'a B-NOUN B-PART
+be B-ADP B-AUX
+
+I'it B-NOUN B-VERB
+tak B-ADV B-NOUN
+uk'a B-NOUN B-VERB
+be B-ADP B-AUX
+
+Toxaw B-NOUN B-NOUN
+oexe B-VERB B-VERB
+
+I'it B-NOUN B-VERB
+wa B-VERB B-AUX
+du B-PART B-NOUN
+? B-PUNCT B-PUNCT
+
+Toxaw B-NOUN B-NOUN
+i'it B-NOUN B-NOUN
+o'tobuxik B-VERB B-VERB
+uk B-NOUN B-NOUN
+'a B-NOUN B-PART
+be B-ADP B-PART
+. B-PUNCT B-PUNCT
+
+I'it B-NOUN B-NOUN
+ixet B-VERB B-VERB
+
+Ixi B-NOUN B-VERB
+wa'e B-NOUN B-ADV
+kug̃ B-VERB B-NOUN
+
+Wa'e B-NOUN B-PROPN
+ibubut B-NOUN B-NOUN
+, B-PUNCT B-PUNCT
+ixi B-NOUN B-NOUN
+bubut B-NOUN B-NOUN
+
+Wexik B-NOUN B-VERB
+'a B-NOUN B-AUX
+kake B-VERB B-VERB
+wa'e B-NOUN B-SCONJ
+be B-ADP B-AUX
+
+Ixat B-NOUN B-VERB
+'a B-NOUN B-PART
+kake B-VERB B-ADV
+wa'e B-NOUN B-AUX
+be B-ADP B-PART
+, B-PUNCT B-PUNCT
+uk'a B-NOUN B-VERB
+be B-ADP B-AUX
+
+Wa'e B-NOUN B-PROPN
+uk'a B-NOUN B-NOUN
+be B-ADP B-PART
+opop B-VERB B-VERB
+
+puybit B-NOUN B-NOUN
+ka'ũmg̃u B-VERB B-VERB
+o'e B-VERB B-AUX
+
+ag̃okatkat B-NOUN B-VERB
+o'ju B-VERB B-NOUN
+puybit B-NOUN B-NOUN
+aokam B-VERB B-VERB
+
+oexexe B-VERB B-VERB
+ip B-PART B-NOUN
+uk B-NOUN B-NOUN
+'a B-NOUN B-PART
+be B-ADP B-ADP
+puybit B-NOUN B-VERB
+kukug̃ B-VERB B-VERB
+
+Daje B-NOUN B-VERB
+ade B-PRON B-PART
+o'yaoka B-VERB B-VERB
+ip B-PART B-NOUN
+pima B-ADP B-VERB
+, B-PUNCT B-PUNCT
+puybit B-NOUN B-NOUN
+kuka B-X B-VERB
+o'e B-VERB B-AUX
+ade B-PRON B-PART
+
+Soat B-PRON B-PRON
+bekitkit B-NOUN B-NOUN
+ibeg̃beg̃ B-ADJ B-VERB
+o'e B-VERB B-SCONJ
+ade B-PRON B-AUX
+puybit B-NOUN B-VERB
+puye B-ADP B-NOUN
+
+Kabiam B-ADV B-NOUN
+doa B-NOUN B-VERB
+iba'orere B-ADJ B-NOUN
+jedoti B-NOUN B-NOUN
+mug̃ẽg̃ẽm B-VERB B-NOUN
+daxa B-NOUN B-VERB
+xe B-ADP B-PART
+
+Karosakaybu B-PROPN B-VERB
+daje B-NOUN B-NOUN
+o'g̃uju B-VERB B-VERB
+, B-PUNCT B-PUNCT
+tacup B-VERB B-NOUN
+puye B-SCONJ B-NOUN
+ip B-PART B-NOUN
+. B-PUNCT B-PUNCT
+
+pariwat B-NOUN B-NOUN
+tomuwã B-VERB B-VERB
+buje B-ADV B-NOUN
+juy B-PART B-NOUN
+puybit B-NOUN B-VERB
+ejomõg̃ B-VERB B-NOUN
+mesa B-NOUN B-VERB
+jeje B-ADP B-PART
+
+kabido B-NOUN B-NOUN
+xixi B-NOUN B-NOUN
+ajẽm B-VERB B-ADJ
+puje B-ADP B-VERB
+soat B-PRON B-PRON
+o'at B-VERB B-AUX
+
+taxit B-NOUN B-NOUN
+mẽnpit B-CCONJ B-VERB
+ikukpin'ũm B-NOUN B-NOUN
+osunuy B-X B-VERB
+ag̃okatkat B-NOUN B-VERB
+pe B-ADP B-PART
+, B-PUNCT B-PUNCT
+i'e'em B-VERB B-NOUN
+ajojoyũ'ũm'ũm B-NOUN B-VERB
+
+wexik'a B-NOUN B-VERB
+kake B-AUX B-PART
+ixi B-NOUN B-NOUN
+duk'a B-NOUN B-VERB
+be B-ADP B-PART
+
+oxi B-NOUN B-VERB
+uk B-NOUN B-NOUN
+‘a B-NOUN B-NOUN
+be B-ADP B-ADJ
+
+wida B-NOUN B-NOUN
+ayacat B-NOUN B-VERB
+o’yaoka B-VERB B-NOUN
+Katõ B-PROPN B-VERB
+be B-ADP B-AUX
+
+wetabut B-VERB B-VERB
+pe B-ADP B-PART
+obure B-NOUN B-NOUN
+Wida B-NOUN B-NOUN
+o'yaoka B-VERB B-VERB
+
+bekicat B-NOUN B-NOUN
+o'akõm B-VERB B-NOUN
+wetabut B-VERB B-VERB
+pe B-ADP B-PART
+
+ẽn B-PRON B-PRON
+eg̃ũm B-VERB B-VERB
+kise B-NOUN B-NOUN
+ayacat B-NOUN B-VERB
+pe B-ADP B-PART
+
+puy B-NOUN B-NOUN
+bu B-NOUN B-VERB
+bekicat B-NOUN B-NOUN
+o'joa B-VERB B-VERB
+
+õn B-PRON B-PRON
+bekicat B-NOUN B-NOUN
+ojoaat B-VERB B-VERB
+puy B-NOUN B-NOUN
+bu B-NOUN B-VERB
+be B-ADP B-AUX
+
+wida B-NOUN B-VERB
+ayacat'ũm B-NOUN B-NOUN
+o'yaoka B-VERB B-VERB
+
+wekobe B-NOUN B-NOUN
+wita B-NOUN B-VERB
+'a B-NOUN B-SCONJ
+kay B-ADP B-AUX
+og̃uyjayjay B-VERB B-VERB
+
+oxi B-NOUN B-NOUN
+eg̃ru B-NOUN B-VERB
+ipi B-NOUN B-NOUN
+tẽg̃ B-ADP B-VERB
+
+o'xet B-VERB B-VERB
+io'e B-VERB B-NOUN
+xiri B-NOUN B-NOUN
+xe B-ADP B-PART
+
+ixe B-PRON B-NOUN
+iẽn B-NOUN B-NOUN
+'o'om B-VERB B-VERB
+kaw B-NOUN B-AUX
+ta B-NOUN B-NOUN
+eju B-ADP B-VERB
+
+puybit B-NOUN B-NOUN
+kug̃ B-ADP B-NOUN
+o'ju B-VERB B-VERB
+bio B-NOUN B-NOUN
+kug̃ B-ADP B-NOUN
+, B-PUNCT B-PUNCT
+dapsem B-NOUN B-NOUN
+kug̃ B-ADP B-NOUN
+
+xa B-NOUN B-NOUN
+diot B-NOUN B-VERB
+pe B-ADP B-PART
+o'xet B-VERB B-VERB
+
+wexey B-NOUN B-VERB
+bi B-ADP B-NOUN
+wida B-NOUN B-VERB
+biopak B-NOUN B-NOUN
+o'yaoka B-VERB B-VERB
+
+kat B-NOUN B-NOUN
+pujeat B-NOUN B-NOUN
+ocemudirem B-VERB B-VERB
+
+ag̃okatkat B-NOUN B-VERB
+bio B-NOUN B-NOUN
+dakat B-VERB B-VERB
+puje B-ADP B-NOUN
+bekicat B-NOUN B-NOUN
+o'suẽn'o B-VERB B-VERB
+
+ey'at B-VERB B-VERB
+pima B-ADP B-NOUN
+ocewayway B-VERB B-VERB
+jĩjã B-ADV B-VERB
+
+ixem B-PRON B-NOUN
+õn B-PRON B-PRON
+wetaybit B-VERB B-VERB
+g̃u B-PART B-VERB
+ojojo B-VERB B-NOUN
+g̃u B-PART B-VERB
+ma B-ADV B-NOUN
+buye B-SCONJ B-VERB
+
+ag̃okatkat B-NOUN B-VERB
+bio B-NOUN B-NOUN
+aoka B-VERB B-VERB
+buje B-SCONJ B-NOUN
+wida B-NOUN B-NOUN
+o'jenapõn B-VERB B-VERB
+
+ejot B-VERB B-VERB
+cuy B-PART B-NOUN
+, B-PUNCT B-PUNCT
+muto'o B-NOUN B-NOUN
+bima B-ADP B-VERB
+, B-PUNCT B-PUNCT
+kaxi B-NOUN B-NOUN
+wuyase B-ADP B-NOUN
+bima B-ADP B-VERB
+
+pug̃ B-NUM B-NOUN
+em B-ADP B-VERB
+o'e B-VERB B-AUX
+jeebay B-NOUN B-VERB
+be B-ADP B-AUX
+
+jeorokap B-NOUN B-VERB
+wap B-ADP B-AUX
+ip B-PRON B-NOUN
+o'ju B-VERB B-VERB
+
+ag̃okatkat B-NOUN B-VERB
+itakomã B-VERB B-NOUN
+jijã B-ADV B-ADV
+o'e B-AUX B-NOUN
+wida B-NOUN B-VERB
+buxim B-ADP B-NOUN
+
+kobe B-NOUN B-NOUN
+xixi B-NOUN B-NOUN
+badi B-ADV B-NOUN
+wi B-ADP B-ADP
+o'jebuk B-VERB B-VERB
+
+Kog̃ũnpi B-NOUN B-VERB
+be B-ADP B-PART
+okapap B-NOUN B-AUX
+kabuk B-NOUN B-NOUN
+opop B-AUX B-VERB
+
+Jeorog̃ B-VERB B-VERB
+ip B-PART B-NOUN
+cum B-VERB B-NOUN
+kapusu B-ADV B-NOUN
+daje B-NOUN B-NOUN
+aoka B-VERB B-NOUN
+ojuyiap B-NOUN B-VERB
+tag̃ B-ADP B-PART
+
+Kapusu B-ADV B-VERB
+dapsem B-NOUN B-NOUN
+o'yaokaiat B-NOUN B-NOUN
+g̃oku B-DET B-VERB
+, B-PUNCT B-PUNCT
+Katõ B-PROPN B-PROPN
+bewi B-ADP B-NOUN
+oajẽmiat B-NOUN B-VERB
+
+Soat B-PRON B-PRON
+ip B-PART B-NOUN
+o'g̃u'ũm B-VERB B-NOUN
+iwipat B-NOUN B-VERB
+
+wamõat B-NOUN B-VERB
+ag̃okatkat B-NOUN B-AUX
+o'sutayxida B-VERB B-VERB
+
+õn B-PRON B-PRON
+ag̃okatkat B-NOUN B-VERB
+o'sutayxidaat B-VERB B-VERB
+wamõat B-NOUN B-VERB
+pe B-ADP B-PART
+
+ag̃okatkat B-NOUN B-VERB
+o'jetayxidaat B-VERB B-AUX
+wamõat B-NOUN B-VERB
+pe B-ADP B-PART
+
+wida B-NOUN B-NOUN
+o'jeaokaat B-VERB B-VERB
+ag̃okatkat B-NOUN B-VERB
+pe B-ADP B-PART
+
+ceebay B-NOUN B-VERB
+icokcok B-NOUN B-NOUN
+cicã B-ADV B-NOUN
+idip B-NOUN B-NOUN
+cicã B-ADV B-NOUN
+buye B-CCONJ B-NOUN
+bekicat B-NOUN B-NOUN
+yadappek B-NOUN B-VERB
+
+ipi B-NOUN B-NOUN
+teg̃ B-ADP B-NOUN
+kaxi B-NOUN B-VERB
+bima B-SCONJ B-NOUN
+o'taxadig̃curug̃ B-VERB B-VERB
+
+Kapusu B-ADV B-VERB
+oajẽm B-VERB B-NOUN
+owag̃o B-NOUN B-VERB
+duk'a B-NOUN B-NOUN
+be B-ADP B-PART
+
+Ag̃okatkat B-NOUN B-VERB
+acã B-ADV B-PART
+cũg̃'i B-X B-NOUN
+osunuy B-AUX B-VERB
+sũg̃tabi B-NOUN B-NOUN
+eju B-ADP B-NOUN
+g̃axĩn B-ADV B-VERB
+ma B-PART B-NOUN
+oajẽm B-VERB B-NOUN
+puye B-ADP B-VERB
+
+Wuy'adapmude'o'onapti B-NOUN B-VERB
+dak B-ADV B-NOUN
+otibu B-VERB B-VERB
+
+Eg̃uycũg̃ B-NOUN B-NOUN
+pimap B-SCONJ B-NOUN
+, B-PUNCT B-PUNCT
+ecepe B-VERB B-NOUN
+eg̃rũ B-NOUN B-VERB
+be B-ADP B-PART
+
+Puybit B-NOUN B-PROPN
+aoka'ũm B-VERB B-NOUN
+pima B-SCONJ B-VERB
+, B-PUNCT B-PUNCT
+irere B-NOUN B-NOUN
+jeedop B-VERB B-VERB
+ip B-PART B-NOUN
+
+Kapusu B-ADV B-VERB
+dapsem B-NOUN B-NOUN
+o'yaokaiat B-NOUN B-VERB
+g̃oku B-DET B-VERB
+
+xepxep B-NUM B-NOUN
+pa B-NOUN B-NOUN
+akoba B-NOUN B-NOUN
+o'suba'o B-VERB B-VERB
+
+xek B-NOUN B-NOUN
+pu B-NOUN B-NOUN
+o'subumõg̃mõg̃ B-VERB B-NOUN
+wita B-NOUN B-VERB
+'a B-NOUN B-SCONJ
+be B-ADP B-AUX
+
+Uk'a B-NOUN B-NOUN
+yadip B-NOUN B-ADJ
+o'yanuy B-AUX B-VERB
+
+kapedi B-NOUN B-NOUN
+tidaxip B-NOUN B-VERB
+
+ebubut B-NOUN B-VERB
+pupum B-VERB B-NOUN
+tu B-PART B-NOUN
+epesot B-VERB B-VERB
+? B-PUNCT B-PUNCT
+
+Ag̃okatkayũ B-NOUN B-NOUN
+axĩma B-NOUN B-VERB
+muyuhum B-VERB B-ADV
+idibi B-NOUN B-NOUN
+tag̃ B-ADP B-VERB
+. B-PUNCT B-PUNCT
+Axĩma B-NOUN B-NOUN
+muyuhum B-VERB B-VERB
+ip B-PRON B-NOUN
+pig̃am B-NOUN B-NOUN
+. B-PUNCT B-PUNCT
+
+Ag̃okatkayũ B-NOUN B-NOUN
+soat B-DET B-NOUN
+axima B-NOUN B-VERB
+muyuhum B-VERB B-NOUN
+: B-PUNCT B-PUNCT
+wasũbu B-NOUN B-NOUN
+, B-PUNCT B-PUNCT
+potip B-NOUN B-NOUN
+, B-PUNCT B-PUNCT
+potiprip B-NOUN B-NOUN
+, B-PUNCT B-PUNCT
+pakodup B-NOUN B-NOUN
+, B-PUNCT B-PUNCT
+pirãydup B-NOUN B-NOUN
+, B-PUNCT B-PUNCT
+pirũm B-NOUN B-NOUN
+. B-PUNCT B-PUNCT
+
+Idib B-NOUN B-NOUN
+dag̃ B-ADP B-VERB
+soat B-DET B-PRON
+axima B-NOUN B-NOUN
+. B-PUNCT B-PUNCT
+Pũg̃pũg̃ B-PRON B-NOUN
+axima B-NOUN B-NOUN
+yopit B-NOUN B-VERB
+ma B-PART B-PART
+. B-PUNCT B-PUNCT
+Pirãydup B-NOUN B-NOUN
+, B-PUNCT B-PUNCT
+pirũm B-NOUN B-NOUN
+yopit B-NOUN B-VERB
+ma B-PART B-PART
+. B-PUNCT B-PUNCT
+
+Pũg̃pũg̃ B-PRON B-NOUN
+axima B-NOUN B-NOUN
+yobog̃ B-VERB B-VERB
+ma B-PART B-PART
+. B-PUNCT B-PUNCT
+Wasũbu B-NOUN B-VERB
+, B-PUNCT B-PUNCT
+potip B-NOUN B-NOUN
+, B-PUNCT B-PUNCT
+yobog̃ayũ B-VERB B-NOUN
+. B-PUNCT B-PUNCT
+Ag̃okatkayũ B-NOUN B-NOUN
+axima B-NOUN B-NOUN
+muyuhum B-VERB B-VERB
+pig̃am B-NOUN B-NOUN
+. B-PUNCT B-PUNCT
+
+Wara'at B-PRON B-PRON
+axima B-NOUN B-NOUN
+yobog̃bug̃ B-VERB B-NOUN
+. B-PUNCT B-PUNCT
+Potiprit B-NOUN B-NOUN
+, B-PUNCT B-PUNCT
+pakodup B-NOUN B-NOUN
+yobog̃bug̃yũ B-VERB B-VERB
+. B-PUNCT B-PUNCT
+Pig̃ãm B-NOUN B-NOUN
+axima B-NOUN B-VERB
+muyhum B-VERB B-NOUN
+ip B-PRON B-NOUN
+. B-PUNCT B-PUNCT
+
+Ibu B-VERB B-NOUN
+buje B-ADV B-VERB
+, B-PUNCT B-PUNCT
+tujuxexem B-VERB B-NOUN
+ip B-PRON B-NOUN
+uk’a B-NOUN B-VERB
+be B-ADP B-PART
+ayacayũ B-NOUN B-VERB
+be B-ADP B-PART
+, B-PUNCT B-PUNCT
+ta B-VERB B-PART
+am B-PART B-PART
+. B-PUNCT B-PUNCT
+
+Yopĩutayũ B-NOUN B-VERB
+muekabekbeg̃ B-VERB B-NOUN
+ip B-PRON B-NOUN
+uktup B-NOUN B-VERB
+pe B-ADP B-PART
+. B-PUNCT B-PUNCT
+Ayacayũ B-NOUN B-NOUN
+yopĩutayũ B-NOUN B-VERB
+muekabekbeg̃ B-VERB B-NOUN
+ip B-PRON B-NOUN
+uktup B-NOUN B-VERB
+pe B-ADP B-PART
+. B-PUNCT B-PUNCT
+
+G̃ebuje B-ADV B-VERB
+, B-PUNCT B-PUNCT
+yobog̃ayũ B-NOUN B-NOUN
+wuywuy B-VERB B-VERB
+ip B-PRON B-NOUN
+baseya'a B-NOUN B-NOUN
+be B-ADP B-PART
+. B-PUNCT B-PUNCT
+Yobog̃ayũ B-NOUN B-NOUN
+uk B-NOUN B-NOUN
+kakam B-VERB B-NOUN
+ip B-PRON B-NOUN
+e'em B-AUX B-VERB
+. B-PUNCT B-PUNCT
+Axima B-NOUN B-PROPN
+uk B-NOUN B-NOUN
+kakam B-VERB B-NOUN
+ip B-PRON B-NOUN
+pima B-ADV B-NOUN
+, B-PUNCT B-PUNCT
+ixep B-NOUN B-NOUN
+uk'ug̃ B-VERB B-NOUN
+ip B-PRON B-NOUN
+. B-PUNCT B-PUNCT
+Ixep B-NOUN B-NOUN
+muekabekbeg̃ B-VERB B-VERB
+ip B-PRON B-NOUN
+uktup B-NOUN B-VERB
+pe B-ADP B-PART
+. B-PUNCT B-PUNCT
+Ade B-ADJ B-PART
+axima B-NOUN B-NOUN
+uk B-NOUN B-NOUN
+kakam B-VERB B-ADV
+ip B-PRON B-NOUN
+. B-PUNCT B-PUNCT
+Ixep B-NOUN B-NOUN
+muekabekbeg̃ B-VERB B-VERB
+ip B-PRON B-NOUN
+uktup B-NOUN B-VERB
+pe B-ADP B-PART
+, B-PUNCT B-PUNCT
+ayacayũ B-NOUN B-NOUN
+. B-PUNCT B-PUNCT
+
+Axima B-NOUN B-NOUN
+yobog̃at B-NOUN B-VERB
+mupurukpurug̃ B-VERB B-NOUN
+ip B-PRON B-NOUN
+iwi B-NOUN B-NOUN
+be B-ADP B-PART
+daxa B-NOUN B-NOUN
+ase B-ADP B-PRON
+. B-PUNCT B-PUNCT
+Ade B-NOUN B-PART
+bima B-SCONJ B-NOUN
+, B-PUNCT B-PUNCT
+ade B-NOUN B-PART
+imupurukpurug̃ B-VERB B-NOUN
+ip B-PRON B-NOUN
+iwi B-NOUN B-NOUN
+be B-ADP B-PART
+. B-PUNCT B-PUNCT
+Ade B-NOUN B-PART
+bima B-SCONJ B-NOUN
+, B-PUNCT B-PUNCT
+yobog̃ B-NOUN B-NOUN
+iwi B-NOUN B-NOUN
+e'em B-AUX B-VERB
+. B-PUNCT B-PUNCT
+Ade B-NOUN B-INTJ
+ũm B-ADV B-ADV
+pima B-SCONJ B-NOUN
+, B-PUNCT B-PUNCT
+iwi B-NOUN B-NOUN
+yopit B-NOUN B-VERB
+ma B-PART B-NOUN
+e'em B-AUX B-VERB
+. B-PUNCT B-PUNCT
+
+Ade B-ADJ B-PRON
+tao B-NOUN B-VERB
+bima B-SCONJ B-NOUN
+, B-PUNCT B-PUNCT
+tao B-NOUN B-NOUN
+uk'ug̃ B-VERB B-NOUN
+ip B-PRON B-NOUN
+iwi B-NOUN B-NOUN
+xe B-ADP B-PART
+. B-PUNCT B-PUNCT
+
+Tao B-NOUN B-VERB
+uk'ug̃ B-VERB B-NOUN
+iwi B-NOUN B-ADP
+xe B-ADP B-PART
+ãõyũ B-NOUN B-VERB
+. B-PUNCT B-PUNCT
+Tao B-NOUN B-NOUN
+uk'ug̃ B-VERB B-NOUN
+ip B-PRON B-NOUN
+ayacayũ B-NOUN B-VERB
+, B-PUNCT B-PUNCT
+axima B-NOUN B-NOUN
+dao B-NOUN B-NOUN
+. B-PUNCT B-PUNCT
+
+Tao B-NOUN B-VERB
+uk B-NOUN B-NOUN
+puje B-SCONJ B-VERB
+, B-PUNCT B-PUNCT
+imõg̃mõg̃ B-VERB B-NOUN
+ip B-PRON B-NOUN
+iwi B-NOUN B-ADP
+be B-ADP B-PART
+daxa B-NOUN B-NOUN
+ase B-ADP B-PRON
+. B-PUNCT B-PUNCT
+Tao B-NOUN B-VERB
+uk B-NOUN B-NOUN
+puje B-SCONJ B-VERB
+axima B-NOUN B-NOUN
+tatam B-VERB B-VERB
+ip B-PRON B-NOUN
+uktup B-NOUN B-VERB
+pe B-ADP B-PART
+. B-PUNCT B-PUNCT
+
+Iwi B-NOUN B-NOUN
+be B-ADP B-ADJ
+imõg̃mõg̃ B-VERB B-NOUN
+ip B-PRON B-NOUN
+ta B-VERB B-PART
+am B-PART B-PART
+. B-PUNCT B-PUNCT
+Tao B-NOUN B-NOUN
+uk B-NOUN B-NOUN
+puje B-SCONJ B-NOUN
+axima B-NOUN B-NOUN
+nõm B-NOUN B-NOUN
+e'em B-AUX B-VERB
+ip B-PRON B-NOUN
+. B-PUNCT B-PUNCT
+Axima B-NOUN B-NOUN
+tatam B-VERB B-VERB
+ip B-PRON B-NOUN
+uktup B-NOUN B-VERB
+pe B-ADP B-PART
+. B-PUNCT B-PUNCT
+Iwi B-NOUN B-VERB
+be B-ADP B-PART
+imõg̃mõg̃ B-VERB B-NOUN
+ip B-PRON B-NOUN
+uktup B-NOUN B-VERB
+pe B-ADP B-NOUN
+axima B-NOUN B-NOUN
+mupuruk B-VERB B-VERB
+am B-SCONJ B-PART
+. B-PUNCT B-PUNCT
+
+Tõm B-NOUN B-ADV
+e'em B-AUX B-VERB
+ip B-PRON B-NOUN
+. B-PUNCT B-PUNCT
+Ẽ B-NOUN B-PART
+be B-ADP B-ADV
+ijukjug̃ B-VERB B-NOUN
+ip B-PRON B-NOUN
+. B-PUNCT B-PUNCT
+Axima B-NOUN B-VERB
+nõm B-NOUN B-PART
+cukcug̃ B-VERB B-NOUN
+ip B-PRON B-NOUN
+ẽ B-NOUN B-PART
+be B-ADP B-PART
+, B-PUNCT B-PUNCT
+wãẽn B-NOUN B-NOUN
+tuk'a B-NOUN B-VERB
+be B-ADP B-PART
+. B-PUNCT B-PUNCT
+Tõm B-NOUN B-ADV
+cuk B-NOUN B-NOUN
+puje B-SCONJ B-NOUN
+, B-PUNCT B-PUNCT
+tõm B-NOUN B-NOUN
+ipriprim B-VERB B-VERB
+pag̃eiro'a B-NOUN B-NOUN
+be B-ADP B-PART
+. B-PUNCT B-PUNCT
+
+Tõm B-NOUN B-ADV
+karaw B-VERB B-NOUN
+bima B-SCONJ B-NOUN
+, B-PUNCT B-PUNCT
+tõm B-NOUN B-ADV
+pi B-NOUN B-NOUN
+riprim B-VERB B-NOUN
+pag̃eiro’a B-NOUN B-NOUN
+be B-ADP B-PART
+. B-PUNCT B-PUNCT
+Tõm B-NOUN B-ADV
+pi B-NOUN B-NOUN
+rip B-VERB B-ADP
+puje B-SCONJ B-VERB
+, B-PUNCT B-PUNCT
+iwi B-NOUN B-NOUN
+be B-ADP B-PART
+imõg̃mõg̃ B-VERB B-NOUN
+ip B-PRON B-NOUN
+daxa B-NOUN B-NOUN
+ase B-ADP B-NOUN
+tõm B-NOUN B-VERB
+mudaxip B-VERB B-NOUN
+am B-SCONJ B-ADV
+. B-PUNCT B-PUNCT
+Imõg̃mõg̃ B-VERB B-NOUN
+ip B-PRON B-NOUN
+daxa B-NOUN B-NOUN
+ase B-ADP B-NOUN
+tõm B-NOUN B-VERB
+mukaraw B-VERB B-NOUN
+am B-SCONJ B-PART
+. B-PUNCT B-PUNCT
 

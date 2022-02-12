@@ -1,178 +1,177 @@
-token gold_tag gold_arc predicted_tag predicted_arc
-Kito  None root 0
-nãkowut  None root 0
-moat  None obj 0
-xauwet  None root 0
-moke  None root 0
-kepit  None root 0
-xagara  None root 0
+Kito B-NOUN B-VERB
+nãkowut B-NOUN B-NOUN
+moat B-NOUN B-VERB
+xauwet B-NOUN B-NOUN
+moke B-NOUN B-VERB
+kepit B-CCONJ B-AUX
+xagara B-VERB B-VERB
 
-ngot  None root 0
-xiaret  None root 0
+ngot B-NOUN B-NOUN
+xiaret B-NOUN B-VERB
 
-yãn  None root 0
-oxepngoret  None root 0
-oerã  None root 0
-kepit  None root 0
-eta  None root 0
-on  None root 0
-toa  None root 0
+yãn B-ADV B-VERB
+oxepngoret B-NOUN B-VERB
+oerã B-VERB B-NOUN
+kepit B-CCONJ B-ADJ
+eta B-VERB B-VERB
+on B-PRON B-AUX
+toa B-VERB B-VERB
 
-xeke  None root 0
-xēke  None root 0
-ke  None root 0
+xeke B-PRON B-NOUN
+xēke B-PART B-VERB
+ke B-PART B-ADV
 
-etera  None root 0
-kurux  None root 0
-amang  None root 0
-ngot  None root 0
-keya  None root 0
-pīxe  None root 0
+etera B-VERB B-NOUN
+kurux B-VERB B-NOUN
+amang B-VERB B-NOUN
+ngot B-NOUN B-NOUN
+keya B-VERB B-VERB
+pīxe B-ADV B-NOUN
 
-mokat  None root 0
-etera  None root 0
-kurux  None root 0
-amang  None root 0
-pīxe  None root 0
+mokat B-ADV B-NOUN
+etera B-VERB B-VERB
+kurux B-VERB B-NOUN
+amang B-VERB B-NOUN
+pīxe B-ADV B-VERB
 
-ã  None root 0
-en  None root 0
-emẽ  None root 0
-xop  None root 0
-nẽnẽkaret  None root 0
+ã B-INTJ B-PART
+en B-PRON B-PRON
+emẽ B-DET B-NOUN
+xop B-DET B-NOUN
+nẽnẽkaret B-NOUN B-VERB
 
-woaret  None root 0
-koa  None root 0
+woaret B-NOUN B-VERB
+koa B-PART B-PART
 
-etxekup  None root 0
-keya  None root 0
+etxekup B-NOUN B-NOUN
+keya B-VERB B-VERB
 
-opũãtemwã  None root 0
-ota  None root 0
+opũãtemwã B-VERB B-NOUN
+ota B-AUX B-VERB
 
-mokat  None root 0
-etera  None root 0
-kurux  None root 0
+mokat B-ADV B-VERB
+etera B-VERB B-NOUN
+kurux B-VERB B-NOUN
 
-nãpẽrenã  None root 0
-kito  None root 0
-eapītera  None root 0
-pīxe  None root 0
+nãpẽrenã B-ADV B-NOUN
+kito B-NOUN B-VERB
+eapītera B-VERB B-NOUN
+pīxe B-AUX B-VERB
 
-op  None root 0
-ten  None root 0
-eya  None root 0
-õn  None root 0
+op B-ADV B-NOUN
+ten B-VERB B-VERB
+eya B-PART B-VERB
+õn B-PRON B-PRON
 
-xop  None root 0
-ten  None root 0
-eya  None root 0
-on  None root 0
-ke  None root 0
+xop B-DET B-NOUN
+ten B-VERB B-VERB
+eya B-PART B-VERB
+on B-PRON B-AUX
+ke B-PART B-ADV
 
-mawo  None root 0
-papīknga  None root 0
-mokat  None root 0
-etyenkuax  None root 0
-nã  None root 0
-xoknga  None root 0
-xok  None root 0
+mawo B-NOUN B-NOUN
+papīknga B-VERB B-NOUN
+mokat B-ADV B-NOUN
+etyenkuax B-NOUN B-VERB
+nã B-VERB B-ADV
+xoknga B-VERB B-NOUN
+xok B-VERB B-VERB
 
-yeman  None root 0
-ngot  None root 0
-kana  None root 0
-oen  None root 0
+yeman B-ADV B-VERB
+ngot B-NOUN B-NOUN
+kana B-VERB B-NOUN
+oen B-VERB B-VERB
 
-mokat  None root 0
-etera  None root 0
-korop  None root 0
-noa  None aux 0
-pe  None root 0
+mokat B-ADV B-NOUN
+etera B-VERB B-VERB
+korop B-VERB B-NOUN
+noa B-NOUN B-VERB
+pe B-ADP B-PART
 
-ama  None root 0
-ngot  None root 0
-xiaret  None root 0
-eya  None root 0
-kurux  None root 0
-amang  None root 0
-ngot  None root 0
-oen  None root 0
-wimõ  None root 0
-nitēt  None root 0
+ama B-ADV B-NOUN
+ngot B-NOUN B-VERB
+xiaret B-NOUN B-NOUN
+eya B-VERB B-VERB
+kurux B-VERB B-NOUN
+amang B-VERB B-NOUN
+ngot B-NOUN B-NOUN
+oen B-VERB B-VERB
+wimõ B-ADV B-ADV
+nitēt B-PART B-VERB
 
-arimot  None root 0
-urot  None root 0
-arimot  None root 0
-urot  None root 0
+arimot B-NOUN B-VERB
+urot B-NOUN B-NOUN
+arimot B-NOUN B-VERB
+urot B-NOUN B-VERB
 
-xop  None root 0
-koa  None root 0
-ten  None root 0
-nã  None root 0
-peka  None root 0
+xop B-DET B-NOUN
+koa B-PART B-NOUN
+ten B-ADV B-VERB
+nã B-VERB B-AUX
+peka B-VERB B-VERB
 
-i  None root 0
-eya  None root 0
-on  None root 0
-wet  None root 0
-toa  None root 0
-ke  None root 0
-pit  None root 0
+i B-INTJ B-NOUN
+eya B-PART B-VERB
+on B-PRON B-PRON
+wet B-ADV B-AUX
+toa B-VERB B-VERB
+ke B-PART B-ADV
+pit B-ADV B-PART
 
-mokat  None root 0
-peitõã  None root 0
-etera  None root 0
-amang  None root 0
-korop  None root 0
-kux  None root 0
-me  None root 0
+mokat B-ADV B-VERB
+peitõã B-ADV B-NOUN
+etera B-VERB B-VERB
+amang B-VERB B-NOUN
+korop B-VERB B-NOUN
+kux B-NOUN B-NOUN
+me B-ADP B-ADJ
 
-wotye  None root 0
-pukpuga  None root 0
-pit  None root 0
+wotye B-VERB B-VERB
+pukpuga B-VERB B-NOUN
+pit B-PRON B-ADJ
 
-putorot  None root 0
-xēke  None root 0
-ke  None root 0
-xēt  None root 0
+putorot B-NOUN B-NOUN
+xēke B-PART B-VERB
+ke B-PART B-ADV
+xēt B-PART B-VERB
 
-etera  None root 0
-korop  None root 0
+etera B-VERB B-NOUN
+korop B-VERB B-VERB
 
-kito  None root 0
-moke  None root 0
-xiat  None root 0
-ekuwaora  None root 0
-kepit  None root 0
-pukpuga  None root 0
-õn  None root 0
+kito B-NOUN B-NOUN
+moke B-NOUN B-VERB
+xiat B-NOUN B-NOUN
+ekuwaora B-VERB B-VERB
+kepit B-CCONJ B-NOUN
+pukpuga B-VERB B-VERB
+õn B-PRON B-PRON
 
-kepit  None root 0
-eya  None root 0
-õn  None nsubj 0
-waokatmõ  None root 0
-papiknga  None root 0
-ke  None root 0
+kepit B-CCONJ B-NOUN
+eya B-PART B-VERB
+õn B-PRON B-PRON
+waokatmõ B-ADV B-VERB
+papiknga B-VERB B-VERB
+ke B-PART B-ADV
 
-ama  None root 0
-etera  None root 0
-kurux  None root 0
+ama B-NOUN B-NOUN
+etera B-VERB B-NOUN
+kurux B-VERB B-VERB
 
-xop  None root 0
-me  None root 0
-pote  None root 0
-worawiget  None root 0
-xop  None root 0
-me  None root 0
+xop B-DET B-VERB
+me B-ADP B-NOUN
+pote B-ADV B-NOUN
+worawiget B-NOUN B-VERB
+xop B-DET B-NOUN
+me B-ADP B-ADJ
 
-kux  None root 0
-kixa  None root 0
-ngarap  None root 0
-,  None punct 0
-pit  None root 0
+kux B-NOUN B-NOUN
+kixa B-VERB B-VERB
+ngarap B-VERB B-NOUN
+, B-PUNCT B-PUNCT
+pit B-PRON B-ADJ
 
-põrom  None root 0
-toa  None root 0
-,  None punct 0
-pit  None root 0
+põrom B-ADV B-NOUN
+toa B-VERB B-VERB
+, B-PUNCT B-PUNCT
+pit B-PRON B-ADJ
 

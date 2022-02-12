@@ -1,26 +1,26 @@
-Awjé B-INTJ B-VERB
+Awjé B-INTJ B-ADV
 ã B-PART B-PART
-koʔɨté B-ADV B-NOUN
+koʔɨté B-ADV B-ADV
 eʔi B-VERB B-VERB
 
 ɨgasápe B-NOUN B-NOUN
 kawi B-NOUN B-NOUN
 tuja B-NOUN B-NOUN
 , B-PUNCT B-PUNCT
-aʔe B-DET B-PRON
+aʔe B-DET B-DET
 ré B-ADP B-ADP
 iamomotá B-VERB B-VERB
 , B-PUNCT B-PUNCT
 ojojá B-ADV B-VERB
 waibĩ B-NOUN B-NOUN
-rekuia B-NOUN B-NOUN
+rekuia B-NOUN B-VERB
 
 Ojaoβok B-VERB B-VERB
 serã B-ADV B-ADV
 ɨβɨá B-PART B-PART
 ikatupe B-NOUN B-NOUN
 ɲẽ B-PART B-PART
-imoingóβo B-VERB B-NOUN
+imoingóβo B-VERB B-VERB
 inupãnupã B-NOUN B-NOUN
 janondé B-ADP B-ADP
 ? B-PUNCT B-PUNCT
@@ -53,7 +53,7 @@ SantaCruz B-NOUN B-NOUN
 raʔangaβa B-NOUN B-NOUN
 resé B-ADP B-ADP
 , B-PUNCT B-PUNCT
-orépɨsɨrõ B-NOUN B-NOUN
+orépɨsɨrõ B-NOUN B-VERB
 jepé B-PRON B-PRON
 , B-PUNCT B-PUNCT
 Tupã B-PROPN B-PROPN
@@ -64,14 +64,14 @@ swi B-ADP B-ADP
 . B-PUNCT B-PUNCT
 Tuβa B-NOUN B-NOUN
 , B-PUNCT B-PUNCT
-Taʔɨra B-NOUN B-PROPN
+Taʔɨra B-NOUN B-NOUN
 , B-PUNCT B-PUNCT
 EspíritoSanto B-PROPN B-PROPN
 rera B-NOUN B-NOUN
 pupé B-ADP B-ADP
 eʔi B-VERB B-VERB
 
-Marãnamo B-ADV B-ADV
+Marãnamo B-ADV B-VERB
 βépe B-ADV B-ADV
 asé B-PRON B-PRON
 joβasáβi B-NOUN B-NOUN
@@ -86,7 +86,7 @@ eʔipe B-VERB B-VERB
 asé B-PRON B-PRON
 karaiβeβe B-NOUN B-NOUN
 oarõana B-NOUN B-NOUN
-mongetábo B-VERB B-NOUN
+mongetábo B-VERB B-VERB
 ? B-PUNCT B-PUNCT
 
 jamongwá B-VERB B-NOUN
@@ -99,7 +99,7 @@ iaiemoitɨamo B-VERB B-VERB
 Marãpe B-ADV B-ADV
 ɨβɨá B-PART B-PART
 sereków B-NOUN B-NOUN
-aʔe B-DET B-PRON
+aʔe B-DET B-DET
 riré B-ADP B-ADP
 ? B-PUNCT B-PUNCT
 
@@ -117,8 +117,8 @@ aʔéreme B-ADV B-ADV
 Ojerokɨ B-VERB B-VERB
 . B-PUNCT B-PUNCT
 
-Owatá B-VERB B-VERB
-jepé B-PART B-ADV
+Owatá B-VERB B-NOUN
+jepé B-PART B-PART
 serã B-ADV B-ADV
 ijɨβamokõja B-NOUN B-NOUN
 itapɨwá B-NOUN B-NOUN
@@ -136,7 +136,7 @@ mongetáβo B-VERB B-VERB
 ? B-PUNCT B-PUNCT
 
 Asé B-PRON B-PRON
-sumarã B-NOUN B-ADV
+sumarã B-NOUN B-PRON
 swi B-ADP B-ADP
 
 Sesé B-ADP B-ADP
@@ -146,7 +146,7 @@ e B-PART B-PART
 asé B-PRON B-PRON
 Tupã B-NOUN B-NOUN
 rawsúβi B-NOUN B-NOUN
-o B-PRON B-PART
+o B-PRON B-NOUN
 pɨʔape B-NOUN B-NOUN
 sekó B-NOUN B-NOUN
 aβɨpotareʔɨma B-VERB B-NOUN
@@ -156,14 +156,14 @@ aβɨpotareʔɨma B-VERB B-NOUN
 ʃesokó B-NOUN B-NOUN
 , B-PUNCT B-PUNCT
 ʃetamũjusu B-NOUN B-NOUN
-Aimbiré B-PROPN B-NOUN
+Aimbiré B-PROPN B-VERB
 , B-PUNCT B-PUNCT
 sukuriju B-NOUN B-NOUN
 , B-PUNCT B-PUNCT
 tawató B-NOUN B-NOUN
 , B-PUNCT B-PUNCT
 tamanwá B-NOUN B-NOUN
-atɨraβeβó B-NOUN B-NOUN
+atɨraβeβó B-NOUN B-VERB
 ; B-PUNCT B-PUNCT
 ʃeaɲaŋa B-NOUN B-NOUN
 moropé B-NOUN B-NOUN
@@ -198,7 +198,7 @@ eʔipe B-VERB B-VERB
 Jesus B-PROPN B-PROPN
 osɨ B-NOUN B-NOUN
 supé B-ADP B-ADP
-oeʔõ B-NOUN B-VERB
+oeʔõ B-NOUN B-ADV
 janondé B-ADP B-ADP
 ? B-PUNCT B-PUNCT
 
@@ -207,14 +207,14 @@ rarõawama B-NOUN B-NOUN
 resé B-ADP B-ADP
 
 janemaɲana B-NOUN B-NOUN
-raɲe B-ADV B-NOUN
+raɲe B-ADV B-PART
 tosó B-VERB B-VERB
 janerenoné B-ADP B-ADV
 , B-PUNCT B-PUNCT
 opá B-PRON B-PRON
-ok B-NOUN B-NOUN
+ok B-NOUN B-VERB
 ɨbɨ̃ja B-NOUN B-NOUN
-supa B-VERB B-ADP
+supa B-VERB B-VERB
 
 Nitɨβetéi B-NOUN B-NOUN
 semɨrwera B-NOUN B-NOUN
@@ -226,8 +226,8 @@ Ajpó B-DET B-DET
 sawsukatupɨra B-NOUN B-NOUN
 , B-PUNCT B-PUNCT
 ajpó B-DET B-DET
-aɲẽ B-PART B-NOUN
-jamomeʔu B-VERB B-VERB
+aɲẽ B-PART B-ADV
+jamomeʔu B-VERB B-NOUN
 ajpó B-DET B-DET
 imomoraŋɨpɨra B-NOUN B-NOUN
 . B-PUNCT B-PUNCT
@@ -236,7 +236,7 @@ imomoraŋɨpɨra B-NOUN B-NOUN
 ɲõ B-ADV B-PART
 aʔupakatune B-VERB B-NOUN
 . B-PUNCT B-PUNCT
-Kweiseβé B-ADV B-NOUN
+Kweiseβé B-ADV B-ADV
 , B-PUNCT B-PUNCT
 nakó B-PART B-NOUN
 airumõ B-VERB B-ADV
@@ -268,29 +268,29 @@ ojaβo B-VERB B-VERB
 Mamõpe B-ADV B-ADV
 ɨβɨá B-PART B-PART
 jandéjara B-NOUN B-NOUN
-reroβasẽmi B-NOUN B-NOUN
+reroβasẽmi B-NOUN B-VERB
 koʔɨté B-ADV B-ADV
 ? B-PUNCT B-PUNCT
 
 kuɲãangaturama B-NOUN B-NOUN
 aβá B-NOUN B-NOUN
-βɨkawereʔɨma B-NOUN B-NOUN
+βɨkawereʔɨma B-NOUN B-VERB
 SantaMaria B-PROPN B-PROPN
 sérɨβaʔe B-NOUN B-NOUN
 membɨ́ramo B-NOUN B-NOUN
 sekóreme B-NOUN B-NOUN
 
-Aopiranga B-NOUN B-NOUN
+Aopiranga B-NOUN B-VERB
 , B-PUNCT B-PUNCT
 ju B-NOUN B-NOUN
 aβé B-ADV B-ADV
 owerur B-VERB B-NOUN
 ojoesé B-ADP B-VERB
 , B-PUNCT B-PUNCT
-oporeawsuβetekatúramo B-NOUN B-VERB
+oporeawsuβetekatúramo B-NOUN B-NOUN
 
 Ajepɨk B-VERB B-VERB
-aɲe B-ADV B-NOUN
+aɲe B-ADV B-PART
 sesé B-ADP B-ADP
 , B-PUNCT B-PUNCT
 ianamakatu B-NOUN B-NOUN
